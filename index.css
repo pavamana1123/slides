@@ -1,0 +1,20 @@
+#screen{
+    background-color: black;
+    color: yellow;
+    font-weight: 700;
+}
+
+#main{
+    display:flex;
+    position:absolute;
+    top:0;
+    bottom:0; 
+    right:0; 
+    left:0;
+}
+
+#slide{
+    margin:auto;
+    white-space: pre-line;
+    text-align: center;
+}
