@@ -1,0 +1,19 @@
+{
+	"info": {
+		"id": "cc\\adi\\1\\106",
+		"nextId": "cc/adi/1/107",
+		"prevId": "cc/adi/1/105"
+	},
+	"verses": [
+		{
+			"roman": "",
+			"isProse": false
+		},
+		{
+			"roman": "\"mitaṁ ca sāraṁ ca vaco hi vāgmitā\" iti\n",
+			"isProse": false
+		}
+	],
+	"synonyms": "mitam—concise; ca—and; sāram—essential; ca—and; vacaḥ—speech; hi—certainly; vāgmitā—eloquence; iti—thus.",
+	"translation": "\"Essential truth spoken concisely is true eloquence.\""
+}
