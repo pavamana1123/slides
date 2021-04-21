@@ -1,16 +1,35 @@
 var e = document.getElementById("slide")
-console.log(e)
 e.textContent=text.verses[0].roman
-document.addEventListener('keypress',()=>{
+
+function rep(ev){
+    if(ev.key=="ArrowRight" || ev.key=="ArrowLeft"){
+        replaceScript(ev)
+        updateVerse()
+    }
+}
+
+document.addEventListener('keydown',rep)
+
+function replaceScript(ev){
+
+
     document.getElementById("text").remove()
     var s = document.createElement("script")
     s.setAttribute("id","text")
-    s.setAttribute("src","./books/js/bg/1/2.js")
-    s.setAttribute("type","text/javascript")
-    document.getElementById("textscript").appendChild(s)
-    updateVerse()
-    updateVerse()
-})
+
+    var path
+    if(ev.key=="ArrowRight"){
+        path = text.info.nextId
+    }
+    if(ev.key=="ArrowLeft"){
+        path = text.info.prevId
+    }
+
+        s.setAttribute("src","./books/js/"+ path + ".js")
+        s.setAttribute("type","text/javascript")
+        document.getElementById("textscript").appendChild(s)
+    
+}
 
 function updateVerse(){
     var ee = document.getElementById("slide")
