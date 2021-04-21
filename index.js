@@ -1,5 +1,18 @@
 var e = document.getElementById("slide")
 console.log(e)
-e.textContent="oṁ namo bhagavate vāsudevāya\njanmādy asya yato 'nvayād itarataś cārtheṣv abhijñaḥ svarāṭ\ntene brahma hṛdā ya ādi-kavaye muhyanti yat sūrayaḥ\ntejo-vāri-mṛdāṁ yathā vinimayo yatra tri-sargo 'mṛṣā\ndhāmnā svena sadā nirasta-kuhakaṁ satyaṁ paraṁ dhīmahi"
+e.textContent=text.verses[0].roman
+document.addEventListener('keypress',()=>{
+    document.getElementById("text").remove()
+    var s = document.createElement("script")
+    s.setAttribute("id","text")
+    s.setAttribute("src","./books/js/bg/1/2.js")
+    s.setAttribute("type","text/javascript")
+    document.getElementById("textscript").appendChild(s)
+    updateVerse()
+    updateVerse()
+})
 
-x = 1
+function updateVerse(){
+    var ee = document.getElementById("slide")
+    ee.textContent=text.verses[0].roman
+}
