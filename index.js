@@ -1,5 +1,15 @@
-var e = document.getElementById("slide")
-e.textContent=text.verses[0].roman
+var slide = document.getElementById("slide")
+slide.textContent=text.verses[0].roman
+
+var heading = document.getElementById("heading")
+heading.textContent=getHeading()
+
+function getHeading(){
+    var id = text.info.id
+    id = id.replace("bg\\","Bhagavad-Gītā ")
+    id = id.replace("\\", ".")
+    return id
+}
 
 function handleKey(ev){
     if(ev.key=="ArrowRight" || ev.key=="ArrowLeft"){
@@ -28,6 +38,6 @@ function replaceScript(ev){
 }
 
 function updateVerse(){
-    var ee = document.getElementById("slide")
-    ee.textContent=text.verses[0].roman
+    slide.textContent=text.verses[0].roman
+    heading.textContent=getHeading()
 }
