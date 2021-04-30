@@ -41,3 +41,5 @@ function updateVerse(){
     slide.textContent=text.verses[0].roman
     heading.textContent=getHeading()
 }
+
+fit(text.verses[0].roman, document.getElementById("slide"),document.getElementById("slideEnclosure"))
