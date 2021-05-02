@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/26/4",
+        "prevId": "sb/11/26/3",
+        "nextId": "sb/11/26/5"
+    },
+    "verses": [
+        {
+            "roman": "ailaḥ samrāḍ imāṁ gāthām\nagāyata bṛhac-chravāḥ\nurvaśī-virahān muhyan\nnirviṇṇaḥ śoka-saṁyame\n"
+        }
+    ],
+    "synonyms": "ailaḥ—King Purūravā; samrāṭ—the great emperor; imām—this; gāthām—song; agāyata—sang; bṛhat—mighty; śravāḥ—whose fame; urvaśī-virahāt—because of experiencing separation from Urvaśī; muhyan—becoming bewildered; nirviṇṇaḥ—feeling detached; śoka—his lamentation; saṁyame—when he was finally able to bring under control.",
+    "translation": "The following song was sung by the famous emperor Purūravā. When deprived of his wife, Urvaśī, he was at first bewildered, but by controlling his lamentation he began to feel detachment.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "This story is also narrated in the Ninth Canto of Śrīmad-Bhāgavatam. Aila, or Purūravā, was a great king whose glories were vast. On being separated from Urvaśī, he felt great bewilderment at first. But after meeting her briefly at Kurukṣetra, he worshiped the demigods with the sacrificial fire given him by the Gandharvas and received the privilege of entering the planet where she resided."
+        }
+    ]
+}
+

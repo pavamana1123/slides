@@ -1,0 +1,53 @@
+var text = {
+    "info": {
+        "id": "sb/12/3/52",
+        "prevId": "sb/12/3/51",
+        "nextId": "sb/12/4/1"
+    },
+    "verses": [
+        {
+            "roman": "kṛte yad dhyāyato viṣṇuṁ\ntretāyāṁ yajato makhaiḥ\ndvāpare paricaryāyāṁ\nkalau tad dhari-kīrtanāt\n"
+        }
+    ],
+    "synonyms": "kṛte—in the Satya-yuga; yat—which; dhyāyataḥ—from meditation; viṣṇum—on Lord Viṣṇu; tretāyām—in the Tretā-yuga; yajataḥ—from worshiping; makhaiḥ—by performing sacrifices; dvāpare—in the age of Dvāpara; paricaryāyām—by worshiping the lotus feet of Kṛṣṇa; kalau—in the age of Kali; tat—that same result (can be achieved); hari-kīrtanāt—simply by chanting the Hare Kṛṣṇa mahā-mantra.",
+    "translation": "Whatever result was obtained in Satya-yuga by meditating on Viṣṇu, in Tretā-yuga by performing sacrifices, and in Dvāpara-yuga by serving the Lord's lotus feet can be obtained in Kali-yuga simply by chanting the Hare Kṛṣṇa mahā-mantra.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "A similar verse is found in the Viṣṇu Purāṇa (6.2.17), and also in the Padma Purāṇa (Uttara-khaṇḍa 72.25) and the Bṛhan-nāradīya Purāṇa (38.97):"
+        },
+        {
+            "type": "verse",
+            "content": "dhyāyan kṛte yajan yajñaistretāyāṁ dvāpare 'rcayan\nyad āpnoti tad āpnotikalau saṅkīrtya keśavam"
+        },
+        {
+            "type": "normal",
+            "content": "\"Whatever is achieved by meditation in Satya-yuga, by the performance of sacrifice in Tretā-yuga, and by the worship of Lord Kṛṣṇa's lotus feet in Dvāpara-yuga is obtained in the age of Kali simply by glorifying the name of Lord Keśava.\""
+        },
+        {
+            "type": "normal",
+            "content": "Śrīla Jīva Gosvāmī has further quoted from the Brahma-vaivarta Purāṇa concerning the degraded condition of people in Kali-yuga:"
+        },
+        {
+            "type": "verse",
+            "content": "ataḥ kalau tapo-yoga-vidyā-yajñādikāḥ kriyāḥ\nsāṅgā bhavanti na kṛtāḥkuśalair api dehibhiḥ"
+        },
+        {
+            "type": "normal",
+            "content": "\"Thus in the age of Kali the practices of austerity, yoga meditation, Deity worship, sacrifice and so on, along with their various subsidiary functions, are not properly carried out, even by the most expert embodied souls."
+        },
+        {
+            "type": "normal",
+            "content": "Śrīla Jīva Gosvāmī has also cited the Cāturmāsya-māhātmya of the Skanda Purāṇa concerning the necessity of chanting Hare Kṛṣṇa in this age:"
+        },
+        {
+            "type": "verse",
+            "content": "tathā caivottamaṁ loketapaḥ śrī-hari-kīrtanam\nkalau yuge viśeṣeṇaviṣṇu-prītyai samācaret"
+        },
+        {
+            "type": "normal",
+            "content": "\"In this way the most perfect penance to be executed in this world is the chanting of the name of Lord Śrī Hari. Especially in the age of Kali, one can satisfy the Supreme Lord Viṣṇu by performing saṅkīrtana.\nIn conclusion, massive propaganda should be made all over the world to induce people to chant the Hare Kṛṣṇa mantra, by which human society can be rescued from the dangerous ocean of the age of Kali."
+        }
+    ]
+}
+

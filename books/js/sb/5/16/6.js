@@ -1,1 +1,25 @@
-var text = { 	"info": { 		"id": "sb\\5\\16\\6", 		"nextId": "sb/5/16/7", 		"prevId": "sb/5/16/5" 	}, 	"verses": [ 		{ 			"roman": "yasmin nava varṣāṇi nava-yojana-sahasrāyāmāny aṣṭabhir maryādā-giribhiḥ suvibhaktāni bhavanti.\n", 			"isProse": false 		} 	], 	"synonyms": "yasmin—in that Jambūdvīpa; nava—nine; varṣāṇi—divisions of land; nava-yojana-sahasra—72,000 miles in length; āyāmāni—measuring; aṣṭabhiḥ—by eight; maryādā—indicating the boundaries; giribhiḥ—by mountains; suvibhaktāni—nicely divided from one another; bhavanti—are.", 	"translation": "In Jambūdvīpa there are nine divisions of land, each with a length of 9,000 yojanas [72,000 miles]. There are eight mountains that mark the boundaries of these divisions and separate them nicely.", 	"purport": [ 		{ 			"type": "normal", 			"content": "Śrīla Viśvanātha Cakravartī Ṭhākura gives the following quotation from the Vāyu Purāṇa, wherein the locations of the various mountains, beginning with the Himalayas, are described." 		}, 		{ 			"type": "verse", 			"content": "dhanurvat saṁsthite jñeye dve varṣe dakṣiṇottare; dīrghāṇi tatra catvāri caturasram ilāvṛtam iti dakṣiṇottare bhāratottara-kuru-varṣe catvāri kiṁpuruṣa-harivarṣa-ramyaka-hiraṇmayāni varṣāṇi nīla-niṣadhayos tiraścinībhūya samudra-praviṣṭayoḥ saṁlagnatvam aṅgīkṛtya bhadrāśva-ketumālayor api dhanur-ākṛtitvam; atas tayor dairghyata eva madhye saṅkucitatvena nava-sahasrāyāmatvam; ilāvṛtasya tu meroḥ sakāśāt catur-dikṣu nava-sahasrāyama-tvaṁ saṁbhavet vastutas tv ilāvṛta-bhadrāśva-ketumālānāṁ catus-triṁśat-sahasrāyāmatvaṁ jñeyam." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/5/16/6",
+        "prevId": "sb/5/16/5",
+        "nextId": "sb/5/16/7"
+    },
+    "verses": [
+        {
+            "roman": "yasmin nava varṣāṇi nava-yojana-sahasrāyāmāny\naṣṭabhir maryādā-giribhiḥ suvibhaktāni bhavanti\n"
+        }
+    ],
+    "synonyms": "yasmin—in that Jambūdvīpa; nava—nine; varṣāṇi—divisions of land; nava-yojana-sahasra—72,000 miles in length; āyāmāni—measuring; aṣṭabhiḥ—by eight; maryādā—indicating the boundaries; giribhiḥ—by mountains; suvibhaktāni—nicely divided from one another; bhavanti—are.",
+    "translation": "In Jambūdvīpa there are nine divisions of land, each with a length of 9,000 yojanas [72,000 miles]. There are eight mountains that mark the boundaries of these divisions and separate them nicely.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Śrīla Viśvanātha Cakravartī Ṭhākura gives the following quotation from the Vāyu Purāṇa, wherein the locations of the various mountains, beginning with the Himalayas, are described."
+        },
+        {
+            "type": "verse",
+            "content": "dhanurvat saṁsthite jñeye dve varṣe dakṣiṇottaredīrghāṇi tatra catvāri caturasram ilāvṛtam iti dakṣiṇottare\nbhāratottara-kuru-varṣe catvāri kiṁpuruṣa-harivarṣa-ramyaka-hiraṇmayāni varṣāṇi\nnīla-niṣadhayos tiraścinībhūya samudra-praviṣṭayoḥ saṁlagnatvam\naṅgīkṛtya bhadrāśva-ketumālayor api dhanur-ākṛtitvam\natas tayor dairghyata eva madhye saṅkucitatvena nava-sahasrāyāmatvam\nilāvṛtasya tu meroḥ sakāśāt catur-dikṣu nava-sahasrāyama-tvaṁ saṁbhavetvastutas tv ilāvṛta-bhadrāśva-ketumālānāṁ catus-triṁśat-sahasrāyāmatvaṁ jñeyam"
+        }
+    ]
+}
+

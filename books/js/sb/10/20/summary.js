@@ -1,0 +1,17 @@
+var text = {
+    "info": {
+        "id": "sb/10/20/summary",
+        "prevId": "sb/10/19/16",
+        "nextId": "sb/10/20/1"
+    },
+    "verses": null,
+    "synonyms": null,
+    "translation": null,
+    "purport": [
+        {
+            "type": "normal",
+            "content": "To enhance the description of Lord Kṛṣṇa's pastimes, Śrī Śukadeva Gosvāmī describes in this chapter the beauty of Vṛndāvana during autumn and the rainy season. In the course of his presentation he gives various charming instructions in metaphorical terms."
+        }
+    ]
+}
+

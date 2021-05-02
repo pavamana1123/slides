@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\5\\20\\16", 		"nextId": "sb/5/20/17", 		"prevId": "sb/5/20/15" 	}, 	"verses": [ 		{ 			"roman": "yāsāṁ payobhiḥ kuśadvīpaukasaḥ kuśala-kovidābhiyukta-kulaka-saṁjñā bhagavantaṁ jātaveda-sarūpiṇaṁ karma-kauśalena yajante.\n", 			"isProse": false 		} 	], 	"synonyms": "yāsām—of which; payobhiḥ—by the water; kuśa-dvīpa-okasaḥ—the inhabitants of the island known as Kuśadvīpa; kuśala—Kuśala; kovida—Kovida; abhiyukta—Abhiyukta; kulaka—Kulaka; saṁjñāḥ—named; bhagavantam—unto the Supreme Personality of Godhead; jātaveda—the demigod of fire; sa-rūpiṇam—manifesting the form; karma-kauśalena—by expertise in ritualistic ceremonies; yajante—they worship.", 	"translation": "The inhabitants of the island of Kuśadvīpa are celebrated as the Kuśalas, Kovidas, Abhiyuktas and Kulakas. They are like the brāhmaṇas, kṣatriyas, vaiśyas and śūdras respectively. By bathing in the waters of those rivers, they all become purified. They are expert in performing ritualistic ceremonies according to the orders of the Vedic scriptures. Thus they worship the Lord in His aspect as the demigod of fire." }
+var text = {
+    "info": {
+        "id": "sb/5/20/16",
+        "prevId": "sb/5/20/15",
+        "nextId": "sb/5/20/17"
+    },
+    "verses": [
+        {
+            "roman": "yāsāṁ payobhiḥ kuśadvīpaukasaḥ kuśala-kovidābhiyukta-kulaka-saṁjñā\nbhagavantaṁ jātaveda-sarūpiṇaṁ karma-kauśalena yajante\n"
+        }
+    ],
+    "synonyms": "yāsām—of which; payobhiḥ—by the water; kuśa-dvīpa-okasaḥ—the inhabitants of the island known as Kuśadvīpa; kuśala—Kuśala; kovida—Kovida; abhiyukta—Abhiyukta; kulaka—Kulaka; saṁjñāḥ—named; bhagavantam—unto the Supreme Personality of Godhead; jātaveda—the demigod of fire; sa-rūpiṇam—manifesting the form; karma-kauśalena—by expertise in ritualistic ceremonies; yajante—they worship.",
+    "translation": "The inhabitants of the island of Kuśadvīpa are celebrated as the Kuśalas, Kovidas, Abhiyuktas and Kulakas. They are like the brāhmaṇas, kṣatriyas, vaiśyas and śūdras respectively. By bathing in the waters of those rivers, they all become purified. They are expert in performing ritualistic ceremonies according to the orders of the Vedic scriptures. Thus they worship the Lord in His aspect as the demigod of fire.",
+    "purport": null
+}
+

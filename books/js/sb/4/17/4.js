@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\4\\17\\4", 		"nextId": "sb/4/17/5", 		"prevId": "sb/4/17/3" 	}, 	"verses": [ 		{ 			"roman": "prakṛtyā viṣamā devī\nkṛtā tena samā katham\ntasya medhyaṁ hayaṁ devaḥ\nkasya hetor apāharat\n", 			"isProse": false 		} 	], 	"synonyms": "prakṛtyā—by nature; viṣamā—not level; devī—the earth; kṛtā—was made; tena—by him; samā—level; katham—how; tasya—his; medhyam—meant for offering in the sacrifice; hayam—horse; devaḥ—the demigod Indra; kasya—for what; hetoḥ—reason; apāharat—stole.", 	"translation": "The surface of the earth is by nature low in some places and high in others. How did King Pṛthu level the surface of the earth, and why did the King of heaven, Indra, steal the horse meant for the sacrifice ?" }
+var text = {
+    "info": {
+        "id": "sb/4/17/4",
+        "prevId": "sb/4/17/3",
+        "nextId": "sb/4/17/5"
+    },
+    "verses": [
+        {
+            "roman": "prakṛtyā viṣamā devī\nkṛtā tena samā katham\ntasya medhyaṁ hayaṁ devaḥ\nkasya hetor apāharat\n"
+        }
+    ],
+    "synonyms": "prakṛtyā—by nature; viṣamā—not level; devī—the earth; kṛtā—was made; tena—by him; samā—level; katham—how; tasya—his; medhyam—meant for offering in the sacrifice; hayam—horse; devaḥ—the demigod Indra; kasya—for what; hetoḥ—reason; apāharat—stole.",
+    "translation": "The surface of the earth is by nature low in some places and high in others. How did King Pṛthu level the surface of the earth, and why did the King of heaven, Indra, steal the horse meant for the sacrifice ?",
+    "purport": null
+}
+

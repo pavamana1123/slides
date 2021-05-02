@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/24/9",
+        "prevId": "sb/10/24/8",
+        "nextId": "sb/10/24/10"
+    },
+    "verses": [
+        {
+            "roman": "taṁ tāta vayam anye ca\nvārmucāṁ patim īśvaram\ndravyais tad-retasā siddhair\nyajante kratubhir narāḥ\n"
+        }
+    ],
+    "synonyms": "tam—him; tāta—my dear son; vayam—we; anye—others; ca—also; vāḥ-mucām—of the clouds; patim—the master; īśvaram—the powerful controller; dravyaiḥ—with various items; tat-retasā—by his liquid discharge; siddhaiḥ—produced; yajante—they worship; kratubhiḥ—by fire sacrifices; narāḥ—men.",
+    "translation": "Not only we, my dear son, but also many other men worship him, the lord and master of the rain-giving clouds. We offer him grain and other paraphernalia of worship produced through his own discharge in the form of rain.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Nanda Mahārāja patiently tried to explain the \"facts of life\" to his young son, Śrī Kṛṣṇa, but in fact Nanda and all the residents of Vṛndāvana would learn an astonishing lesson, as explained in this chapter."
+        }
+    ]
+}
+

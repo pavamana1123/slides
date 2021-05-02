@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\26\\53", 		"nextId": "sb/3/26/54", 		"prevId": "sb/3/26/52" 	}, 	"verses": [ 		{ 			"roman": "hiraṇmayād aṇḍa-kośād\nutthāya salile śayāt\ntam āviśya mahā-devo\nbahudhā nirbibheda kham\n", 			"isProse": false 		} 	], 	"synonyms": "hiraṇmayāt—golden; aṇḍa-kośāt—from the egg; utthāya—arising; salile—on the water; śayāt—lying; tam—in it; āviśya—having entered; mahā-devaḥ—the Supreme Personality of Godhead; bahudhā—in many ways; nirbibheda—divided; kham—apertures.", 	"translation": "The Supreme Personality of Godhead, the virāṭ-puruṣa, situated Himself in that golden egg, which was lying on the water, and He divided it into many departments." }
+var text = {
+    "info": {
+        "id": "sb/3/26/53",
+        "prevId": "sb/3/26/52",
+        "nextId": "sb/3/26/54"
+    },
+    "verses": [
+        {
+            "roman": "hiraṇmayād aṇḍa-kośād\nutthāya salile śayāt\ntam āviśya mahā-devo\nbahudhā nirbibheda kham\n"
+        }
+    ],
+    "synonyms": "hiraṇmayāt—golden; aṇḍa-kośāt—from the egg; utthāya—arising; salile—on the water; śayāt—lying; tam—in it; āviśya—having entered; mahā-devaḥ—the Supreme Personality of Godhead; bahudhā—in many ways; nirbibheda—divided; kham—apertures.",
+    "translation": "The Supreme Personality of Godhead, the virāṭ-puruṣa, situated Himself in that golden egg, which was lying on the water, and He divided it into many departments.",
+    "purport": null
+}
+

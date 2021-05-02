@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\10\\4\\6", 		"nextId": "sb/10/4/7", 		"prevId": "sb/10/4/5" 	}, 	"verses": [ 		{ 			"roman": "nanv ahaṁ te hy avarajā\ndīnā hata-sutā prabho\ndātum arhasi mandāyā\naṅgemāṁ caramāṁ prajām\n", 			"isProse": false 		} 	], 	"synonyms": "nanu—however; aham—I am; te—your; hi—indeed; avarajā—younger sister; dīnā—very poor; hata-sutā—deprived of all children; prabho—O my lord; dātum arhasi—you deserve to give (some gift); mandāyāḥ—to me, who am so poor; aṅga—my dear brother; imām—this; caramām—last; prajām—child.", 	"translation": "My lord, my brother, I am very poor, being bereft of all my children, but still I am your younger sister, and therefore it would be worthy of you to give me this last child as a gift." }
+var text = {
+    "info": {
+        "id": "sb/10/4/6",
+        "prevId": "sb/10/4/5",
+        "nextId": "sb/10/4/7"
+    },
+    "verses": [
+        {
+            "roman": "nanv ahaṁ te hy avarajā\ndīnā hata-sutā prabho\ndātum arhasi mandāyā\naṅgemāṁ caramāṁ prajām\n"
+        }
+    ],
+    "synonyms": "nanu—however; aham—I am; te—your; hi—indeed; avarajā—younger sister; dīnā—very poor; hata-sutā—deprived of all children; prabho—O my lord; dātum arhasi—you deserve to give (some gift); mandāyāḥ—to me, who am so poor; aṅga—my dear brother; imām—this; caramām—last; prajām—child.",
+    "translation": "My lord, my brother, I am very poor, being bereft of all my children, but still I am your younger sister, and therefore it would be worthy of you to give me this last child as a gift.",
+    "purport": null
+}
+

@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/23/13",
+        "prevId": "sb/11/23/12",
+        "nextId": "sb/11/23/14"
+    },
+    "verses": [
+        {
+            "roman": "tasyaivaṁ dhyāyato dīrghaṁ\nnaṣṭa-rāyas tapasvinaḥ\nkhidyato bāṣpa-kaṇṭhasya\nnirvedaḥ su-mahān abhūt\n"
+        }
+    ],
+    "synonyms": "tasya—of him; evam—thus; dhyāyataḥ—thinking; dīrgham—for a long time; naṣṭa-rāyaḥ—his wealth lost; tapasvinaḥ—experiencing agony; khidyataḥ—lamenting; bāṣpa-kaṇṭhasya—his throat choked with tears; nirvedaḥ—a sense of renunciation; su-mahān—very great; abhūt—arose.",
+    "translation": "Having lost all his wealth, he felt great pain and lamentation. His throat choked up with tears, and he meditated for a long time on his fortune. Then a powerful feeling of renunciation came over him.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The brāhmaṇa had previously been trained in pious life, but his past goodness was covered by his offensive behavior. Finally, his previous purity was reawakened within him."
+        }
+    ]
+}
+

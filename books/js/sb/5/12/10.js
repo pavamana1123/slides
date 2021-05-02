@@ -1,1 +1,57 @@
-var text = { 	"info": { 		"id": "sb\\5\\12\\10", 		"nextId": "sb/5/12/11", 		"prevId": "sb/5/12/9" 	}, 	"verses": [ 		{ 			"roman": "evaṁ kṛśaṁ sthūlam aṇur bṛhad yad\nasac ca saj jīvam ajīvam anyat\ndravya-svabhāvāśaya-kāla-karma-\nnāmnājayāvehi kṛtaṁ dvitīyam\n", 			"isProse": false 		} 	], 	"synonyms": "evam—thus; kṛśam—skinny or short; sthūlam—fat; aṇuḥ—tiny; bṛhat—big; yat—which; asat—impermanent; ca—and; sat—existing; jīvam—the living entities; ajīvam—inanimate, lifeless matter; anyat—other causes; dravya—phenomena; sva-bhāva—nature; āśaya—disposition; kāla—time; karma—activities; nāmnā—only by such names; ajayā—by material nature; avehi—you should understand; kṛtam—done; dvitīyam—duality.", 	"translation": "Since this universe has no real ultimate existence, the things within it—shortness, differences, grossness, skinniness, smallness, bigness, result, cause, living symptoms, and materials—are all imagined. They are all pots made of the same substance, earth, but they are named differently. The differences are characterized by the substance, nature, predisposition, time and activity. You should know that all these are simply mechanical manifestations created by material nature.", 	"purport": [ 		{ 			"type": "normal", 			"content": "The temporary manifestations and varieties within this material world are simply creations of material nature under various circumstances: prakṛteḥ kriyamāṇa-ni guṇaiḥ karmāṇi sarvaśaḥ. The actions and reactions carried out by the material nature are sometimes accepted as our scientific inventions; therefore we want to take credit for them and defy the existence of God. This is described in Bhagavad-gītā (3.27), ahaṅkāra-vimūḍhātmā kartāham iti manyate: due to being covered by the illusory external energy, the living entity tries to take credit for the differentiated creations within the material world. Actually all these are being created automatically by the material force set in motion by the energy of the Supreme Personality of Godhead. Therefore the ultimate cause is the Supreme Person. As stated in Brahma-saṁhitā:" 		}, 		{ 			"type": "normal", 			"content": "īśvaraḥ paramaḥ kṛṣṇaḥ\nsac-cid-ānanda-vigrahaḥ\nanādir ādir govindaḥ\nsarva-kāraṇa-kāraṇam\n[Bs. 5.1]" 		}, 		{ 			"type": "normal", 			"content": "He is the cause of all causes, the ultimate cause. In this regard Śrīla Madhvācārya says: evaṁ sarvaṁ tathā prakṛtvayai kalpitaṁ viṣṇor anyat. evaṁ prakṛtyādhāraḥ svayam ananyādhāro viṣṇur eva ataḥ sarva-śabdāś ca tasminn eva. Actually the original cause is Lord Viṣṇu, but out of ignorance people think that matter is the cause of everything." 		}, 		{ 			"type": "normal", 			"content": "rājā goptāśrayo bhūmiḥ\nśaraṇaṁ ceti laukikaḥ\nvyavahāro na tat satyaṁ\ntayor brahmāśrayo vibhuḥ" 		}, 		{ 			"type": "normal", 			"content": "Things are contemplated on the ephemeral or external platform, but actually this is not the truth. The actual protector and shelter of everyone is Brahman, the Supreme, not the king." 		}, 		{ 			"type": "normal", 			"content": "goptrī ca tasya prakṛtis\ntasyā viṣṇuḥ svayaṁ prabhuḥ\ntava goptrī tu pṛthivī\nna tvaṁ goptā kṣiteḥ smṛtaḥ" 		}, 		{ 			"type": "normal", 			"content": "ataḥ sarvāśrayaiś caiva\ngoptā ca harir īśvaraḥ\nsarva-śabdābhidheyaś ca\nśabda-vṛtter hi kāraṇam\nsarvāntaraḥ sarva-bahir\neka eva janārdanaḥ" 		}, 		{ 			"type": "normal", 			"content": "The actual protectress is the material nature, but Viṣṇu is her Lord. He is the Lord of everything. Lord Janārdana is the director both externally and internally. He is the cause of the function of words and what is expressed in all sound." 		}, 		{ 			"type": "normal", 			"content": "śirasodhāratā yadvad\ngrīvāyās tadvad eva tu\nāśrayatvaṁ ca goptṛtvam\nanyeṣām upacārataḥ" 		}, 		{ 			"type": "normal", 			"content": "Lord Viṣṇu is the resting place of the entire creation: brahmaṇo hi pratiṣṭhāham (Bg. 14.27). On Brahman, everything is resting. All the universes are resting on the brahmajyoti, and all the planets are resting on the universal atmosphere. In each and every planet there are oceans, hills, states and kingdoms, and each planet is giving shelter to so many living entities. They are all standing on the earth of feet and legs, torso and shoulders, but actually everything is resting ultimately on the potencies of the Supreme Personality of Godhead. Therefore He is known ultimately as sarva-kāraṇa-kāraṇam [Bs. 5.1], the cause of all causes." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/5/12/10",
+        "prevId": "sb/5/12/9",
+        "nextId": "sb/5/12/11"
+    },
+    "verses": [
+        {
+            "roman": "evaṁ kṛśaṁ sthūlam aṇur bṛhad yad\nasac ca saj jīvam ajīvam anyat\ndravya-svabhāvāśaya-kāla-karma-\nnāmnājayāvehi kṛtaṁ dvitīyam\n"
+        }
+    ],
+    "synonyms": "evam—thus; kṛśam—skinny or short; sthūlam—fat; aṇuḥ—tiny; bṛhat—big; yat—which; asat—impermanent; ca—and; sat—existing; jīvam—the living entities; ajīvam—inanimate, lifeless matter; anyat—other causes; dravya—phenomena; sva-bhāva—nature; āśaya—disposition; kāla—time; karma—activities; nāmnā—only by such names; ajayā—by material nature; avehi—you should understand; kṛtam—done; dvitīyam—duality.",
+    "translation": "Since this universe has no real ultimate existence, the things within it—shortness, differences, grossness, skinniness, smallness, bigness, result, cause, living symptoms, and materials—are all imagined. They are all pots made of the same substance, earth, but they are named differently. The differences are characterized by the substance, nature, predisposition, time and activity. You should know that all these are simply mechanical manifestations created by material nature.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The temporary manifestations and varieties within this material world are simply creations of material nature under various circumstances: prakṛteḥ kriyamāṇa-ni guṇaiḥ karmāṇi sarvaśaḥ. The actions and reactions carried out by the material nature are sometimes accepted as our scientific inventions; therefore we want to take credit for them and defy the existence of God. This is described in Bhagavad-gītā , ahaṅkāra-vimūḍhātmā kartāham iti manyate: due to being covered by the illusory external energy, the living entity tries to take credit for the differentiated creations within the material world. Actually all these are being created automatically by the material force set in motion by the energy of the Supreme Personality of Godhead. Therefore the ultimate cause is the Supreme Person. As stated in Brahma-saṁhitā:"
+        },
+        {
+            "type": "verse",
+            "content": "īśvaraḥ paramaḥ kṛṣṇaḥsac-cid-ānanda-vigrahaḥ\nanādir ādir govindaḥ\nsarva-kāraṇa-kāraṇam(BS 5.1)"
+        },
+        {
+            "type": "normal",
+            "content": "He is the cause of all causes, the ultimate cause. In this regard Śrīla Madhvācārya says: evaṁ sarvaṁ tathā prakṛtvayai kalpitaṁ viṣṇor anyat. evaṁ prakṛtyādhāraḥ svayam ananyādhāro viṣṇur eva ataḥ sarva-śabdāś ca tasminn eva. Actually the original cause is Lord Viṣṇu, but out of ignorance people think that matter is the cause of everything."
+        },
+        {
+            "type": "verse",
+            "content": "rājā goptāśrayo bhūmiḥśaraṇaṁ ceti laukikaḥ\nvyavahāro na tat satyaṁtayor brahmāśrayo vibhuḥ"
+        },
+        {
+            "type": "normal",
+            "content": "Things are contemplated on the ephemeral or external platform, but actually this is not the truth. The actual protector and shelter of everyone is Brahman, the Supreme, not the king."
+        },
+        {
+            "type": "verse",
+            "content": "goptrī ca tasya prakṛtistasyā viṣṇuḥ svayaṁ prabhuḥ\ntava goptrī tu pṛthivīna tvaṁ goptā kṣiteḥ smṛtaḥ"
+        },
+        {
+            "type": "verse",
+            "content": "ataḥ sarvāśrayaiś caivagoptā ca harir īśvaraḥ\nsarva-śabdābhidheyaś ca\nśabda-vṛtter hi kāraṇam\nsarvāntaraḥ sarva-bahireka eva janārdanaḥ"
+        },
+        {
+            "type": "normal",
+            "content": "The actual protectress is the material nature, but Viṣṇu is her Lord. He is the Lord of everything. Lord Janārdana is the director both externally and internally. He is the cause of the function of words and what is expressed in all sound."
+        },
+        {
+            "type": "verse",
+            "content": "śirasodhāratā yadvadgrīvāyās tadvad eva tu\nāśrayatvaṁ ca goptṛtvamanyeṣām upacārataḥ"
+        },
+        {
+            "type": "normal",
+            "content": "Lord Viṣṇu is the resting place of the entire creation: brahmaṇo hi pratiṣṭhāham . On Brahman, everything is resting. All the universes are resting on the brahmajyoti, and all the planets are resting on the universal atmosphere. In each and every planet there are oceans, hills, states and kingdoms, and each planet is giving shelter to so many living entities. They are all standing on the earth of feet and legs, torso and shoulders, but actually everything is resting ultimately on the potencies of the Supreme Personality of Godhead. Therefore He is known ultimately as sarva-kāraṇa-kāraṇam (BS 5.1), the cause of all causes."
+        }
+    ]
+}
+

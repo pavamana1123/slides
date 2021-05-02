@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/69/31",
+        "prevId": "sb/10/69/30",
+        "nextId": "sb/10/69/32"
+    },
+    "verses": [
+        {
+            "roman": "kurvantaṁ vigrahaṁ kaiścit\nsandhiṁ cānyatra keśavam\nkutrāpi saha rāmeṇa\ncintayantaṁ satāṁ śivam\n"
+        }
+    ],
+    "synonyms": "kurvantam—making; vigraham—war; kaiścit—with certain persons; sandhim—reconciliation; ca—and; anyatra—elsewhere; keśavam—Lord Kṛṣṇa; kutra api—somewhere; saha—together; rāmeṇa—with Lord Balarāma; cintayantam—thinking; satām—of the saintly; śivam—the welfare.",
+    "translation": "In one place He was planning battles in consultation with some of His advisers, and in another place He was making peace. Somewhere Lord Keśava and Lord Balarāma were together pondering the welfare of the pious.",
+    "purport": null
+}
+

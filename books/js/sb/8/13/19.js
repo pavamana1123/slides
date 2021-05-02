@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\13\\19", 		"nextId": "sb/8/13/20", 		"prevId": "sb/8/13/18" 	}, 	"verses": [ 		{ 			"roman": "pārā-marīcigarbhādyā\ndevā indro ’dbhutaḥ smṛtaḥ\ndyutimat-pramukhās tatra\nbhaviṣyanty ṛṣayas tataḥ\n", 			"isProse": false 		} 	], 	"synonyms": "pārā—the Pāras; marīcigarbha—the Marīcigarbhas; ādyāḥ—like that; devāḥ—the demigods; indraḥ—the king of heaven; adbhutaḥ—Adbhuta; smṛtaḥ—known; dyutimat—Dyutimān; pramukhāḥ—headed by; tatra—in that ninth period of Manu; bhaviṣyanti—will become; ṛṣayaḥ—the seven ṛṣis; tataḥ—then.", 	"translation": "In this ninth manvantara, the Pāras and Marīcigarbhas will be among the demigods. The king of heaven, Indra, will be named Adbhuta, and Dyutimān will be among the seven sages." }
+var text = {
+    "info": {
+        "id": "sb/8/13/19",
+        "prevId": "sb/8/13/18",
+        "nextId": "sb/8/13/20"
+    },
+    "verses": [
+        {
+            "roman": "pārā-marīcigarbhādyā\ndevā indro 'dbhutaḥ smṛtaḥ\ndyutimat-pramukhās tatra\nbhaviṣyanty ṛṣayas tataḥ\n"
+        }
+    ],
+    "synonyms": "pārā—the Pāras; marīcigarbha—the Marīcigarbhas; ādyāḥ—like that; devāḥ—the demigods; indraḥ—the king of heaven; adbhutaḥ—Adbhuta; smṛtaḥ—known; dyutimat—Dyutimān; pramukhāḥ—headed by; tatra—in that ninth period of Manu; bhaviṣyanti—will become; ṛṣayaḥ—the seven ṛṣis; tataḥ—then.",
+    "translation": "In this ninth manvantara, the Pāras and Marīcigarbhas will be among the demigods. The king of heaven, Indra, will be named Adbhuta, and Dyutimān will be among the seven sages.",
+    "purport": null
+}
+

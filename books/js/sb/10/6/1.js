@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\10\\6\\1", 		"nextId": "sb/10/6/2", 		"prevId": "sb/10/6/6_summary" 	}, 	"verses": [ 		{ 			"roman": "śrī-śuka uvāca\nnandaḥ pathi vacaḥ śaurer\nna mṛṣeti vicintayan\nhariṁ jagāma śaraṇam\nutpātāgama-śaṅkitaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; nandaḥ—Nanda Mahārāja; pathi—on his way back home; vacaḥ—the words; śaureḥ—of Vasudeva; na—not; mṛṣā—without purpose or cause; iti—thus; vicintayan—while thinking about inauspiciousness for his little son, Kṛṣṇa; harim—unto the Supreme Lord, the controller; jagāma—took; śaraṇam—shelter; utpāta—of disturbances; āgama—with the expectation; śaṅkitaḥ—thus being afraid.", 	"translation": "Śukadeva Gosvāmī continued: My dear King, while Nanda Mahārāja was on the way home, he considered that what Vasudeva had said could not be false or useless. There must have been some danger of disturbances in Gokula. As Nanda Mahārāja thought about the danger for his beautiful son, Kṛṣṇa, he was afraid, and he took shelter at the lotus feet of the supreme controller.", 	"purport": [ 		{ 			"type": "normal", 			"content": "Whenever there is danger, the pure devotee thinks of the protection and shelter of the Supreme Personality of Godhead. This is also advised in Bhagavad-gītā (9.33): anityam asukhaṁ lokam imaṁ prāpya bhajasva mām. In this material world there is danger at every step (padaṁ padaṁ yad vipadām). Therefore a devotee has no other course than to take shelter of the Lord at every step." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/10/6/1",
+        "prevId": "sb/10/6/summary",
+        "nextId": "sb/10/6/2"
+    },
+    "verses": [
+        {
+            "roman": "śrī-śuka uvāca\nnandaḥ pathi vacaḥ śaurer\nna mṛṣeti vicintayan\nhariṁ jagāma śaraṇam\nutpātāgama-śaṅkitaḥ\n"
+        }
+    ],
+    "synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; nandaḥ—Nanda Mahārāja; pathi—on his way back home; vacaḥ—the words; śaureḥ—of Vasudeva; na—not; mṛṣā—without purpose or cause; iti—thus; vicintayan—while thinking about inauspiciousness for his little son, Kṛṣṇa; harim—unto the Supreme Lord, the controller; jagāma—took; śaraṇam—shelter; utpāta—of disturbances; āgama—with the expectation; śaṅkitaḥ—thus being afraid.",
+    "translation": "Śukadeva Gosvāmī continued: My dear King, while Nanda Mahārāja was on the way home, he considered that what Vasudeva had said could not be false or useless. There must have been some danger of disturbances in Gokula. As Nanda Mahārāja thought about the danger for his beautiful son, Kṛṣṇa, he was afraid, and he took shelter at the lotus feet of the supreme controller.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Whenever there is danger, the pure devotee thinks of the protection and shelter of the Supreme Personality of Godhead. This is also advised in Bhagavad-gītā ). Therefore a devotee has no other course than to take shelter of the Lord at every step."
+        }
+    ]
+}
+

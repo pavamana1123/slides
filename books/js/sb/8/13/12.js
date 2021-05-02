@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\13\\12", 		"nextId": "sb/8/13/13", 		"prevId": "sb/8/13/11" 	}, 	"verses": [ 		{ 			"roman": "tatra devāḥ sutapaso\nvirajā amṛtaprabhāḥ\nteṣāṁ virocana-suto\nbalir indro bhaviṣyati\n", 			"isProse": false 		} 	], 	"synonyms": "tatra—in that period of Manu; devāḥ—the demigods; sutapasaḥ—the Sutapās; virajāḥ—the Virajas; amṛtaprabhāḥ—the Amṛtaprabhas; teṣām—of them; virocana-sutaḥ—the son of Virocana; baliḥ—Mahārāja Bali; indraḥ—the king of heaven; bhaviṣyati—will become.", 	"translation": "In the period of the eighth Manu, among the demigods will be the Sutapās, the Virajas and the Amṛtaprabhas. The king of the demigods, Indra, will be Bali Mahārāja, the son of Virocana." }
+var text = {
+    "info": {
+        "id": "sb/8/13/12",
+        "prevId": "sb/8/13/11",
+        "nextId": "sb/8/13/13"
+    },
+    "verses": [
+        {
+            "roman": "tatra devāḥ sutapaso\nvirajā amṛtaprabhāḥ\nteṣāṁ virocana-suto\nbalir indro bhaviṣyati\n"
+        }
+    ],
+    "synonyms": "tatra—in that period of Manu; devāḥ—the demigods; sutapasaḥ—the Sutapās; virajāḥ—the Virajas; amṛtaprabhāḥ—the Amṛtaprabhas; teṣām—of them; virocana-sutaḥ—the son of Virocana; baliḥ—Mahārāja Bali; indraḥ—the king of heaven; bhaviṣyati—will become.",
+    "translation": "In the period of the eighth Manu, among the demigods will be the Sutapās, the Virajas and the Amṛtaprabhas. The king of the demigods, Indra, will be Bali Mahārāja, the son of Virocana.",
+    "purport": null
+}
+

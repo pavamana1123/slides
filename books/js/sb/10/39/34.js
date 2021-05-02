@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/39/34",
+        "prevId": "sb/10/39/33",
+        "nextId": "sb/10/39/35"
+    },
+    "verses": [
+        {
+            "roman": "gopyaś ca dayitaṁ kṛṣṇam\nanuvrajyānurañjitāḥ\npratyādeśaṁ bhagavataḥ\nkāṅkṣantyaś cāvatasthire\n"
+        }
+    ],
+    "synonyms": "gopyaḥ—the gopīs; ca—and; dayitam—their beloved; kṛṣṇam—Kṛṣṇa; anuvrajya—following; anurañjitāḥ—pleased; pratyādeśam—some instruction in reply; bhagavataḥ—from the Lord; kāṅkṣantyaḥ—hoping for; ca—and; avatasthire—they stood.",
+    "translation": "[With His glances] Lord Kṛṣṇa somewhat pacified the gopīs, and they also followed behind for some time. Then, hoping He would give them some instruction, they stood still.",
+    "purport": null
+}
+

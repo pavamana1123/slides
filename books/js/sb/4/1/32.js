@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\4\\1\\32", 		"nextId": "sb/4/1/33", 		"prevId": "sb/4/1/31" 	}, 	"verses": [ 		{ 			"roman": "evaṁ kāma-varaṁ dattvā\npratijagmuḥ sureśvarāḥ\nsabhājitās tayoḥ samyag\ndampatyor miṣatos tataḥ\n", 			"isProse": false 		} 	], 	"synonyms": "evam—thus; kāma-varam—desired benediction; dattvā—offering; pratijagmuḥ—returned; sura-īśvarāḥ—the chief demigods; sabhājitāḥ—being worshiped; tayoḥ—while they; samyak—perfectly; dampatyoḥ—the husband and wife; miṣatoḥ—were looking on; tataḥ—from there.", 	"translation": "Thus, while the couple looked on, the three deities Brahmā, Viṣṇu and Maheśvara disappeared from that place after bestowing upon Atri Muni the benediction." }
+var text = {
+    "info": {
+        "id": "sb/4/1/32",
+        "prevId": "sb/4/1/31",
+        "nextId": "sb/4/1/33"
+    },
+    "verses": [
+        {
+            "roman": "evaṁ kāma-varaṁ dattvā\npratijagmuḥ sureśvarāḥ\nsabhājitās tayoḥ samyag\ndampatyor miṣatos tataḥ\n"
+        }
+    ],
+    "synonyms": "evam—thus; kāma-varam—desired benediction; dattvā—offering; pratijagmuḥ—returned; sura-īśvarāḥ—the chief demigods; sabhājitāḥ—being worshiped; tayoḥ—while they; samyak—perfectly; dampatyoḥ—the husband and wife; miṣatoḥ—were looking on; tataḥ—from there.",
+    "translation": "Thus, while the couple looked on, the three deities Brahmā, Viṣṇu and Maheśvara disappeared from that place after bestowing upon Atri Muni the benediction.",
+    "purport": null
+}
+

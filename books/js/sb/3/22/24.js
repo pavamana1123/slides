@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\3\\22\\24", 		"nextId": "sb/3/22/25", 		"prevId": "sb/3/22/23" 	}, 	"verses": [ 		{ 			"roman": "prattāṁ duhitaraṁ samrāṭ\nsadṛkṣāya gata-vyathaḥ\nupaguhya ca bāhubhyām\nautkaṇṭhyonmathitāśayaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "prattām—who was given; duhitaram—daughter; samrāṭ—the Emperor (Manu); sadṛkṣāya—unto a suitable person; gata-vyathaḥ—relieved of his responsibility; upaguhya—embracing; ca—and; bāhubhyām—with his two arms; autkaṇṭhya-unmathita-āśayaḥ—having an anxious and agitated mind.", 	"translation": "Thus relieved of his responsibility by handing over his daughter to a suitable man, Svāyambhuva Manu, his mind agitated by feelings of separation, embraced his affectionate daughter with both his arms.", 	"purport": [ 		{ 			"type": "normal", 			"content": "A father always remains in anxiety until he can hand over his grownup daughter to a suitable boy. A father and mother’s responsibility for children continues until they marry them to suitable spouses; when the father is able to perform that duty, he is relieved of his responsibility." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/3/22/24",
+        "prevId": "sb/3/22/23",
+        "nextId": "sb/3/22/25"
+    },
+    "verses": [
+        {
+            "roman": "prattāṁ duhitaraṁ samrāṭ\nsadṛkṣāya gata-vyathaḥ\nupaguhya ca bāhubhyām\nautkaṇṭhyonmathitāśayaḥ\n"
+        }
+    ],
+    "synonyms": "prattām—who was given; duhitaram—daughter; samrāṭ—the Emperor (Manu); sadṛkṣāya—unto a suitable person; gata-vyathaḥ—relieved of his responsibility; upaguhya—embracing; ca—and; bāhubhyām—with his two arms; autkaṇṭhya-unmathita-āśayaḥ—having an anxious and agitated mind.",
+    "translation": "Thus relieved of his responsibility by handing over his daughter to a suitable man, Svāyambhuva Manu, his mind agitated by feelings of separation, embraced his affectionate daughter with both his arms.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "A father always remains in anxiety until he can hand over his grownup daughter to a suitable boy. A father and mother's responsibility for children continues until they marry them to suitable spouses; when the father is able to perform that duty, he is relieved of his responsibility."
+        }
+    ]
+}
+

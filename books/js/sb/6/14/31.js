@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\14\\31", 		"nextId": "sb/6/14/32", 		"prevId": "sb/6/14/30" 	}, 	"verses": [ 		{ 			"roman": "tasyā anudinaṁ garbhaḥ\nśukla-pakṣa ivoḍupaḥ\nvavṛdhe śūraseneśa-\ntejasā śanakair nṛpa\n", 			"isProse": false 		} 	], 	"synonyms": "tasyāḥ—her; anudinam—day after day; garbhaḥ—embryo; śukla-pakṣe—during the fortnight of the waxing moon; iva—like; uḍupaḥ—the moon; vavṛdhe—gradually developed; śūrasena-īśa—of the King of Śūrasena; tejasā—by the semen; śanakaiḥ—little by little; nṛpa—O King Parīkṣit.", 	"translation": "After receiving semen from Mahārāja Citraketu, the King of Śūrasena, Queen Kṛtadyuti gradually developed in her pregnancy, O King Parīkṣit, just as the moon develops during the bright fortnight." }
+var text = {
+    "info": {
+        "id": "sb/6/14/31",
+        "prevId": "sb/6/14/30",
+        "nextId": "sb/6/14/32"
+    },
+    "verses": [
+        {
+            "roman": "tasyā anudinaṁ garbhaḥ\nśukla-pakṣa ivoḍupaḥ\nvavṛdhe śūraseneśa-\ntejasā śanakair nṛpa\n"
+        }
+    ],
+    "synonyms": "tasyāḥ—her; anudinam—day after day; garbhaḥ—embryo; śukla-pakṣe—during the fortnight of the waxing moon; iva—like; uḍupaḥ—the moon; vavṛdhe—gradually developed; śūrasena-īśa—of the King of Śūrasena; tejasā—by the semen; śanakaiḥ—little by little; nṛpa—O King Parīkṣit.",
+    "translation": "After receiving semen from Mahārāja Citraketu, the King of Śūrasena, Queen Kṛtadyuti gradually developed in her pregnancy, O King Parīkṣit, just as the moon develops during the bright fortnight.",
+    "purport": null
+}
+

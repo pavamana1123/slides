@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\10\\49", 		"nextId": "sb/8/10/50", 		"prevId": "sb/8/10/48" 	}, 	"verses": [ 		{ 			"roman": "tato mahā-ghanā vyomni\ngambhīra-paruṣa-svanāḥ\naṅgārān mumucur vātair\nāhatāḥ stanayitnavaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "tataḥ—thereafter; mahā-ghanāḥ—big clouds; vyomni—in the sky; gambhīra-paruṣa-svanāḥ—making very deep rumbling sounds; aṅgārān—embers; mumucuḥ—released; vātaiḥ—by the strong winds; āhatāḥ—harassed; stanayitnavaḥ—with the sound of thunder.", 	"translation": "Fierce clouds, harassed by strong winds, then appeared in the sky. Rumbling very gravely with the sound of thunder, they began to shower live coals." }
+var text = {
+    "info": {
+        "id": "sb/8/10/49",
+        "prevId": "sb/8/10/48",
+        "nextId": "sb/8/10/50"
+    },
+    "verses": [
+        {
+            "roman": "tato mahā-ghanā vyomni\ngambhīra-paruṣa-svanāḥ\naṅgārān mumucur vātair\nāhatāḥ stanayitnavaḥ\n"
+        }
+    ],
+    "synonyms": "tataḥ—thereafter; mahā-ghanāḥ—big clouds; vyomni—in the sky; gambhīra-paruṣa-svanāḥ—making very deep rumbling sounds; aṅgārān—embers; mumucuḥ—released; vātaiḥ—by the strong winds; āhatāḥ—harassed; stanayitnavaḥ—with the sound of thunder.",
+    "translation": "Fierce clouds, harassed by strong winds, then appeared in the sky. Rumbling very gravely with the sound of thunder, they began to shower live coals.",
+    "purport": null
+}
+

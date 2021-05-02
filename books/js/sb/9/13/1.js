@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\13\\1", 		"nextId": "sb/9/13/2", 		"prevId": "sb/9/13/13_summary" 	}, 	"verses": [ 		{ 			"roman": "śrī-śuka uvāca\nnimir ikṣvāku-tanayo\nvasiṣṭham avṛtartvijam\nārabhya satraṁ so ’py āha\nśakreṇa prāg vṛto ’smi bhoḥ\n", 			"isProse": false 		} 	], 	"synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; nimiḥ—King Nimi; ikṣvāku-tanayaḥ—the son of Mahārāja Ikṣvāku; vasiṣṭham—the great sage Vasiṣṭha; avṛta—appointed; ṛtvijam—the chief priest of the sacrifice; ārabhya—beginning; satram—the sacrifice; saḥ—he, Vasiṣṭha; api—also; āha—said; śakreṇa—by Lord Indra; prāk—before; vṛtaḥ asmi—I was appointed; bhoḥ—O Mahārāja Nimi.", 	"translation": "Śrīla Śukadeva Gosvāmī said: After beginning sacrifices, Mahārāja Nimi, the son of Ikṣvāku, requested the great sage Vasiṣṭha to take the post of chief priest. At that time, Vasiṣṭha replied, “My dear Mahārāja Nimi, I have already accepted the same post in a sacrifice begun by Lord Indra." }
+var text = {
+    "info": {
+        "id": "sb/9/13/1",
+        "prevId": "sb/9/13/summary",
+        "nextId": "sb/9/13/2"
+    },
+    "verses": [
+        {
+            "roman": "śrī-śuka uvāca\nnimir ikṣvāku-tanayo\nvasiṣṭham avṛtartvijam\nārabhya satraṁ so 'py āha\nśakreṇa prāg vṛto 'smi bhoḥ\n"
+        }
+    ],
+    "synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; nimiḥ—King Nimi; ikṣvāku-tanayaḥ—the son of Mahārāja Ikṣvāku; vasiṣṭham—the great sage Vasiṣṭha; avṛta—appointed; ṛtvijam—the chief priest of the sacrifice; ārabhya—beginning; satram—the sacrifice; saḥ—he, Vasiṣṭha; api—also; āha—said; śakreṇa—by Lord Indra; prāk—before; vṛtaḥ asmi—I was appointed; bhoḥ—O Mahārāja Nimi.",
+    "translation": "Śrīla Śukadeva Gosvāmī said: After beginning sacrifices, Mahārāja Nimi, the son of Ikṣvāku, requested the great sage Vasiṣṭha to take the post of chief priest. At that time, Vasiṣṭha replied, \"My dear Mahārāja Nimi, I have already accepted the same post in a sacrifice begun by Lord Indra.",
+    "purport": null
+}
+

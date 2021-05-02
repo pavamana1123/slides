@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\22\\10", 		"nextId": "sb/9/22/11", 		"prevId": "sb/9/22/9" 	}, 	"verses": [ 		{ 			"roman": "tato vidūrathas tasmāt\nsārvabhaumas tato ’bhavat\njayasenas tat-tanayo\nrādhiko ’to ’yutāyv abhūt\n", 			"isProse": false 		} 	], 	"synonyms": "tataḥ—from him (Suratha); vidūrathaḥ—a son named Vidūratha; tasmāt—from him (Vidūratha); sārvabhaumaḥ—a son named Sārvabhauma; tataḥ—from him (Sārvabhauma); abhavat—was born; jayasenaḥ—Jayasena; tat-tanayaḥ—the son of Jayasena; rādhikaḥ—Rādhika; ataḥ—and from him (Rādhika); ayutāyuḥ—Ayutāyu; abhūt—was born.", 	"translation": "From Suratha came a son named Vidūratha, from whom Sārvabhauma was born. From Sārvabhauma came Jayasena; from Jayasena, Rādhika; and from Rādhika, Ayutāyu." }
+var text = {
+    "info": {
+        "id": "sb/9/22/10",
+        "prevId": "sb/9/22/9",
+        "nextId": "sb/9/22/11"
+    },
+    "verses": [
+        {
+            "roman": "tato vidūrathas tasmāt\nsārvabhaumas tato 'bhavat\njayasenas tat-tanayo\nrādhiko 'to 'yutāyv abhūt\n"
+        }
+    ],
+    "synonyms": "tataḥ—from him (Suratha); vidūrathaḥ—a son named Vidūratha; tasmāt—from him (Vidūratha); sārvabhaumaḥ—a son named Sārvabhauma; tataḥ—from him (Sārvabhauma); abhavat—was born; jayasenaḥ—Jayasena; tat-tanayaḥ—the son of Jayasena; rādhikaḥ—Rādhika; ataḥ—and from him (Rādhika); ayutāyuḥ—Ayutāyu; abhūt—was born.",
+    "translation": "From Suratha came a son named Vidūratha, from whom Sārvabhauma was born. From Sārvabhauma came Jayasena; from Jayasena, Rādhika; and from Rādhika, Ayutāyu.",
+    "purport": null
+}
+

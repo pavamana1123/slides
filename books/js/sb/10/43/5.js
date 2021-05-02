@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/43/5",
+        "prevId": "sb/10/43/4",
+        "nextId": "sb/10/43/6"
+    },
+    "verses": [
+        {
+            "roman": "evaṁ nirbhartsito 'mbaṣṭhaḥ\nkupitaḥ kopitaṁ gajam\ncodayām āsa kṛṣṇāya\nkālāntaka-yamopamam\n"
+        }
+    ],
+    "synonyms": "evam—thus; nirbhartsitaḥ—threatened; ambaṣṭhaḥ—the elephant-keeper; kupitaḥ—angered; kopitam—the enraged; gajam—elephant; codayām āsa—he goaded; kṛṣṇāya—toward Kṛṣṇa; kāla—time; antaka—death; yama—and Yamarāja; upamam—comparable to.",
+    "translation": "Thus threatened, the elephant-keeper became angry. He goaded his furious elephant, who appeared equal to time, death and Yamarāja, into attacking Lord Kṛṣṇa.",
+    "purport": null
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\1\\12\\15", 		"nextId": "sb/1/12/16", 		"prevId": "sb/1/12/14" 	}, 	"verses": [ 		{ 			"roman": "tam ūcur brāhmaṇās tuṣṭā\nrājānaṁ praśrayānvitam\neṣa hy asmin prajā-tantau\npurūṇāṁ pauravarṣabha\n", 			"isProse": false 		} 	], 	"synonyms": "tam—unto him; ūcuḥ—addressed; brāhmaṇāḥ—the learned brāhmaṇas; tuṣṭāḥ—very much satisfied; rājānam—unto the King; praśrayānvitam—very much obliging; eṣaḥ—this; hi—certainly; asmin—in the chain of; prajā-tantau—descending line; purūṇām—of the Pūrus; paurava-ṛṣabha—the chief among the Pūrus.", 	"translation": "The learned brāhmaṇas, who were very satisfied with the charities of the King, addressed him as the chief amongst the Pūrus and informed him that his son was certainly in the line of descent from the Pūrus." }
+var text = {
+    "info": {
+        "id": "sb/1/12/15",
+        "prevId": "sb/1/12/14",
+        "nextId": "sb/1/12/16"
+    },
+    "verses": [
+        {
+            "roman": "tam ūcur brāhmaṇās tuṣṭā\nrājānaṁ praśrayānvitam\neṣa hy asmin prajā-tantau\npurūṇāṁ pauravarṣabha\n"
+        }
+    ],
+    "synonyms": "tam—unto him; ūcuḥ—addressed; brāhmaṇāḥ—the learned brāhmaṇas; tuṣṭāḥ—very much satisfied; rājānam—unto the King; praśraya-anvitam—very much obliging; eṣaḥ—this; hi—certainly; asmin—in the chain of; prajā-tantau—descending line; purūṇām—of the Pūrus; paurava-ṛṣabha—the chief among the Pūrus.",
+    "translation": "The learned brāhmaṇas, who were very satisfied with the charities of the King, addressed him as the chief amongst the Pūrus and informed him that his son was certainly in the line of descent from the Pūrus.",
+    "purport": null
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\2\\10\\14", 		"nextId": "sb/2/10/15", 		"prevId": "sb/2/10/13" 	}, 	"verses": [ 		{ 			"roman": "adhidaivam athādhyātmam\nadhibhūtam iti prabhuḥ\nathaikaṁ pauruṣaṁ vīryaṁ\ntridhābhidyata tac chṛṇu\n", 			"isProse": false 		} 	], 	"synonyms": "adhidaivam—the controlling entities; atha—now; adhyātmam—the controlled entities; adhibhūtam—the material bodies; iti—thus; prabhuḥ—the Lord; atha—in this way; ekam—one only; pauruṣam—of His Lordship; vīryam—potency; tridhā—in three; abhidyata—divided; tat—that; śṛṇu—just hear from me.", 	"translation": "Just hear from me how the potency of His Lordship divides one into three, called the controlling entities, the controlled entities and the material bodies, in the manner mentioned above." }
+var text = {
+    "info": {
+        "id": "sb/2/10/14",
+        "prevId": "sb/2/10/13",
+        "nextId": "sb/2/10/15"
+    },
+    "verses": [
+        {
+            "roman": "adhidaivam athādhyātmam\nadhibhūtam iti prabhuḥ\nathaikaṁ pauruṣaṁ vīryaṁ\ntridhābhidyata tac chṛṇu\n"
+        }
+    ],
+    "synonyms": "adhidaivam—the controlling entities; atha—now; adhyātmam—the controlled entities; adhibhūtam—the material bodies; iti—thus; prabhuḥ—the Lord; atha—in this way; ekam—one only; pauruṣam—of His Lordship; vīryam—potency; tridhā—in three; abhidyata—divided; tat—that; śṛṇu—just hear from me.",
+    "translation": "Just hear from me how the potency of His Lordship divides one into three, called the controlling entities, the controlled entities and the material bodies, in the manner mentioned above.",
+    "purport": null
+}
+

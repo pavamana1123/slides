@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\11\\24", 		"nextId": "sb/8/11/25", 		"prevId": "sb/8/11/23" 	}, 	"verses": [ 		{ 			"roman": "sarvataḥ śara-kūṭena\nśakraṁ saratha-sārathim\nchādayām āsur asurāḥ\nprāvṛṭ-sūryam ivāmbudāḥ\n", 			"isProse": false 		} 	], 	"synonyms": "sarvataḥ—all around; śara-kūṭena—by a dense shower of arrows; śakram—Indra; sa-ratha—with his chariot; sārathim—and with his chariot driver; chādayām āsuḥ—covered; asurāḥ—all the demons; prāvṛṭ—in the rainy season; sūryam—the sun; iva—like; ambu-dāḥ—clouds.", 	"translation": "Other demons covered Indra, along with his chariot and chariot driver, with incessant showers of arrows, just as clouds cover the sun in the rainy season." }
+var text = {
+    "info": {
+        "id": "sb/8/11/24",
+        "prevId": "sb/8/11/23",
+        "nextId": "sb/8/11/25"
+    },
+    "verses": [
+        {
+            "roman": "sarvataḥ śara-kūṭena\nśakraṁ saratha-sārathim\nchādayām āsur asurāḥ\nprāvṛṭ-sūryam ivāmbudāḥ\n"
+        }
+    ],
+    "synonyms": "sarvataḥ—all around; śara-kūṭena—by a dense shower of arrows; śakram—Indra; sa-ratha—with his chariot; sārathim—and with his chariot driver; chādayām āsuḥ—covered; asurāḥ—all the demons; prāvṛṭ—in the rainy season; sūryam—the sun; iva—like; ambu-dāḥ—clouds.",
+    "translation": "Other demons covered Indra, along with his chariot and chariot driver, with incessant showers of arrows, just as clouds cover the sun in the rainy season.",
+    "purport": null
+}
+

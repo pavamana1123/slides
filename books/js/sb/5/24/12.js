@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\5\\24\\12", 		"nextId": "sb/5/24/13", 		"prevId": "sb/5/24/11" 	}, 	"verses": [ 		{ 			"roman": "yatra hi mahāhi-pravara-śiro-maṇayaḥ sarvaṁ tamaḥ prabādhante.\n", 			"isProse": false 		} 	], 	"synonyms": "yatra—where; hi—indeed; mahā-ahi—of great serpents; pravara—of the best; śiraḥ-maṇayaḥ—the gems on the hoods; sarvam—all; tamaḥ—darkness; prabādhante—drive away.", 	"translation": "Many great serpents reside there with gems on their hoods, and the effulgence of these gems dissipates the darkness in all directions." }
+var text = {
+    "info": {
+        "id": "sb/5/24/12",
+        "prevId": "sb/5/24/11",
+        "nextId": "sb/5/24/13"
+    },
+    "verses": [
+        {
+            "roman": "yatra hi mahāhi-pravara-śiro-maṇayaḥ sarvaṁ tamaḥ prabādhante\n"
+        }
+    ],
+    "synonyms": "yatra—where; hi—indeed; mahā-ahi—of great serpents; pravara—of the best; śiraḥ-maṇayaḥ—the gems on the hoods; sarvam—all; tamaḥ—darkness; prabādhante—drive away.",
+    "translation": "Many great serpents reside there with gems on their hoods, and the effulgence of these gems dissipates the darkness in all directions.",
+    "purport": null
+}
+

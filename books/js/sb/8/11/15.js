@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\11\\15", 		"nextId": "sb/8/11/16", 		"prevId": "sb/8/11/14" 	}, 	"verses": [ 		{ 			"roman": "gadā-prahāra-vyathito\nbhṛśaṁ vihvalito gajaḥ\njānubhyāṁ dharaṇīṁ spṛṣṭvā\nkaśmalaṁ paramaṁ yayau\n", 			"isProse": false 		} 	], 	"synonyms": "gadā-prahāra-vyathitaḥ—being aggrieved because of the blow from Jambhāsura’s club; bhṛśam—very much; vihvalitaḥ—upset; gajaḥ—the elephant; jānubhyām—with its two knees; dharaṇīm—the earth; spṛṣṭvā—touching; kaśmalam—unconsciousness; paramam—ultimate; yayau—entered.", 	"translation": "Being beaten by Jambhāsura’s club, Indra’s elephant was confused and aggrieved. Thus it touched its knees to the ground and fell unconscious." }
+var text = {
+    "info": {
+        "id": "sb/8/11/15",
+        "prevId": "sb/8/11/14",
+        "nextId": "sb/8/11/16"
+    },
+    "verses": [
+        {
+            "roman": "gadā-prahāra-vyathito\nbhṛśaṁ vihvalito gajaḥ\njānubhyāṁ dharaṇīṁ spṛṣṭvā\nkaśmalaṁ paramaṁ yayau\n"
+        }
+    ],
+    "synonyms": "gadā-prahāra-vyathitaḥ—being aggrieved because of the blow from Jambhāsura's club; bhṛśam—very much; vihvalitaḥ—upset; gajaḥ—the elephant; jānubhyām—with its two knees; dharaṇīm—the earth; spṛṣṭvā—touching; kaśmalam—unconsciousness; paramam—ultimate; yayau—entered.",
+    "translation": "Being beaten by Jambhāsura's club, Indra's elephant was confused and aggrieved. Thus it touched its knees to the ground and fell unconscious.",
+    "purport": null
+}
+

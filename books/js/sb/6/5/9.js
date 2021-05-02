@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\5\\9", 		"nextId": "sb/6/5/10", 		"prevId": "sb/6/5/6-8" 	}, 	"verses": [ 		{ 			"roman": "kathaṁ sva-pitur ādeśam\navidvāṁso vipaścitaḥ\nanurūpam avijñāya\naho sargaṁ kariṣyatha\n", 			"isProse": false 		} 	], 	"synonyms": "katham—how; sva-pituḥ—of your own father; ādeśam—the order; avidvāṁsaḥ—ignorant; vipaścitaḥ—who knows everything; anurūpam—suitable for you; avijñāya—without knowing; aho—alas; sargam—the creation; kariṣyatha—you will perform.", 	"translation": "Alas, your father is omniscient, but you do not know his actual order. Without knowing the actual purpose of your father, how will you create progeny?" }
+var text = {
+    "info": {
+        "id": "sb/6/5/9",
+        "prevId": "sb/6/5/6-8",
+        "nextId": "sb/6/5/10"
+    },
+    "verses": [
+        {
+            "roman": "kathaṁ sva-pitur ādeśam\navidvāṁso vipaścitaḥ\nanurūpam avijñāya\naho sargaṁ kariṣyatha\n"
+        }
+    ],
+    "synonyms": "katham—how; sva-pituḥ—of your own father; ādeśam—the order; avidvāṁsaḥ—ignorant; vipaścitaḥ—who knows everything; anurūpam—suitable for you; avijñāya—without knowing; aho—alas; sargam—the creation; kariṣyatha—you will perform.",
+    "translation": "Alas, your father is omniscient, but you do not know his actual order. Without knowing the actual purpose of your father, how will you create progeny?",
+    "purport": null
+}
+

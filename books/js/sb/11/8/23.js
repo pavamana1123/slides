@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/11/8/23",
+        "prevId": "sb/11/8/22",
+        "nextId": "sb/11/8/24"
+    },
+    "verses": [
+        {
+            "roman": "sā svairiṇy ekadā kāntaṁ\nsaṅketa upaneṣyatī\nabhūt kāle bahir dvāre\nbibhratī rūpam uttamam\n"
+        }
+    ],
+    "synonyms": "sā—she; svairiṇī—the prostitute; ekadā—once; kāntam—a paying lover or a customer; saṅkete—into her house of sex; upaneṣyatī—to bring; abhūt—she stood; kāle—at night; bahiḥ—outside; dvāre—in the doorway; bibhratī—holding up; rūpam—her form; uttamam—most beautiful.",
+    "translation": "Once that prostitute, desiring to bring a lover into her house, stood outside in the doorway at night showing her beautiful form.",
+    "purport": null
+}
+

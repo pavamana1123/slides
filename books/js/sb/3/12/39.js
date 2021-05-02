@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\3\\12\\39", 		"nextId": "sb/3/12/40", 		"prevId": "sb/3/12/38" 	}, 	"verses": [ 		{ 			"roman": "itihāsa-purāṇāni\npañcamaṁ vedam īśvaraḥ\nsarvebhya eva vaktrebhyaḥ\nsasṛje sarva-darśanaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "itihāsa—histories; purāṇāni—the Purāṇas (supplementary Vedas); pañcamam—the fifth; vedam—the Vedic literature; īśvaraḥ—the Lord; sarvebhyaḥ—all together; eva—certainly; vaktrebhyaḥ—from his mouths; sasṛje—created; sarva—all around; darśanaḥ—one who can see all time.", 	"translation": "Then he created the fifth Veda—the Purāṇas and the histories—from all his mouths, since he could see all the past, present and future.", 	"purport": [ 		{ 			"type": "normal", 			"content": "There are histories of particular countries and nations and of the world, but the Purāṇas are the histories of the universe, not only in one millennium, but in many kalpas. Brahmā has knowledge of those historical facts, and therefore all the purāṇas are histories. As originally composed by Brahmā, they are part of the Vedas and are called the fifth Veda." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/3/12/39",
+        "prevId": "sb/3/12/38",
+        "nextId": "sb/3/12/40"
+    },
+    "verses": [
+        {
+            "roman": "itihāsa-purāṇāni\npañcamaṁ vedam īśvaraḥ\nsarvebhya eva vaktrebhyaḥ\nsasṛje sarva-darśanaḥ\n"
+        }
+    ],
+    "synonyms": "itihāsa—histories; purāṇāni—the Purāṇas (supplementary Vedas); pañcamam—the fifth; vedam—the Vedic literature; īśvaraḥ—the Lord; sarvebhyaḥ—all together; eva—certainly; vaktrebhyaḥ—from his mouths; sasṛje—created; sarva—all around; darśanaḥ—one who can see all time.",
+    "translation": "Then he created the fifth Veda—the Purāṇas and the histories—from all his mouths, since he could see all the past, present and future.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "There are histories of particular countries and nations and of the world, but the Purāṇas are the histories of the universe, not only in one millennium, but in many kalpas. Brahmā has knowledge of those historical facts, and therefore all the purāṇas are histories. As originally composed by Brahmā, they are part of the Vedas and are called the fifth Veda."
+        }
+    ]
+}
+

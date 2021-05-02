@@ -1,0 +1,69 @@
+var text = {
+    "info": {
+        "id": "sb/12/11/44",
+        "prevId": "sb/12/11/43",
+        "nextId": "sb/12/11/45"
+    },
+    "verses": [
+        {
+            "roman": "viṣṇur aśvataro rambhā\nsūryavarcāś ca satyajit\nviśvāmitro makhāpeta\nūrja-māsaṁ nayanty amī\n"
+        }
+    ],
+    "synonyms": "viṣṇuḥ aśvataraḥ rambhā—Viṣṇu, Aśvatara and Rambhā; sūryavarcāḥ—Sūryavarcā; ca—and; satyajit—Satyajit; viśvāmītraḥ makhāpetaḥ—Viśvāmitra and Makhāpeta; ūrja-māsam—the month of Ūrja (Kārttika); nayanti—rule; amī—these.",
+    "translation": "Viṣṇu as the sun-god, Aśvatara as the Nāga, Rambhā as the Apsarā, Sūryavarcā as the Gandharva, Satyajit as the Yakṣa, Viśvāmitra as the sage and Makhāpeta as the Rākṣasa rule the month of Ūrja.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "All these sun-gods and their associates are mentioned in divisions in the Kūrma Purāṇa, as follows:"
+        },
+        {
+            "type": "verse",
+            "content": "dhātāryamā ca mitraś cavaruṇaś cendra eva ca\nvivasvān atha pūṣā caparjanyaś cāṁśur eva ca"
+        },
+        {
+            "type": "verse",
+            "content": "bhagas tvaṣṭā ca viṣṇuś caādityā dvādaśa smṛtāḥ\npulastyaḥ pulahaś cātrirvasiṣṭo 'thāṅgirā bhṛguḥ"
+        },
+        {
+            "type": "verse",
+            "content": "gautamo 'tha bharadvājaḥkaśyapaḥ kratur eva ca\njamadagniḥ kauśikaś camunayo brahma-vādināḥ"
+        },
+        {
+            "type": "verse",
+            "content": "rathakṛc cāpy athojāś cagrāmaṇīḥ surucis tathā\nratha-citrasvanaḥ śrotā\naruṇaḥ senajit tathā\ntārkṣya ariṣṭanemiś caṛtajit satyajit tathā"
+        },
+        {
+            "type": "verse",
+            "content": "atha hetiḥ prahetiś capauruṣeyo vadhas tathā\nvaryo vyāghras tathāpaś cavāyur vidyud divākaraḥ"
+        },
+        {
+            "type": "verse",
+            "content": "brahmāpetaś ca vipendrāyajñāpetaś ca rākṣakāḥ\nvāsukiḥ kacchanīraś catakṣakaḥ śukra eva ca"
+        },
+        {
+            "type": "verse",
+            "content": "elāpatraḥ śaṅkhapālastathairāvata-saṁjñitaḥ\ndhanañjayo mahāpadmastathā karkoṭako dvijāḥ"
+        },
+        {
+            "type": "verse",
+            "content": "kambalo 'śvataraś caivavahanty enaṁ yathā-kramam\ntumburur nārado hāhāhūhūr viśvāvasus tathā"
+        },
+        {
+            "type": "verse",
+            "content": "ugraseno vasurucirviśvavasur athāparaḥ\ncitrasenas tathorṇāyurdhṛṭarāṣṭro dvijottamāḥ"
+        },
+        {
+            "type": "verse",
+            "content": "sūryavarcā dvādaśaitegandharvā gāyatāṁ varāḥ\nkṛtasthaly apsaro-varyātathānyā puñjikasthalī"
+        },
+        {
+            "type": "verse",
+            "content": "menakā sahajanyā capramlocā ca dvijottamāḥ\nanumlocā ghṛtācī caviśvācī corvaśī tathā"
+        },
+        {
+            "type": "verse",
+            "content": "anyā ca pūrvacittiḥ syādanyā caiva tilottamā\nrambhā ceti dvija-śreṣṭhāstathaivāpsarasaḥ smṛtāḥ"
+        }
+    ]
+}
+

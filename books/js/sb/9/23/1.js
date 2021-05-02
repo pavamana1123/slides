@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\23\\1", 		"nextId": "sb/9/23/2", 		"prevId": "sb/9/23/23_summary" 	}, 	"verses": [ 		{ 			"roman": "śrī-śuka uvāca\nanoḥ sabhānaraś cakṣuḥ\npareṣṇuś ca trayaḥ sutāḥ\nsabhānarāt kālanaraḥ\nsṛñjayas tat-sutas tataḥ\n", 			"isProse": false 		} 	], 	"synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; anoḥ—of Anu, the fourth of the four sons of Yayāti; sabhānaraḥ—Sabhānara; cakṣuḥ—Cakṣu; pareṣṇuḥ—Pareṣṇu; ca—also; trayaḥ—three; sutāḥ—sons; sabhānarāt—from Sabhānara; kālanaraḥ—Kālanara; sṛñjayaḥ—Sṛñjaya; tat-sutaḥ—son of Kālanara; tataḥ—thereafter.", 	"translation": "Śukadeva Gosvāmī said: Anu, the fourth son of Yayāti, had three sons, named Sabhānara, Cakṣu and Pareṣṇu. O King, from Sabhānara came a son named Kālanara, and from Kālanara came a son named Sṛñjaya." }
+var text = {
+    "info": {
+        "id": "sb/9/23/1",
+        "prevId": "sb/9/23/summary",
+        "nextId": "sb/9/23/2"
+    },
+    "verses": [
+        {
+            "roman": "śrī-śuka uvāca\nanoḥ sabhānaraś cakṣuḥ\npareṣṇuś ca trayaḥ sutāḥ\nsabhānarāt kālanaraḥ\nsṛñjayas tat-sutas tataḥ\n"
+        }
+    ],
+    "synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; anoḥ—of Anu, the fourth of the four sons of Yayāti; sabhānaraḥ—Sabhānara; cakṣuḥ—Cakṣu; pareṣṇuḥ—Pareṣṇu; ca—also; trayaḥ—three; sutāḥ—sons; sabhānarāt—from Sabhānara; kālanaraḥ—Kālanara; sṛñjayaḥ—Sṛñjaya; tat-sutaḥ—son of Kālanara; tataḥ—thereafter.",
+    "translation": "Śukadeva Gosvāmī said: Anu, the fourth son of Yayāti, had three sons, named Sabhānara, Cakṣu and Pareṣṇu. O King, from Sabhānara came a son named Kālanara, and from Kālanara came a son named Sṛñjaya.",
+    "purport": null
+}
+

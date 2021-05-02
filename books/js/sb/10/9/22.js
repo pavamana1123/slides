@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\10\\9\\22", 		"nextId": "sb/10/9/23", 		"prevId": "sb/10/9/21" 	}, 	"verses": [ 		{ 			"roman": "kṛṣṇas tu gṛha-kṛtyeṣu\nvyagrāyāṁ mātari prabhuḥ\nadrākṣīd arjunau pūrvaṁ\nguhyakau dhanadātmajau\n", 			"isProse": false 		} 	], 	"synonyms": "kṛṣṇaḥ tu—in the meantime; gṛha-kṛtyeṣu—in engagement in household affairs; vyagrāyām—very busy; mātari—when His mother; prabhuḥ—the Lord; adrākṣīt—observed; arjunau—the twin arjuna trees; pūrvam—before Him; guhyakau—which in a former millennium had been demigods; dhanada-ātmajau—the sons of Kuvera, the treasurer of the demigods.", 	"translation": "While mother Yaśodā was very busy with household affairs, the Supreme Lord, Kṛṣṇa, observed twin trees known as yamala-arjuna, which in a former millennium had been the demigod sons of Kuvera." }
+var text = {
+    "info": {
+        "id": "sb/10/9/22",
+        "prevId": "sb/10/9/21",
+        "nextId": "sb/10/9/23"
+    },
+    "verses": [
+        {
+            "roman": "kṛṣṇas tu gṛha-kṛtyeṣu\nvyagrāyāṁ mātari prabhuḥ\nadrākṣīd arjunau pūrvaṁ\nguhyakau dhanadātmajau\n"
+        }
+    ],
+    "synonyms": "kṛṣṇaḥ tu—in the meantime; gṛha-kṛtyeṣu—in engagement in household affairs; vyagrāyām—very busy; mātari—when His mother; prabhuḥ—the Lord; adrākṣīt—observed; arjunau—the twin arjuna trees; pūrvam—before Him; guhyakau—which in a former millennium had been demigods; dhanada-ātmajau—the sons of Kuvera, the treasurer of the demigods.",
+    "translation": "While mother Yaśodā was very busy with household affairs, the Supreme Lord, Kṛṣṇa, observed twin trees known as yamala-arjuna, which in a former millennium had been the demigod sons of Kuvera.",
+    "purport": null
+}
+

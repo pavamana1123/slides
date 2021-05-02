@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\5\\26\\12", 		"nextId": "sb/5/26/13", 		"prevId": "sb/5/26/11" 	}, 	"verses": [ 		{ 			"roman": "evam eva mahārauravo yatra nipatitaṁ puruṣaṁ kravyādā nāma ruravas taṁ kravyeṇa ghātayanti yaḥ kevalaṁ dehambharaḥ.\n", 			"isProse": false 		} 	], 	"synonyms": "evam—thus; eva—certainly; mahā-rauravaḥ—the hell known as Mahāraurava; yatra—where; nipatitam—being thrown; puruṣam—a person; kravyādāḥ nāma—named kravyāda; ruravaḥ—the ruru animals; tam—him (the condemned person); kravyeṇa—for eating his flesh; ghātayanti—kill; yaḥ—who; kevalam—only; dehambharaḥ—intent upon maintaining his own body.", 	"translation": "Punishment in the hell called Mahāraurava is compulsory for a person who maintains his own body by hurting others. In this hell, ruru animals known as kravyāda torment him and eat his flesh.", 	"purport": [ 		{ 			"type": "normal", 			"content": "The animalistic person who lives simply in the bodily concept of life is not excused. He is put into the hell known as Mahāraurava and attacked by ruru animals known as kravyādas." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/5/26/12",
+        "prevId": "sb/5/26/11",
+        "nextId": "sb/5/26/13"
+    },
+    "verses": [
+        {
+            "roman": "evam eva mahārauravo yatra nipatitaṁ puruṣaṁ kravyādā nāma\nruravas taṁ kravyeṇa ghātayanti yaḥ kevalaṁ dehambharaḥ\n"
+        }
+    ],
+    "synonyms": "evam—thus; eva—certainly; mahā-rauravaḥ—the hell known as Mahāraurava; yatra—where; nipatitam—being thrown; puruṣam—a person; kravyādāḥ nāma—named kravyāda; ruravaḥ—the ruru animals; tam—him (the condemned person); kravyeṇa—for eating his flesh; ghātayanti—kill; yaḥ—who; kevalam—only; dehambharaḥ—intent upon maintaining his own body.",
+    "translation": "Punishment in the hell called Mahāraurava is compulsory for a person who maintains his own body by hurting others. In this hell, ruru animals known as kravyāda torment him and eat his flesh.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The animalistic person who lives simply in the bodily concept of life is not excused. He is put into the hell known as Mahāraurava and attacked by ruru animals known as kravyādas."
+        }
+    ]
+}
+

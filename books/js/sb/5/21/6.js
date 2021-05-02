@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\5\\21\\6", 		"nextId": "sb/5/21/7", 		"prevId": "sb/5/21/5" 	}, 	"verses": [ 		{ 			"roman": "yāvad dakṣiṇāyanam ahāni vardhante yāvad udagayanaṁ rātrayaḥ.\n", 			"isProse": false 		} 	], 	"synonyms": "yāvat—until; dakṣiṇa-ayanam—the sun passes to the southern side; ahāni—the days; vardhante—increase; yāvat—until; udagayanam—the sun passes to the northern side; rātrayaḥ—the nights.", 	"translation": "Until the sun travels to the south the days grow longer, and until it travels to the north the nights grow longer." }
+var text = {
+    "info": {
+        "id": "sb/5/21/6",
+        "prevId": "sb/5/21/5",
+        "nextId": "sb/5/21/7"
+    },
+    "verses": [
+        {
+            "roman": "yāvad dakṣiṇāyanam ahāni vardhante yāvad udagayanaṁ rātrayaḥ\n"
+        }
+    ],
+    "synonyms": "yāvat—until; dakṣiṇa-ayanam—the sun passes to the southern side; ahāni—the days; vardhante—increase; yāvat—until; udagayanam—the sun passes to the northern side; rātrayaḥ—the nights.",
+    "translation": "Until the sun travels to the south the days grow longer, and until it travels to the north the nights grow longer.",
+    "purport": null
+}
+

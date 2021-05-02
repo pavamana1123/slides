@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\4\\17\\15", 		"nextId": "sb/4/17/16", 		"prevId": "sb/4/17/14" 	}, 	"verses": [ 		{ 			"roman": "tām anvadhāvat tad vainyaḥ\nkupito ’tyaruṇekṣaṇaḥ\nśaraṁ dhanuṣi sandhāya\nyatra yatra palāyate\n", 			"isProse": false 		} 	], 	"synonyms": "tām—the cow-shaped earth; anvadhāvat—he chased; tat—then; vainyaḥ—the son of King Vena; kupitaḥ—being very much angry; ati-aruṇa—very red; īkṣaṇaḥ—his eyes; śaram—an arrow; dhanuṣi—on the bow; sandhāya—placing; yatra yatra—wherever; palāyate—she flees.", 	"translation": "Seeing this, Mahārāja Pṛthu became very angry, and his eyes became as red as the early-morning sun. Placing an arrow on his bow, he chased the cow-shaped earth wherever she would run." }
+var text = {
+    "info": {
+        "id": "sb/4/17/15",
+        "prevId": "sb/4/17/14",
+        "nextId": "sb/4/17/16"
+    },
+    "verses": [
+        {
+            "roman": "tām anvadhāvat tad vainyaḥ\nkupito 'tyaruṇekṣaṇaḥ\nśaraṁ dhanuṣi sandhāya\nyatra yatra palāyate\n"
+        }
+    ],
+    "synonyms": "tām—the cow-shaped earth; anvadhāvat—he chased; tat—then; vainyaḥ—the son of King Vena; kupitaḥ—being very much angry; ati-aruṇa—very red; īkṣaṇaḥ—his eyes; śaram—an arrow; dhanuṣi—on the bow; sandhāya—placing; yatra yatra—wherever; palāyate—she flees.",
+    "translation": "Seeing this, Mahārāja Pṛthu became very angry, and his eyes became as red as the early-morning sun. Placing an arrow on his bow, he chased the cow-shaped earth wherever she would run.",
+    "purport": null
+}
+

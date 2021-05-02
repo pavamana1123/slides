@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\18\\26", 		"nextId": "sb/9/18/27", 		"prevId": "sb/9/18/25" 	}, 	"verses": [ 		{ 			"roman": "vṛṣaparvā tam ājñāya\npratyanīka-vivakṣitam\nguruṁ prasādayan mūrdhnā\npādayoḥ patitaḥ pathi\n", 			"isProse": false 		} 	], 	"synonyms": "vṛṣaparvā—the King of the demons; tam ājñāya—understanding the motive of Śukrācārya; pratyanīka—some curse; vivakṣitam—desiring to speak; gurum—his spiritual master, Śukrācārya; prasādayat—he satisfied immediately; mūrdhnā—with his head; pādayoḥ—at the feet; patitaḥ—fell down; pathi—on the road.", 	"translation": "King Vṛṣaparvā understood that Śukrācārya was coming to chastise or curse him. Consequently, before Śukrācārya came to his house, Vṛṣaparvā went out and fell down in the street at the feet of his guru and satisfied him, checking his wrath." }
+var text = {
+    "info": {
+        "id": "sb/9/18/26",
+        "prevId": "sb/9/18/25",
+        "nextId": "sb/9/18/27"
+    },
+    "verses": [
+        {
+            "roman": "vṛṣaparvā tam ājñāya\npratyanīka-vivakṣitam\nguruṁ prasādayan mūrdhnā\npādayoḥ patitaḥ pathi\n"
+        }
+    ],
+    "synonyms": "vṛṣaparvā—the King of the demons; tam ājñāya—understanding the motive of Śukrācārya; pratyanīka—some curse; vivakṣitam—desiring to speak; gurum—his spiritual master, Śukrācārya; prasādayat—he satisfied immediately; mūrdhnā—with his head; pādayoḥ—at the feet; patitaḥ—fell down; pathi—on the road.",
+    "translation": "King Vṛṣaparvā understood that Śukrācārya was coming to chastise or curse him. Consequently, before Śukrācārya came to his house, Vṛṣaparvā went out and fell down in the street at the feet of his guru and satisfied him, checking his wrath.",
+    "purport": null
+}
+

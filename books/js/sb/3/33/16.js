@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\33\\16", 		"nextId": "sb/3/33/17", 		"prevId": "sb/3/33/15" 	}, 	"verses": [ 		{ 			"roman": "payaḥ-phena-nibhāḥ śayyā\ndāntā rukma-paricchadāḥ\nāsanāni ca haimāni\nsusparśāstaraṇāni ca\n", 			"isProse": false 		} 	], 	"synonyms": "payaḥ—of milk; phena—the foam; nibhāḥ—resembling; śayyāḥ—beds; dāntāḥ—made of ivory; rukma—golden; paricchadāḥ—with covers; āsanāni—chairs and benches; ca—and; haimāni—made of gold; su-sparśa—soft to the touch; āstaraṇāni—cushions; ca—and.", 	"translation": "The opulence of the household of Kardama Muni is described herein. The bedsheets and mattresses were all as white as the foam of milk, the chairs and benches were made of ivory and were covered by cloths of lace with golden filigree, and the couches were made of gold and had very soft pillows." }
+var text = {
+    "info": {
+        "id": "sb/3/33/16",
+        "prevId": "sb/3/33/15",
+        "nextId": "sb/3/33/17"
+    },
+    "verses": [
+        {
+            "roman": "payaḥ-phena-nibhāḥ śayyā\ndāntā rukma-paricchadāḥ\nāsanāni ca haimāni\nsusparśāstaraṇāni ca\n"
+        }
+    ],
+    "synonyms": "payaḥ—of milk; phena—the foam; nibhāḥ—resembling; śayyāḥ—beds; dāntāḥ—made of ivory; rukma—golden; paricchadāḥ—with covers; āsanāni—chairs and benches; ca—and; haimāni—made of gold; su-sparśa—soft to the touch; āstaraṇāni—cushions; ca—and.",
+    "translation": "The opulence of the household of Kardama Muni is described herein. The bedsheets and mattresses were all as white as the foam of milk, the chairs and benches were made of ivory and were covered by cloths of lace with golden filigree, and the couches were made of gold and had very soft pillows.",
+    "purport": null
+}
+

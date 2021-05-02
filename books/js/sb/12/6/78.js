@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/12/6/78",
+        "prevId": "sb/12/6/76-77",
+        "nextId": "sb/12/6/79"
+    },
+    "verses": [
+        {
+            "roman": "udīcyāḥ sāma-gāḥ śiṣyā\nāsan pañca-śatāni vai\npauṣyañjy-āvantyayoś cāpi\ntāṁś ca prācyān pracakṣate\n"
+        }
+    ],
+    "synonyms": "udīcyāḥ—belonging to the north; sāma-gāḥ—the singer of the Sāma Veda; śiṣyāḥ—the disciples; āsan—there were; pañca-śatāni—five hundred; vai—indeed; pauṣyañji-āvantyayoḥ—of Pauṣyañji and Āvantya; ca—and; api—indeed; tān—they; ca—also; prācyān—easterners; pracakṣate—are called.",
+    "translation": "The five hundred disciples of Pauṣyañji and Āvantya became known as the northern singers of the Sāma Veda, and in later times some of them also became known as eastern singers.",
+    "purport": null
+}
+

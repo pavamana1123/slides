@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\7\\7\\10", 		"nextId": "sb/7/7/11", 		"prevId": "sb/7/7/9" 	}, 	"verses": [ 		{ 			"roman": "śrī-nārada uvāca\nayaṁ niṣkilbiṣaḥ sākṣān\nmahā-bhāgavato mahān\ntvayā na prāpsyate saṁsthām\nanantānucaro balī\n", 			"isProse": false 		} 	], 	"synonyms": "śrī-nāradaḥ uvāca—the great saint Nārada Muni said; ayam—this (child within the womb); niṣkilbiṣaḥ—completely sinless; sākṣāt—directly; mahā-bhāgavataḥ—a saintly devotee; mahān—very great; tvayā—by you; na—not; prāpsyate—will obtain; saṁsthām—his death; ananta—of the Supreme Personality of Godhead; anucaraḥ—a servant; balī—extremely powerful.", 	"translation": "Nārada Muni replied: The child within this woman’s womb is faultless and sinless. Indeed, he is a great devotee, a powerful servant of the Supreme Personality of Godhead. Therefore you will not be able to kill him.", 	"purport": [ 		{ 			"type": "normal", 			"content": "There have been many instances in which demons or nondevotees have attempted to kill a devotee, but they have never been able to destroy a great devotee of the Supreme Personality of Godhead. The Lord promises in Bhagavad-gītā (9.31), kaunteya pratijānīhi na me bhaktaḥ praṇaśyati. This is a declaration by the Supreme Personality of Godhead that His devotee cannot be killed by demons. Prahlāda Mahārāja is the vivid example of the truth of this promise. Nārada Muni told the King of heaven, “it would be impossible for you to kill the child, even though you are demigods, and certainly it would be impossible for others.”" 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/7/7/10",
+        "prevId": "sb/7/7/9",
+        "nextId": "sb/7/7/11"
+    },
+    "verses": [
+        {
+            "roman": "śrī-nārada uvāca\nayaṁ niṣkilbiṣaḥ sākṣān\nmahā-bhāgavato mahān\ntvayā na prāpsyate saṁsthām\nanantānucaro balī\n"
+        }
+    ],
+    "synonyms": "śrī-nāradaḥ uvāca—the great saint Nārada Muni said; ayam—this (child within the womb); niṣkilbiṣaḥ—completely sinless; sākṣāt—directly; mahā-bhāgavataḥ—a saintly devotee; mahān—very great; tvayā—by you; na—not; prāpsyate—will obtain; saṁsthām—his death; ananta—of the Supreme Personality of Godhead; anucaraḥ—a servant; balī—extremely powerful.",
+    "translation": "Nārada Muni replied: The child within this woman's womb is faultless and sinless. Indeed, he is a great devotee, a powerful servant of the Supreme Personality of Godhead. Therefore you will not be able to kill him.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "There have been many instances in which demons or nondevotees have attempted to kill a devotee, but they have never been able to destroy a great devotee of the Supreme Personality of Godhead. The Lord promises in Bhagavad-gītā , kaunteya pratijānīhi na me bhaktaḥ praṇaśyati. This is a declaration by the Supreme Personality of Godhead that His devotee cannot be killed by demons. Prahlāda Mahārāja is the vivid example of the truth of this promise. Nārada Muni told the King of heaven, \"it would be impossible for you to kill the child, even though you are demigods, and certainly it would be impossible for others.\""
+        }
+    ]
+}
+

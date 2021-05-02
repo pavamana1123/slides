@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\8\\9\\19", 		"nextId": "sb/8/9/20", 		"prevId": "sb/8/9/18" 	}, 	"verses": [ 		{ 			"roman": "asurāṇāṁ sudhā-dānaṁ\nsarpāṇām iva durnayam\nmatvā jāti-nṛśaṁsānāṁ\nna tāṁ vyabhajad acyutaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "asurāṇām—of the demons; sudhā-dānam—giving of the nectar; sarpāṇām—of snakes; iva—like; durnayam—miscalculation; matvā—thinking like that; jāti-nṛśaṁsānām—of those who are by nature very envious; na—not; tām—the nectar; vyabhajat—delivered the share; acyutaḥ—the Supreme Personality of Godhead, who never falls down.", 	"translation": "Demons are by nature crooked like snakes. Therefore, to distribute a share of the nectar to them was not at all feasible, since this would be as dangerous as supplying milk to a snake. Considering this, the Supreme Personality of Godhead, who never falls down, did not deliver a share of nectar to the demons.", 	"purport": [ 		{ 			"type": "normal", 			"content": "It is said, sarpaḥ krūraḥ khalaḥ krūraḥ sarpāt krūrataraḥ khalaḥ: “The snake is very crooked and envious, and so also is a person like a demon.” Mantrauṣadhi-vaśaḥ sarpaḥ khalaḥ kena nivāryate: “One can bring a snake under control with mantras, herbs and drugs, but an envious and crooked person cannot be brought under control by any means.” Considering this logic, the Supreme Personality of Godhead thought it unwise to distribute nectar to the demons." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/8/9/19",
+        "prevId": "sb/8/9/18",
+        "nextId": "sb/8/9/20"
+    },
+    "verses": [
+        {
+            "roman": "asurāṇāṁ sudhā-dānaṁ\nsarpāṇām iva durnayam\nmatvā jāti-nṛśaṁsānāṁ\nna tāṁ vyabhajad acyutaḥ\n"
+        }
+    ],
+    "synonyms": "asurāṇām—of the demons; sudhā-dānam—giving of the nectar; sarpāṇām—of snakes; iva—like; durnayam—miscalculation; matvā—thinking like that; jāti-nṛśaṁsānām—of those who are by nature very envious; na—not; tām—the nectar; vyabhajat—delivered the share; acyutaḥ—the Supreme Personality of Godhead, who never falls down.",
+    "translation": "Demons are by nature crooked like snakes. Therefore, to distribute a share of the nectar to them was not at all feasible, since this would be as dangerous as supplying milk to a snake. Considering this, the Supreme Personality of Godhead, who never falls down, did not deliver a share of nectar to the demons.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "It is said, sarpaḥ krūraḥ khalaḥ krūraḥ sarpāt krūrataraḥ khalaḥ: \"The snake is very crooked and envious, and so also is a person like a demon.\" Mantrauṣadhi-vaśaḥ sarpaḥ khalaḥ kena nivāryate: \"One can bring a snake under control with mantras, herbs and drugs, but an envious and crooked person cannot be brought under control by any means.\" Considering this logic, the Supreme Personality of Godhead thought it unwise to distribute nectar to the demons."
+        }
+    ]
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\11\\9", 		"nextId": "sb/8/11/10", 		"prevId": "sb/8/11/8" 	}, 	"verses": [ 		{ 			"roman": "na vayaṁ manyamānānām\nātmānaṁ tatra sādhanam\ngiro vaḥ sādhu-śocyānāṁ\ngṛhṇīmo marma-tāḍanāḥ\n", 			"isProse": false 		} 	], 	"synonyms": "na—not; vayam—we; manyamānānām—who are considering; ātmānam—the self; tatra—in victory or defeat; sādhanam—the cause; giraḥ—the words; vaḥ—of you; sādhu-śocyānām—who are to be pitied by the saintly persons; gṛhṇīmaḥ—accept; marma-tāḍanāḥ—which afflict the heart.", 	"translation": "You demigods think that your own selves are the cause of your attaining fame and victory. Because of your ignorance, saintly persons feel sorry for you. Therefore, although your words afflict the heart, we do not accept them." }
+var text = {
+    "info": {
+        "id": "sb/8/11/9",
+        "prevId": "sb/8/11/8",
+        "nextId": "sb/8/11/10"
+    },
+    "verses": [
+        {
+            "roman": "na vayaṁ manyamānānām\nātmānaṁ tatra sādhanam\ngiro vaḥ sādhu-śocyānāṁ\ngṛhṇīmo marma-tāḍanāḥ\n"
+        }
+    ],
+    "synonyms": "na—not; vayam—we; manyamānānām—who are considering; ātmānam—the self; tatra—in victory or defeat; sādhanam—the cause; giraḥ—the words; vaḥ—of you; sādhu-śocyānām—who are to be pitied by the saintly persons; gṛhṇīmaḥ—accept; marma-tāḍanāḥ—which afflict the heart.",
+    "translation": "You demigods think that your own selves are the cause of your attaining fame and victory. Because of your ignorance, saintly persons feel sorry for you. Therefore, although your words afflict the heart, we do not accept them.",
+    "purport": null
+}
+

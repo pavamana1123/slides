@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\19\\28", 		"nextId": "sb/8/19/29", 		"prevId": "sb/8/19/27" 	}, 	"verses": [ 		{ 			"roman": "śrī-śuka uvāca\nity uktaḥ sa hasann āha\nvāñchātaḥ pratigṛhyatām\nvāmanāya mahīṁ dātuṁ\njagrāha jala-bhājanam\n", 			"isProse": false 		} 	], 	"synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; iti uktaḥ—thus being addressed; saḥ—he (Bali Mahārāja); hasan—smiling; āha—said; vāñchātaḥ—as You have desired; pratigṛhyatām—now take from me; vāmanāya—unto Lord Vāmana; mahīm—land; dātum—to give; jagrāha—took; jala-bhājanam—the waterpot.", 	"translation": "Śukadeva Gosvāmī continued: When the Supreme Personality of Godhead had thus spoken to Bali Mahārāja, Bali smiled and told Him, “All right. Take whatever You like.” To confirm his promise to give Vāmanadeva the desired land, he then took up his waterpot." }
+var text = {
+    "info": {
+        "id": "sb/8/19/28",
+        "prevId": "sb/8/19/27",
+        "nextId": "sb/8/19/29"
+    },
+    "verses": [
+        {
+            "roman": "śrī-śuka uvāca\nity uktaḥ sa hasann āha\nvāñchātaḥ pratigṛhyatām\nvāmanāya mahīṁ dātuṁ\njagrāha jala-bhājanam\n"
+        }
+    ],
+    "synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; iti uktaḥ—thus being addressed; saḥ—he (Bali Mahārāja); hasan—smiling; āha—said; vāñchātaḥ—as You have desired; pratigṛhyatām—now take from me; vāmanāya—unto Lord Vāmana; mahīm—land; dātum—to give; jagrāha—took; jala-bhājanam—the waterpot.",
+    "translation": "Śukadeva Gosvāmī continued: When the Supreme Personality of Godhead had thus spoken to Bali Mahārāja, Bali smiled and told Him, \"All right. Take whatever You like.\" To confirm his promise to give Vāmanadeva the desired land, he then took up his waterpot.",
+    "purport": null
+}
+

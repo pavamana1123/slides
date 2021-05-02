@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\1\\22", 		"nextId": "sb/8/1/23", 		"prevId": "sb/8/1/21" 	}, 	"verses": [ 		{ 			"roman": "aṣṭāśīti-sahasrāṇi\nmunayo ye dhṛta-vratāḥ\nanvaśikṣan vrataṁ tasya\nkaumāra-brahmacāriṇaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "aṣṭāśīti—eighty-eight; sahasrāṇi—thousand; munayaḥ—great saintly persons; ye—those who; dhṛta-vratāḥ—fixed in vows; anvaśikṣan—took instructions; vratam—vows; tasya—from him (Vibhu); kaumāra—who was unmarried; brahmacāriṇaḥ—and fixed in the brahmacārī stage of life.", 	"translation": "Vibhu remained a brahmacāri and never married throughout his life. From him, eighty-eight thousand other saintly persons took lessons on self-control, austerity and similar behavior." }
+var text = {
+    "info": {
+        "id": "sb/8/1/22",
+        "prevId": "sb/8/1/21",
+        "nextId": "sb/8/1/23"
+    },
+    "verses": [
+        {
+            "roman": "aṣṭāśīti-sahasrāṇi\nmunayo ye dhṛta-vratāḥ\nanvaśikṣan vrataṁ tasya\nkaumāra-brahmacāriṇaḥ\n"
+        }
+    ],
+    "synonyms": "aṣṭāśīti—eighty-eight; sahasrāṇi—thousand; munayaḥ—great saintly persons; ye—those who; dhṛta-vratāḥ—fixed in vows; anvaśikṣan—took instructions; vratam—vows; tasya—from him (Vibhu); kaumāra—who was unmarried; brahmacāriṇaḥ—and fixed in the brahmacārī stage of life.",
+    "translation": "Vibhu remained a brahmacāri and never married throughout his life. From him, eighty-eight thousand other saintly persons took lessons on self-control, austerity and similar behavior.",
+    "purport": null
+}
+

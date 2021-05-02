@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\16\\59", 		"nextId": "sb/8/16/60", 		"prevId": "sb/8/16/58" 	}, 	"verses": [ 		{ 			"roman": "tvaṁ cānena mahā-bhāge\nsamyak cīrṇena keśavam\nātmanā śuddha-bhāvena\nniyatātmā bhajāvyayam\n", 			"isProse": false 		} 	], 	"synonyms": "tvam ca—you also; anena—by this process; mahā-bhāge—O greatly fortunate one; samyak cīrṇena—executed properly; keśavam—unto Lord Keśava; ātmanā—by oneself; śuddha-bhāvena—in a pure state of mind; niyata-ātmā—controlling oneself; bhaja—go on worshiping; avyayam—the Supreme Personality of Godhead, who is inexhaustible.", 	"translation": "O most fortunate lady, establishing your mind in a good spirit, execute this process of payo-vrata and thus worship the Supreme Personality of Godhead, Keśava, who is inexhaustible." }
+var text = {
+    "info": {
+        "id": "sb/8/16/59",
+        "prevId": "sb/8/16/58",
+        "nextId": "sb/8/16/60"
+    },
+    "verses": [
+        {
+            "roman": "tvaṁ cānena mahā-bhāge\nsamyak cīrṇena keśavam\nātmanā śuddha-bhāvena\nniyatātmā bhajāvyayam\n"
+        }
+    ],
+    "synonyms": "tvam ca—you also; anena—by this process; mahā-bhāge—O greatly fortunate one; samyak cīrṇena—executed properly; keśavam—unto Lord Keśava; ātmanā—by oneself; śuddha-bhāvena—in a pure state of mind; niyata-ātmā—controlling oneself; bhaja—go on worshiping; avyayam—the Supreme Personality of Godhead, who is inexhaustible.",
+    "translation": "O most fortunate lady, establishing your mind in a good spirit, execute this process of payo-vrata and thus worship the Supreme Personality of Godhead, Keśava, who is inexhaustible.",
+    "purport": null
+}
+

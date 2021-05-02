@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\9\\25", 		"nextId": "sb/9/9/26-27", 		"prevId": "sb/9/9/23-24" 	}, 	"verses": [ 		{ 			"roman": "rākṣasaṁ bhāvam āpannaḥ\npāde kalmāṣatāṁ gataḥ\nvyavāya-kāle dadṛśe\nvanauko-dampatī dvijau\n", 			"isProse": false 		} 	], 	"synonyms": "rākṣasam—man-eating; bhāvam—propensity; āpannaḥ—having gotten; pāde—on the leg; kalmāṣatām—a black spot; gataḥ—obtained; vyavāya-kāle—at the time of sexual intercourse; dadṛśe—he saw; vana-okaḥ—living in the forest; dam-patī—a husband and wife; dvijau—who were brāhmaṇas.", 	"translation": "Saudāsa thus acquired the propensity of a man-eater and received on his leg a black spot, for which he was known as Kalmāṣapāda. Once King Kalmāṣapāda saw a brāhmaṇa couple engaged in sexual intercourse in the forest." }
+var text = {
+    "info": {
+        "id": "sb/9/9/25",
+        "prevId": "sb/9/9/23-24",
+        "nextId": "sb/9/9/26-27"
+    },
+    "verses": [
+        {
+            "roman": "rākṣasaṁ bhāvam āpannaḥ\npāde kalmāṣatāṁ gataḥ\nvyavāya-kāle dadṛśe\nvanauko-dampatī dvijau\n"
+        }
+    ],
+    "synonyms": "rākṣasam—man-eating; bhāvam—propensity; āpannaḥ—having gotten; pāde—on the leg; kalmāṣatām—a black spot; gataḥ—obtained; vyavāya-kāle—at the time of sexual intercourse; dadṛśe—he saw; vana-okaḥ—living in the forest; dam-patī—a husband and wife; dvijau—who were brāhmaṇas.",
+    "translation": "Saudāsa thus acquired the propensity of a man-eater and received on his leg a black spot, for which he was known as Kalmāṣapāda. Once King Kalmāṣapāda saw a brāhmaṇa couple engaged in sexual intercourse in the forest.",
+    "purport": null
+}
+

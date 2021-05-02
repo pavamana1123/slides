@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\4\\18\\31", 		"nextId": "sb/4/18/32", 		"prevId": "sb/4/18/30" 	}, 	"verses": [ 		{ 			"roman": "grāmān puraḥ pattanāni\ndurgāṇi vividhāni ca\nghoṣān vrajān sa-śibirān\nākarān kheṭa-kharvaṭān\n", 			"isProse": false 		} 	], 	"synonyms": "grāmān—villages; puraḥ—cities; pattanāni—settlements; durgāṇi—forts; vividhāni—of different varieties; ca—also; ghoṣān—habitations for the milkmen; vrajān—pens for cattle; sa-śibirān—with camps; ākarān—mines; kheṭa—agricultural towns; kharvaṭān—mountain villages.", 	"translation": "In this way the King founded many types of villages, settlements and towns and built forts, residences for cowherdsmen, stables for the animals, and places for the royal camps, mining places, agricultural towns and mountain villages." }
+var text = {
+    "info": {
+        "id": "sb/4/18/31",
+        "prevId": "sb/4/18/30",
+        "nextId": "sb/4/18/32"
+    },
+    "verses": [
+        {
+            "roman": "grāmān puraḥ pattanāni\ndurgāṇi vividhāni ca\nghoṣān vrajān sa-śibirān\nākarān kheṭa-kharvaṭān\n"
+        }
+    ],
+    "synonyms": "grāmān—villages; puraḥ—cities; pattanāni—settlements; durgāṇi—forts; vividhāni—of different varieties; ca—also; ghoṣān—habitations for the milkmen; vrajān—pens for cattle; sa-śibirān—with camps; ākarān—mines; kheṭa—agricultural towns; kharvaṭān—mountain villages.",
+    "translation": "In this way the King founded many types of villages, settlements and towns and built forts, residences for cowherdsmen, stables for the animals, and places for the royal camps, mining places, agricultural towns and mountain villages.",
+    "purport": null
+}
+

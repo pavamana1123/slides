@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/50/18",
+        "prevId": "sb/10/50/17",
+        "nextId": "sb/10/50/19"
+    },
+    "verses": [
+        {
+            "roman": "tava rāma yadi śraddhā\nyudhyasva dhairyam udvaha\nhitvā vā mac-charaiś chinnaṁ\ndehaṁ svar yāhi māṁ jahi\n"
+        }
+    ],
+    "synonyms": "tava—Your; rāma—O Balarāma; yadi—if; śraddhā—confidence; yudhyasva—fight; dhairyam—courage; udvaha—take up; hitvā—leaving aside; vā—either; mat—my; śaraiḥ—by the arrows; chinnam—cut to pieces; deham—Your body; svaḥ—to heaven; yāhi—go; mām—(or else) me; jahi—kill.",
+    "translation": "You, Rāma, should gather Your courage and fight with me, if You think You can do it. You may either give up Your body when it is cut to pieces by my arrows, and thus attain to heaven, or else kill me.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "According to ācārya Śrīdhara Svāmī, Jarāsandha suspected that Lord Balarāma's body was indestructible, and thus he offered what might be a more practical alternative, that Balarāma kill Jarāsandha."
+        }
+    ]
+}
+

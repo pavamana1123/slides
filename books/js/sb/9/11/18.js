@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\11\\18", 		"nextId": "sb/9/11/19", 		"prevId": "sb/9/11/17" 	}, 	"verses": [ 		{ 			"roman": "tata ūrdhvaṁ brahmacaryaṁ\ndhāryann ajuhot prabhuḥ\ntrayodaśābda-sāhasram\nagnihotram akhaṇḍitam\n", 			"isProse": false 		} 	], 	"synonyms": "tataḥ—thereafter; ūrdhvam—after mother Sītā’s going into the earth; brahmacaryam—complete celibacy; dhārayan—observing; ajuhot—performed a ritualistic ceremony and sacrifice; prabhuḥ—Lord Rāmacandra; trayodaśa-abda-sāhasram—for thirteen thousand years; agnihotram—the sacrifice known as Agnihotra-yajña; akhaṇḍitam—without ceasing.", 	"translation": "After mother Sītā entered the earth, Lord Rāmacandra observed complete celibacy and performed an uninterrupted Agnihotra-yajña for thirteen thousand years." }
+var text = {
+    "info": {
+        "id": "sb/9/11/18",
+        "prevId": "sb/9/11/17",
+        "nextId": "sb/9/11/19"
+    },
+    "verses": [
+        {
+            "roman": "tata ūrdhvaṁ brahmacaryaṁ\ndhāryann ajuhot prabhuḥ\ntrayodaśābda-sāhasram\nagnihotram akhaṇḍitam\n"
+        }
+    ],
+    "synonyms": "tataḥ—thereafter; ūrdhvam—after mother Sītā's going into the earth; brahmacaryam—complete celibacy; dhārayan—observing; ajuhot—performed a ritualistic ceremony and sacrifice; prabhuḥ—Lord Rāmacandra; trayodaśa-abda-sāhasram—for thirteen thousand years; agnihotram—the sacrifice known as Agnihotra-yajña; akhaṇḍitam—without ceasing.",
+    "translation": "After mother Sītā entered the earth, Lord Rāmacandra observed complete celibacy and performed an uninterrupted Agnihotra-yajña for thirteen thousand years.",
+    "purport": null
+}
+

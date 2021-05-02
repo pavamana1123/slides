@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/11/30/27",
+        "prevId": "sb/11/30/26",
+        "nextId": "sb/11/30/28-32"
+    },
+    "verses": [
+        {
+            "roman": "rāma-niryāṇam ālokya\nbhagavān devakī-sutaḥ\nniṣasāda dharopasthe\ntuṣṇīm āsādya pippalam\n"
+        }
+    ],
+    "synonyms": "rāma-niryāṇam—the departure of Lord Balarāma; ālokya—observing; bhagavān—the Supreme Lord; devakī-sutaḥ—the son of Devakī; niṣasāda—sat down; dharā-upasthe—on the lap of the earth; tuṣṇīm—silently; āsādya—finding; pippalam—a pippala tree.",
+    "translation": "Lord Kṛṣṇa, the son of Devakī, having seen the departure of Lord Rāma, sat down silently on the ground under a nearby pippala tree.",
+    "purport": null
+}
+

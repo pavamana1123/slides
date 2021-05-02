@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\7\\16", 		"nextId": "sb/6/7/17", 		"prevId": "sb/6/7/15" 	}, 	"verses": [ 		{ 			"roman": "evaṁ cintayatas tasya\nmaghono bhagavān gṛhāt\nbṛhaspatir gato ’dṛṣṭāṁ\ngatim adhyātma-māyayā\n", 			"isProse": false 		} 	], 	"synonyms": "evam—thus; cintayataḥ—while thinking very seriously; tasya—he; maghonaḥ—Indra; bhagavān—the most powerful; gṛhāt—from his home; bṛhaspatiḥ—Bṛhaspati; gataḥ—went; adṛṣṭām—invisible; gatim—to a state; adhyātma—due to being highly elevated in spiritual consciousness; māyayā—by his potency.", 	"translation": "While Indra, the King of the demigods, thought in this way and repented in his own assembly, Bṛhaspati, the most powerful spiritual master, understood his mind. Thus he became invisible to Indra and left home, for Bṛhaspati was spiritually more powerful than King Indra." }
+var text = {
+    "info": {
+        "id": "sb/6/7/16",
+        "prevId": "sb/6/7/15",
+        "nextId": "sb/6/7/17"
+    },
+    "verses": [
+        {
+            "roman": "evaṁ cintayatas tasya\nmaghono bhagavān gṛhāt\nbṛhaspatir gato 'dṛṣṭāṁ\ngatim adhyātma-māyayā\n"
+        }
+    ],
+    "synonyms": "evam—thus; cintayataḥ—while thinking very seriously; tasya—he; maghonaḥ—Indra; bhagavān—the most powerful; gṛhāt—from his home; bṛhaspatiḥ—Bṛhaspati; gataḥ—went; adṛṣṭām—invisible; gatim—to a state; adhyātma—due to being highly elevated in spiritual consciousness; māyayā—by his potency.",
+    "translation": "While Indra, the King of the demigods, thought in this way and repented in his own assembly, Bṛhaspati, the most powerful spiritual master, understood his mind. Thus he became invisible to Indra and left home, for Bṛhaspati was spiritually more powerful than King Indra.",
+    "purport": null
+}
+

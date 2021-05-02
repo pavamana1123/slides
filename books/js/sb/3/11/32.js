@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\3\\11\\32", 		"nextId": "sb/3/11/33", 		"prevId": "sb/3/11/31" 	}, 	"verses": [ 		{ 			"roman": "antaḥ sa tasmin salila\nāste ’nantāsano hariḥ\nyoga-nidrā-nimīlākṣaḥ\nstūyamāno janālayaiḥ\n", 			"isProse": false 		} 	], 	"synonyms": "antaḥ—within; saḥ—that; tasmin—in that; salile—water; āste—there is; ananta—Ananta; āsanaḥ—on the seat of; hariḥ—the Lord; yoga—mystic; nidrā—sleep; nimīla-akṣaḥ—eyes closed; stūya-mānaḥ—being glorified; jana-ālayaiḥ—by the inhabitants of the Janaloka planets.", 	"translation": "The Supreme Lord, the Personality of Godhead, lies down in the water on the seat of Ananta, with His eyes closed, and the inhabitants of the Janaloka planets offer their glorious prayers unto the Lord with folded hands.", 	"purport": [ 		{ 			"type": "normal", 			"content": "We should not understand the sleeping condition of the Lord to be the same as our sleep. Here the word yoga-nidrā is specifically mentioned, which indicates that the Lord’s sleeping condition is also a manifestation of His internal potency. Whenever the word yoga is used it should be understood to refer to that which is transcendental. In the transcendental stage all activities are always present, and they are glorified by prayers of great sages like Bhṛgu." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/3/11/32",
+        "prevId": "sb/3/11/31",
+        "nextId": "sb/3/11/33"
+    },
+    "verses": [
+        {
+            "roman": "antaḥ sa tasmin salila\nāste 'nantāsano hariḥ\nyoga-nidrā-nimīlākṣaḥ\nstūyamāno janālayaiḥ\n"
+        }
+    ],
+    "synonyms": "antaḥ—within; saḥ—that; tasmin—in that; salile—water; āste—there is; ananta—Ananta; āsanaḥ—on the seat of; hariḥ—the Lord; yoga—mystic; nidrā—sleep; nimīla-akṣaḥ—eyes closed; stūya-mānaḥ—being glorified; jana-ālayaiḥ—by the inhabitants of the Janaloka planets.",
+    "translation": "The Supreme Lord, the Personality of Godhead, lies down in the water on the seat of Ananta, with His eyes closed, and the inhabitants of the Janaloka planets offer their glorious prayers unto the Lord with folded hands.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "We should not understand the sleeping condition of the Lord to be the same as our sleep. Here the word yoga-nidrā is specifically mentioned, which indicates that the Lord's sleeping condition is also a manifestation of His internal potency. Whenever the word yoga is used it should be understood to refer to that which is transcendental. In the transcendental stage all activities are always present, and they are glorified by prayers of great sages like Bhṛgu."
+        }
+    ]
+}
+

@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\3\\20\\40", 		"nextId": "sb/3/20/41", 		"prevId": "sb/3/20/39" 	}, 	"verses": [ 		{ 			"roman": "sṛṣṭvā bhūta-piśācāṁś ca\nbhagavān ātma-tandriṇā\ndig-vāsaso mukta-keśān\nvīkṣya cāmīlayad dṛśau\n", 			"isProse": false 		} 	], 	"synonyms": "sṛṣṭvā—having created; bhūta—ghosts; piśācān—fiends; ca—and; bhagavān—Lord Brahmā; ātma—his; tandriṇā—from laziness; dik-vāsasaḥ—naked; mukta—disheveled; keśān—hair; vīkṣya—seeing; ca—and; amīlayat—closed; dṛśau—two eyes.", 	"translation": "The glorious Brahmā next evolved from his sloth the ghosts and fiends, but he closed his eyes when he saw them stand naked with their hair scattered.", 	"purport": [ 		{ 			"type": "normal", 			"content": "Ghosts and mischievous hobgoblins are also the creation of Brahmā; they are not false. All of them are meant for putting the conditioned soul into various miseries. They are understood to be the creation of Brahmā under the direction of the Supreme Lord." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/3/20/40",
+        "prevId": "sb/3/20/39",
+        "nextId": "sb/3/20/41"
+    },
+    "verses": [
+        {
+            "roman": "sṛṣṭvā bhūta-piśācāṁś ca\nbhagavān ātma-tandriṇā\ndig-vāsaso mukta-keśān\nvīkṣya cāmīlayad dṛśau\n"
+        }
+    ],
+    "synonyms": "sṛṣṭvā—having created; bhūta—ghosts; piśācān—fiends; ca—and; bhagavān—Lord Brahmā; ātma—his; tandriṇā—from laziness; dik-vāsasaḥ—naked; mukta—disheveled; keśān—hair; vīkṣya—seeing; ca—and; amīlayat—closed; dṛśau—two eyes.",
+    "translation": "The glorious Brahmā next evolved from his sloth the ghosts and fiends, but he closed his eyes when he saw them stand naked with their hair scattered.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Ghosts and mischievous hobgoblins are also the creation of Brahmā; they are not false. All of them are meant for putting the conditioned soul into various miseries. They are understood to be the creation of Brahmā under the direction of the Supreme Lord."
+        }
+    ]
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\5\\2\\23", 		"nextId": "sb/5/3/3_summary", 		"prevId": "sb/5/2/22" 	}, 	"verses": [ 		{ 			"roman": "samparete pitari nava bhrātaro meru-duhitṝr merudevīṁ pratirūpām ugradaṁṣṭrīṁ latāṁ ramyāṁ śyāmāṁ nārīṁ bhadrāṁ devavītim iti saṁjñā navodavahan.\n", 			"isProse": false 		} 	], 	"synonyms": "samparete pitari—after the departure of their father; nava—nine; bhrātaraḥ—brothers; meru-duhitṝḥ—the daughters of Meru; merudevīm—Merudevī; prati-rūpām—Pratirūpā; ugra-daṁṣṭrīm—Ugradaṁṣṭrī; latām—Latā; ramyām—Ramyā; śyāmām—Śyāmā; nārīm—Nārī; bhadrām—Bhadrā; deva-vītim—Devavīti; iti—thus; saṁjñāḥ—the names; nava—nine; udavahan—married.", 	"translation": "After the departure of their father, the nine brothers married the nine daughters of Meru named Merudevī, Pratirūpā, Ugradaṁṣṭrī, Latā, Ramyā, Śyāmā, Nārī, Bhadrā and Devavīti.\n \nThus end the Bhaktivedanta purports of the Fifth Canto, Second Chapter, of the Śrīmad-Bhāgavatam, entitled “The Activities of Mahārāja Āgnīdhra.”" }
+var text = {
+    "info": {
+        "id": "sb/5/2/23",
+        "prevId": "sb/5/2/22",
+        "nextId": "sb/5/3/1"
+    },
+    "verses": [
+        {
+            "roman": "samparete pitari nava bhrātaro meru-duhitṟr\nmerudevīṁ pratirūpām ugradaṁṣṭrīṁ latāṁ\nramyāṁ śyāmāṁ nārīṁ bhadrāṁ\ndevavītim iti saṁjñā navodavahan\n"
+        }
+    ],
+    "synonyms": "samparete pitari—after the departure of their father; nava—nine; bhrātaraḥ—brothers; meru-duhitṟḥ—the daughters of Meru; merudevīm—Merudevī; prati-rūpām—Pratirūpā; ugra-daṁṣṭrīm—Ugradaṁṣṭrī; latām—Latā; ramyām—Ramyā; śyāmām—Śyāmā; nārīm—Nārī; bhadrām—Bhadrā; deva-vītim—Devavīti; iti—thus; saṁjñāḥ—the names; nava—nine; udavahan—married.",
+    "translation": "After the departure of their father, the nine brothers married the nine daughters of Meru named Merudevī, Pratirūpā, Ugradaṁṣṭrī, Latā, Ramyā, Śyāmā, Nārī, Bhadrā and Devavīti.",
+    "purport": null
+}
+

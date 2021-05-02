@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/56/38",
+        "prevId": "sb/10/56/37",
+        "nextId": "sb/10/56/39"
+    },
+    "verses": [
+        {
+            "roman": "satrājitaṁ samāhūya\nsabhāyāṁ rāja-sannidhau\nprāptiṁ cākhyāya bhagavān\nmaṇiṁ tasmai nyavedayat\n"
+        }
+    ],
+    "synonyms": "satrājitam—Satrājit; samāhūya—calling; sabhāyām—into the royal assembly; rāja—of the King (Ugrasena); sannidhau—in the presence; prāptim—the recovery; ca—and; ākhyāya—announcing; bhagavān—the Supreme Lord; maṇim—the jewel; tasmai—to him; nyavedayat—presented.",
+    "translation": "Lord Kṛṣṇa summoned Satrājit to the royal assembly. There, in the presence of King Ugrasena, Kṛṣṇa announced the recovery of the jewel and then formally presented it to Satrājit.",
+    "purport": null
+}
+

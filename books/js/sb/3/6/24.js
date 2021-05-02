@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\6\\24", 		"nextId": "sb/3/6/25", 		"prevId": "sb/3/6/23" 	}, 	"verses": [ 		{ 			"roman": "hṛdayaṁ cāsya nirbhinnaṁ\ncandramā dhiṣṇyam āviśat\nmanasāṁśena yenāsau\nvikriyāṁ pratipadyate\n", 			"isProse": false 		} 	], 	"synonyms": "hṛdayam—heart; ca—also; asya—of the gigantic form; nirbhinnam—being manifested separately; candramā—the moon demigod; dhiṣṇyam—with controlling power; āviśat—entered into; manasā aṁśena—partly with mental activity; yena—by which; asau—the living entity; vikriyām—resolution; pratipadyate—transacts.", 	"translation": "After that, the heart of the gigantic form separately manifested itself, and into it entered the moon demigod with partial mental activity. Thus the living entity can conduct his mental speculations." }
+var text = {
+    "info": {
+        "id": "sb/3/6/24",
+        "prevId": "sb/3/6/23",
+        "nextId": "sb/3/6/25"
+    },
+    "verses": [
+        {
+            "roman": "hṛdayaṁ cāsya nirbhinnaṁ\ncandramā dhiṣṇyam āviśat\nmanasāṁśena yenāsau\nvikriyāṁ pratipadyate\n"
+        }
+    ],
+    "synonyms": "hṛdayam—heart; ca—also; asya—of the gigantic form; nirbhinnam—being manifested separately; candramā—the moon demigod; dhiṣṇyam—with controlling power; āviśat—entered into; manasā aṁśena—partly with mental activity; yena—by which; asau—the living entity; vikriyām—resolution; pratipadyate—transacts.",
+    "translation": "After that, the heart of the gigantic form separately manifested itself, and into it entered the moon demigod with partial mental activity. Thus the living entity can conduct his mental speculations.",
+    "purport": null
+}
+

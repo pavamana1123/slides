@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\4\\1\\33", 		"nextId": "sb/4/1/34", 		"prevId": "sb/4/1/32" 	}, 	"verses": [ 		{ 			"roman": "somo ’bhūd brahmaṇo ’ṁśena\ndatto viṣṇos tu yogavit\ndurvāsāḥ śaṅkarasyāṁśo\nnibodhāṅgirasaḥ prajāḥ\n", 			"isProse": false 		} 	], 	"synonyms": "somaḥ—the king of the moon planet; abhūt—appeared; brahmaṇaḥ—of Lord Brahmā; aṁśena—partial expansion; dattaḥ—Dattātreya; viṣṇoḥ—of Viṣṇu; tu—but; yoga-vit—very powerful yogī; durvāsāḥ—Durvāsā; śaṅkarasya aṁśaḥ—partial expansion of Lord Śiva; nibodha—just try to understand; aṅgirasaḥ—of the great sage Aṅgirā; prajāḥ—generations.", 	"translation": "Thereafter, from the partial representation of Brahmā, the moon-god was born of them; from the partial representation of Viṣṇu, the great mystic Dattātreya was born; and from the partial representation of Śaṅkara [Lord Śiva], Durvāsā was born. Now you may hear from me of the many sons of Aṅgirā." }
+var text = {
+    "info": {
+        "id": "sb/4/1/33",
+        "prevId": "sb/4/1/32",
+        "nextId": "sb/4/1/34"
+    },
+    "verses": [
+        {
+            "roman": "somo 'bhūd brahmaṇo 'ṁśena\ndatto viṣṇos tu yogavit\ndurvāsāḥ śaṅkarasyāṁśo\nnibodhāṅgirasaḥ prajāḥ\n"
+        }
+    ],
+    "synonyms": "somaḥ—the king of the moon planet; abhūt—appeared; brahmaṇaḥ—of Lord Brahmā; aṁśena—partial expansion; dattaḥ—Dattātreya; viṣṇoḥ—of Viṣṇu; tu—but; yoga-vit—very powerful yogī; durvāsāḥ—Durvāsā; śaṅkarasya aṁśaḥ—partial expansion of Lord Śiva; nibodha—just try to understand; aṅgirasaḥ—of the great sage Aṅgirā; prajāḥ—generations.",
+    "translation": "Thereafter, from the partial representation of Brahmā, the moon-god was born of them; from the partial representation of Viṣṇu, the great mystic Dattātreya was born; and from the partial representation of Śaṅkara [Lord Śiva], Durvāsā was born. Now you may hear from me of the many sons of Aṅgirā.",
+    "purport": null
+}
+

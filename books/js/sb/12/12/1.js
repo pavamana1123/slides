@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/12/12/1",
+        "prevId": "sb/12/12/summary",
+        "nextId": "sb/12/12/2"
+    },
+    "verses": [
+        {
+            "roman": "sūta uvāca\nnamo dharmāya mahate\nnamaḥ kṛṣṇāya vedhase\nbrahmaṇebhyo namaskṛtya\ndharmān vakṣye sanātanān\n"
+        }
+    ],
+    "synonyms": "sūtaḥ uvāca—Sūta Gosvāmī said; namaḥ—obeisances; dharmāya—to the principle of religion; mahate—greatest; namaḥ—obeisances; kṛṣṇāya—to Lord Kṛṣṇa; vedhase—the creator; brahmaṇebhyaḥ—to the brāhmaṇas; namaskṛtya—offering my obeisances; dharmān—the principles of religion; vakṣye—I shall speak; sanātanān—eternal.",
+    "translation": "Sūta Gosvāmī said: Offering my obeisances to the supreme religious principle, devotional service; to Lord Kṛṣṇa, the supreme creator; and to all the brāhmaṇas, I shall now describe the eternal principles of religion.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "In this Twelfth Chapter of the Twelfth Canto, Sūta Gosvāmī will summarize all the topics of Śrīmad-Bhāgavatam, beginning from the First Canto."
+        }
+    ]
+}
+

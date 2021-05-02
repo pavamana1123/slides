@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/78/34",
+        "prevId": "sb/10/78/33",
+        "nextId": "sb/10/78/35"
+    },
+    "verses": [
+        {
+            "roman": "dīrgham āyur bataitasya\nsattvam indriyam eva ca\nāśāsitaṁ yat tad brūte\nsādhaye yoga-māyayā\n"
+        }
+    ],
+    "synonyms": "dīrgham—long; āyuḥ—life span; bata—oh; etasya—for him; sattvam—strength; indriyam—sensory power; eva ca—also; āśāsitam—promised; yat—which; tat—that; brūte—please say: sādhaye-I shall make happen; yoga-māyayā—by My mystic power.",
+    "translation": "O sages, just say the word, and by My mystic power I shall restore everything you promised him-long life, strength and sensory power.",
+    "purport": null
+}
+

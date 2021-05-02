@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\26\\66", 		"nextId": "sb/3/26/67", 		"prevId": "sb/3/26/65" 	}, 	"verses": [ 		{ 			"roman": "gudaṁ mṛtyur apānena\nnodatiṣṭhat tadā virāṭ\nhastāv indro balenaiva\nnodatiṣṭhat tadā virāṭ\n", 			"isProse": false 		} 	], 	"synonyms": "gudam—His anus; mṛtyuḥ—the god of death; apānena—with the organ of defecation; na—not; udatiṣṭhat—did arise; tadā—even then; virāṭ—the virāṭ-puruṣa; hastau—the two hands; indraḥ—Lord Indra; balena—with their power to grasp and drop things; eva—indeed; na—not; udatiṣṭhat—did arise; tadā—even then; virāṭ—the virāṭ-puruṣa.", 	"translation": "The god of death entered His anus with the organ of defecation, but the virāṭ-puruṣa could not be spurred to activity. The god Indra entered the hands with their power of grasping and dropping things, but the virāṭ-puruṣa would not get up even then." }
+var text = {
+    "info": {
+        "id": "sb/3/26/66",
+        "prevId": "sb/3/26/65",
+        "nextId": "sb/3/26/67"
+    },
+    "verses": [
+        {
+            "roman": "gudaṁ mṛtyur apānena\nnodatiṣṭhat tadā virāṭ\nhastāv indro balenaiva\nnodatiṣṭhat tadā virāṭ\n"
+        }
+    ],
+    "synonyms": "gudam—His anus; mṛtyuḥ—the god of death; apānena—with the organ of defecation; na—not; udatiṣṭhat—did arise; tadā—even then; virāṭ—the virāṭ-puruṣa; hastau—the two hands; indraḥ—Lord Indra; balena—with their power to grasp and drop things; eva—indeed; na—not; udatiṣṭhat—did arise; tadā—even then; virāṭ—the virāṭ-puruṣa.",
+    "translation": "The god of death entered His anus with the organ of defecation, but the virāṭ-puruṣa could not be spurred to activity. The god Indra entered the hands with their power of grasping and dropping things, but the virāṭ-puruṣa would not get up even then.",
+    "purport": null
+}
+

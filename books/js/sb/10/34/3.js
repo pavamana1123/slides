@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/34/3",
+        "prevId": "sb/10/34/2",
+        "nextId": "sb/10/34/4"
+    },
+    "verses": [
+        {
+            "roman": "gāvo hiraṇyaṁ vāsāṁsi\nmadhu madhv-annam ādṛtāḥ\nbrāhmaṇebhyo daduḥ sarve\ndevo naḥ prīyatām iti\n"
+        }
+    ],
+    "synonyms": "gāvaḥ—cows; hiraṇyam—gold; vāsāṁsi—clothing; madhu—sweet-tasting; madhu—mixed with honey; annam—grains; ādṛtāḥ—respectfully; brāhmaṇebhyaḥ—to the brāhmaṇas; daduḥ—they gave; sarve—all of them; devaḥ—the lord; naḥ—with us; prīyatām—may be pleased; iti—thus praying.",
+    "translation": "The cowherd men gave the brāhmaṇas gifts of cows, gold, clothing and cooked grains mixed with honey. Then the cowherds prayed, \"May the lord be pleased with us.\"",
+    "purport": null
+}
+

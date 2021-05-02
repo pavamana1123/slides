@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\10\\3\\42", 		"nextId": "sb/10/3/43", 		"prevId": "sb/10/3/41" 	}, 	"verses": [ 		{ 			"roman": "tayor vāṁ punar evāham\nadityām āsa kaśyapāt\nupendra iti vikhyāto\nvāmanatvāc ca vāmanaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "tayoḥ—of you two, husband and wife; vām—in both of you; punaḥ eva—even again; aham—I Myself; adityām—in the womb of Aditi; āsa—appeared; kaśyapāt—by the semen of Kaśyapa Muni; upendraḥ—by the name Upendra; iti—thus; vikhyātaḥ—celebrated; vāmanatvāt ca—and because of being a dwarf; vāmanaḥ—I was known as Vāmana.", 	"translation": "In the next millennium, I again appeared from the two of you, who appeared as My mother, Aditi, and My father, Kaśyapa. I was known as Upendra, and because of being a dwarf, I was also known as Vāmana." }
+var text = {
+    "info": {
+        "id": "sb/10/3/42",
+        "prevId": "sb/10/3/41",
+        "nextId": "sb/10/3/43"
+    },
+    "verses": [
+        {
+            "roman": "tayor vāṁ punar evāham\nadityām āsa kaśyapāt\nupendra iti vikhyāto\nvāmanatvāc ca vāmanaḥ\n"
+        }
+    ],
+    "synonyms": "tayoḥ—of you two, husband and wife; vām—in both of you; punaḥ eva—even again; aham—I Myself; adityām—in the womb of Aditi; āsa—appeared; kaśyapāt—by the semen of Kaśyapa Muni; upendraḥ—by the name Upendra; iti—thus; vikhyātaḥ—celebrated; vāmanatvāt ca—and because of being a dwarf; vāmanaḥ—I was known as Vāmana.",
+    "translation": "In the next millennium, I again appeared from the two of you, who appeared as My mother, Aditi, and My father, Kaśyapa. I was known as Upendra, and because of being a dwarf, I was also known as Vāmana.",
+    "purport": null
+}
+

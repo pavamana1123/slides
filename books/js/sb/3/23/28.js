@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\23\\28", 		"nextId": "sb/3/23/29", 		"prevId": "sb/3/23/27" 	}, 	"verses": [ 		{ 			"roman": "snānena tāṁ mahārheṇa\nsnāpayitvā manasvinīm\ndukūle nirmale nūtne\ndadur asyai ca mānadāḥ\n", 			"isProse": false 		} 	], 	"synonyms": "snānena—with bathing oils; tām—her; mahā-arheṇa—very costly; snāpayitvā—after bathing; manasvinīm—the virtuous wife; dukūle—in fine cloth; nirmale—spotless; nūtne—new; daduḥ—they gave; asyai—to her; ca—and; māna-dāḥ—the respectful girls.", 	"translation": "The girls, being very respectful to Devahūti, brought her forth, and after bathing her with valuable oils and ointments, they gave her fine, new, spotless cloth to cover her body." }
+var text = {
+    "info": {
+        "id": "sb/3/23/28",
+        "prevId": "sb/3/23/27",
+        "nextId": "sb/3/23/29"
+    },
+    "verses": [
+        {
+            "roman": "snānena tāṁ mahārheṇa\nsnāpayitvā manasvinīm\ndukūle nirmale nūtne\ndadur asyai ca mānadāḥ\n"
+        }
+    ],
+    "synonyms": "snānena—with bathing oils; tām—her; mahā-arheṇa—very costly; snāpayitvā—after bathing; manasvinīm—the virtuous wife; dukūle—in fine cloth; nirmale—spotless; nūtne—new; daduḥ—they gave; asyai—to her; ca—and; māna-dāḥ—the respectful girls.",
+    "translation": "The girls, being very respectful to Devahūti, brought her forth, and after bathing her with valuable oils and ointments, they gave her fine, new, spotless cloth to cover her body.",
+    "purport": null
+}
+

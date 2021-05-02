@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\16\\13", 		"nextId": "sb/3/16/14", 		"prevId": "sb/3/16/12" 	}, 	"verses": [ 		{ 			"roman": "brahmovāca\natha tasyośatīṁ devīm\nṛṣi-kulyāṁ sarasvatīm\nnāsvādya manyu-daṣṭānāṁ\nteṣām ātmāpy atṛpyata\n", 			"isProse": false 		} 	], 	"synonyms": "brahmā—Lord Brahmā; uvāca—said; atha—now; tasya—of the Supreme Lord; uśatīm—lovely; devīm—shining; ṛṣi-kulyām—like a series of Vedic hymns; sarasvatīm—speech; na—not; āsvādya—hearing; manyu—anger; daṣṭānām—bitten; teṣām—of those sages; ātmā—the mind; api—even though; atṛpyata—satiated.", 	"translation": "Brahmā continued: Even though the sages had been bitten by the serpent of anger, their souls were not satiated with hearing the Lord’s lovely and illuminating speech, which was like a series of Vedic hymns." }
+var text = {
+    "info": {
+        "id": "sb/3/16/13",
+        "prevId": "sb/3/16/12",
+        "nextId": "sb/3/16/14"
+    },
+    "verses": [
+        {
+            "roman": "brahmovāca\natha tasyośatīṁ devīm\nṛṣi-kulyāṁ sarasvatīm\nnāsvādya manyu-daṣṭānāṁ\nteṣām ātmāpy atṛpyata\n"
+        }
+    ],
+    "synonyms": "brahmā—Lord Brahmā; uvāca—said; atha—now; tasya—of the Supreme Lord; uśatīm—lovely; devīm—shining; ṛṣi-kulyām—like a series of Vedic hymns; sarasvatīm—speech; na—not; āsvādya—hearing; manyu—anger; daṣṭānām—bitten; teṣām—of those sages; ātmā—the mind; api—even though; atṛpyata—satiated.",
+    "translation": "Brahmā continued: Even though the sages had been bitten by the serpent of anger, their souls were not satiated with hearing the Lord's lovely and illuminating speech, which was like a series of Vedic hymns.",
+    "purport": null
+}
+

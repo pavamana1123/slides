@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\12\\11", 		"nextId": "sb/9/12/12", 		"prevId": "sb/9/12/10" 	}, 	"verses": [ 		{ 			"roman": "sahadevas tato vīro\nbṛhadaśvo ’tha bhānumān\npratīkāśvo bhānumataḥ\nsupratīko ’tha tat-sutaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "sahadevaḥ—Sahadeva; tataḥ—from Divāka; vīraḥ—a great hero; bṛhadaśvaḥ—Bṛhadaśva; atha—from him; bhānumān—Bhānumān; pratīkāśvaḥ—Pratīkāśva; bhānumataḥ—from Bhānumān; supratīkaḥ—Supratīka; atha—thereafter; tat-sutaḥ—the son of Pratīkāśva.", 	"translation": "Thereafter, from Divāka will come a son named Sahadeva, and from Sahadeva a great hero named Bṛhadaśva. From Bṛhadaśva will come Bhānumān, and from Bhānumān will come Pratīkāśva. The son of Pratīkāśva will be Supratīka." }
+var text = {
+    "info": {
+        "id": "sb/9/12/11",
+        "prevId": "sb/9/12/10",
+        "nextId": "sb/9/12/12"
+    },
+    "verses": [
+        {
+            "roman": "sahadevas tato vīro\nbṛhadaśvo 'tha bhānumān\npratīkāśvo bhānumataḥ\nsupratīko 'tha tat-sutaḥ\n"
+        }
+    ],
+    "synonyms": "sahadevaḥ—Sahadeva; tataḥ—from Divāka; vīraḥ—a great hero; bṛhadaśvaḥ—Bṛhadaśva; atha—from him; bhānumān—Bhānumān; pratīkāśvaḥ—Pratīkāśva; bhānumataḥ—from Bhānumān; supratīkaḥ—Supratīka; atha—thereafter; tat-sutaḥ—the son of Pratīkāśva.",
+    "translation": "Thereafter, from Divāka will come a son named Sahadeva, and from Sahadeva a great hero named Bṛhadaśva. From Bṛhadaśva will come Bhānumān, and from Bhānumān will come Pratīkāśva. The son of Pratīkāśva will be Supratīka.",
+    "purport": null
+}
+

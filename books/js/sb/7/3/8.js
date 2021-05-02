@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\7\\3\\8", 		"nextId": "sb/7/3/9-10", 		"prevId": "sb/7/3/7" 	}, 	"verses": [ 		{ 			"roman": "tasyāyaṁ kila saṅkalpaś\ncarato duścaraṁ tapaḥ\nśrūyatāṁ kiṁ na viditas\ntavāthāpi niveditam\n", 			"isProse": false 		} 	], 	"synonyms": "tasya—his; ayam—this; kila—indeed; saṅkalpaḥ—determination; carataḥ—who is executing; duścaram—very difficult; tapaḥ—austerity; śrūyatām—let it be heard; kim—what; na—not; viditaḥ—known; tava—of you; athāpi—still; niveditam—submitted.", 	"translation": "Hiraṇyakaśipu has undertaken a most severe type of austerity. Although his plan is not unknown to you, kindly listen as we submit his intentions." }
+var text = {
+    "info": {
+        "id": "sb/7/3/8",
+        "prevId": "sb/7/3/7",
+        "nextId": "sb/7/3/9-10"
+    },
+    "verses": [
+        {
+            "roman": "tasyāyaṁ kila saṅkalpaś\ncarato duścaraṁ tapaḥ\nśrūyatāṁ kiṁ na viditas\ntavāthāpi niveditam\n"
+        }
+    ],
+    "synonyms": "tasya—his; ayam—this; kila—indeed; saṅkalpaḥ—determination; carataḥ—who is executing; duścaram—very difficult; tapaḥ—austerity; śrūyatām—let it be heard; kim—what; na—not; viditaḥ—known; tava—of you; athāpi—still; niveditam—submitted.",
+    "translation": "Hiraṇyakaśipu has undertaken a most severe type of austerity. Although his plan is not unknown to you, kindly listen as we submit his intentions.",
+    "purport": null
+}
+

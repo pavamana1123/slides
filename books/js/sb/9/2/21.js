@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\9\\2\\21", 		"nextId": "sb/9/2/22", 		"prevId": "sb/9/2/20" 	}, 	"verses": [ 		{ 			"roman": "tato ’gniveśyo bhagavān\nagniḥ svayam abhūt sutaḥ\nkānīna iti vikhyāto\njātūkarṇyo mahān ṛṣiḥ\n", 			"isProse": false 		} 	], 	"synonyms": "tataḥ—from Devadatta; agniveśyaḥ—a son named Agniveśya; bhagavān—the most powerful; agniḥ—the fire-god; svayam—personally; abhūt—became; sutaḥ—the son; kānīnaḥ—Kānīna; iti—thus; vikhyātaḥ—was celebrated; jātūkarṇyaḥ—Jātūkarṇya; mahān ṛṣiḥ—the great saintly person.", 	"translation": "From Devadatta came a son known as Agniveśya, who was the fire-god Agni himself. This son, who was a celebrated saint, was well known as Kānīna and Jātūkarṇya.", 	"purport": [ 		{ 			"type": "normal", 			"content": "Agniveśya was also known as Kānīna and Jātūkarṇya." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/9/2/21",
+        "prevId": "sb/9/2/20",
+        "nextId": "sb/9/2/22"
+    },
+    "verses": [
+        {
+            "roman": "tato 'gniveśyo bhagavān\nagniḥ svayam abhūt sutaḥ\nkānīna iti vikhyāto\njātūkarṇyo mahān ṛṣiḥ\n"
+        }
+    ],
+    "synonyms": "tataḥ—from Devadatta; agniveśyaḥ—a son named Agniveśya; bhagavān—the most powerful; agniḥ—the fire-god; svayam—personally; abhūt—became; sutaḥ—the son; kānīnaḥ—Kānīna; iti—thus; vikhyātaḥ—was celebrated; jātūkarṇyaḥ—Jātūkarṇya; mahān ṛṣiḥ—the great saintly person.",
+    "translation": "From Devadatta came a son known as Agniveśya, who was the fire-god Agni himself. This son, who was a celebrated saint, was well known as Kānīna and Jātūkarṇya.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Agniveśya was also known as Kānīna and Jātūkarṇya."
+        }
+    ]
+}
+

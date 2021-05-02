@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\19\\21", 		"nextId": "sb/3/19/22", 		"prevId": "sb/3/19/20" 	}, 	"verses": [ 		{ 			"roman": "bahubhir yakṣa-rakṣobhiḥ\npatty-aśva-ratha-kuñjaraiḥ\nātatāyibhir utsṛṣṭā\nhiṁsrā vāco ’tivaiśasāḥ\n", 			"isProse": false 		} 	], 	"synonyms": "bahubhiḥ—by many; yakṣa-rakṣobhiḥ—Yakṣas and Rākṣasas; patti—marching on foot; aśva—on horses; ratha—on chariots; kuñjaraiḥ—or on elephants; ātatāyibhiḥ—ruffians; utsṛṣṭāḥ—were uttered; hiṁsrāḥ—cruel; vācaḥ—words; ati-vaiśasāḥ—murderous.", 	"translation": "Cruel and savage slogans were uttered by hosts of ruffian Yakṣas and Rākṣasas, who all either marched on foot or rode on horses, elephants or chariots." }
+var text = {
+    "info": {
+        "id": "sb/3/19/21",
+        "prevId": "sb/3/19/20",
+        "nextId": "sb/3/19/22"
+    },
+    "verses": [
+        {
+            "roman": "bahubhir yakṣa-rakṣobhiḥ\npatty-aśva-ratha-kuñjaraiḥ\nātatāyibhir utsṛṣṭā\nhiṁsrā vāco 'tivaiśasāḥ\n"
+        }
+    ],
+    "synonyms": "bahubhiḥ—by many; yakṣa-rakṣobhiḥ—Yakṣas and Rākṣasas; patti—marching on foot; aśva—on horses; ratha—on chariots; kuñjaraiḥ—or on elephants; ātatāyibhiḥ—ruffians; utsṛṣṭāḥ—were uttered; hiṁsrāḥ—cruel; vācaḥ—words; ati-vaiśasāḥ—murderous.",
+    "translation": "Cruel and savage slogans were uttered by hosts of ruffian Yakṣas and Rākṣasas, who all either marched on foot or rode on horses, elephants or chariots.",
+    "purport": null
+}
+

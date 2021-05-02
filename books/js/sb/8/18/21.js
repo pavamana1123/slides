@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\18\\21", 		"nextId": "sb/8/18/22", 		"prevId": "sb/8/18/20" 	}, 	"verses": [ 		{ 			"roman": "taṁ narmadāyās taṭa uttare baler\nya ṛtvijas te bhṛgukaccha-saṁjñake\npravartayanto bhṛgavaḥ kratūttamaṁ\nvyacakṣatārād uditaṁ yathā ravim\n", 			"isProse": false 		} 	], 	"synonyms": "tam—Him (Vāmanadeva); narmadāyāḥ—of the River Narmadā; taṭe—on the bank; uttare—northern; baleḥ—of Mahārāja Bali; ye—who; ṛtvijaḥ—the priests engaged in ritualistic ceremonies; te—all of them; bhṛgukaccha-saṁjñake—in the field named Bhṛgukaccha; pravartayantaḥ—performing; bhṛgavaḥ—all the descendants of Bhṛgu; kratu-uttamam—the most important sacrifice, named aśvamedha; vyacakṣata—they observed; ārāt—nearby; uditam—risen; yathā—like; ravim—the sun.", 	"translation": "While engaged in performing the sacrifice in the field known as Bhṛgukaccha, on the northern bank of the Narmadā River, the brahminical priests, the descendants of Bhṛgu, saw Vāmanadeva to be like the sun rising nearby." }
+var text = {
+    "info": {
+        "id": "sb/8/18/21",
+        "prevId": "sb/8/18/20",
+        "nextId": "sb/8/18/22"
+    },
+    "verses": [
+        {
+            "roman": "taṁ narmadāyās taṭa uttare baler\nya ṛtvijas te bhṛgukaccha-saṁjñake\npravartayanto bhṛgavaḥ kratūttamaṁ\nvyacakṣatārād uditaṁ yathā ravim\n"
+        }
+    ],
+    "synonyms": "tam—Him (Vāmanadeva); narmadāyāḥ—of the River Narmadā; taṭe—on the bank; uttare—northern; baleḥ—of Mahārāja Bali; ye—who; ṛtvijaḥ—the priests engaged in ritualistic ceremonies; te—all of them; bhṛgukaccha-saṁjñake—in the field named Bhṛgukaccha; pravartayantaḥ—performing; bhṛgavaḥ—all the descendants of Bhṛgu; kratu-uttamam—the most important sacrifice, named aśvamedha; vyacakṣata—they observed; ārāt—nearby; uditam—risen; yathā—like; ravim—the sun.",
+    "translation": "While engaged in performing the sacrifice in the field known as Bhṛgukaccha, on the northern bank of the Narmadā River, the brahminical priests, the descendants of Bhṛgu, saw Vāmanadeva to be like the sun rising nearby.",
+    "purport": null
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\24\\43", 		"nextId": "sb/8/24/44", 		"prevId": "sb/8/24/42" 	}, 	"verses": [ 		{ 			"roman": "tam ūcur munayaḥ prītā\nrājan dhyāyasva keśavam\nsa vai naḥ saṅkaṭād asmād\navitā śaṁ vidhāsyati\n", 			"isProse": false 		} 	], 	"synonyms": "tam—unto the King; ūcuḥ—said; munayaḥ—all the saintly brāhmaṇas; prītāḥ—being pleased; rājan—O King; dhyāyasva—meditate; keśavam—upon the Supreme Lord, Keśava; saḥ—His Lordship; vai—indeed; naḥ—us; saṅkaṭāt—from the great danger; asmāt—as now visible; avitā—will save; śam—auspiciousness; vidhāsyati—He will arrange.", 	"translation": "The saintly brāhmaṇas, being pleased with the King, said to him: O King, please meditate upon the Supreme Personality of Godhead, Keśava. He will save us from this impending danger and arrange for our well-being." }
+var text = {
+    "info": {
+        "id": "sb/8/24/43",
+        "prevId": "sb/8/24/42",
+        "nextId": "sb/8/24/44"
+    },
+    "verses": [
+        {
+            "roman": "tam ūcur munayaḥ prītā\nrājan dhyāyasva keśavam\nsa vai naḥ saṅkaṭād asmād\navitā śaṁ vidhāsyati\n"
+        }
+    ],
+    "synonyms": "tam—unto the King; ūcuḥ—said; munayaḥ—all the saintly brāhmaṇas; prītāḥ—being pleased; rājan—O King; dhyāyasva—meditate; keśavam—upon the Supreme Lord, Keśava; saḥ—His Lordship; vai—indeed; naḥ—us; saṅkaṭāt—from the great danger; asmāt—as now visible; avitā—will save; śam—auspiciousness; vidhāsyati—He will arrange.",
+    "translation": "The saintly brāhmaṇas, being pleased with the King, said to him: O King, please meditate upon the Supreme Personality of Godhead, Keśava. He will save us from this impending danger and arrange for our well-being.",
+    "purport": null
+}
+

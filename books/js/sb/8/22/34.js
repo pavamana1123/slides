@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\22\\34", 		"nextId": "sb/8/22/35", 		"prevId": "sb/8/22/33" 	}, 	"verses": [ 		{ 			"roman": "na tvām abhibhaviṣyanti\nlokeśāḥ kim utāpare\ntvac-chāsanātigān daityāṁś\ncakraṁ me sūdayiṣyati\n", 			"isProse": false 		} 	], 	"synonyms": "na—not; tvām—unto you; abhibhaviṣyanti—will be able to conquer; loka-īśāḥ—the predominating deities of the various planets; kim uta apare—what to speak of ordinary people; tvat-śāsana-atigān—who transgress your rulings; daityān—such demons; cakram—disc; me—My; sūdayiṣyati—will kill.", 	"translation": "On the planet Sutala, not even the predominating deities of other planets, what to speak of ordinary people, will be able to conquer you. As far as the demons are concerned, if they transgress your rule, My disc will kill them." }
+var text = {
+    "info": {
+        "id": "sb/8/22/34",
+        "prevId": "sb/8/22/33",
+        "nextId": "sb/8/22/35"
+    },
+    "verses": [
+        {
+            "roman": "na tvām abhibhaviṣyanti\nlokeśāḥ kim utāpare\ntvac-chāsanātigān daityāṁś\ncakraṁ me sūdayiṣyati\n"
+        }
+    ],
+    "synonyms": "na—not; tvām—unto you; abhibhaviṣyanti—will be able to conquer; loka-īśāḥ—the predominating deities of the various planets; kim uta apare—what to speak of ordinary people; tvat-śāsana-atigān—who transgress your rulings; daityān—such demons; cakram—disc; me—My; sūdayiṣyati—will kill.",
+    "translation": "On the planet Sutala, not even the predominating deities of other planets, what to speak of ordinary people, will be able to conquer you. As far as the demons are concerned, if they transgress your rule, My disc will kill them.",
+    "purport": null
+}
+

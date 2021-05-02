@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/53/33",
+        "prevId": "sb/10/53/32",
+        "nextId": "sb/10/53/34"
+    },
+    "verses": [
+        {
+            "roman": "madhu-parkam upānīya\nvāsāṁsi virajāṁsi saḥ\nupāyanāny abhīṣṭāni\nvidhi-vat samapūjayat\n"
+        }
+    ],
+    "synonyms": "madhu-parkam—the traditional mixture of milk and honey; upānīya—bearing; vāsāṁsi—garments; virajāṁsi—spotless; saḥ—he; upāyanāni—presentations; abhīṣṭāni—desirable; vidhi-vat—according to scriptural prescriptions; samapūjayat—performed worshiped.",
+    "translation": "Presenting Them with madhu-parka, new clothing and other desirable gifts, he worshiped Them according to standard rituals.",
+    "purport": null
+}
+

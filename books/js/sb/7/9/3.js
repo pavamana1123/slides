@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\7\\9\\3", 		"nextId": "sb/7/9/4", 		"prevId": "sb/7/9/2" 	}, 	"verses": [ 		{ 			"roman": "prahrādaṁ preṣayām āsa\nbrahmāvasthitam antike\ntāta praśamayopehi\nsva-pitre kupitaṁ prabhum\n", 			"isProse": false 		} 	], 	"synonyms": "prahrādam—Prahlāda Mahārāja; preṣayām āsa—requested; brahmā—Lord Brahmā; avasthitam—being situated; antike—very near; tāta—my dear son; praśamaya—just try to appease; upehi—go near; sva-pitre—because of your father’s demoniac activities; kupitam—greatly angered; prabhum—the Lord.", 	"translation": "Thereafter Lord Brahmā requested Prahlāda Mahārāja, who was standing very near him: My dear son, Lord Nṛsiṁhadeva is extremely angry at your demoniac father. Please go forward and appease the Lord." }
+var text = {
+    "info": {
+        "id": "sb/7/9/3",
+        "prevId": "sb/7/9/2",
+        "nextId": "sb/7/9/4"
+    },
+    "verses": [
+        {
+            "roman": "prahrādaṁ preṣayām āsa\nbrahmāvasthitam antike\ntāta praśamayopehi\nsva-pitre kupitaṁ prabhum\n"
+        }
+    ],
+    "synonyms": "prahrādam—Prahlāda Mahārāja; preṣayām āsa—requested; brahmā—Lord Brahmā; avasthitam—being situated; antike—very near; tāta—my dear son; praśamaya—just try to appease; upehi—go near; sva-pitre—because of your father's demoniac activities; kupitam—greatly angered; prabhum—the Lord.",
+    "translation": "Thereafter Lord Brahmā requested Prahlāda Mahārāja, who was standing very near him: My dear son, Lord Nṛsiṁhadeva is extremely angry at your demoniac father. Please go forward and appease the Lord.",
+    "purport": null
+}
+

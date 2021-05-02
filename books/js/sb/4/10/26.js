@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\4\\10\\26", 		"nextId": "sb/4/10/27", 		"prevId": "sb/4/10/25" 	}, 	"verses": [ 		{ 			"roman": "ahayo ’śani-niḥśvāsā\nvamanto ’gniṁ ruṣākṣibhiḥ\nabhyadhāvan gajā mattāḥ\nsiṁha-vyāghrāś ca yūthaśaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "ahayaḥ—serpents; aśani—thunderbolts; niḥśvāsāḥ—breathing; vamantaḥ—vomiting; agnim—fire; ruṣā-akṣibhiḥ—with angry eyes; abhyadhāvan—came forward; gajāḥ—elephants; mattāḥ—mad; siṁha—lions; vyāghrāḥ—tigers; ca—also; yūthaśaḥ—in groups.", 	"translation": "Dhruva Mahārāja also saw many big serpents with angry eyes, vomiting forth fire and coming to devour him, along with groups of mad elephants, lions and tigers." }
+var text = {
+    "info": {
+        "id": "sb/4/10/26",
+        "prevId": "sb/4/10/25",
+        "nextId": "sb/4/10/27"
+    },
+    "verses": [
+        {
+            "roman": "ahayo 'śani-niḥśvāsā\nvamanto 'gniṁ ruṣākṣibhiḥ\nabhyadhāvan gajā mattāḥ\nsiṁha-vyāghrāś ca yūthaśaḥ\n"
+        }
+    ],
+    "synonyms": "ahayaḥ—serpents; aśani—thunderbolts; niḥśvāsāḥ—breathing; vamantaḥ—vomiting; agnim—fire; ruṣā-akṣibhiḥ—with angry eyes; abhyadhāvan—came forward; gajāḥ—elephants; mattāḥ—mad; siṁha—lions; vyāghrāḥ—tigers; ca—also; yūthaśaḥ—in groups.",
+    "translation": "Dhruva Mahārāja also saw many big serpents with angry eyes, vomiting forth fire and coming to devour him, along with groups of mad elephants, lions and tigers.",
+    "purport": null
+}
+

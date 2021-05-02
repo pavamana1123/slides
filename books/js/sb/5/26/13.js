@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\5\\26\\13", 		"nextId": "sb/5/26/14", 		"prevId": "sb/5/26/12" 	}, 	"verses": [ 		{ 			"roman": "yas tv iha vā ugraḥ paśūn pakṣiṇo vā prāṇata uparandhayati tam apakaruṇaṁ puruṣādair api vigarhitam amutra yamānucarāḥ kumbhīpāke tapta-taile uparandhayanti.\n", 			"isProse": false 		} 	], 	"synonyms": "yaḥ—a person who; tu—but; iha—in this life; vā—or; ugraḥ—very cruel; paśūn—animals; pakṣiṇaḥ—birds; vā—or; prāṇataḥ—in a live condition; uparandhayati—cooks; tam—him; apakaruṇam—very cruel-hearted; puruṣa-ādaiḥ—by those who eat human flesh; api—even; vigarhitam—condemned; amutra—in the next life; yama-anucarāḥ—the servants of Yamarāja; kumbhīpāke—in the hell known as Kumbhīpāka; tapta-taile—in boiling oil; uparandhayanti—cook.", 	"translation": "For the maintenance of their bodies and the satisfaction of their tongues, cruel persons cook poor animals and birds alive. Such persons are condemned even by man-eaters. In their next lives they are carried by the Yamadūtas to the hell known as Kumbhīpāka, where they are cooked in boiling oil." }
+var text = {
+    "info": {
+        "id": "sb/5/26/13",
+        "prevId": "sb/5/26/12",
+        "nextId": "sb/5/26/14"
+    },
+    "verses": [
+        {
+            "roman": "yas tv iha vā ugraḥ paśūn pakṣiṇo vā prāṇata\nuparandhayati tam apakaruṇaṁ puruṣādair api vigarhitam amutra\nyamānucarāḥ kumbhīpāke tapta-taile uparandhayanti\n"
+        }
+    ],
+    "synonyms": "yaḥ—a person who; tu—but; iha—in this life; vā—or; ugraḥ—very cruel; paśūn—animals; pakṣiṇaḥ—birds; vā—or; prāṇataḥ—in a live condition; uparandhayati—cooks; tam—him; apakaruṇam—very cruel-hearted; puruṣa-ādaiḥ—by those who eat human flesh; api—even; vigarhitam—condemned; amutra—in the next life; yama-anucarāḥ—the servants of Yamarāja; kumbhīpāke—in the hell known as Kumbhīpāka; tapta-taile—in boiling oil; uparandhayanti—cook.",
+    "translation": "For the maintenance of their bodies and the satisfaction of their tongues, cruel persons cook poor animals and birds alive. Such persons are condemned even by man-eaters. In their next lives they are carried by the Yamadūtas to the hell known as Kumbhīpāka, where they are cooked in boiling oil.",
+    "purport": null
+}
+

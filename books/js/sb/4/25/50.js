@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\4\\25\\50", 		"nextId": "sb/4/25/51", 		"prevId": "sb/4/25/49" 	}, 	"verses": [ 		{ 			"roman": "pitṛhūr nṛpa puryā dvār\ndakṣiṇena purañjanaḥ\nrāṣṭraṁ dakṣiṇa-pañcālaṁ\nyāti śrutadharānvitaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "pitṛhūḥ—of the name Pitṛhū; nṛpa—O King; puryāḥ—of the city; dvāḥ—gate; dakṣiṇena—on the southern side; purañjanaḥ—King Purañjana; rāṣṭram—country; dakṣiṇa—southern; pañcālam—of the name Pañcāla; yāti—used to go; śruta-dhara-anvitaḥ—along with his friend Śrutadhara.", 	"translation": "The southern gate of the city was known as Pitṛhū, and through that gate King Purañjana used to visit the city named Dakṣiṇa-pañcāla, accompanied by his friend Śrutadhara.", 	"purport": [ 		{ 			"type": "normal", 			"content": "The right ear is used for karma-kāṇḍīya, or fruitive activities. As long as one is attached to the enjoyment of material resources, he hears from the right ear and uses the five senses to elevate himself to the higher planetary systems like Pitṛloka. Consequently, the right ear is here described as the Pitṛhū gate." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/4/25/50",
+        "prevId": "sb/4/25/49",
+        "nextId": "sb/4/25/51"
+    },
+    "verses": [
+        {
+            "roman": "pitṛhūr nṛpa puryā dvār\ndakṣiṇena purañjanaḥ\nrāṣṭraṁ dakṣiṇa-pañcālaṁ\nyāti śrutadharānvitaḥ\n"
+        }
+    ],
+    "synonyms": "pitṛhūḥ—of the name Pitṛhū; nṛpa—O King; puryāḥ—of the city; dvāḥ—gate; dakṣiṇena—on the southern side; purañjanaḥ—King Purañjana; rāṣṭram—country; dakṣiṇa—southern; pañcālam—of the name Pañcāla; yāti—used to go; śruta-dhara-anvitaḥ—along with his friend Śrutadhara.",
+    "translation": "The southern gate of the city was known as Pitṛhū, and through that gate King Purañjana used to visit the city named Dakṣiṇa-pañcāla, accompanied by his friend Śrutadhara.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The right ear is used for karma-kāṇḍīya, or fruitive activities. As long as one is attached to the enjoyment of material resources, he hears from the right ear and uses the five senses to elevate himself to the higher planetary systems like Pitṛloka. Consequently, the right ear is here described as the Pitṛhū gate."
+        }
+    ]
+}
+

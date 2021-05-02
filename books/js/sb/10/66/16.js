@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/66/16",
+        "prevId": "sb/10/66/15",
+        "nextId": "sb/10/66/17"
+    },
+    "verses": [
+        {
+            "roman": "śulair gadābhiḥ parighaiḥ\nśakty-ṛṣṭi-prāsa-tomaraiḥ\nasibhiḥ paṭṭiśair bāṇaiḥ\nprāharann arayo harim\n"
+        }
+    ],
+    "synonyms": "śūlaiḥ—with tridents; gadābhiḥ—clubs; parighaiḥ—and bludgeons; śakti—pikes; ṛṣṭi—a kind of sword; prāsa—long, barbed darts; tomaraiḥ—and lances; asibhiḥ—with swords; paṭṭiśaiḥ—with axes; bāṇaiḥ—and with arrows; prāharan—attacked; arayaḥ—the enemies; harim—Lord Kṛṣṇa.",
+    "translation": "The enemies of Lord Hari attacked Him with tridents, clubs, bludgeons, pikes, ṛṣtis, barbed darts, lances, swords, axes and arrows.",
+    "purport": null
+}
+

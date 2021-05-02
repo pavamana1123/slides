@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\18\\47", 		"nextId": "sb/9/18/48", 		"prevId": "sb/9/18/46" 	}, 	"verses": [ 		{ 			"roman": "devayāny apy anudinaṁ\nmano-vāg-deha-vastubhiḥ\npreyasaḥ paramāṁ prītim\nuvāha preyasī rahaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "devayānī—Mahārāja Yayāti’s wife, the daughter of Śukrācārya; api—also; anudinam—twenty-four hours, day after day; manaḥ-vāk—by her mind and words; deha—body; vastubhiḥ—with all requisite things; preyasaḥ—of her beloved husband; paramām—transcendental; prītim—bliss; uvāha—executed; preyasī—very dear to her husband; rahaḥ—in seclusion, without any disturbance.", 	"translation": "In secluded places, engaging her mind, words, body and various paraphernalia, Devayānī, the dear wife of Mahārāja Yayāti, always brought her husband the greatest possible transcendental bliss." }
+var text = {
+    "info": {
+        "id": "sb/9/18/47",
+        "prevId": "sb/9/18/46",
+        "nextId": "sb/9/18/48"
+    },
+    "verses": [
+        {
+            "roman": "devayāny apy anudinaṁ\nmano-vāg-deha-vastubhiḥ\npreyasaḥ paramāṁ prītim\nuvāha preyasī rahaḥ\n"
+        }
+    ],
+    "synonyms": "devayānī—Mahārāja Yayāti's wife, the daughter of Śukrācārya; api—also; anudinam—twenty-four hours, day after day; manaḥ-vāk—by her mind and words; deha—body; vastubhiḥ—with all requisite things; preyasaḥ—of her beloved husband; paramām—transcendental; prītim—bliss; uvāha—executed; preyasī—very dear to her husband; rahaḥ—in seclusion, without any disturbance.",
+    "translation": "In secluded places, engaging her mind, words, body and various paraphernalia, Devayānī, the dear wife of Mahārāja Yayāti, always brought her husband the greatest possible transcendental bliss.",
+    "purport": null
+}
+

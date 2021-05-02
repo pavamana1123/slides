@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\22\\18", 		"nextId": "sb/8/22/19", 		"prevId": "sb/8/22/17" 	}, 	"verses": [ 		{ 			"roman": "śrī-śuka uvāca\ntasyānuśṛṇvato rājan\nprahrādasya kṛtāñjaleḥ\nhiraṇyagarbho bhagavān\nuvāca madhusūdanam\n", 			"isProse": false 		} 	], 	"synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; tasya—of Prahlāda Mahārāja; anuśṛṇvataḥ—so that he could hear; rājan—O King Parīkṣit; prahrādasya—of Prahlāda Mahārāja; kṛta-añjaleḥ—who was standing with folded hands; hiraṇyagarbhaḥ—Lord Brahmā; bhagavān—the most powerful; uvāca—said; madhusūdanam—unto Madhusūdana, the Personality of Godhead.", 	"translation": "Śukadeva Gosvāmī continued: O King Parīkṣit, Lord Brahmā then began to speak to the Supreme Personality of Godhead, within the hearing of Prahlāda Mahārāja, who stood nearby with folded hands." }
+var text = {
+    "info": {
+        "id": "sb/8/22/18",
+        "prevId": "sb/8/22/17",
+        "nextId": "sb/8/22/19"
+    },
+    "verses": [
+        {
+            "roman": "śrī-śuka uvāca\ntasyānuśṛṇvato rājan\nprahrādasya kṛtāñjaleḥ\nhiraṇyagarbho bhagavān\nuvāca madhusūdanam\n"
+        }
+    ],
+    "synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; tasya—of Prahlāda Mahārāja; anuśṛṇvataḥ—so that he could hear; rājan—O King Parīkṣit; prahrādasya—of Prahlāda Mahārāja; kṛta-añjaleḥ—who was standing with folded hands; hiraṇyagarbhaḥ—Lord Brahmā; bhagavān—the most powerful; uvāca—said; madhusūdanam—unto Madhusūdana, the Personality of Godhead.",
+    "translation": "Śukadeva Gosvāmī continued: O King Parīkṣit, Lord Brahmā then began to speak to the Supreme Personality of Godhead, within the hearing of Prahlāda Mahārāja, who stood nearby with folded hands.",
+    "purport": null
+}
+

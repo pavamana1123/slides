@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\5\\2", 		"nextId": "sb/8/5/3", 		"prevId": "sb/8/5/1" 	}, 	"verses": [ 		{ 			"roman": "pañcamo raivato nāma\nmanus tāmasa-sodaraḥ\nbali-vindhyādayas tasya\nsutā hārjuna-pūrvakāḥ\n", 			"isProse": false 		} 	], 	"synonyms": "pañcamaḥ—the fifth; raivataḥ—Raivata; nāma—by the name; manuḥ—Manu; tāmasa-sodaraḥ—the brother of Tāmasa Manu; bali—Bali; vindhya—Vindhya; ādayaḥ—and so on; tasya—his; sutāḥ—sons; ha—certainly; arjuna—Arjuna; pūrvakāḥ—heading all the sons.", 	"translation": "The brother of Tāmasa Manu was the fifth Manu, named Raivata. His sons were headed by Arjuna, Bali and Vindhya." }
+var text = {
+    "info": {
+        "id": "sb/8/5/2",
+        "prevId": "sb/8/5/1",
+        "nextId": "sb/8/5/3"
+    },
+    "verses": [
+        {
+            "roman": "pañcamo raivato nāma\nmanus tāmasa-sodaraḥ\nbali-vindhyādayas tasya\nsutā hārjuna-pūrvakāḥ\n"
+        }
+    ],
+    "synonyms": "pañcamaḥ—the fifth; raivataḥ—Raivata; nāma—by the name; manuḥ—Manu; tāmasa-sodaraḥ—the brother of Tāmasa Manu; bali—Bali; vindhya—Vindhya; ādayaḥ—and so on; tasya—his; sutāḥ—sons; ha—certainly; arjuna—Arjuna; pūrvakāḥ—heading all the sons.",
+    "translation": "The brother of Tāmasa Manu was the fifth Manu, named Raivata. His sons were headed by Arjuna, Bali and Vindhya.",
+    "purport": null
+}
+

@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/11/7/69",
+        "prevId": "sb/11/7/68",
+        "nextId": "sb/11/7/70"
+    },
+    "verses": [
+        {
+            "roman": "anurūpānukūlā ca\nyasya me pati-devatā\nśūnye gṛhe māṁ santyajya\nputraiḥ svar yāti sādhubhiḥ\n"
+        }
+    ],
+    "synonyms": "anurūpā—suitable; anukūlā—faithful; ca—and; yasya—of whom; me—of me; pati-devatā—she who accepted her husband as a worshipable deity; śūnye—empty; gṛhe—in the home; mām—me; santyajya—leaving behind; putraiḥ—along with her sons; svaḥ—to heaven; yāti—is going; sādhubhiḥ—saintly.",
+    "translation": "My wife and I were an ideal match. She always faithfully obeyed me and in fact accepted me as her worshipable deity. But now, seeing her children lost and her home empty, she has left me behind and gone to heaven with our saintly children.",
+    "purport": null
+}
+

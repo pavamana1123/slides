@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\16\\3", 		"nextId": "sb/6/16/4", 		"prevId": "sb/6/16/2" 	}, 	"verses": [ 		{ 			"roman": "kalevaraṁ svam āviśya\nśeṣam āyuḥ suhṛd-vṛtaḥ\nbhuṅkṣva bhogān pitṛ-prattān\nadhitiṣṭha nṛpāsanam\n", 			"isProse": false 		} 	], 	"synonyms": "kalevaram—body; svam—your own; āviśya—entering; śeṣam—the balance; āyuḥ—duration of life; suhṛt-vṛtaḥ—surrounded by your friends and relatives; bhuṅkṣva—just enjoy; bhogān—all enjoyable opulences; pitṛ—by your father; prattān—awarded; adhitiṣṭha—accept; nṛpa-āsanam—the throne of the king.", 	"translation": "Because you died untimely, the balance of your lifetime still remains. Therefore you may reenter your body and enjoy the remainder of your life, surrounded by your friends and relatives. Accept the royal throne and all the opulences given by your father." }
+var text = {
+    "info": {
+        "id": "sb/6/16/3",
+        "prevId": "sb/6/16/2",
+        "nextId": "sb/6/16/4"
+    },
+    "verses": [
+        {
+            "roman": "kalevaraṁ svam āviśya\nśeṣam āyuḥ suhṛd-vṛtaḥ\nbhuṅkṣva bhogān pitṛ-prattān\nadhitiṣṭha nṛpāsanam\n"
+        }
+    ],
+    "synonyms": "kalevaram—body; svam—your own; āviśya—entering; śeṣam—the balance; āyuḥ—duration of life; suhṛt-vṛtaḥ—surrounded by your friends and relatives; bhuṅkṣva—just enjoy; bhogān—all enjoyable opulences; pitṛ—by your father; prattān—awarded; adhitiṣṭha—accept; nṛpa-āsanam—the throne of the king.",
+    "translation": "Because you died untimely, the balance of your lifetime still remains. Therefore you may reenter your body and enjoy the remainder of your life, surrounded by your friends and relatives. Accept the royal throne and all the opulences given by your father.",
+    "purport": null
+}
+

@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/16/7",
+        "prevId": "sb/11/16/6",
+        "nextId": "sb/11/16/8"
+    },
+    "verses": [
+        {
+            "roman": "jñātvā jñāti-vadhaṁ garhyam\nadharmaṁ rājya-hetukam\ntato nivṛtto hantāhaṁ\nhato 'yam iti laukikaḥ\n"
+        }
+    ],
+    "synonyms": "jñātvā—being aware; jñāti—of his relatives; vadham—the killing; garhyam—abominable; adharmam—irreligion; rājya—to acquire a kingdom; hetukam—having as the motive; tataḥ—from such activity; nivṛttaḥ—retired; haratā—the killer; aham—I am; hataḥ—killed; ayam—this group of relatives; iti—thus; laukikaḥ—mundane.",
+    "translation": "On the Battlefield of Kurukṣetra Arjuna thought that killing his relatives would be an abominable, irreligious activity, motivated only by his desire to acquire a kingdom. He therefore desisted from the battle, thinking, \"I would be the killer of my relatives. They would be destroyed.\" Thus Arjuna was afflicted with mundane consciousness.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Lord Kṛṣṇa here explains to Uddhava the circumstances in which Śrī Arjuna posed his questions."
+        }
+    ]
+}
+

@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/2/15",
+        "prevId": "sb/11/2/14",
+        "nextId": "sb/11/2/16"
+    },
+    "verses": [
+        {
+            "roman": "priyavrato nāma suto\nmanoḥ svāyambhuvasya yaḥ\ntasyāgnīdhras tato nābhir\nṛṣabhas tat-sutaḥ smṛtaḥ\n"
+        }
+    ],
+    "synonyms": "priyavrataḥ—Mahārāja Priyavrata; nāma—by name; sutaḥ—the son; manoḥ svāyambhuvasya—of Svāyambhuva Manu; yaḥ—who; tasya—his; āgnīdhraḥ—(son was) Āgnīdhra; tataḥ—from him (Āgnīdhra); nābhiḥ—King Nābhi; ṛṣabhaḥ—Lord Ṛṣabhadeva; tat-sutaḥ—his son; smṛtaḥ—is so remembered.",
+    "translation": "Svāyambhuva Manu had a son named Mahārāja Priyavrata, and among Priyavrata's sons was Āgnīdhra. From Āgnīdhra was born Nābhi, whose son was known as Ṛṣabhadeva.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The genealogical background of the sons of Ṛṣabhadeva is given in this verse."
+        }
+    ]
+}
+

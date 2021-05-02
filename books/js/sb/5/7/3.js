@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\5\\7\\3", 		"nextId": "sb/5/7/4", 		"prevId": "sb/5/7/2" 	}, 	"verses": [ 		{ 			"roman": "ajanābhaṁ nāmaitad varṣaṁ bhāratam iti yata ārabhya vyapadiśanti.\n", 			"isProse": false 		} 	], 	"synonyms": "ajanābham—Ajanābha; nāma—by the name; etat—this; varṣam—island; bhāratam—Bhārata; iti—thus; yataḥ—from whom; ārabhya—beginning; vyapadiśanti—they celebrate.", 	"translation": "Formerly this planet was known as Ajanābha-varṣa, but since Mahārāja Bharata’s reign, it has become known as Bhārata-varṣa.", 	"purport": [ 		{ 			"type": "normal", 			"content": "This planet was formerly known as Ajanābha because of the reign of King Nābhi. After Bharata Mahārāja ruled the planet, it became celebrated as Bhārata-varṣa." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/5/7/3",
+        "prevId": "sb/5/7/2",
+        "nextId": "sb/5/7/4"
+    },
+    "verses": [
+        {
+            "roman": "ajanābhaṁ nāmaitad varṣaṁ bhāratam\niti yata ārabhya vyapadiśanti\n"
+        }
+    ],
+    "synonyms": "ajanābham—Ajanābha; nāma—by the name; etat—this; varṣam—island; bhāratam—Bhārata; iti—thus; yataḥ—from whom; ārabhya—beginning; vyapadiśanti—they celebrate.",
+    "translation": "Formerly this planet was known as Ajanābha-varṣa, but since Mahārāja Bharata's reign, it has become known as Bhārata-varṣa.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "This planet was formerly known as Ajanābha because of the reign of King Nābhi. After Bharata Mahārāja ruled the planet, it became celebrated as Bhārata-varṣa."
+        }
+    ]
+}
+

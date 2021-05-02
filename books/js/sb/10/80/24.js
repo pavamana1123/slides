@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/80/24",
+        "prevId": "sb/10/80/23",
+        "nextId": "sb/10/80/25-26"
+    },
+    "verses": [
+        {
+            "roman": "antaḥ-pura-jano dṛṣṭvā\nkṛṣṇenāmala-kīrtinā\nvismito 'bhūd ati-prītyā\navadhūtaṁ sabhājitam\n"
+        }
+    ],
+    "synonyms": "antaḥ-pura—of the royal palace; janaḥ—the people; dṛṣṭvā—seeing; kṛṣṇena—by Lord Kṛṣṇa; amala—spotless; kīrtinā—whose fame; vismitaḥ—amazed; abhūt—they became; ati—intense; prītyā—with loving affection; avadhūtam—the unkempt brāhmaṇa; sabhājitam—honored.",
+    "translation": "The people in the royal palace were astonished to see Kṛṣṇa, the Lord of spotless glory, so lovingly honor this shabbily dressed brāhmaṇa.",
+    "purport": null
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\15\\9", 		"nextId": "sb/6/15/10", 		"prevId": "sb/6/15/8" 	}, 	"verses": [ 		{ 			"roman": "śrī-śuka uvāca\nevam āśvāsito rājā\ncitraketur dvijoktibhiḥ\nvimṛjya pāṇinā vaktram\nādhi-mlānam abhāṣata\n", 			"isProse": false 		} 	], 	"synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; evam—thus; āśvāsitaḥ—being enlightened or given hope; rājā—the King; citraketuḥ—Citraketu; dvija-uktibhiḥ—by the instructions of the great brāhmaṇas (Nārada and Aṅgirā Ṛṣi); vimṛjya—wiping off; pāṇinā—by the hand; vaktram—his face; ādhi-mlānam—shriveled due to lamentation; abhāṣata—spoke intelligently.", 	"translation": "Śrī Śukadeva Gosvāmī continued: Thus enlightened by the instructions of Nārada and Aṅgirā, King Citraketu became hopeful with knowledge. Wiping his shriveled face with his hand, the King began to speak." }
+var text = {
+    "info": {
+        "id": "sb/6/15/9",
+        "prevId": "sb/6/15/8",
+        "nextId": "sb/6/15/10"
+    },
+    "verses": [
+        {
+            "roman": "śrī-śuka uvāca\nevam āśvāsito rājā\ncitraketur dvijoktibhiḥ\nvimṛjya pāṇinā vaktram\nādhi-mlānam abhāṣata\n"
+        }
+    ],
+    "synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; evam—thus; āśvāsitaḥ—being enlightened or given hope; rājā—the King; citraketuḥ—Citraketu; dvija-uktibhiḥ—by the instructions of the great brāhmaṇas (Nārada and Aṅgirā Ṛṣi); vimṛjya—wiping off; pāṇinā—by the hand; vaktram—his face; ādhi-mlānam—shriveled due to lamentation; abhāṣata—spoke intelligently.",
+    "translation": "Śrī Śukadeva Gosvāmī continued: Thus enlightened by the instructions of Nārada and Aṅgirā, King Citraketu became hopeful with knowledge. Wiping his shriveled face with his hand, the King began to speak.",
+    "purport": null
+}
+

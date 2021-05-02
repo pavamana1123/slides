@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\20\\39", 		"nextId": "sb/3/20/40", 		"prevId": "sb/3/20/38" 	}, 	"verses": [ 		{ 			"roman": "visasarja tanuṁ tāṁ vai\njyotsnāṁ kāntimatīṁ priyām\nta eva cādaduḥ prītyā\nviśvāvasu-purogamāḥ\n", 			"isProse": false 		} 	], 	"synonyms": "visasarja—gave up; tanum—form; tām—that; vai—in fact; jyotsnām—moonlight; kānti-matīm—shining; priyām—beloved; te—the Gandharvas; eva—certainly; ca—and; ādaduḥ—took possession; prītyā—gladly; viśvāvasu-puraḥ-gamāḥ—headed by Viśvāvasu.", 	"translation": "After that, Brahmā gave up that shining and beloved form of moonlight. Viśvāvasu and other Gandharvas gladly took possession of it." }
+var text = {
+    "info": {
+        "id": "sb/3/20/39",
+        "prevId": "sb/3/20/38",
+        "nextId": "sb/3/20/40"
+    },
+    "verses": [
+        {
+            "roman": "visasarja tanuṁ tāṁ vai\njyotsnāṁ kāntimatīṁ priyām\nta eva cādaduḥ prītyā\nviśvāvasu-purogamāḥ\n"
+        }
+    ],
+    "synonyms": "visasarja—gave up; tanum—form; tām—that; vai—in fact; jyotsnām—moonlight; kānti-matīm—shining; priyām—beloved; te—the Gandharvas; eva—certainly; ca—and; ādaduḥ—took possession; prītyā—gladly; viśvāvasu-puraḥ-gamāḥ—headed by Viśvāvasu.",
+    "translation": "After that, Brahmā gave up that shining and beloved form of moonlight. Viśvāvasu and other Gandharvas gladly took possession of it.",
+    "purport": null
+}
+

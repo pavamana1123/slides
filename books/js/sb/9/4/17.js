@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\4\\17", 		"nextId": "sb/9/4/18-20", 		"prevId": "sb/9/4/15-16" 	}, 	"verses": [ 		{ 			"roman": "vāsudeve bhagavati\ntad-bhakteṣu ca sādhuṣu\nprāpto bhāvaṁ paraṁ viśvaṁ\nyenedaṁ loṣṭravat smṛtam\n", 			"isProse": false 		} 	], 	"synonyms": "vāsudeve—unto the all-pervading Supreme Personality; bhagavati—unto the Supreme Personality of Godhead; tat-bhakteṣu—unto His devotees; ca—also; sādhuṣu—unto the saintly persons; prāptaḥ—one who has achieved; bhāvam—reverence and devotion; param—transcendental; viśvam—the whole material universe; yena—by which (spiritual consciousness); idam—this; loṣṭra-vat—as insignificant as a piece of stone; smṛtam—is accepted (by such devotees).", 	"translation": "Mahārāja Ambarīṣa was a great devotee of the Supreme Personality of Godhead, Vāsudeva, and of the saintly persons who are the Lord’s devotees. Because of this devotion, he thought of the entire universe as being as insignificant as a piece of stone." }
+var text = {
+    "info": {
+        "id": "sb/9/4/17",
+        "prevId": "sb/9/4/15-16",
+        "nextId": "sb/9/4/18-20"
+    },
+    "verses": [
+        {
+            "roman": "vāsudeve bhagavati\ntad-bhakteṣu ca sādhuṣu\nprāpto bhāvaṁ paraṁ viśvaṁ\nyenedaṁ loṣṭravat smṛtam\n"
+        }
+    ],
+    "synonyms": "vāsudeve—unto the all-pervading Supreme Personality; bhagavati—unto the Supreme Personality of Godhead; tat-bhakteṣu—unto His devotees; ca—also; sādhuṣu—unto the saintly persons; prāptaḥ—one who has achieved; bhāvam—reverence and devotion; param—transcendental; viśvam—the whole material universe; yena—by which (spiritual consciousness); idam—this; loṣṭra-vat—as insignificant as a piece of stone; smṛtam—is accepted (by such devotees).",
+    "translation": "Mahārāja Ambarīṣa was a great devotee of the Supreme Personality of Godhead, Vāsudeva, and of the saintly persons who are the Lord's devotees. Because of this devotion, he thought of the entire universe as being as insignificant as a piece of stone.",
+    "purport": null
+}
+

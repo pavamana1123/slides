@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/60/26",
+        "prevId": "sb/10/60/25",
+        "nextId": "sb/10/60/27-28"
+    },
+    "verses": [
+        {
+            "roman": "paryaṅkād avaruhyāśu\ntām utthāpya catur-bhujaḥ\nkeśān samuhya tad-vaktraṁ\nprāmṛjat padma-pāṇinā\n"
+        }
+    ],
+    "synonyms": "paryaṅkāt—from the bed; avaruhya—stepping down; āśu—quickly; tām—her; utthāpya—picking up; catur-bhujaḥ—displaying four arms; keśān—her hair; samuhya—gathering; tat—her; vaktram—face; prāmṛjat—He wiped; padma-pāṇinā—with His lotus hand.",
+    "translation": "The Lord quickly got down from the bed. Manifesting four arms, He picked her up, gathered her hair and caressed her face with His lotus hand.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The Lord manifested four hands so He could do all of these things simultaneously."
+        }
+    ]
+}
+

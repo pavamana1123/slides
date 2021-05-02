@@ -1,0 +1,41 @@
+var text = {
+    "info": {
+        "id": "sb/10/59/33",
+        "prevId": "sb/10/59/32",
+        "nextId": "sb/10/59/34"
+    },
+    "verses": [
+        {
+            "roman": "tatra rājanya-kanyānāṁ\nṣaṭ-sahasrādhikāyutam\nbhaumāhṛtānāṁ vikramya\nrājabhyo dadṛśe hariḥ\n"
+        }
+    ],
+    "synonyms": "tatra—there; rājanya—of the royal order; kanyānām—of maidens; ṣaṭ-sahasra—six thousand; adhika—more than; ayutam—ten thousand; bhauma—by Bhauma; āhṛtānām—taken; vikramya—by force; rājabhyaḥ—from kings; dadṛśe—saw; hariḥ—Lord Kṛṣṇa.",
+    "translation": "There Lord Kṛṣṇa saw sixteen thousand royal maidens, whom Bhauma had taken by force from various kings.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Śrīla Śrīdhara Svāmī provides evidence from the sage Parāśara, as quoted in the Viṣṇu Purāṇa (5.29.31), to the effect that there were actually 16,100 royal maidens imprisoned in Bhauma's palace:"
+        },
+        {
+            "type": "verse",
+            "content": "kanyā-pure sa kanyānāṁṣoḍaśātulya-vikramaḥ\nśatādhikāni dadṛśesahasrāṇi mahā-mate"
+        },
+        {
+            "type": "normal",
+            "content": "\"Within the maidens' quarters, O wise one, that Lord of unequaled prowess found 16,100 princesses.\""
+        },
+        {
+            "type": "normal",
+            "content": "Another relevant verse from the Viṣṇu Purāṇa (5.29.9) is as follows:"
+        },
+        {
+            "type": "verse",
+            "content": "deva-siddhāsurādīnāṁnṛpānāṁ ca janārdana\nhṛtvā hi so 'suraḥ kanyārurodha nija-mandire"
+        },
+        {
+            "type": "normal",
+            "content": "\"The demon [Bhaumāsura] kidnapped the unmarried daughters of demigods, siddhas, asuras and kings, O Janārdana, and imprisoned them in his palace.\""
+        }
+    ]
+}
+

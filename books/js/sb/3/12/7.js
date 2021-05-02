@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\3\\12\\7", 		"nextId": "sb/3/12/8", 		"prevId": "sb/3/12/6" 	}, 	"verses": [ 		{ 			"roman": "dhiyā nigṛhyamāṇo ’pi\nbhruvor madhyāt prajāpateḥ\nsadyo ’jāyata tan-manyuḥ\nkumāro nīla-lohitaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "dhiyā—by intelligence; nigṛhyamāṇaḥ—being controlled; api—in spite of; bhruvoḥ—of the eyebrows; madhyāt—from between; prajāpateḥ—of Brahmā; sadyaḥ—at once; ajāyata—generated; tat—his; manyuḥ—anger; kumāraḥ—a child; nīla-lohitaḥ—mixture of blue and red.", 	"translation": "Although he tried to curb his anger, it came out from between his eyebrows, and a child mixed blue and red was immediately generated.", 	"purport": [ 		{ 			"type": "normal", 			"content": "The face of anger is the same whether exhibited due to ignorance or knowledge. Although Brahmā tried to curb his anger, he could not do so, even though he is the supreme being. Such anger in its true color came from between the eyebrows of Brahmā as Rudra, in a mixed color of blue (ignorance) and red (passion), because anger is the product of passion and ignorance." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/3/12/7",
+        "prevId": "sb/3/12/6",
+        "nextId": "sb/3/12/8"
+    },
+    "verses": [
+        {
+            "roman": "dhiyā nigṛhyamāṇo 'pi\nbhruvor madhyāt prajāpateḥ\nsadyo 'jāyata tan-manyuḥ\nkumāro nīla-lohitaḥ\n"
+        }
+    ],
+    "synonyms": "dhiyā—by intelligence; nigṛhyamāṇaḥ—being controlled; api—in spite of; bhruvoḥ—of the eyebrows; madhyāt—from between; prajāpateḥ—of Brahmā; sadyaḥ—at once; ajāyata—generated; tat—his; manyuḥ—anger; kumāraḥ—a child; nīla-lohitaḥ—mixture of blue and red.",
+    "translation": "Although he tried to curb his anger, it came out from between his eyebrows, and a child mixed blue and red was immediately generated.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The face of anger is the same whether exhibited due to ignorance or knowledge. Although Brahmā tried to curb his anger, he could not do so, even though he is the supreme being. Such anger in its true color came from between the eyebrows of Brahmā as Rudra, in a mixed color of blue (ignorance) and red (passion), because anger is the product of passion and ignorance."
+        }
+    ]
+}
+

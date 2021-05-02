@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/46/42",
+        "prevId": "sb/10/46/41",
+        "nextId": "sb/10/46/43"
+    },
+    "verses": [
+        {
+            "roman": "yuvayor eva naivāyam\nātmajo bhagavān hariḥ\nsarveṣām ātmajo hy ātmā\npitā mātā sa īśvaraḥ\n"
+        }
+    ],
+    "synonyms": "yuvayoḥ—of you two; eva—alone; na—not; eva—indeed; ayam—He; ātma-jaḥ—the son; bhagavān—the Supreme Personality of Godhead; hariḥ—Lord Kṛṣṇa; sarveṣām—of all; ātma-jaḥ—the son; hi—indeed; ātmā—the very self; pitā—father; mātā—mother; saḥ—He; īśvaraḥ—the controlling Lord.",
+    "translation": "The Supreme Lord Hari is certainly not your son alone. Rather, being the Lord, He is the son, Soul, father and mother of everyone.",
+    "purport": null
+}
+

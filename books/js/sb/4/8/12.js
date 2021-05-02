@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\4\\8\\12", 		"nextId": "sb/4/8/13", 		"prevId": "sb/4/8/11" 	}, 	"verses": [ 		{ 			"roman": "bālo ’si bata nātmānam\nanya-strī-garbha-sambhṛtam\nnūnaṁ veda bhavān yasya\ndurlabhe ’rthe manorathaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "bālaḥ—child; asi—you are; bata—however; na—not; ātmānam—my own; anya—other; strī—woman; garbha—womb; sambhṛtam—born by; nūnam—however; veda—just try to know; bhavān—yourself; yasya—of which; durlabhe—unapproachable; arthe—matter; manaḥ-rathaḥ—desirous.", 	"translation": "My dear child, you are unaware that you were born not of my womb but of another woman. Therefore you should know that your attempt is doomed to failure. You are trying to fulfill a desire which is impossible to fulfill.", 	"purport": [ 		{ 			"type": "normal", 			"content": "The small child, Dhruva Mahārāja, was naturally affectionate toward his father, and he did not know that there was a distinction between his two mothers. This distinction was pointed out by Queen Suruci, who informed him that since he was a child he did not understand the distinction between the two queens. This is another statement of Queen Suruci’s pride." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/4/8/12",
+        "prevId": "sb/4/8/11",
+        "nextId": "sb/4/8/13"
+    },
+    "verses": [
+        {
+            "roman": "bālo 'si bata nātmānam\nanya-strī-garbha-sambhṛtam\nnūnaṁ veda bhavān yasya\ndurlabhe 'rthe manorathaḥ\n"
+        }
+    ],
+    "synonyms": "bālaḥ—child; asi—you are; bata—however; na—not; ātmānam—my own; anya—other; strī—woman; garbha—womb; sambhṛtam—born by; nūnam—however; veda—just try to know; bhavān—yourself; yasya—of which; durlabhe—unapproachable; arthe—matter; manaḥ-rathaḥ—desirous.",
+    "translation": "My dear child, you are unaware that you were born not of my womb but of another woman. Therefore you should know that your attempt is doomed to failure. You are trying to fulfill a desire which is impossible to fulfill.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The small child, Dhruva Mahārāja, was naturally affectionate toward his father, and he did not know that there was a distinction between his two mothers. This distinction was pointed out by Queen Suruci, who informed him that since he was a child he did not understand the distinction between the two queens. This is another statement of Queen Suruci's pride."
+        }
+    ]
+}
+

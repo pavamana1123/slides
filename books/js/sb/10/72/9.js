@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/72/9",
+        "prevId": "sb/10/72/8",
+        "nextId": "sb/10/72/10"
+    },
+    "verses": [
+        {
+            "roman": "vijitya nṛpatīn sarvān\nkṛtvā ca jagatīṁ vaśe\nsambhṛtya sarva-sambhārān\nāharasva mahā-kratum\n"
+        }
+    ],
+    "synonyms": "vijitya—conquering; nṛ-patīn—the kings; sarvān—all; kṛtvā—making; ca—and; jagatīm—the earth; vaśe—under your control; sambhṛtya—collecting; sarva—all; sambhārān—the paraphernalia; āharasva—execute; mahā—great; kratum—the sacrifice.",
+    "translation": "First conquer all kings, bring the earth under your control and collect all the required paraphernalia; then execute this great sacrifice.",
+    "purport": null
+}
+

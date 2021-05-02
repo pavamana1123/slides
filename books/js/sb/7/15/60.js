@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\7\\15\\60", 		"nextId": "sb/7/15/61", 		"prevId": "sb/7/15/59" 	}, 	"verses": [ 		{ 			"roman": "dhātavo ’vayavitvāc ca\ntan-mātrāvayavair vinā\nna syur hy asaty avayaviny\nasann avayavo ’ntataḥ\n", 			"isProse": false 		} 	], 	"synonyms": "dhātavaḥ—the five elements; avayavitvāt—being the cause of the bodily conception; ca—and; tat-mātra—the sense objects (sound, taste, touch, etc.); avayavaiḥ—the subtle parts; vinā—without; na—not; syuḥ—can exist; hi—indeed; asati—unreal; avayavini—in the formation of the body; asan—not existing; avayavaḥ—the part of the body; antataḥ—at the end.", 	"translation": "Because the body is formed of the five elements, it cannot exist without the subtle sense objects. Therefore, since the body is false, the sense objects are also naturally false or temporary." }
+var text = {
+    "info": {
+        "id": "sb/7/15/60",
+        "prevId": "sb/7/15/59",
+        "nextId": "sb/7/15/61"
+    },
+    "verses": [
+        {
+            "roman": "dhātavo 'vayavitvāc ca\ntan-mātrāvayavair vinā\nna syur hy asaty avayaviny\nasann avayavo 'ntataḥ\n"
+        }
+    ],
+    "synonyms": "dhātavaḥ—the five elements; avayavitvāt—being the cause of the bodily conception; ca—and; tat-mātra—the sense objects (sound, taste, touch, etc.); avayavaiḥ—the subtle parts; vinā—without; na—not; syuḥ—can exist; hi—indeed; asati—unreal; avayavini—in the formation of the body; asan—not existing; avayavaḥ—the part of the body; antataḥ—at the end.",
+    "translation": "Because the body is formed of the five elements, it cannot exist without the subtle sense objects. Therefore, since the body is false, the sense objects are also naturally false or temporary.",
+    "purport": null
+}
+

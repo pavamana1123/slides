@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\8\\38", 		"nextId": "sb/6/8/39", 		"prevId": "sb/6/8/37" 	}, 	"verses": [ 		{ 			"roman": "imāṁ vidyāṁ purā kaścit\nkauśiko dhārayan dvijaḥ\nyoga-dhāraṇayā svāṅgaṁ\njahau sa maru-dhanvani\n", 			"isProse": false 		} 	], 	"synonyms": "imām—this; vidyām—prayer; purā—formerly; kaścit—someone; kauśikaḥ—Kauśika; dhārayan—using; dvijaḥ—a brāhmaṇa; yoga-dhāraṇayā—by mystic power; sva-aṅgam—his own body; jahau—gave up; saḥ—he; maru-dhanvani—in the desert.", 	"translation": "O King of heaven, a brāhmaṇa named Kauśika formerly used this armor when he purposely gave up his body in the desert by mystic power." }
+var text = {
+    "info": {
+        "id": "sb/6/8/38",
+        "prevId": "sb/6/8/37",
+        "nextId": "sb/6/8/39"
+    },
+    "verses": [
+        {
+            "roman": "imāṁ vidyāṁ purā kaścit\nkauśiko dhārayan dvijaḥ\nyoga-dhāraṇayā svāṅgaṁ\njahau sa maru-dhanvani\n"
+        }
+    ],
+    "synonyms": "imām—this; vidyām—prayer; purā—formerly; kaścit—someone; kauśikaḥ—Kauśika; dhārayan—using; dvijaḥ—a brāhmaṇa; yoga-dhāraṇayā—by mystic power; sva-aṅgam—his own body; jahau—gave up; saḥ—he; maru-dhanvani—in the desert.",
+    "translation": "O King of heaven, a brāhmaṇa named Kauśika formerly used this armor when he purposely gave up his body in the desert by mystic power.",
+    "purport": null
+}
+

@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/51/36",
+        "prevId": "sb/10/51/35",
+        "nextId": "sb/10/51/37"
+    },
+    "verses": [
+        {
+            "roman": "śrī-bhagavān uvāca\njanma-karmābhidhānāni\nsanti me 'ṅga sahasraśaḥ\nna śakyante 'nusaṅkhyātum\nanantatvān mayāpi hi\n"
+        }
+    ],
+    "synonyms": "śrī-bhagavān uvāca—the Supreme Lord said; janma—births; karma—activities; abhidhānāni—and names; santi—there are; me—My; aṅga—O dear one; sahasraśaḥ—by the thousands; na śakyante—they cannot; anusaṅkhyātum—be enumerated; anantatvāt—because of having no limit; mayā—by Me; api hi—even.",
+    "translation": "The Supreme Lord said: My dear friend, I have taken thousands of births, lived thousands of lives and accepted thousands of names. In fact My births, activities and names are limitless, and thus even I cannot count them.",
+    "purport": null
+}
+

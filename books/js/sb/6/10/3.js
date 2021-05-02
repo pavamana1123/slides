@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\10\\3", 		"nextId": "sb/6/10/4", 		"prevId": "sb/6/10/2" 	}, 	"verses": [ 		{ 			"roman": "api vṛndārakā yūyaṁ\nna jānītha śarīriṇām\nsaṁsthāyāṁ yas tv abhidroho\nduḥsahaś cetanāpahaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "api—although; vṛndārakāḥ—O demigods; yūyam—all of you; na jānītha—do not know; śarīriṇām—of those who have material bodies; saṁsthāyām—at the time of death, or while quitting this body; yaḥ—which; tu—then; abhidrohaḥ—severe pain; duḥsahaḥ—unbearable; cetana—the consciousness; apahaḥ—which takes away.", 	"translation": "O elevated demigods, at the time of death, severe, unbearable pain takes away the consciousness of all living entities who have accepted material bodies. Don’t you know about this pain?" }
+var text = {
+    "info": {
+        "id": "sb/6/10/3",
+        "prevId": "sb/6/10/2",
+        "nextId": "sb/6/10/4"
+    },
+    "verses": [
+        {
+            "roman": "api vṛndārakā yūyaṁ\nna jānītha śarīriṇām\nsaṁsthāyāṁ yas tv abhidroho\nduḥsahaś cetanāpahaḥ\n"
+        }
+    ],
+    "synonyms": "api—although; vṛndārakāḥ—O demigods; yūyam—all of you; na jānītha—do not know; śarīriṇām—of those who have material bodies; saṁsthāyām—at the time of death, or while quitting this body; yaḥ—which; tu—then; abhidrohaḥ—severe pain; duḥsahaḥ—unbearable; cetana—the consciousness; apahaḥ—which takes away.",
+    "translation": "O elevated demigods, at the time of death, severe, unbearable pain takes away the consciousness of all living entities who have accepted material bodies. Don't you know about this pain?",
+    "purport": null
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\6\\24", 		"nextId": "sb/8/6/25", 		"prevId": "sb/8/6/22-23" 	}, 	"verses": [ 		{ 			"roman": "yūyaṁ tad anumodadhvaṁ\nyad icchanty asurāḥ surāḥ\nna saṁrambheṇa sidhyanti\nsarvārthāḥ sāntvayā yathā\n", 			"isProse": false 		} 	], 	"synonyms": "yūyam—all of you; tat—that; anumodadhvam—should accept; yat—whatever; icchanti—they desire; asurāḥ—the demons; surāḥ—O demigods; na—not; saṁrambheṇa—by being agitated in anger; sidhyanti—are very successful; sarva-arthāḥ—all desired ends; sāntvayā—by peaceful execution; yathā—as.", 	"translation": "My dear demigods, with patience and peace everything can be done, but if one is agitated by anger, the goal is not achieved. Therefore, whatever the demons ask, agree to their proposal." }
+var text = {
+    "info": {
+        "id": "sb/8/6/24",
+        "prevId": "sb/8/6/22-23",
+        "nextId": "sb/8/6/25"
+    },
+    "verses": [
+        {
+            "roman": "yūyaṁ tad anumodadhvaṁ\nyad icchanty asurāḥ surāḥ\nna saṁrambheṇa sidhyanti\nsarvārthāḥ sāntvayā yathā\n"
+        }
+    ],
+    "synonyms": "yūyam—all of you; tat—that; anumodadhvam—should accept; yat—whatever; icchanti—they desire; asurāḥ—the demons; surāḥ—O demigods; na—not; saṁrambheṇa—by being agitated in anger; sidhyanti—are very successful; sarva-arthāḥ—all desired ends; sāntvayā—by peaceful execution; yathā—as.",
+    "translation": "My dear demigods, with patience and peace everything can be done, but if one is agitated by anger, the goal is not achieved. Therefore, whatever the demons ask, agree to their proposal.",
+    "purport": null
+}
+

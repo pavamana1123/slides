@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\10\\46", 		"nextId": "sb/8/10/47", 		"prevId": "sb/8/10/45" 	}, 	"verses": [ 		{ 			"roman": "tato nipetus taravo\ndahyamānā davāgninā\nśilāḥ saṭaṅka-śikharāś\ncūrṇayantyo dviṣad-balam\n", 			"isProse": false 		} 	], 	"synonyms": "tataḥ—from that great mountain; nipetuḥ—began to fall; taravaḥ—large trees; dahyamānāḥ—blazing in fire; dava-agninā—by the forest fire; śilāḥ—and stones; sa-ṭaṅka-śikharāḥ—having edges with points as sharp as stone picks; cūrṇayantyaḥ—smashing; dviṣat-balam—the strength of the enemies.", 	"translation": "From that mountain fell trees blazing in a forest fire. Chips of stone, with sharp edges like picks, also fell and smashed the heads of the demigod soldiers." }
+var text = {
+    "info": {
+        "id": "sb/8/10/46",
+        "prevId": "sb/8/10/45",
+        "nextId": "sb/8/10/47"
+    },
+    "verses": [
+        {
+            "roman": "tato nipetus taravo\ndahyamānā davāgninā\nśilāḥ saṭaṅka-śikharāś\ncūrṇayantyo dviṣad-balam\n"
+        }
+    ],
+    "synonyms": "tataḥ—from that great mountain; nipetuḥ—began to fall; taravaḥ—large trees; dahyamānāḥ—blazing in fire; dava-agninā—by the forest fire; śilāḥ—and stones; sa-ṭaṅka-śikharāḥ—having edges with points as sharp as stone picks; cūrṇayantyaḥ—smashing; dviṣat-balam—the strength of the enemies.",
+    "translation": "From that mountain fell trees blazing in a forest fire. Chips of stone, with sharp edges like picks, also fell and smashed the heads of the demigod soldiers.",
+    "purport": null
+}
+

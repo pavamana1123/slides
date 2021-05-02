@@ -1,1 +1,65 @@
-var text = { 	"info": { 		"id": "sb\\1\\16\\12", 		"nextId": "sb/1/16/13-15", 		"prevId": "sb/1/16/11" 	}, 	"verses": [ 		{ 			"roman": "bhadrāśvaṁ ketumālaṁ ca\nbhārataṁ cottarān kurūn\nkimpuruṣādīni varṣāṇi\nvijitya jagṛhe balim\n", 			"isProse": false 		} 	], 	"synonyms": "bhadrāśvam—Bhadrāśva; ketumālam—Ketumāla; ca—also; bhāratam—Bhārata; ca—and; uttarān—the northern countries; kurūn—the kingdom of the Kuru dynasty; kimpuruṣa-ādīni—a country beyond the northern side of the Himalayas; varṣāṇi—parts of the earth planet; vijitya—conquering; jagṛhe—exacted; balim—strength.", 	"translation": "Mahārāja Parīkṣit then conquered all parts of the earthly planet-Bhadrāśva, Ketumāla, Bhārata, the northern Kuru, Kimpuruṣa, etc.-and exacted tributes from their respective rulers.", 	"purport": [ 		{ 			"type": "normal", 			"content": "Bhadrāśva: It is an island near Meru Parvata. There is a description of this island in the Mahābhārata (Bhīṣma parva 7.16-18). The description was narrated by Sañjaya to Dhṛtarāṣṭra." 		}, 		{ 			"type": "normal", 			"content": "Mahārāja Yudhiṣṭhira also conquered this island, and thus the province was included within the jurisdiction of his empire. Mahārāja Parīkṣit was formerly declared to be the emperor of all lands ruled by his grandfather, but still he had to establish his supremacy while he was out of his capital to exact tribute from such states." 		}, 		{ 			"type": "normal", 			"content": "Ketumāla: This earth planet is divided into seven parts, and according to others it is divided into nine parts. This earth is called Jambūdvīpa and is divided into nine varṣas. Bhārata-varṣa is one of the above mentioned nine varṣas. Such varṣas are known as continents in the modern geographical context. Ketumāla is described as one of the above varṣas. It is said that in this varṣa, women are the most beautiful. This varṣa was conquered by Arjuna also. A description of this part of the world is available in the Mahābhārata (Sabhā Parva 286.32-33)." 		}, 		{ 			"type": "normal", 			"content": "It is said that this part of the world is situated on the western side of the Meru Parvata, and the inhabitants of this province used to live up to ten thousands of years (Bhīṣma Parva 6.16.31-32). Human beings living in this part of the globe are of golden color, and the women resemble the angels of heaven. The inhabitants are free from all kinds of diseases and grief." 		}, 		{ 			"type": "normal", 			"content": "Bhārata-varṣa: This part of the world is also one of the nine varṣas of the Jambūdvīpa, or earthly planet. Each planet is also sometimes called a dvīpa because of its being an island in the fathomless outer space. Each planet is factually an island in the airy ocean of outer space. Jambūdvīpa is only one of such countless islands in this airy ocean of space. A description of Bhārata-varṣa is given in the Mahābhārata (Bhīṣma Parva, Chapters 9-10)." 		}, 		{ 			"type": "normal", 			"content": "Uttarāḥ: According to Śrīdhara Svāmī these parts of the world are called Ilāvṛta-varṣa, or the mediterranean countries of Europe. The description of the Ilāvṛta-varṣa is given in the Mahābhārata (Sabhā Parva 28.7-8) as follows:" 		}, 		{ 			"type": "normal", 			"content": "nagarāṁś ca vanāṁś caiva\nnadīś ca vimalodakāḥ\npuruṣān deva-kalpāṁś ca\nnārīś ca priya-darśanāḥ" 		}, 		{ 			"type": "normal", 			"content": "adṛṣṭa-pūrvān subhagān\nsa dadarśa dhanañjayaḥ\nsadanāni ca śubhrāṇi\nnārīś cāpsarasāṁ nibhāḥ" 		}, 		{ 			"type": "normal", 			"content": "It is twice mentioned here that the women are beautiful, and some of them are equal to the apsarās, or heavenly women. Therefore the countries mentioned are round about the Mediterranean coast." 		}, 		{ 			"type": "normal", 			"content": "Kimpuruṣa-varṣa: It is stated to be situated beyond the northern side of Darjelling Dhavala Giri and probably may be a country like Nepal, Bhutan, Tibet and China. These parts of the world were also conquered by Arjuna (Sabhā Parva 28.1-2). The Kimpuruṣas are descendants of the daughter of Dakṣa. When Mahārāja Yudhiṣṭhira performed a horse sacrifice,  the inhabitants of these countries were also present to take part in the festival, and they paid tributes to the Emperor. This part of the world is called Kimpuruṣa-varṣa, or sometimes the Himalayan provinces (Himavatī). It is said that Śukadeva Gosvāmī was born in these Himalayan provinces, and he came to Bhārata-varṣa after crossing the Himalayan countries." 		}, 		{ 			"type": "normal", 			"content": "In other words, Mahārāja Parīkṣit conquered all the world, namely all the continents adjoining all the seas and oceans in all directions, namely the eastern, western, northern and southern parts of the world." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/1/16/12",
+        "prevId": "sb/1/16/11",
+        "nextId": "sb/1/16/13-15"
+    },
+    "verses": [
+        {
+            "roman": "bhadrāśvaṁ ketumālaṁ ca\nbhārataṁ cottarān kurūn\nkimpuruṣādīni varṣāṇi\nvijitya jagṛhe balim\n"
+        }
+    ],
+    "synonyms": "bhadrāśvam—Bhadrāśva; ketumālam—Ketumāla; ca—also; bhāratam—Bhārata; ca—and; uttarān—the northern countries; kurūn—the kingdom of the Kuru dynasty; kimpuruṣa-ādīni—a country beyond the northern side of the Himalayas; varṣāṇi—parts of the earth planet; vijitya—conquering; jagṛhe—exacted; balim—strength.",
+    "translation": "Mahārāja Parīkṣit then conquered all parts of the earthly planet—Bhadrāśva, Ketumāla, Bhārata, the northern Kuru, Kimpuruṣa, etc.—and exacted tributes from their respective rulers.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Bhadrāśva: It is a tract of land near Meru Parvata, and it extends from Gandha-mādana Parvata to the saltwater ocean. There is a description of this varṣa in the Mahābhārata (Bhīṣma-parva 7.14-18). The description was narrated by Sañjaya to Dhṛtarāṣṭra."
+        },
+        {
+            "type": "normal",
+            "content": "Mahārāja Yudhiṣṭhira also conquered this varṣa, and thus the province was included within the jurisdiction of his empire. Mahārāja Parīkṣit was formerly declared to be the emperor of all lands ruled by his grandfather, but still he had to establish his supremacy while he was out of his capital to exact tribute from such states."
+        },
+        {
+            "type": "normal",
+            "content": "Ketumāla: This earth planet is divided into seven dvīpas by seven oceans, and the central dvīpa, called Jambūdvīpa, is divided into nine varṣas, or parts, by eight huge mountains. Bhārata-varṣa is one of the above-mentioned nine varṣas, and Ketumāla is also described as one of the above varṣas. It is said that in Ketumāla varṣa, women are the most beautiful. This varṣa was conquered by Arjuna also. A description of this part of the world is available in the Mahābhārata (Sabhā 28.6)."
+        },
+        {
+            "type": "normal",
+            "content": "It is said that this part of the world is situated on the western side of the Meru Parvata, and inhabitants of this province used to live up to ten thousand years (Bhīṣma-parva 6.31). Human beings living in this part of the globe are of golden color, and the women resemble the angels of heaven. The inhabitants are free from all kinds of diseases and grief."
+        },
+        {
+            "type": "normal",
+            "content": "Bhārata-varṣa: This part of the world is also one of the nine varṣas of the Jambūdvīpa. A description of Bhārata-varṣa is given in the Mahābhārata (Bhīṣma-parva, Chapters 9 and 10)."
+        },
+        {
+            "type": "normal",
+            "content": "In the center of Jambūdvīpa is Ilāvṛta-varṣa, and south of Ilāvṛta-varṣa is Hari-varṣa. The description of these varṣas is given in the Mahābhārata (Sabhā-parva 28.7-8) as follows:"
+        },
+        {
+            "type": "verse",
+            "content": "nagarāṁś ca vanāṁś caivanadīś ca vimalodakāḥ\npuruṣān deva-kalpāṁś canārīś ca priya-darśanāḥ"
+        },
+        {
+            "type": "verse",
+            "content": "adṛṣṭa-pūrvān subhagānsa dadarśa dhanañjayaḥ\nsadanāni ca śubhrāṇinārīś cāpsarasāṁ nibhāḥ"
+        },
+        {
+            "type": "normal",
+            "content": "It is mentioned here that the women in both these varṣas are beautiful, and some of them are equal to the Apsarās, or heavenly women."
+        },
+        {
+            "type": "normal",
+            "content": "Uttarakuru: According to Vedic geography the northernmost portion of Jambūdvīpa is called Uttarakuru-varṣa. It is surrounded by the saltwater ocean from three sides and divided by Śṛṅgavān Mountain from the Hiraṇmaya-varṣa."
+        },
+        {
+            "type": "normal",
+            "content": "Kimpuruṣa-varṣa: It is stated to be situated north of the great Himalaya Mountain, which is eighty thousand miles in length and height and which covers sixteen thousand miles in width. These parts of the world were also conquered by Arjuna (Sabhā 28.1-2). The Kimpuruṣas are descendants of a daughter of Dakṣa. When Mahārāja Yudhiṣṭhira performed a horse sacrifice yajña, the inhabitants of these countries were also present to take part in the festival, and they paid tributes to the Emperor. This part of the world is called Kimpuruṣa-varṣa, or sometimes the Himalayan provinces (Himavatī). It is said that Śukadeva Gosvāmī was born in these Himalayan provinces and that he came to Bhārata-varṣa after crossing the Himalayan countries."
+        },
+        {
+            "type": "normal",
+            "content": "In other words, Mahārāja Parīkṣit conquered all the world. He conquered all the continents adjoining all the seas and oceans in all directions, namely the eastern, western, northern and southern parts of the world."
+        }
+    ]
+}
+

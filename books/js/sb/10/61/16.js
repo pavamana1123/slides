@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/61/16",
+        "prevId": "sb/10/61/15",
+        "nextId": "sb/10/61/17"
+    },
+    "verses": [
+        {
+            "roman": "vṛko harṣo 'nilo gṛdhro\nvardhanonnāda eva ca\nmahāṁsaḥ pāvano vahnir\nmitravindātmajāḥ kṣudhiḥ\n"
+        }
+    ],
+    "synonyms": "vṛkaḥ harṣaḥ anilaḥ gṛdhraḥ—Vṛka, Harṣa, Anila and Gṛdhra; vardhana-unnādaḥ—Vardhana and Unnāda; eva ca—also; mahāṁsaḥ pāvanaḥ vahniḥ—Mahāṁsa, Pāvana and Vahni; mitravindā—of Mitravindā; ātmajāḥ—sons; kṣudhiḥ—Kṣudhi.",
+    "translation": "Mitravindā's sons were Vṛka, Harṣa, Anila, Gṛdhra, Vardhana, Unnāda, Mahāṁsa, Pāvana, Vahni and Kṣudhi.",
+    "purport": null
+}
+

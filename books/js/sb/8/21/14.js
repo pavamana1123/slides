@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\21\\14", 		"nextId": "sb/8/21/15", 		"prevId": "sb/8/21/13" 	}, 	"verses": [ 		{ 			"roman": "te sarve vāmanaṁ hantuṁ\nśūla-paṭṭiśa-pāṇayaḥ\nanicchanto bale rājan\nprādravañ jāta-manyavaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "te—the demons; sarve—all of them; vāmanam—Lord Vāmanadeva; hantum—to kill; śūla—tridents; paṭṭiśa—lances; pāṇayaḥ—all taking in hand; anicchantaḥ—against the will; baleḥ—of Bali Mahārāja; rājan—O King; prādravan—they pushed forward; jāta-manyavaḥ—aggravated by usual anger.", 	"translation": "O King, the demons, aggravated by their usual anger, took their lances and tridents in hand, and against the will of Bali Mahārāja they pushed forward to kill Lord Vāmanadeva." }
+var text = {
+    "info": {
+        "id": "sb/8/21/14",
+        "prevId": "sb/8/21/13",
+        "nextId": "sb/8/21/15"
+    },
+    "verses": [
+        {
+            "roman": "te sarve vāmanaṁ hantuṁ\nśūla-paṭṭiśa-pāṇayaḥ\nanicchanto bale rājan\nprādravañ jāta-manyavaḥ\n"
+        }
+    ],
+    "synonyms": "te—the demons; sarve—all of them; vāmanam—Lord Vāmanadeva; hantum—to kill; śūla—tridents; paṭṭiśa—lances; pāṇayaḥ—all taking in hand; anicchantaḥ—against the will; baleḥ—of Bali Mahārāja; rājan—O King; prādravan—they pushed forward; jāta-manyavaḥ—aggravated by usual anger.",
+    "translation": "O King, the demons, aggravated by their usual anger, took their lances and tridents in hand, and against the will of Bali Mahārāja they pushed forward to kill Lord Vāmanadeva.",
+    "purport": null
+}
+

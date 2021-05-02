@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\5\\23", 		"nextId": "sb/9/5/24", 		"prevId": "sb/9/5/22" 	}, 	"verses": [ 		{ 			"roman": "saṁvatsaro ’tyagāt tāvad\nyāvatā nāgato gataḥ\nmunis tad-darśanākāṅkṣo\nrājāb-bhakṣo babhūva ha\n", 			"isProse": false 		} 	], 	"synonyms": "saṁvatsaraḥ—one complete year; atyagāt—passed; tāvat—as long as; yāvatā—so long; na—not; āgataḥ—returned; gataḥ—Durvāsā Muni, who had left that place; muniḥ—the great sage; tat-darśana-ākāṅkṣaḥ—desiring to see him again; rājā—the King; ap-bhakṣaḥ—taking only water; babhūva—remained; ha—indeed.", 	"translation": "Durvāsā Muni had left the place of Mahārāja Ambarīṣa, and as long as he had not returned—for one complete year—the King had fasted, maintaining himself simply by drinking water." }
+var text = {
+    "info": {
+        "id": "sb/9/5/23",
+        "prevId": "sb/9/5/22",
+        "nextId": "sb/9/5/24"
+    },
+    "verses": [
+        {
+            "roman": "saṁvatsaro 'tyagāt tāvad\nyāvatā nāgato gataḥ\nmunis tad-darśanākāṅkṣo\nrājāb-bhakṣo babhūva ha\n"
+        }
+    ],
+    "synonyms": "saṁvatsaraḥ—one complete year; atyagāt—passed; tāvat—as long as; yāvatā—so long; na—not; āgataḥ—returned; gataḥ—Durvāsā Muni, who had left that place; muniḥ—the great sage; tat-darśana-ākāṅkṣaḥ—desiring to see him again; rājā—the King; ap-bhakṣaḥ—taking only water; babhūva—remained; ha—indeed.",
+    "translation": "Durvāsā Muni had left the place of Mahārāja Ambarīṣa, and as long as he had not returned—for one complete year—the King had fasted, maintaining himself simply by drinking water.",
+    "purport": null
+}
+

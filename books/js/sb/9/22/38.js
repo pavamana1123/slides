@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\22\\38", 		"nextId": "sb/9/22/39", 		"prevId": "sb/9/22/37" 	}, 	"verses": [ 		{ 			"roman": "tasya putraḥ śatānīko\nyājñavalkyāt trayīṁ paṭhan\nastra-jñānaṁ kriyā-jñānaṁ\nśaunakāt param eṣyati\n", 			"isProse": false 		} 	], 	"synonyms": "tasya—of Janamejaya; putraḥ—the son; śatānīkaḥ—Śatānīka; yājñavalkyāt—from the great sage known as Yājñavalkya; trayīm—the three Vedas (Sāma, Yajur and Ṛg); paṭhan—studying thoroughly; astra-jñānam—the art of military administration; kriyā-jñānam—the art of performing ritualistic ceremonies; śaunakāt—from Śaunaka Ṛṣi; param—transcendental knowledge; eṣyati—will achieve.", 	"translation": "The son of Janamejaya known as Śatānīka will learn from Yājñavalkya the three Vedas and the art of performing ritualistic ceremonies. He will also learn the military art from Kṛpācārya and the transcendental science from the sage Śaunaka." }
+var text = {
+    "info": {
+        "id": "sb/9/22/38",
+        "prevId": "sb/9/22/37",
+        "nextId": "sb/9/22/39"
+    },
+    "verses": [
+        {
+            "roman": "tasya putraḥ śatānīko\nyājñavalkyāt trayīṁ paṭhan\nastra-jñānaṁ kriyā-jñānaṁ\nśaunakāt param eṣyati\n"
+        }
+    ],
+    "synonyms": "tasya—of Janamejaya; putraḥ—the son; śatānīkaḥ—Śatānīka; yājñavalkyāt—from the great sage known as Yājñavalkya; trayīm—the three Vedas (Sāma, Yajur and Ṛg); paṭhan—studying thoroughly; astra-jñānam—the art of military administration; kriyā-jñānam—the art of performing ritualistic ceremonies; śaunakāt—from Śaunaka Ṛṣi; param—transcendental knowledge; eṣyati—will achieve.",
+    "translation": "The son of Janamejaya known as Śatānīka will learn from Yājñavalkya the three Vedas and the art of performing ritualistic ceremonies. He will also learn the military art from Kṛpācārya and the transcendental science from the sage Śaunaka.",
+    "purport": null
+}
+

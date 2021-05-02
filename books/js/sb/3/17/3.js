@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\17\\3", 		"nextId": "sb/3/17/4", 		"prevId": "sb/3/17/2" 	}, 	"verses": [ 		{ 			"roman": "utpātā bahavas tatra\nnipetur jāyamānayoḥ\ndivi bhuvy antarikṣe ca\nlokasyoru-bhayāvahāḥ\n", 			"isProse": false 		} 	], 	"synonyms": "utpātāḥ—natural disturbances; bahavaḥ—many; tatra—there; nipetuḥ—occurred; jāyamānayoḥ—on their birth; divi—in the heavenly planets; bhuvi—on the earth; antarikṣe—in outer space; ca—and; lokasya—to the world; uru—greatly; bhaya-āvahāḥ—causing fear.", 	"translation": "On the birth of the two demons there were many natural disturbances, all very fearful and wonderful, in the heavenly planets, the earthly planets and in between them." }
+var text = {
+    "info": {
+        "id": "sb/3/17/3",
+        "prevId": "sb/3/17/2",
+        "nextId": "sb/3/17/4"
+    },
+    "verses": [
+        {
+            "roman": "utpātā bahavas tatra\nnipetur jāyamānayoḥ\ndivi bhuvy antarikṣe ca\nlokasyoru-bhayāvahāḥ\n"
+        }
+    ],
+    "synonyms": "utpātāḥ—natural disturbances; bahavaḥ—many; tatra—there; nipetuḥ—occurred; jāyamānayoḥ—on their birth; divi—in the heavenly planets; bhuvi—on the earth; antarikṣe—in outer space; ca—and; lokasya—to the world; uru—greatly; bhaya-āvahāḥ—causing fear.",
+    "translation": "On the birth of the two demons there were many natural disturbances, all very fearful and wonderful, in the heavenly planets, the earthly planets and in between them.",
+    "purport": null
+}
+

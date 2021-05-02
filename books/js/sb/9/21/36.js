@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\21\\36", 		"nextId": "sb/9/22/22_summary", 		"prevId": "sb/9/21/35" 	}, 	"verses": [ 		{ 			"roman": "tad dṛṣṭvā kṛpayāgṛhṇāc\nchāntanur mṛgayāṁ caran\nkṛpaḥ kumāraḥ kanyā ca\ndroṇa-patny abhavat kṛpī\n", 			"isProse": false 		} 	], 	"synonyms": "tat—those twin male and female babies; dṛṣṭvā—seeing; kṛpayā—out of compassion; agṛhṇāt—took; śāntanuḥ—King Śāntanu; mṛgayām—while hunting in the forest; caran—wandering in that way; kṛpaḥ—Kṛpa; kumāraḥ—the male child; kanyā—the female child; ca—also; droṇa-patnī—the wife of Droṇācārya; abhavat—became; kṛpī—named Kṛpī.", 	"translation": "While Mahārāja Śāntanu was on a hunting excursion, he saw the male and female children lying in the forest, and out of compassion he took them home. Consequently, the male child was known as Kṛpa, and the female child was named Kṛpī. Kṛpī later became the wife of Droṇācārya.\n \nThus end the Bhaktivedanta purports of the Ninth Canto, Twenty-first Chapter, of the Śrīmad-Bhāgavatam, entitled “The Dynasty of Bharata.”" }
+var text = {
+    "info": {
+        "id": "sb/9/21/36",
+        "prevId": "sb/9/21/35",
+        "nextId": "sb/9/22/1"
+    },
+    "verses": [
+        {
+            "roman": "tad dṛṣṭvā kṛpayāgṛhṇāc\nchāntanur mṛgayāṁ caran\nkṛpaḥ kumāraḥ kanyā ca\ndroṇa-patny abhavat kṛpī\n"
+        }
+    ],
+    "synonyms": "tat—those twin male and female babies; dṛṣṭvā—seeing; kṛpayā—out of compassion; agṛhṇāt—took; śāntanuḥ—King Śāntanu; mṛgayām—while hunting in the forest; caran—wandering in that way; kṛpaḥ—Kṛpa; kumāraḥ—the male child; kanyā—the female child; ca—also; droṇa-patnī—the wife of Droṇācārya; abhavat—became; kṛpī—named Kṛpī.",
+    "translation": "While Mahārāja Śāntanu was on a hunting excursion, he saw the male and female children lying in the forest, and out of compassion he took them home. Consequently, the male child was known as Kṛpa, and the female child was named Kṛpī. Kṛpī later became the wife of Droṇācārya.",
+    "purport": null
+}
+

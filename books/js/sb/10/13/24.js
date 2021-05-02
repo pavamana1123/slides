@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\10\\13\\24", 		"nextId": "sb/10/13/25", 		"prevId": "sb/10/13/23" 	}, 	"verses": [ 		{ 			"roman": "gāvas tato goṣṭham upetya satvaraṁ\nhuṅkāra-ghoṣaiḥ parihūta-saṅgatān\nsvakān svakān vatsatarān apāyayan\nmuhur lihantyaḥ sravad audhasaṁ payaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "gāvaḥ—the calves; tataḥ—thereafter; goṣṭham—to the cow sheds; upetya—reaching; satvaram—very soon; huṅkāra-ghoṣaiḥ—by making jubilant mooing sounds; parihūta-saṅgatān—to call the cows; svakān svakān—following their respective mothers; vatsatarān—the respective calves; apāyayan—feeding them; muhuḥ—again and again; lihantyaḥ—licking the calves; sravat audhasam payaḥ—abundant milk flowing from their milk bags.", 	"translation": "Thereafter, all the cows entered their different sheds and began mooing loudly, calling for their respective calves. When the calves arrived, the mothers began licking the calves’ bodies again and again and profusely feeding them with the milk flowing from their milk bags.", 	"purport": [ 		{ 			"type": "normal", 			"content": "All the dealings between the calves and their respective mothers taking care of them were enacted by Kṛṣṇa Himself." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/10/13/24",
+        "prevId": "sb/10/13/23",
+        "nextId": "sb/10/13/25"
+    },
+    "verses": [
+        {
+            "roman": "gāvas tato goṣṭham upetya satvaraṁ\nhuṅkāra-ghoṣaiḥ parihūta-saṅgatān\nsvakān svakān vatsatarān apāyayan\nmuhur lihantyaḥ sravad audhasaṁ payaḥ\n"
+        }
+    ],
+    "synonyms": "gāvaḥ—the calves; tataḥ—thereafter; goṣṭham—to the cow sheds; upetya—reaching; satvaram—very soon; huṅkāra-ghoṣaiḥ—by making jubilant mooing sounds; parihūta-saṅgatān—to call the cows; svakān svakān—following their respective mothers; vatsatarān—the respective calves; apāyayan—feeding them; muhuḥ—again and again; lihantyaḥ—licking the calves; sravat audhasam payaḥ—abundant milk flowing from their milk bags.",
+    "translation": "Thereafter, all the cows entered their different sheds and began mooing loudly, calling for their respective calves. When the calves arrived, the mothers began licking the calves' bodies again and again and profusely feeding them with the milk flowing from their milk bags.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "All the dealings between the calves and their respective mothers taking care of them were enacted by Kṛṣṇa Himself."
+        }
+    ]
+}
+

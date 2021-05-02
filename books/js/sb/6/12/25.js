@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\12\\25", 		"nextId": "sb/6/12/26", 		"prevId": "sb/6/12/24" 	}, 	"verses": [ 		{ 			"roman": "sa tu vṛtrasya parighaṁ\nkaraṁ ca karabhopamam\nciccheda yugapad devo\nvajreṇa śata-parvaṇā\n", 			"isProse": false 		} 	], 	"synonyms": "saḥ—he (King Indra); tu—however; vṛtrasya—of Vṛtrāsura; parigham—the iron club; karam—his hand; ca—and; karabha-upamam—as strong as the trunk of an elephant; ciccheda—cut to pieces; yugapat—simultaneously; devaḥ—Lord Indra; vajreṇa—with the thunderbolt; śata-parvaṇā—having one hundred joints.", 	"translation": "With his thunderbolt named Śataparvan, Indra simultaneously cut to pieces Vṛtrāsura’s club and his remaining hand." }
+var text = {
+    "info": {
+        "id": "sb/6/12/25",
+        "prevId": "sb/6/12/24",
+        "nextId": "sb/6/12/26"
+    },
+    "verses": [
+        {
+            "roman": "sa tu vṛtrasya parighaṁ\nkaraṁ ca karabhopamam\nciccheda yugapad devo\nvajreṇa śata-parvaṇā\n"
+        }
+    ],
+    "synonyms": "saḥ—he (King Indra); tu—however; vṛtrasya—of Vṛtrāsura; parigham—the iron club; karam—his hand; ca—and; karabha-upamam—as strong as the trunk of an elephant; ciccheda—cut to pieces; yugapat—simultaneously; devaḥ—Lord Indra; vajreṇa—with the thunderbolt; śata-parvaṇā—having one hundred joints.",
+    "translation": "With his thunderbolt named Śataparvan, Indra simultaneously cut to pieces Vṛtrāsura's club and his remaining hand.",
+    "purport": null
+}
+

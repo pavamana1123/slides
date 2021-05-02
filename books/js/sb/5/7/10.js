@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\5\\7\\10", 		"nextId": "sb/5/7/11", 		"prevId": "sb/5/7/9" 	}, 	"verses": [ 		{ 			"roman": "yatrāśrama-padāny ubhayato nābhibhir dṛṣac-cakraiś cakra-nadī nāma sarit-pravarā sarvataḥ pavitrī-karoti.\n", 			"isProse": false 		} 	], 	"synonyms": "yatra—where; āśrama-padāni—all hermitages; ubhayataḥ—both on top and below; nābhibhiḥ—like the symbolic mark of a navel; dṛṣat—visible; cakraiḥ—with the circles; cakra-nadī—the Cakra-nadī River (generally known as the Gaṇḍakī); nāma—of the name; sarit-pravarā—the most important river of all; sarvataḥ—everywhere; pavitrī-karoti—sanctifies.", 	"translation": "In Pulaha-āśrama is the Gaṇḍakī River, which is the best of all rivers. The śālagrāma-śilā, the marble pebbles, purify all those places. On each and every marble pebble, up and down, circles like navels are visible.", 	"purport": [ 		{ 			"type": "normal", 			"content": "Śālagrāma-śilā refers to pebbles that appear like stones with circle; marked up and down. These are available in the river known as Gaṇḍakī-nadī. Wherever the waters of this river flow, the place becomes immediately sanctified." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/5/7/10",
+        "prevId": "sb/5/7/9",
+        "nextId": "sb/5/7/11"
+    },
+    "verses": [
+        {
+            "roman": "yatrāśrama-padāny ubhayato\nnābhibhir dṛṣac-cakraiś cakra-nadī\nnāma sarit-pravarā\nsarvataḥ pavitrī-karoti\n"
+        }
+    ],
+    "synonyms": "yatra—where; āśrama-padāni—all hermitages; ubhayataḥ—both on top and below; nābhibhiḥ—like the symbolic mark of a navel; dṛṣat—visible; cakraiḥ—with the circles; cakra-nadī—the Cakra-nadī River (generally known as the Gaṇḍakī); nāma—of the name; sarit-pravarā—the most important river of all; sarvataḥ—everywhere; pavitrī-karoti—sanctifies.",
+    "translation": "In Pulaha-āśrama is the Gaṇḍakī River, which is the best of all rivers. The śālagrāma-śilā, the marble pebbles, purify all those places. On each and every marble pebble, up and down, circles like navels are visible.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Śālagrāma-śilā refers to pebbles that appear like stones with circle; marked up and down. These are available in the river known as Gaṇḍakī-nadī. Wherever the waters of this river flow, the place becomes immediately sanctified."
+        }
+    ]
+}
+

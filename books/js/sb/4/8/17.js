@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\4\\8\\17", 		"nextId": "sb/4/8/18", 		"prevId": "sb/4/8/16" 	}, 	"verses": [ 		{ 			"roman": "dīrghaṁ śvasantī vṛjinasya pāram\napaśyatī bālakam āha bālā\nmāmaṅgalaṁ tāta pareṣu maṁsthā\nbhuṅkte jano yat para-duḥkhadas tat\n", 			"isProse": false 		} 	], 	"synonyms": "dīrgham—heavy; śvasantī—breathing; vṛjinasya—of the danger; pāram—limitation; apaśyatī—without finding; bālakam—to her son; āha—said; bālā—the lady; mā—let there not be; amaṅgalam—ill fortune; tāta—my dear son; pareṣu—unto others; maṁsthāḥ—desire; bhuṅkte—suffered; janaḥ—person; yat—that which; para-duḥkhadaḥ—who is apt to inflict pains upon others; tat—that.", 	"translation": "She also was breathing very heavily, and she did not know the factual remedy for the painful situation. Not finding any remedy, she said to her son: My dear son, don’t wish for anything inauspicious for others. Anyone who inflicts pains upon others suffers himself from that pain." }
+var text = {
+    "info": {
+        "id": "sb/4/8/17",
+        "prevId": "sb/4/8/16",
+        "nextId": "sb/4/8/18"
+    },
+    "verses": [
+        {
+            "roman": "dīrghaṁ śvasantī vṛjinasya pāram\napaśyatī bālakam āha bālā\nmāmaṅgalaṁ tāta pareṣu maṁsthā\nbhuṅkte jano yat para-duḥkhadas tat\n"
+        }
+    ],
+    "synonyms": "dīrgham—heavy; śvasantī—breathing; vṛjinasya—of the danger; pāram—limitation; apaśyatī—without finding; bālakam—to her son; āha—said; bālā—the lady; mā—let there not be; amaṅgalam—ill fortune; tāta—my dear son; pareṣu—unto others; maṁsthāḥ—desire; bhuṅkte—suffered; janaḥ—person; yat—that which; para-duḥkhadaḥ—who is apt to inflict pains upon others; tat—that.",
+    "translation": "She also was breathing very heavily, and she did not know the factual remedy for the painful situation. Not finding any remedy, she said to her son: My dear son, don't wish for anything inauspicious for others. Anyone who inflicts pains upon others suffers himself from that pain.",
+    "purport": null
+}
+

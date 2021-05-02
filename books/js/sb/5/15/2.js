@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\5\\15\\2", 		"nextId": "sb/5/15/3", 		"prevId": "sb/5/15/1" 	}, 	"verses": [ 		{ 			"roman": "tasmād vṛddhasenāyāṁ devatājin-nāma putro ’bhavat.\n", 			"isProse": false 		} 	], 	"synonyms": "tasmāt—from Sumati; vṛddha-senāyām—in the womb of his wife, named Vṛddhasenā; devatājit-nāma—named Devatājit; putraḥ—a son; abhavat—was born.", 	"translation": "From Sumati, a son named Devatājit was born by the womb of his wife named Vṛddhasenā." }
+var text = {
+    "info": {
+        "id": "sb/5/15/2",
+        "prevId": "sb/5/15/1",
+        "nextId": "sb/5/15/3"
+    },
+    "verses": [
+        {
+            "roman": "tasmād vṛddhasenāyāṁ devatājin-nāma putro 'bhavat\n"
+        }
+    ],
+    "synonyms": "tasmāt—from Sumati; vṛddha-senāyām—in the womb of his wife, named Vṛddhasenā; devatājit-nāma—named Devatājit; putraḥ—a son; abhavat—was born.",
+    "translation": "From Sumati, a son named Devatājit was born by the womb of his wife named Vṛddhasenā.",
+    "purport": null
+}
+

@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/42/16",
+        "prevId": "sb/10/42/15",
+        "nextId": "sb/10/42/17"
+    },
+    "verses": [
+        {
+            "roman": "puruṣair bahubhir guptam\narcitaṁ paramarddhimat\nvāryamāṇo nṛbhiḥ kṛṣṇaḥ\nprasahya dhanur ādade\n"
+        }
+    ],
+    "synonyms": "puruṣaiḥ—by men; bahubhiḥ—many; guptam—guarded; arcitam—being worshiped; parama—supreme; ṛddhi—opulence; mat—possessing; vāryamāṇaḥ—warded off; nṛbhiḥ—by the guards; kṛṣṇaḥ—Lord Kṛṣṇa; prasahya—by force; dhanuḥ—the bow; ādade—picked up.",
+    "translation": "That most opulent bow was guarded by a large company of men, who were respectfully worshiping it. Kṛṣṇa pushed His way forward and, despite the guards' attempts to stop Him, picked it up.",
+    "purport": null
+}
+

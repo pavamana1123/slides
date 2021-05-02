@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/72/23",
+        "prevId": "sb/10/72/22",
+        "nextId": "sb/10/72/24-25"
+    },
+    "verses": [
+        {
+            "roman": "rājanya-bandhavo hy ete\nbrahma-liṅgāni bibhrati\ndadāni bhikṣitaṁ tebhya\nātmānam api dustyajam\n"
+        }
+    ],
+    "synonyms": "rājanya-bandhavaḥ—relatives of kṣatriyas; hi—indeed; ete—these; brahma—of brāhmaṇas; liṅgāni—the signs; bibhrati—they are wearing; dadāni—I should give; bhikṣitam—what is begged; tebhyaḥ—to them; ātmānam—my own body; api—even; dustyajam—impossible to give up.",
+    "translation": "[Jarāsandha thought:] These are surely members of the royal order dressed as brāhmaṇas, but still I must grant their request for charity, even if they beg me for my own body.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Here Jarāsandha reveals his strong commitment to charity, especially when begged by brāhmaṇas."
+        }
+    ]
+}
+

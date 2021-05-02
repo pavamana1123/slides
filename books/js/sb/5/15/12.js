@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\5\\15\\12", 		"nextId": "sb/5/15/13", 		"prevId": "sb/5/15/11" 	}, 	"verses": [ 		{ 			"roman": "yasyādhvare bhagavān adhvarātmā\nmaghoni mādyaty uru-soma-pīthe\nśraddhā-viśuddhācala-bhakti-yoga-\nsamarpitejyā-phalam ājahāra\n", 			"isProse": false 		} 	], 	"synonyms": "yasya—of whom (King Gaya); adhvare—in his different sacrifices; bhagavān—the Supreme Personality of Godhead; adhvara-ātmā—the supreme enjoyer of all sacrifices, the yajña-puruṣa; maghoni—when King Indra; mādyati—intoxicated; uru—greatly; soma-pīthe—drinking the intoxicant called soma; śraddhā—by devotion; viśuddha—purified; acala—and steady; bhakti-yoga—by devotional service; samarpita—offered; ijyā—of worshiping; phalam—the result; ājahāra—accepted personally.", 	"translation": "In Mahārāja Gaya’s sacrifices, there was a great supply of the intoxicant known as soma. King Indra used to come and become intoxicated by drinking large quantities of soma-rasa. Also, the Supreme Personality of Godhead, Lord Viṣṇu [the yajña-puruṣa] also came and personally accepted all the sacrifices offered unto Him with pure and firm devotion in the sacrificial arena.", 	"purport": [ 		{ 			"type": "normal", 			"content": "Mahārāja Gaya was so perfect that he satisfied all the demigods, who were headed by the heavenly King Indra. Lord Viṣṇu Himself also personally came to the sacrificial arena to accept the offerings. Although Mahārāja Gaya did not want them, he received all the blessings of the demigods and the Supreme Lord Himself." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/5/15/12",
+        "prevId": "sb/5/15/11",
+        "nextId": "sb/5/15/13"
+    },
+    "verses": [
+        {
+            "roman": "yasyādhvare bhagavān adhvarātmā\nmaghoni mādyaty uru-soma-pīthe\nśraddhā-viśuddhācala-bhakti-yoga-\nsamarpitejyā-phalam ājahāra\n"
+        }
+    ],
+    "synonyms": "yasya—of whom (King Gaya); adhvare—in his different sacrifices; bhagavān—the Supreme Personality of Godhead; adhvara-ātmā—the supreme enjoyer of all sacrifices, the yajña-puruṣa; maghoni—when King Indra; mādyati—intoxicated; uru—greatly; soma-pīthe—drinking the intoxicant called soma; śraddhā—by devotion; viśuddha—purified; acala—and steady; bhakti-yoga—by devotional service; samarpita—offered; ijyā—of worshiping; phalam—the result; ājahāra—accepted personally.",
+    "translation": "In Mahārāja Gaya's sacrifices, there was a great supply of the intoxicant known as soma. King Indra used to come and become intoxicated by drinking large quantities of soma-rasa. Also, the Supreme Personality of Godhead, Lord Viṣṇu [the yajña-puruṣa] also came and personally accepted all the sacrifices offered unto Him with pure and firm devotion in the sacrificial arena.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Mahārāja Gaya was so perfect that he satisfied all the demigods, who were headed by the heavenly King Indra. Lord Viṣṇu Himself also personally came to the sacrificial arena to accept the offerings. Although Mahārāja Gaya did not want them, he received all the blessings of the demigods and the Supreme Lord Himself."
+        }
+    ]
+}
+

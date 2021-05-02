@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\4\\1\\44", 		"nextId": "sb/4/1/45", 		"prevId": "sb/4/1/43" 	}, 	"verses": [ 		{ 			"roman": "āyatiṁ niyatiṁ caiva\nsute merus tayor adāt\ntābhyāṁ tayor abhavatāṁ\nmṛkaṇḍaḥ prāṇa eva ca\n", 			"isProse": false 		} 	], 	"synonyms": "āyatim—Āyati; niyatim—Niyati; ca eva—also; sute—daughters; meruḥ—the sage Meru; tayoḥ—unto those two; adāt—gave in marriage; tābhyām—out of them; tayoḥ—both of them; abhavatām—appeared; mṛkaṇḍaḥ—Mṛkaṇḍa; prāṇaḥ—Prāṇa; eva—certainly; ca—and.", 	"translation": "The sage Meru had two daughters, named Āyati and Niyati, whom he gave in charity to Dhātā and Vidhātā. Āyati and Niyati gave birth to two sons, Mṛkaṇḍa and Prāṇa." }
+var text = {
+    "info": {
+        "id": "sb/4/1/44",
+        "prevId": "sb/4/1/43",
+        "nextId": "sb/4/1/45"
+    },
+    "verses": [
+        {
+            "roman": "āyatiṁ niyatiṁ caiva\nsute merus tayor adāt\ntābhyāṁ tayor abhavatāṁ\nmṛkaṇḍaḥ prāṇa eva ca\n"
+        }
+    ],
+    "synonyms": "āyatim—Āyati; niyatim—Niyati; ca eva—also; sute—daughters; meruḥ—the sage Meru; tayoḥ—unto those two; adāt—gave in marriage; tābhyām—out of them; tayoḥ—both of them; abhavatām—appeared; mṛkaṇḍaḥ—Mṛkaṇḍa; prāṇaḥ—Prāṇa; eva—certainly; ca—and.",
+    "translation": "The sage Meru had two daughters, named Āyati and Niyati, whom he gave in charity to Dhātā and Vidhātā. Āyati and Niyati gave birth to two sons, Mṛkaṇḍa and Prāṇa.",
+    "purport": null
+}
+

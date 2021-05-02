@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\2\\7\\41", 		"nextId": "sb/2/7/42", 		"prevId": "sb/2/7/40" 	}, 	"verses": [ 		{ 			"roman": "nāntaṁ vidāmy aham amī munayo 'gra-jās te\nmāyā-balasya puruṣasya kuto 'varā ye\ngāyan guṇān daśa-śatānana ādi-devaḥ\nśeṣo 'dhunāpi samavasyati nāsya pāram\n", 			"isProse": false 		} 	], 	"synonyms": "na—never; antam—end; vidāmi—do I know; aham—myself; amī—and all those; munayaḥ—great sages; agra-jāḥ—born prior to you; te—you; māyā-balasya—of the omnipotent; puruṣasya—of the Personality of Godhead; kutaḥ—what to speak of others; avarāḥ—born after us; ye—those; gāyan—by singing; guṇān—the qualities; daśa-śata-ānanaḥ—one who has ten hundred faces; ādi-devaḥ—the first incarnation of the Lord; śeṣaḥ—known as Śeṣa; adhunā—until now; api—even; samavasyati—can achieve; na—not; asya—of Him; pāram—limit.", 	"translation": "Neither I nor all the sages born before you know fully the omnipotent Personality of Godhead. So what can others, who are born after us, know about Him? Even the first incarnation of the Lord, namely Śeṣa, has not been able to reach the limit of such knowledge, although He is describing the qualities of the Lord with ten hundred faces.", 	"purport": [ 		{ 			"type": "normal", 			"content": "The omnipotent Personality of Godhead has primarily three potential manifestations, namely internal, external, and marginal potencies, with unlimited expansions of these three energies. As such, the potential expansions can never be calculated by anyone because even the Personality of God Himself, as the incarnation of Śeṣa, cannot estimate the potencies, although He has been describing them continuously with His one thousand faces." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/2/7/41",
+        "prevId": "sb/2/7/40",
+        "nextId": "sb/2/7/42"
+    },
+    "verses": [
+        {
+            "roman": "nāntaṁ vidāmy aham amī munayo 'gra-jās te\nmāyā-balasya puruṣasya kuto 'varā ye\ngāyan guṇān daśa-śatānana ādi-devaḥ\nśeṣo 'dhunāpi samavasyati nāsya pāram\n"
+        }
+    ],
+    "synonyms": "na—never; antam—end; vidāmi—do I know; aham—myself; amī—and all those; munayaḥ—great sages; agra-jāḥ—born prior to you; te—you; māyā-balasya—of the omnipotent; puruṣasya—of the Personality of Godhead; kutaḥ—what to speak of others; avarāḥ—born after us; ye—those; gāyan—by singing; guṇān—the qualities; daśa-śata-ānanaḥ—one who has ten hundred faces; ādi-devaḥ—the first incarnation of the Lord; śeṣaḥ—known as Śeṣa; adhunā—until now; api—even; samavasyati—can achieve; na—not; asya—of Him; pāram—limit.",
+    "translation": "Neither I nor all the sages born before you know fully the omnipotent Personality of Godhead. So what can others, who are born after us, know about Him? Even the first incarnation of the Lord, namely Śeṣa, has not been able to reach the limit of such knowledge, although He is describing the qualities of the Lord with ten hundred faces.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The omnipotent Personality of Godhead has primarily three potential manifestations, namely internal, external, and marginal potencies, with unlimited expansions of these three energies. As such, the potential expansions can never be calculated by anyone because even the Personality of God Himself, as the incarnation of Śeṣa, cannot estimate the potencies, although He has been describing them continuously with His one thousand faces."
+        }
+    ]
+}
+

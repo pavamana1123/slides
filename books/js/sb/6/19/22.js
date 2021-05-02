@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\19\\22", 		"nextId": "sb/6/19/23", 		"prevId": "sb/6/19/21" 	}, 	"verses": [ 		{ 			"roman": "śvo-bhūte ’pa upaspṛśya\nkṛṣṇam abhyarcya pūrvavat\npayaḥ-śṛtena juhuyāc\ncaruṇā saha sarpiṣā\npāka-yajña-vidhānena\ndvādaśaivāhutīḥ patiḥ\n", 			"isProse": false 		} 	], 	"synonyms": "śvaḥ-bhūte—on the following morning; apaḥ—water; upaspṛśya—contacting; kṛṣṇam—Lord Kṛṣṇa; abhyarcya—worshiping; pūrva-vat—as previously; payaḥ-śṛtena—with boiled milk; juhuyāt—one should offer; caruṇā—with an offering of sweet rice; saha—with; sarpiṣā—ghee; pāka-yajña-vidhānena—according to the injunctions of the Gṛhya-sūtras; dvādaśa—twelve; eva—indeed; āhutīḥ—oblations; patiḥ—the husband.", 	"translation": "On the morning of the next day, one should wash oneself, and after worshiping Lord Kṛṣṇa as before, one should cook as one cooks for festivals as stated in the Gṛhya-sūtras. Sweet rice should be cooked with ghee, and with this preparation the husband should offer oblations to the fire twelve times." }
+var text = {
+    "info": {
+        "id": "sb/6/19/22",
+        "prevId": "sb/6/19/21",
+        "nextId": "sb/6/19/23"
+    },
+    "verses": [
+        {
+            "roman": "śvo-bhūte 'pa upaspṛśya\nkṛṣṇam abhyarcya pūrvavat\npayaḥ-śṛtena juhuyāc\ncaruṇā saha sarpiṣā\npāka-yajña-vidhānena\ndvādaśaivāhutīḥ patiḥ\n"
+        }
+    ],
+    "synonyms": "śvaḥ-bhūte—on the following morning; apaḥ—water; upaspṛśya—contacting; kṛṣṇam—Lord Kṛṣṇa; abhyarcya—worshiping; pūrva-vat—as previously; payaḥ-śṛtena—with boiled milk; juhuyāt—one should offer; caruṇā—with an offering of sweet rice; saha—with; sarpiṣā—ghee; pāka-yajña-vidhānena—according to the injunctions of the Gṛhya-sūtras; dvādaśa—twelve; eva—indeed; āhutīḥ—oblations; patiḥ—the husband.",
+    "translation": "On the morning of the next day, one should wash oneself, and after worshiping Lord Kṛṣṇa as before, one should cook as one cooks for festivals as stated in the Gṛhya-sūtras. Sweet rice should be cooked with ghee, and with this preparation the husband should offer oblations to the fire twelve times.",
+    "purport": null
+}
+

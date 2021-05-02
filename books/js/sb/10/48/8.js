@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/48/8",
+        "prevId": "sb/10/48/7",
+        "nextId": "sb/10/48/9"
+    },
+    "verses": [
+        {
+            "roman": "saivaṁ kaivalya-nāthaṁ taṁ\nprāpya duṣprāpyam īśvaram\naṅga-rāgārpaṇenāho\ndurbhagedam ayācata\n"
+        }
+    ],
+    "synonyms": "sa—she; evam—thus; kaivalya—of liberation; nātham—the controller; tam—Him; prāpya—obtaining; duṣprāpyam—unobtainable; īśvaram—the Supreme Lord; aṅga-rāga—body ointment; arpaṇena—by offering; aho—oh; durbhagā—unfortunate; idam—this; ayācata—she begged.",
+    "translation": "Having thus gotten the hard-to-get Supreme Lord by the simple act of offering Him body ointment, unfortunate Trivakrā submitted to that Lord of freedom the following request.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "According to Śrīla Viśvanātha Cakravartī, Śrīmatī Trivakrā prayed to the Lord, \"Please enjoy only with me, and not with any other woman.\" Because Kṛṣṇa was not prepared to grant such a benediction, Trivakrā is described here as unfortunate. Śrīdhara Svāmī adds that although to ordinary eyes she seemed to beg for material sex pleasure, in fact she was a liberated soul at this point."
+        }
+    ]
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\10\\7\\23", 		"nextId": "sb/10/7/24", 		"prevId": "sb/10/7/22" 	}, 	"verses": [ 		{ 			"roman": "nāpaśyat kaścanātmānaṁ\nparaṁ cāpi vimohitaḥ\ntṛṇāvarta-nisṛṣṭābhiḥ\nśarkarābhir upadrutaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "na—not; apaśyat—saw; kaścana—anyone; ātmānam—himself; param ca api—or another; vimohitaḥ—being illusioned; tṛṇāvarta-nisṛṣṭābhiḥ—thrown by Tṛṇāvartāsura; śarkarābhiḥ—by the sands; upadrutaḥ—and thus being disturbed.", 	"translation": "Because of the bits of sand thrown about by Tṛṇāvarta, people could not see themselves or anyone else, and thus they were illusioned and disturbed." }
+var text = {
+    "info": {
+        "id": "sb/10/7/23",
+        "prevId": "sb/10/7/22",
+        "nextId": "sb/10/7/24"
+    },
+    "verses": [
+        {
+            "roman": "nāpaśyat kaścanātmānaṁ\nparaṁ cāpi vimohitaḥ\ntṛṇāvarta-nisṛṣṭābhiḥ\nśarkarābhir upadrutaḥ\n"
+        }
+    ],
+    "synonyms": "na—not; apaśyat—saw; kaścana—anyone; ātmānam—himself; param ca api—or another; vimohitaḥ—being illusioned; tṛṇāvarta-nisṛṣṭābhiḥ—thrown by Tṛṇāvartāsura; śarkarābhiḥ—by the sands; upadrutaḥ—and thus being disturbed.",
+    "translation": "Because of the bits of sand thrown about by Tṛṇāvarta, people could not see themselves or anyone else, and thus they were illusioned and disturbed.",
+    "purport": null
+}
+

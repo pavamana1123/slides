@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\17\\22", 		"nextId": "sb/8/17/23", 		"prevId": "sb/8/17/21" 	}, 	"verses": [ 		{ 			"roman": "sa vai samādhi-yogena\nkaśyapas tad abudhyata\npraviṣṭam ātmani harer\naṁśaṁ hy avitathekṣaṇaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "saḥ—Kaśyapa Muni; vai—indeed; samādhi-yogena—by mystic meditation; kaśyapaḥ—Kaśyapa Muni; tat—then; abudhyata—could understand; praviṣṭam—entered; ātmani—within himself; hareḥ—of the Supreme Lord; aṁśam—a plenary portion; hi—indeed; avitatha-īkṣaṇaḥ—whose vision is never mistaken.", 	"translation": "Being situated in a meditational trance, Kaśyapa Muni, whose vision is never mistaken, could see that a plenary portion of the Supreme Personality of Godhead had entered within him." }
+var text = {
+    "info": {
+        "id": "sb/8/17/22",
+        "prevId": "sb/8/17/21",
+        "nextId": "sb/8/17/23"
+    },
+    "verses": [
+        {
+            "roman": "sa vai samādhi-yogena\nkaśyapas tad abudhyata\npraviṣṭam ātmani harer\naṁśaṁ hy avitathekṣaṇaḥ\n"
+        }
+    ],
+    "synonyms": "saḥ—Kaśyapa Muni; vai—indeed; samādhi-yogena—by mystic meditation; kaśyapaḥ—Kaśyapa Muni; tat—then; abudhyata—could understand; praviṣṭam—entered; ātmani—within himself; hareḥ—of the Supreme Lord; aṁśam—a plenary portion; hi—indeed; avitatha-īkṣaṇaḥ—whose vision is never mistaken.",
+    "translation": "Being situated in a meditational trance, Kaśyapa Muni, whose vision is never mistaken, could see that a plenary portion of the Supreme Personality of Godhead had entered within him.",
+    "purport": null
+}
+

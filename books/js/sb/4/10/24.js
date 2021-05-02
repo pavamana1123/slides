@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\4\\10\\24", 		"nextId": "sb/4/10/25", 		"prevId": "sb/4/10/23" 	}, 	"verses": [ 		{ 			"roman": "vavṛṣū rudhiraughāsṛk-\npūya-viṇ-mūtra-medasaḥ\nnipetur gaganād asya\nkabandhāny agrato ’nagha\n", 			"isProse": false 		} 	], 	"synonyms": "vavṛṣuḥ—showered; rudhira—of blood; ogha—an inundation; asṛk—mucus; pūya—pus; viṭ—stool; mūtra—urine; medasaḥ—and marrow; nipetuḥ—began to fall; gaganāt—from the sky; asya—of Dhruva; kabandhāni—trunks of bodies; agrataḥ—in front; anagha—O faultless Vidura.", 	"translation": "My dear faultless Vidura, in that rainfall there was blood, mucus, pus, stool, urine and marrow falling heavily before Dhruva Mahārāja, and there were trunks of bodies falling from the sky." }
+var text = {
+    "info": {
+        "id": "sb/4/10/24",
+        "prevId": "sb/4/10/23",
+        "nextId": "sb/4/10/25"
+    },
+    "verses": [
+        {
+            "roman": "vavṛṣū rudhiraughāsṛk-\npūya-viṇ-mūtra-medasaḥ\nnipetur gaganād asya\nkabandhāny agrato 'nagha\n"
+        }
+    ],
+    "synonyms": "vavṛṣuḥ—showered; rudhira—of blood; ogha—an inundation; asṛk—mucus; pūya—pus; viṭ—stool; mūtra—urine; medasaḥ—and marrow; nipetuḥ—began to fall; gaganāt—from the sky; asya—of Dhruva; kabandhāni—trunks of bodies; agrataḥ—in front; anagha—O faultless Vidura.",
+    "translation": "My dear faultless Vidura, in that rainfall there was blood, mucus, pus, stool, urine and marrow falling heavily before Dhruva Mahārāja, and there were trunks of bodies falling from the sky.",
+    "purport": null
+}
+

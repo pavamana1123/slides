@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\18\\8", 		"nextId": "sb/8/18/9-10", 		"prevId": "sb/8/18/7" 	}, 	"verses": [ 		{ 			"roman": "prītāś cāpsaraso ’nṛtyan\ngandharva-pravarā jaguḥ\ntuṣṭuvur munayo devā\nmanavaḥ pitaro ’gnayaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "prītāḥ—being very pleased; ca—also; apsarasaḥ—the celestial dancing girls; anṛtyan—danced; gandharva-pravarāḥ—the best of the Gandharvas; jaguḥ—sang; tuṣṭuvuḥ—satisfied the Lord by offering prayers; munayaḥ—the great sages; devāḥ—the demigods; manavaḥ—the Manus; pitaraḥ—the inhabitants of Pitṛloka; agnayaḥ—the fire-gods.", 	"translation": "Being very pleased, the celestial dancing girls [Apsarās] danced in jubilation, the best of the Gandharvas sang songs, and the great sages, demigods, Manus, Pitās and fire-gods offered prayers to satisfy the Lord." }
+var text = {
+    "info": {
+        "id": "sb/8/18/8",
+        "prevId": "sb/8/18/7",
+        "nextId": "sb/8/18/9-10"
+    },
+    "verses": [
+        {
+            "roman": "prītāś cāpsaraso 'nṛtyan\ngandharva-pravarā jaguḥ\ntuṣṭuvur munayo devā\nmanavaḥ pitaro 'gnayaḥ\n"
+        }
+    ],
+    "synonyms": "prītāḥ—being very pleased; ca—also; apsarasaḥ—the celestial dancing girls; anṛtyan—danced; gandharva-pravarāḥ—the best of the Gandharvas; jaguḥ—sang; tuṣṭuvuḥ—satisfied the Lord by offering prayers; munayaḥ—the great sages; devāḥ—the demigods; manavaḥ—the Manus; pitaraḥ—the inhabitants of Pitṛloka; agnayaḥ—the fire-gods.",
+    "translation": "Being very pleased, the celestial dancing girls [Apsarās] danced in jubilation, the best of the Gandharvas sang songs, and the great sages, demigods, Manus, Pitās and fire—gods offered prayers to satisfy the Lord.",
+    "purport": null
+}
+

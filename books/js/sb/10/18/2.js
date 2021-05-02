@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/18/2",
+        "prevId": "sb/10/18/1",
+        "nextId": "sb/10/18/3"
+    },
+    "verses": [
+        {
+            "roman": "vraje vikrīḍator evaṁ\ngopāla-cchadma-māyayā\ngrīṣmo nāmartur abhavan\nnāti-preyāñ charīriṇām\n"
+        }
+    ],
+    "synonyms": "vraje—in Vṛndāvana; vikrīḍatoḥ—while the two of Them were sporting; evam—in this way; gopāla—as cowherd boys; chadma—of the disguise; māyayā—by the illusion; grīṣmaḥ—summer; nāma—thus designated; ṛtuḥ—the season; abhavat—came about; na—not; ati-preyān—very much favored; śarīriṇām—by embodied beings.",
+    "translation": "While Kṛṣṇa and Balarāma were thus enjoying life in Vṛndāvana in the guise of ordinary cowherd boys, the summer season gradually appeared. This season is not very pleasing to embodied souls.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "In , of Kṛṣṇa, the Supreme Personality of Godhead, Śrīla Prabhupāda comments as follows: \"The summer season in India is not very much welcomed because of the excessive heat, but in Vṛndāvana everyone was pleased because summer there appeared just like spring.\""
+        }
+    ]
+}
+

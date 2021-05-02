@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\15\\14", 		"nextId": "sb/8/15/15", 		"prevId": "sb/8/15/13" 	}, 	"verses": [ 		{ 			"roman": "ākāśa-gaṅgayā devyā\nvṛtāṁ parikha-bhūtayā\nprākāreṇāgni-varṇena\nsāṭṭālenonnatena ca\n", 			"isProse": false 		} 	], 	"synonyms": "ākāśa-gaṅgayā—by Ganges water known as Ākāśa-gaṅgā; devyā—the always-worshipable goddess; vṛtām—surrounded; parikha-bhūtayā—as a trench; prākāreṇa—by ramparts; agni-varṇena—resembling fire; sa-aṭṭālena—with places for fighting; unnatena—very high; ca—and.", 	"translation": "The city was surrounded by trenches full of Ganges water, known as Ākāśa-gaṅgā, and by a high wall, which was the color of fire. Upon this wall were parapets for fighting." }
+var text = {
+    "info": {
+        "id": "sb/8/15/14",
+        "prevId": "sb/8/15/13",
+        "nextId": "sb/8/15/15"
+    },
+    "verses": [
+        {
+            "roman": "ākāśa-gaṅgayā devyā\nvṛtāṁ parikha-bhūtayā\nprākāreṇāgni-varṇena\nsāṭṭālenonnatena ca\n"
+        }
+    ],
+    "synonyms": "ākāśa-gaṅgayā—by Ganges water known as Ākāśa-gaṅgā; devyā—the always-worshipable goddess; vṛtām—surrounded; parikha-bhūtayā—as a trench; prākāreṇa—by ramparts; agni-varṇena—resembling fire; sa-aṭṭālena—with places for fighting; unnatena—very high; ca—and.",
+    "translation": "The city was surrounded by trenches full of Ganges water, known as Ākāśa-gaṅgā, and by a high wall, which was the color of fire. Upon this wall were parapets for fighting.",
+    "purport": null
+}
+

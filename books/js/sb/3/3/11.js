@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\3\\11", 		"nextId": "sb/3/3/12", 		"prevId": "sb/3/3/10" 	}, 	"verses": [ 		{ 			"roman": "śambaraṁ dvividaṁ bāṇaṁ\nmuraṁ balvalam eva ca\nanyāṁś ca dantavakrādīn\navadhīt kāṁś ca ghātayat\n", 			"isProse": false 		} 	], 	"synonyms": "śambaram—Śambara; dvividam—Dvivida; bāṇam—Bāṇa; muram—Mura; balvalam—Balvala; eva ca—as also; anyān—others; ca—also; dantavakra-ādīn—like Dantavakra and others; avadhīt—killed; kān ca—and many others; ghātayat—caused to be killed.", 	"translation": "Of kings like Śambara, Dvivida, Bāṇa, Mura, Balvala and many other demons, such as Dantavakra, some He killed Himself, and some He caused to be killed by others [Śrī Baladeva, etc.]." }
+var text = {
+    "info": {
+        "id": "sb/3/3/11",
+        "prevId": "sb/3/3/10",
+        "nextId": "sb/3/3/12"
+    },
+    "verses": [
+        {
+            "roman": "śambaraṁ dvividaṁ bāṇaṁ\nmuraṁ balvalam eva ca\nanyāṁś ca dantavakrādīn\navadhīt kāṁś ca ghātayat\n"
+        }
+    ],
+    "synonyms": "śambaram—Śambara; dvividam—Dvivida; bāṇam—Bāṇa; muram—Mura; balvalam—Balvala; eva ca—as also; anyān—others; ca—also; dantavakra-ādīn—like Dantavakra and others; avadhīt—killed; kān ca—and many others; ghātayat—caused to be killed.",
+    "translation": "Of kings like Śambara, Dvivida, Bāṇa, Mura, Balvala and many other demons, such as Dantavakra, some He killed Himself, and some He caused to be killed by others [Śrī Baladeva, etc.].",
+    "purport": null
+}
+

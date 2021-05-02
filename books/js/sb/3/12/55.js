@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\12\\55", 		"nextId": "sb/3/12/56", 		"prevId": "sb/3/12/54" 	}, 	"verses": [ 		{ 			"roman": "tadā mithuna-dharmeṇa\nprajā hy edhām babhūvire\n", 			"isProse": false 		} 	], 	"synonyms": "tadā—at that time; mithuna—sex life; dharmeṇa—according to regulative principles; prajāḥ—generations; hi—certainly; edhām—increased; babhūvire—took place.", 	"translation": "Thereafter, by sex indulgence, they gradually increased generations of population one after another." }
+var text = {
+    "info": {
+        "id": "sb/3/12/55",
+        "prevId": "sb/3/12/54",
+        "nextId": "sb/3/12/56"
+    },
+    "verses": [
+        {
+            "roman": "tadā mithuna-dharmeṇa\nprajā hy edhām babhūvire\n"
+        }
+    ],
+    "synonyms": "tadā—at that time; mithuna—sex life; dharmeṇa—according to regulative principles; prajāḥ—generations; hi—certainly; edhām—increased; babhūvire—took place.",
+    "translation": "Thereafter, by sex indulgence, they gradually increased generations of population one after another.",
+    "purport": null
+}
+

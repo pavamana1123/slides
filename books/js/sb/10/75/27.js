@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/75/27",
+        "prevId": "sb/10/75/25-26",
+        "nextId": "sb/10/75/28"
+    },
+    "verses": [
+        {
+            "roman": "hari-dāsasya rājarṣe\nrājasūya-mahodayam\nnaivātṛpyan praśaṁsantaḥ\npiban martyo 'mṛtaṁ yathā\n"
+        }
+    ],
+    "synonyms": "hari—of Lord Kṛṣṇa; dāsasya—of the servant; rāja-ṛṣeḥ—of the saintly King; rājasūya—of the Rājasūya sacrifice; mahā-udayam—the great celebration; na—not; eva—indeed; atṛpyan—they became satiated; praśaṁsantaḥ—glorifying; piban—drinking; martyaḥ—a mortal man; amṛtam—immortal nectar; yathā—as.",
+    "translation": "As they all glorified the wonderful Rājasūya-yajña performed by that great saintly King and servant of Lord Hari, they were not satiated, just as an ordinary man is never satiated when drinking nectar.",
+    "purport": null
+}
+

@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/39/8",
+        "prevId": "sb/10/39/7",
+        "nextId": "sb/10/39/9"
+    },
+    "verses": [
+        {
+            "roman": "śrī-śuka uvāca\npṛṣṭo bhagavatā sarvaṁ\nvarṇayām āsa mādhavaḥ\nvairānubandhaṁ yaduṣu\nvasudeva-vadhodyamam\n"
+        }
+    ],
+    "synonyms": "śrī-śukaḥ uvāca—Śukadeva Gosvāmī said; pṛṣṭaḥ—requested; bhagavatā—by the Supreme Lord; sarvam—everything; varṇayām āsa—described; mādhavaḥ—Akrūra, descendant of Madhu; vaira-anubandham—the inimical attitude; yaduṣu—toward the Yadus; vasudeva—Vasudeva; vadha—to murder; udyamam—the attempt.",
+    "translation": "Śukadeva Gosvāmī said: In response to the Supreme Lord's request, Akrūra, the descendant of Madhu, described the whole situation, including King Kaṁsa's enmity toward the Yadus and his attempt to murder Vasudeva.",
+    "purport": null
+}
+

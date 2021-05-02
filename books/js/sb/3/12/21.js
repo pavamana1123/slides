@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\12\\21", 		"nextId": "sb/3/12/22", 		"prevId": "sb/3/12/20" 	}, 	"verses": [ 		{ 			"roman": "athābhidhyāyataḥ sargaṁ\ndaśa putrāḥ prajajñire\nbhagavac-chakti-yuktasya\nloka-santāna-hetavaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "atha—thus; abhidhyāyataḥ—while thinking of; sargam—creation; daśa—ten; putrāḥ—sons; prajajñire—were begotten; bhagavat—regarding the Personality of Godhead; śakti—potency; yuktasya—empowered with; loka—the world; santāna—generation; hetavaḥ—the causes.", 	"translation": "Brahmā, who was empowered by the Supreme Personality of Godhead, thought of generating living entities and begot ten sons for the extension of the generations." }
+var text = {
+    "info": {
+        "id": "sb/3/12/21",
+        "prevId": "sb/3/12/20",
+        "nextId": "sb/3/12/22"
+    },
+    "verses": [
+        {
+            "roman": "athābhidhyāyataḥ sargaṁ\ndaśa putrāḥ prajajñire\nbhagavac-chakti-yuktasya\nloka-santāna-hetavaḥ\n"
+        }
+    ],
+    "synonyms": "atha—thus; abhidhyāyataḥ—while thinking of; sargam—creation; daśa—ten; putrāḥ—sons; prajajñire—were begotten; bhagavat—regarding the Personality of Godhead; śakti—potency; yuktasya—empowered with; loka—the world; santāna—generation; hetavaḥ—the causes.",
+    "translation": "Brahmā, who was empowered by the Supreme Personality of Godhead, thought of generating living entities and begot ten sons for the extension of the generations.",
+    "purport": null
+}
+

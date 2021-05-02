@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\8\\11\\10", 		"nextId": "sb/8/11/11", 		"prevId": "sb/8/11/9" 	}, 	"verses": [ 		{ 			"roman": "śrī-śuka uvāca\nity ākṣipya vibhuṁ vīro\nnārācair vīra-mardanaḥ\nākarṇa-pūrṇairahanad\nākṣepair āha taṁ punaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; iti—thus; ākṣipya—chastising; vibhum—unto King Indra; vīraḥ—the valiant Bali Mahārāja; nārācaiḥ—by the arrows named nārācas; vīra-mardanaḥ—Bali Mahārāja, who could subdue even great heros; ākarṇa-pūrṇaiḥ—drawn up to his ear; ahanat—attacked; ākṣepaiḥ—by words of chastisement; āha—said; tam—unto him; punaḥ—again.", 	"translation": "Śukadeva Gosvāmī said: After thus rebuking Indra, King of heaven, with sharp words, Bali Mahārāja, who could subdue any other hero, drew back to his ear the arrows known as nārācas and attacked Indra with these arrows. Then he again chastised Indra with strong words." }
+var text = {
+    "info": {
+        "id": "sb/8/11/10",
+        "prevId": "sb/8/11/9",
+        "nextId": "sb/8/11/11"
+    },
+    "verses": [
+        {
+            "roman": "śrī-śuka uvāca\nity ākṣipya vibhuṁ vīro\nnārācair vīra-mardanaḥ\nākarṇa-pūrṇairahanad\nākṣepair āha taṁ punaḥ\n"
+        }
+    ],
+    "synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; iti—thus; ākṣipya—chastising; vibhum—unto King Indra; vīraḥ—the valiant Bali Mahārāja; nārācaiḥ—by the arrows named nārācas; vīra-mardanaḥ—Bali Mahārāja, who could subdue even great heros; ākarṇa-pūrṇaiḥ—drawn up to his ear; ahanat—attacked; ākṣepaiḥ—by words of chastisement; āha—said; tam—unto him; punaḥ—again.",
+    "translation": "Śukadeva Gosvāmī said: After thus rebuking Indra, King of heaven, with sharp words, Bali Mahārāja, who could subdue any other hero, drew back to his ear the arrows known as nārācas and attacked Indra with these arrows. Then he again chastised Indra with strong words.",
+    "purport": null
+}
+

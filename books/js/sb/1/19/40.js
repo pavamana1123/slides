@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\1\\19\\40", 		"nextId": "sb/2/1/invo", 		"prevId": "sb/1/19/39" 	}, 	"verses": [ 		{ 			"roman": "sūta uvāca\nevam ābhāṣitaḥ pṛṣṭaḥ\nsa rājñā ślakṣṇayā girā\npratyabhāṣata dharma-jño\nbhagavān bādarāyaṇiḥ\n", 			"isProse": false 		} 	], 	"synonyms": "sūtaḥ uvāca—Śrī Sūta Gosvāmī said; evam—thus; ābhāṣitaḥ—being spoken; pṛṣṭaḥ—and asked for; saḥ—he; rājñā—by the King; ślakṣṇayā—by sweet; girā—language; pratyabhāṣata—began to reply; dharma-jñaḥ—one who knows the principles of religion; bhagavān—the powerful personality; bādarāyaṇiḥ—son of Vyāsadeva.", 	"translation": "Śrī Sūta Gosvāmī said: The King thus spoke and questioned the sage, using sweet language. Then the great and powerful personality, the son of Vyāsadeva, who knew the principles of religion, began his reply.\n \nThus end the Bhaktivedanta purports of the First Canto, Nineteenth Chapter, of the Śrīmad-Bhāgavatam, entitled \"The Appearance of Śukadeva Gosvāmī.\"\n \nEND OF THE FIRST CANTO" }
+var text = {
+    "info": {
+        "id": "sb/1/19/40",
+        "prevId": "sb/1/19/39",
+        "nextId": "sb/2/1/invocation"
+    },
+    "verses": [
+        {
+            "roman": "sūta uvāca\nevam ābhāṣitaḥ pṛṣṭaḥ\nsa rājñā ślakṣṇayā girā\npratyabhāṣata dharma-jño\nbhagavān bādarāyaṇiḥ\n"
+        }
+    ],
+    "synonyms": "sūtaḥ uvāca—Śrī Sūta Gosvāmī said; evam—thus; ābhāṣitaḥ—being spoken; pṛṣṭaḥ—and asked for; saḥ—he; rājñā—by the King; ślakṣṇayā—by sweet; girā—language; pratyabhāṣata—began to reply; dharma-jñaḥ—one who knows the principles of religion; bhagavān—the powerful personality; bādarāyaṇiḥ—son of Vyāsadeva.",
+    "translation": "Śrī Sūta Gosvāmī said: The King thus spoke and questioned the sage, using sweet language. Then the great and powerful personality, the son of Vyāsadeva, who knew the principles of religion, began his reply.",
+    "purport": null
+}
+

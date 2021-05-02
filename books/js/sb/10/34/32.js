@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/34/32",
+        "prevId": "sb/10/34/31",
+        "nextId": "sb/10/35/1"
+    },
+    "verses": [
+        {
+            "roman": "śaṅkhacūḍaṁ nihatyaivaṁ\nmaṇim ādāya bhāsvaram\nagrajāyādadāt prītyā\npaśyantīnāṁ ca yoṣitām\n"
+        }
+    ],
+    "synonyms": "śaṅkhacūḍam—the demon Śaṅkhacūḍa; nihatya—killing; evam—in this manner; maṇim—the jewel; ādāya—taking; bhāsvaram—brilliant; agra-jāya—to His elder brother (Lord Balarāma); adadāt—gave; prītyā—with satisfaction; paśyantīnām—as they were watching; ca—and; yoṣitām—the women.",
+    "translation": "Having thus killed the demon Śaṅkhacūḍa and taken away his shining jewel, Lord Kṛṣṇa gave it to His elder brother with great satisfaction as the gopīs watched.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Various gopīs perhaps thought that Govinda would give one of them the valuable jewel. To prevent rivalry among them, Śrī Kṛṣṇa happily gave the jewel to His older brother, Balarāma."
+        }
+    ]
+}
+

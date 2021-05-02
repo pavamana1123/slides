@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/10/68/30",
+        "prevId": "sb/10/68/29",
+        "nextId": "sb/10/68/31"
+    },
+    "verses": [
+        {
+            "roman": "dṛṣṭvā kurūnāṁ dauḥśīlyaṁ\nśrutvāvācyāni cācyutaḥ\navocat kopa-saṁrabdho\nduṣprekṣyaḥ prahasan muhuḥ\n"
+        }
+    ],
+    "synonyms": "dṛṣṭvā—seeing; kurūṇām—of the Kurus; dauḥśīlyam—the bad character; śrutvā—hearing; avācyāni—words not to be spoken; ca—and; acyutaḥ—infallible Lord Balarāma; avocat—He said; kopa—with anger; saṁrabdhaḥ—enraged; duṣprekṣyaḥ—difficult to look at; prahasan—laughing; muhuḥ—repeatedly.",
+    "translation": "Seeing the bad character of the Kurus and hearing their nasty words, the infallible Lord Balarāma became filled with rage. His countenance frightful to behold, He laughed repeatedly and spoke as follows.",
+    "purport": null
+}
+

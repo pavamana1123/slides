@@ -1,1 +1,21 @@
-var text = { 	"info": { 		"id": "sb\\3\\23\\19", 		"nextId": "sb/3/23/20", 		"prevId": "sb/3/23/18" 	}, 	"verses": [ 		{ 			"roman": "cakṣuṣmat padmarāgāgryair\nvajra-bhittiṣu nirmitaiḥ\njuṣṭaṁ vicitra-vaitānair\nmahārhair hema-toraṇaiḥ\n", 			"isProse": false 		} 	], 	"synonyms": "cakṣuḥ-mat—as if possessed of eyes; padma-rāga—with rubies; agryaiḥ—choicest; vajra—of diamond; bhittiṣu—on the walls; nirmitaiḥ—set; juṣṭam—furnished; vicitra—various; vaitānaiḥ—with canopies; mahā-arhaiḥ—greatly valuable; hema-toraṇaiḥ—with gates of gold.", 	"translation": "With the choicest rubies set in its diamond walls, it appeared as though possessed of eyes. It was furnished with wonderful canopies and greatly valuable gates of gold.", 	"purport": [ 		{ 			"type": "normal", 			"content": "Artistic jewelry and decorations giving the appearance of eyes are not imaginary. Even in recent times the Mogul emperors constructed their palaces with decorations of jeweled birds with eyes made of valuable stones. The stones have been taken away by the authorities, but the decorations are still present in some of the castles constructed by the Mogul emperors in New Delhi. The royal palaces were built with jewels and rare stones resembling eyes, and thus at night they would give off reflective light without need of lamps." 		} 	] }
+var text = {
+    "info": {
+        "id": "sb/3/23/19",
+        "prevId": "sb/3/23/18",
+        "nextId": "sb/3/23/20"
+    },
+    "verses": [
+        {
+            "roman": "cakṣuṣmat padmarāgāgryair\nvajra-bhittiṣu nirmitaiḥ\njuṣṭaṁ vicitra-vaitānair\nmahārhair hema-toraṇaiḥ\n"
+        }
+    ],
+    "synonyms": "cakṣuḥ-mat—as if possessed of eyes; padma-rāga—with rubies; agryaiḥ—choicest; vajra—of diamond; bhittiṣu—on the walls; nirmitaiḥ—set; juṣṭam—furnished; vicitra—various; vaitānaiḥ—with canopies; mahā-arhaiḥ—greatly valuable; hema-toraṇaiḥ—with gates of gold.",
+    "translation": "With the choicest rubies set in its diamond walls, it appeared as though possessed of eyes. It was furnished with wonderful canopies and greatly valuable gates of gold.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Artistic jewelry and decorations giving the appearance of eyes are not imaginary. Even in recent times the Mogul emperors constructed their palaces with decorations of jeweled birds with eyes made of valuable stones. The stones have been taken away by the authorities, but the decorations are still present in some of the castles constructed by the Mogul emperors in New Delhi. The royal palaces were built with jewels and rare stones resembling eyes, and thus at night they would give off reflective light without need of lamps."
+        }
+    ]
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\7\\15", 		"nextId": "sb/9/7/16", 		"prevId": "sb/9/7/14" 	}, 	"verses": [ 		{ 			"roman": "iti putrānurāgeṇa\nsneha-yantrita-cetasā\nkālaṁ vañcayatā taṁ tam\nukto devas tam aikṣata\n", 			"isProse": false 		} 	], 	"synonyms": "iti—in this way; putra-anurāgeṇa—because of affection for the son; sneha-yantrita-cetasā—his mind being controlled by such affection; kālam—time; vañcayatā—cheating; tam—unto him; tam—that; uktaḥ—said; devaḥ—the demigod Varuṇa; tam—unto him, Hariścandra; aikṣata—waited for the fulfillment of his promise.", 	"translation": "Hariścandra was certainly very much attached to his son. Because of this affection, he asked the demigod Varuṇa to wait. Thus Varuṇa waited and waited for the time to come." }
+var text = {
+    "info": {
+        "id": "sb/9/7/15",
+        "prevId": "sb/9/7/14",
+        "nextId": "sb/9/7/16"
+    },
+    "verses": [
+        {
+            "roman": "iti putrānurāgeṇa\nsneha-yantrita-cetasā\nkālaṁ vañcayatā taṁ tam\nukto devas tam aikṣata\n"
+        }
+    ],
+    "synonyms": "iti—in this way; putra-anurāgeṇa—because of affection for the son; sneha-yantrita-cetasā—his mind being controlled by such affection; kālam—time; vañcayatā—cheating; tam—unto him; tam—that; uktaḥ—said; devaḥ—the demigod Varuṇa; tam—unto him, Hariścandra; aikṣata—waited for the fulfillment of his promise.",
+    "translation": "Hariścandra was certainly very much attached to his son. Because of this affection, he asked the demigod Varuṇa to wait. Thus Varuṇa waited and waited for the time to come.",
+    "purport": null
+}
+

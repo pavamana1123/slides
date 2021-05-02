@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\9\\1\\28", 		"nextId": "sb/9/1/29", 		"prevId": "sb/9/1/27" 	}, 	"verses": [ 		{ 			"roman": "śrī-rājovāca\nkatham evaṁ guṇo deśaḥ\nkena vā bhagavan kṛtaḥ\npraśnam enaṁ samācakṣva\nparaṁ kautūhalaṁ hi naḥ\n", 			"isProse": false 		} 	], 	"synonyms": "śrī-rājā uvāca—Mahārāja Parīkṣit said; katham—how; evam—this; guṇaḥ—quality; deśaḥ—the country; kena—why; vā—either; bhagavan—O most powerful; kṛtaḥ—it was so done; praśnam—question; enam—this; samācakṣva—just deliberate; param—very much; kautūhalam—eagerness; hi—indeed; naḥ—our.", 	"translation": "Mahārāja Parīkṣit said: O most powerful brāhmaṇa, why was this place so empowered, and who made it so powerful? Kindly answer this question, for I am very eager to hear about this." }
+var text = {
+    "info": {
+        "id": "sb/9/1/28",
+        "prevId": "sb/9/1/27",
+        "nextId": "sb/9/1/29"
+    },
+    "verses": [
+        {
+            "roman": "śrī-rājovāca\nkatham evaṁ guṇo deśaḥ\nkena vā bhagavan kṛtaḥ\npraśnam enaṁ samācakṣva\nparaṁ kautūhalaṁ hi naḥ\n"
+        }
+    ],
+    "synonyms": "śrī-rājā uvāca—Mahārāja Parīkṣit said; katham—how; evam—this; guṇaḥ—quality; deśaḥ—the country; kena—why; vā—either; bhagavan—O most powerful; kṛtaḥ—it was so done; praśnam—question; enam—this; samācakṣva—just deliberate; param—very much; kautūhalam—eagerness; hi—indeed; naḥ—our.",
+    "translation": "Mahārāja Parīkṣit said: O most powerful brāhmaṇa, why was this place so empowered, and who made it so powerful? Kindly answer this question, for I am very eager to hear about this.",
+    "purport": null
+}
+

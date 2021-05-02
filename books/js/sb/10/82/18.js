@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/82/18",
+        "prevId": "sb/10/82/17",
+        "nextId": "sb/10/82/19"
+    },
+    "verses": [
+        {
+            "roman": "kunty uvāca\nārya bhrātar ahaṁ manye\nātmānam akṛtāśiṣam\nyad vā āpatsu mad-vārtāṁ\nnānusmaratha sattamāḥ\n"
+        }
+    ],
+    "synonyms": "kuntī uvāca—Queen Kuntī said; bhrātaḥ—O brother; aham—I; manye—think; ātmānam—myself; akṛta—having failed to achieve; āśiṣam—my desires; yat—since; vai—indeed; āpatsu—in times of danger; mat—to me; vārtām—what occurred; na anusmaratha—all of you do not remember; sat-tamāḥ—most saintly.",
+    "translation": "Queen Kuntī said: My dear, respectable brother, I feel that my desires have been frustrated, because although all of you are most saintly, you forgot me during my calamities.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Here Queen Kuntī addresses her brother Vasudeva."
+        }
+    ]
+}
+

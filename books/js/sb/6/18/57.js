@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\18\\57", 		"nextId": "sb/6/18/58", 		"prevId": "sb/6/18/56" 	}, 	"verses": [ 		{ 			"roman": "nityaṁ vanāt sumanasaḥ\nphala-mūla-samit-kuśān\npatrāṅkura-mṛdo ’paś ca\nkāle kāla upāharat\n", 			"isProse": false 		} 	], 	"synonyms": "nityam—daily; vanāt—from the forest; sumanasaḥ—flowers; phala—fruits; mūla—roots; samit—wood for the sacrificial fire; kuśān—and kuśa grass; patra—leaves; aṅkura—sprouts; mṛdaḥ—and earth; apaḥ—water; ca—also; kāle kāle—at the proper time; upāharat—brought.", 	"translation": "Indra served his aunt daily by bringing flowers, fruits, roots and wood for yajñas from the forest. He also brought kuśa grass, leaves, sprouts, earth and water exactly at the proper time." }
+var text = {
+    "info": {
+        "id": "sb/6/18/57",
+        "prevId": "sb/6/18/56",
+        "nextId": "sb/6/18/58"
+    },
+    "verses": [
+        {
+            "roman": "nityaṁ vanāt sumanasaḥ\nphala-mūla-samit-kuśān\npatrāṅkura-mṛdo 'paś ca\nkāle kāla upāharat\n"
+        }
+    ],
+    "synonyms": "nityam—daily; vanāt—from the forest; sumanasaḥ—flowers; phala—fruits; mūla—roots; samit—wood for the sacrificial fire; kuśān—and kuśa grass; patra—leaves; aṅkura—sprouts; mṛdaḥ—and earth; apaḥ—water; ca—also; kāle kāle—at the proper time; upāharat—brought.",
+    "translation": "Indra served his aunt daily by bringing flowers, fruits, roots and wood for yajñas from the forest. He also brought kuśa grass, leaves, sprouts, earth and water exactly at the proper time.",
+    "purport": null
+}
+

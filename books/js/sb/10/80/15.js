@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/80/15",
+        "prevId": "sb/10/80/14",
+        "nextId": "sb/10/80/16-17"
+    },
+    "verses": [
+        {
+            "roman": "sa tān ādāya viprāgryaḥ\nprayayau dvārakāṁ kila\nkṛṣṇa-sandarśanaṁ mahyaṁ\nkathaṁ syād iti cintayan\n"
+        }
+    ],
+    "synonyms": "saḥ—he; tān—them; ādāya—taking; vipra-agryaḥ—the best of brāhmaṇas; prayayau—went; dvārakām—to Dvārakā; kila—indeed; kṛṣṇa-sandarśanam—the audience of Lord Kṛṣṇa; mahyam—for me; syāt—will it happen; iti—thus; cintayan—thinking.",
+    "translation": "Taking the flat rice, the saintly brāhmaṇa set off for Dvārakā, all the while wondering \"How will I be able to have Kṛṣṇa's audience?\"",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Among other things, Sudāmā assumed that the gatekeepers would stop him."
+        }
+    ]
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\3\\12\\54", 		"nextId": "sb/3/12/55", 		"prevId": "sb/3/12/53" 	}, 	"verses": [ 		{ 			"roman": "yas tu tatra pumān so ’bhūn\nmanuḥ svāyambhuvaḥ svarāṭ\nstrī yāsīc chatarūpākhyā\nmahiṣy asya mahātmanaḥ\n", 			"isProse": false 		} 	], 	"synonyms": "yaḥ—one who; tu—but; tatra—there; pumān—the male; saḥ—he; abhūt—became; manuḥ—the father of mankind; svāyambhuvaḥ—of the name Svāyambhuva; sva-rāṭ—fully independent; strī—the woman; yā—one who; āsīt—there was; śatarūpā—of the name Śatarūpā; ākhyā—known as; mahiṣī—the queen; asya—of him; mahātmanaḥ— the great soul.", 	"translation": "Out of them, the one who had the male form became known as the Manu named Svāyambhuva, and the woman became known as Śatarūpā, the queen of the great soul Manu." }
+var text = {
+    "info": {
+        "id": "sb/3/12/54",
+        "prevId": "sb/3/12/53",
+        "nextId": "sb/3/12/55"
+    },
+    "verses": [
+        {
+            "roman": "yas tu tatra pumān so 'bhūn\nmanuḥ svāyambhuvaḥ svarāṭ\nstrī yāsīc chatarūpākhyā\nmahiṣy asya mahātmanaḥ\n"
+        }
+    ],
+    "synonyms": "yaḥ—one who; tu—but; tatra—there; pumān—the male; saḥ—he; abhūt—became; manuḥ—the father of mankind; svāyambhuvaḥ—of the name Svāyambhuva; sva-rāṭ—fully independent; strī—the woman; yā—one who; āsīt—there was; śatarūpā—of the name Śatarūpā; ākhyā—known as; mahiṣī—the queen; asya—of him; mahātmanaḥ—the great soul.",
+    "translation": "Out of them, the one who had the male form became known as the Manu named Svāyambhuva, and the woman became known as Śatarūpā, the queen of the great soul Manu.",
+    "purport": null
+}
+

@@ -1,1 +1,16 @@
-var text = { 	"info": { 		"id": "sb\\6\\14\\48", 		"nextId": "sb/6/14/49", 		"prevId": "sb/6/14/47" 	}, 	"verses": [ 		{ 			"roman": "papāta bhūmau parivṛddhayā śucā\nmumoha vibhraṣṭa-śiroruhāmbarā\n", 			"isProse": false 		} 	], 	"synonyms": "papāta—fell down; bhūmau—on the ground; parivṛddhayā—highly increased; śucā—out of lamentation; mumoha—she became unconscious; vibhraṣṭa—scattered; śiroruha—hair; ambarā—and dress.", 	"translation": "In great lamentation, her hair and dress in disarray, the Queen fell to the ground unconscious." }
+var text = {
+    "info": {
+        "id": "sb/6/14/48",
+        "prevId": "sb/6/14/47",
+        "nextId": "sb/6/14/49"
+    },
+    "verses": [
+        {
+            "roman": "papāta bhūmau parivṛddhayā śucā\nmumoha vibhraṣṭa-śiroruhāmbarā\n"
+        }
+    ],
+    "synonyms": "papāta—fell down; bhūmau—on the ground; parivṛddhayā—highly increased; śucā—out of lamentation; mumoha—she became unconscious; vibhraṣṭa—scattered; śiroruha—hair; ambarā—and dress.",
+    "translation": "In great lamentation, her hair and dress in disarray, the Queen fell to the ground unconscious.",
+    "purport": null
+}
+
