@@ -6,8 +6,8 @@ heading.textContent=getHeading()
 
 function getHeading(){
     var id = text.info.id
-    id = id.replace("bg\\","Bhagavad-Gītā ")
-    id = id.replace("\\", ".")
+    id = id.replace("sb/","Śrīmad-Bhāgavatam ")
+    id = id.replaceAll("/", ".")
     return id
 }
 

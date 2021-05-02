@@ -39,4 +39,7 @@
     position: absolute;
     left: 50%;
     -webkit-transform: translateX(-50%);
+    font-size: 50px;
+    padding-top: 1%;
+    width: 100%;
 }
