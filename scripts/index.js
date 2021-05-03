@@ -1,8 +1,4 @@
-var slide = document.getElementById("slide")
-slide.textContent=text.verses[0].roman
 
-var heading = document.getElementById("heading")
-heading.textContent=getHeading()
 
 function getHeading(){
     var id = text.info.id
@@ -18,10 +14,8 @@ function handleKey(ev){
     }
 }
 
-document.addEventListener('keydown',handleKey)
-
 function replaceScript(ev){
-    document.getElementById("text").remove()
+    document.getElementById("text") && document.getElementById("text").remove()
     var s = document.createElement("script")
     s.setAttribute("id","text")
     var path
@@ -40,6 +34,25 @@ function replaceScript(ev){
 function updateVerse(){
     slide.textContent=text.verses[0].roman
     heading.textContent=getHeading()
+    var t = document.getElementById("text")
+    localStorage.id=t.getAttribute("src")
 }
 
-fit(text.verses[0].roman, document.getElementById("slide"),document.getElementById("slideEnclosure"))
+document.addEventListener('keydown',handleKey)
+
+
+
+var t = document.getElementById("text")
+t.setAttribute("src", localStorage.id || "./books/js/sb/1/1/1.js")
+t.addEventListener("load",()=>{
+    localStorage.id=t.getAttribute("src")
+    var slide = document.getElementById("slide")
+    slide.textContent=text.verses[0].roman
+
+    var heading = document.getElementById("heading")
+    heading.textContent=getHeading()
+    
+    fit(text.verses[0].roman, document.getElementById("slide"),document.getElementById("slideEnclosure"))
+})
+
+
