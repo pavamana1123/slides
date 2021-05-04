@@ -27,7 +27,7 @@ function replaceScript(ev){
     }
     s.setAttribute("src","./books/js/"+ path + ".js")
     s.setAttribute("type","text/javascript")
-    document.getElementById("textscript").appendChild(s)
+    document.head.appendChild(s)
     s.addEventListener('load',updateVerse);
 }
 
