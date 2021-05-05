@@ -26,12 +26,18 @@
     margin: auto;
     width: 90%;
     height: 70%;
+    max-height: 70%;
+    overflow-y: scroll;
     padding: 2%;
     border-radius: 15px;
     justify-content: center;
     align-items: center;
     border: 3px solid yellow;
 }
+
+#slideEnclosure::-webkit-scrollbar {
+    display: none;
+  }
 
 #heading {
     white-space: pre-line;
