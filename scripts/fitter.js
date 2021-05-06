@@ -42,7 +42,7 @@ function loadText(id){
     s.setAttribute("type","text/javascript")
     document.head.appendChild(s)
     s.addEventListener('load',renderVerse);
-    localStorage.id=id
+    localStorage.id=id || "sb/1/1/1"
 }
 
 function renderVerse(){
