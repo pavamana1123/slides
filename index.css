@@ -2,6 +2,7 @@
     background-color: black;
     color: yellow;
     font-weight: 700;
+    font-size: 70px;
 }
 
 #main{
@@ -13,14 +14,8 @@
     left:0;
 }
 
-#slide{
-   color: yellow;
-   font-size: 50px;
-}
-
 #slideEnclosure{
     white-space: pre-line;
-    
     display: flex;
     text-align: center;
     margin: auto;
@@ -45,7 +40,6 @@
     position: absolute;
     left: 50%;
     -webkit-transform: translateX(-50%);
-    font-size: 50px;
     padding-top: 1%;
     width: 100%;
 }
