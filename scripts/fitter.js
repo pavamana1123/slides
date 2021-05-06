@@ -33,16 +33,16 @@ const TRANSLATION = 2
 const PURPORT = 3
 
 function loadText(id){
+    id ||= "sb/1/1/1"
     // remove the script element if it exists
     document.getElementById("text") && document.getElementById("text").remove()
-
     var s = document.createElement("script")
     s.setAttribute("id","text")
-    s.setAttribute("src","./books/js/"+ (id || "sb/1/1/1") + ".js")
+    s.setAttribute("src","./books/js/"+ id + ".js")
     s.setAttribute("type","text/javascript")
     document.head.appendChild(s)
     s.addEventListener('load',renderVerse);
-    localStorage.id=id || "sb/1/1/1"
+    localStorage.id=id
 }
 
 function renderVerse(){
