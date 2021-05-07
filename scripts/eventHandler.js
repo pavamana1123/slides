@@ -3,12 +3,12 @@ function handleKey(ev){
         var main = parseInt(slideEl.getAttribute("main"))
         var sub = parseInt(slideEl.getAttribute("sub"))
 
-        console.log(main,sub)
 
         if(ev.key=="ArrowRight"){
             if(sub+1 >= slides[main].content.length){
                 if(main==3){
-                    loadText(text.info.nextId)
+                    loadText(text.info.nextId,VERSE,0)
+                    return
                 }else{
                     main++
                     sub=0
@@ -16,12 +16,12 @@ function handleKey(ev){
             }else{
                 sub++
             }
-            console.log(main,sub,sub+1 >= slides[main].content.length)
-            setSlides(main,sub)
+            setSlide(main,sub)
         }else if(ev.key=="ArrowLeft"){
             if(sub == 0){
                 if(main==0){
-                    loadText(text.info.prevId)
+                    loadText(text.info.prevId,PURPORT,-1)
+                    return
                 }else{
                     main--
                     sub=0
@@ -29,7 +29,7 @@ function handleKey(ev){
             }else{
                 sub--
             }
-            setSlides(main,sub)
+            setSlide(main,sub)
         }
     }
 }

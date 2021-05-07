@@ -1,22 +1,23 @@
 function fit(txt){
     var slidelets = []
-    var lwsp=-1
+    var lwsp=-0
     var offset = 0
 
-    for(var i=1; i<txt.length; i++){
-        if(/\s/.test(txt.substring(i-1,i))){
-            if(isOverflow(txt.substring(offset,i-1))){
+    txt = txt.trim()
+
+    for(var i=0; i<txt.length; i++){
+        if(/\s/.test(txt.substring(i,i+1))){
+            if(isOverflow(txt.substring(offset,i))){
                 slidelets.push(txt.substring(offset,lwsp))
+                // skipping ws
                 offset = lwsp+1
-                lwsp=-1
             }else{
-                lwsp=i-1
+                lwsp=i
             }
-        }else if(i==txt.length-1){
+        }
+        if(i==txt.length-1){
             slidelets.push(txt.substring(offset,txt.length))
             break
-        }else{
-            continue
         }
     }
     return slidelets
@@ -32,8 +33,10 @@ const SYNONYM = 1
 const TRANSLATION = 2
 const PURPORT = 3
 
-function loadText(id){
-    id ||= "sb/1/1/1"
+function loadText(id,main,sub){
+    id = id || "sb/1/1/1"
+
+
     // remove the script element if it exists
     document.getElementById("text") && document.getElementById("text").remove()
     var s = document.createElement("script")
@@ -41,11 +44,11 @@ function loadText(id){
     s.setAttribute("src","./books/js/"+ id + ".js")
     s.setAttribute("type","text/javascript")
     document.head.appendChild(s)
-    s.addEventListener('load',renderVerse);
+    s.addEventListener('load',render.bind(null, main, sub));
     localStorage.id=id
 }
 
-function renderVerse(){
+function prepareSlides(){
     // prepare verse slides
     slides= [
         {
@@ -80,11 +83,21 @@ function renderVerse(){
             content: fit(text.purport.map((p)=>{return p.content}).join("\n"))
         }
     )
-
-    setSlides(VERSE,0)
 }
 
-function setSlides(main,sub){
+function render(main,sub){
+    prepareSlides()
+    setSlide(main,sub)
+}
+
+function setSlide(main,sub){
+    main = main || VERSE
+    sub = sub || 0
+
+    if(sub==-1){
+        sub=slides[main].content.length-1
+    }
+
     slideEl.textContent = slides[main].content[sub]
     headingEl.textContent = slides[main].heading
     slideEl.setAttribute("main",main)
