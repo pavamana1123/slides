@@ -1,8 +1,14 @@
+@font-face { 
+    font-family: balaram; 
+    src: url('balaram.ttf');
+} 
+
 #screen{
     background-color: black;
     color: yellow;
     font-weight: 700;
     font-size: 70px;
+    font-family: balaram;
 }
 
 #main{
