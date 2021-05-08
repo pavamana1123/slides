@@ -1,1 +1,0 @@
-var text = { 	"info": { 		"id": "sb\\6\\8\\8_summary", 		"nextId": "sb/6/8/1-2", 		"prevId": "sb/6/7/40" 	}, 	"verses": [ 		{ 			"roman": "", 			"isProse": false 		} 	], 	"synonyms": "", 	"translation": "" }
