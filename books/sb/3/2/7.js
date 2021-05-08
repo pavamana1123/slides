@@ -1,0 +1,33 @@
+var text = {
+    "info": {
+        "id": "sb/3/2/7",
+        "prevId": "sb/3/2/6",
+        "nextId": "sb/3/2/8"
+    },
+    "verses": [
+        {
+            "roman": "uddhava uväca\nkåñëa-dyumaëi nimloce\ngérëeñv ajagareëa ha\nkià nu naù kuçalaà brüyäà\ngata-çréñu gåheñv aham\n"
+        }
+    ],
+    "synonyms": "uddhavaù uväca—Çré Uddhava said; kåñëa-dyumaëi—the Kåñëa sun; nimloce—having set; gérëeñu—being swallowed; ajagareëa—by the great snake; ha—in the past; kim—what; nu—else; naù—our; kuçalam—welfare; brüyäm—may I say; gata—gone away; çréñu gåheñu—in the house; aham—I.",
+    "translation": "Çré Uddhava said: My dear Vidura, the sun of the world, Lord Kåñëa, has set, and our house has now been swallowed by the great snake of time. What can I say to you about our welfare?",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The disappearance of the Kåñëa sun may be explained as follows, according to the commentary of Çréla Viçvanätha Cakravarté Öhäkura. Vidura was struck with great sorrow when he got the hint of the annihilation of the great Yadu dynasty as well as of his own family, the Kuru dynasty. Uddhava could understand the grief of Vidura, and therefore he first of all wanted to sympathize with him by saying that after the sunset everyone is in darkness. Since the entire world was merged in the darkness of grief, neither Vidura nor Uddhava nor anyone else could be happy. Uddhava was as much aggrieved as Vidura, and there was nothing further to be said about their welfare."
+        },
+        {
+            "type": "normal",
+            "content": "The comparison of Kåñëa to the sun is very appropriate. As soon as the sun sets, darkness automatically appears. But the darkness experienced by the common man does not affect the sun itself either at the time of sunrise or of sunset. Lord Kåñëa's appearance and disappearance are exactly like that of the sun. He appears and disappears in innumerable universes, and as long as He is present in a particular universe there is all transcendental light in that universe, but the universe from which He passes away is put into darkness. His pastimes, however, are everlasting. The Lord is always present in some universe, just as the sun is present in either the eastern or the western hemisphere. The sun is always present either in India or in America, but when the sun is present in India, the American land is in darkness, and when the sun is present in America, the Indian hemisphere is in darkness."
+        },
+        {
+            "type": "normal",
+            "content": "As the sun appears in the morning and gradually rises to the meridian and then again sets in one hemisphere while simultaneously rising in the other, so Lord Kåñëa's disappearance in one universe and the beginning of His different pastimes in another take place simultaneously. As soon as one pastime is finished here, it is manifested in another universe. And thus His nitya-lélä, or eternal pastimes, are going on without ending. As the sunrise takes place once in twenty-four hours, similarly the pastimes of Lord Kåñëa take place in a universe once in a daytime of Brahmä, the account of which is given in the Bhagavad-gétä as 4,300,000,000 solar years. But wherever the Lord is present, all His different pastimes as described in the revealed scriptures take place at regular intervals."
+        },
+        {
+            "type": "normal",
+            "content": "As at sunset the snakes become powerful, thieves are encouraged, ghosts become active, the lotus becomes disfigured and the cakraväké laments, so with the disappearance of Lord Kåñëa, the atheists feel enlivened, and the devotees become sorry."
+        }
+    ]
+}
+

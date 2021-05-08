@@ -1,0 +1,29 @@
+var text = {
+    "info": {
+        "id": "sb/5/1/1",
+        "prevId": "sb/5/1/summary",
+        "nextId": "sb/5/1/2"
+    },
+    "verses": [
+        {
+            "roman": "räjoväca\npriyavrato bhägavata\nätmärämaù kathaà mune\ngåhe 'ramata yan-mülaù\nkarma-bandhaù paräbhavaù\n"
+        }
+    ],
+    "synonyms": "räjä uväca—King Parékñit said; priya-vrataù—King Priyavrata; bhägavataù—the great devotee; ätma-ärämaù—who takes pleasure in self-realization; katham—why; mune—O great sage; gåhe—at home; aramata—enjoyed; yat-mülaù—having which as the root cause; karma-bandhaù—the bondage of fruitive activities; paräbhavaù—the defeat of one's human mission.",
+    "translation": "King Parékñit inquired from Çukadeva Gosvämé: O great sage, why did King Priyavrata, who was a great, self-realized devotee of the Lord, remain in household life, which is the root cause of the bondage of karma [fruitive activities] and which defeats the mission of human life?",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "In the Fourth Canto, Çréla Çukadeva Gosvämé explains that Närada Muni perfectly instructed King Priyavrata about the mission of human life. The mission of human life is to realize one's self and then gradually to go back home, back to Godhead. Since Närada Muni instructed the King fully on this subject, why did he again enter household life, which is the main cause of material bondage? Mahäräja Parékñit was greatly astonished that King Priyavrata remained in household life, especially since he was not only a self-realized soul but also a first-class devotee of the Lord. A devotee actually has no attraction for household life, but surprisingly, King Priyavrata enjoyed household life very much. One may argue, \"Why is it wrong to enjoy household life?\" The reply is that in household life one becomes bound by the results of fruitive activities. The essence of household life is sense enjoyment, and as long as one engrosses his mind in working hard for sense enjoyment, one becomes bound by the reactions of fruitive activities. This ignorance of self-realization is the greatest defeat in human life. The human form of life is especially meant for getting out of the bondage of fruitive activities, but as long as one is forgetful of his life's mission and acts like an ordinary animal—eating, sleeping, mating and defending—he must continue his conditioned life of material existence. Such a life is called svarüpa-vismåti, forgetfulness of one's real constitutional position. Therefore in Vedic civilization one is trained in the very beginning of life as a brahmacäré. A brahmacäré must execute austerities and refrain from sex indulgence. Therefore if one is completely trained in the principles of brahmacarya, he generally does not enter household life. He is then called a naiñöhika-brahmacäré, which indicates total celibacy. King Parékñit was thus astonished that the great King Priyavrata, although trained in the principles of naiñöhika-brahmacarya, entered household life."
+        },
+        {
+            "type": "normal",
+            "content": "The words bhägavata ätmärämaù are very significant in this verse. If one is self-satisfied as is the Supreme Personality of Godhead, he is called bhägavata ätmärämaù. There are different types of satisfaction. Karmés are satisfied in their fruitive activities, jïänés are satisfied to merge into the effulgence of Brahman, and devotees are satisfied to engage in the Lord's service. The Lord is self-satisfied because He is fully opulent, and one who is satisfied by serving Him is called bhägavata ätmärämaù. Manuñyäëäà sahasreñu:  out of many thousands of persons, one may endeavor for liberation, and of many thousands of persons attempting to become liberated, one may achieve liberation from the anxieties of material existence and become self-satisfied. Even that satisfaction, however, is not the ultimate satisfaction. The jïänés and the karmés have desires, as do the yogés, but devotees have no desires. Satisfaction in the service of the Lord is called akäma, freedom from desire, and this is the ultimate satisfaction. Therefore Mahäräja Parékñit inquired, \"How could one who was fully satisfied on the highest platform be satisfied with family life?\""
+        },
+        {
+            "type": "normal",
+            "content": "The word paräbhavaù in this verse is also significant. When one is satisfied in family life, he is doomed because he must already have forgotten his relationship with the Lord. Prahläda Mahäräja describes how the activities of family life implicate one more and more. Ätma-pätaà gåham andha-küpam: household life is like a dark well. If one falls into this well, his spiritual death is assured. How Priyavrata Mahäräja remained a liberated paramahaàsa even within family life is described in the next verse."
+        }
+    ]
+}
+

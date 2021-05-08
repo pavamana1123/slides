@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/9/3/20",
+        "prevId": "sb/9/3/19",
+        "nextId": "sb/9/3/21"
+    },
+    "verses": [
+        {
+            "roman": "cikérñitaà te kim idaà patis tvayä\npralambhito loka-namaskåto muniù\nyat tvaà jarä-grastam asaty asammataà\nvihäya järaà bhajase 'mum adhvagam\n"
+        }
+    ],
+    "synonyms": "cikérñitam—which you desire to do; te—of you; kim idam—what is this; patiù—your husband; tvayä—by you; pralambhitaù—has been cheated; loka-namaskåtaù—who is honored by all people; muniù—a great sage; yat—because; tvam—you; jarä-grastam—very old and invalid; asati—O unchaste daughter; asammatam—not very attractive; vihäya—giving up; järam—paramour; bhajase—you have accepted; amum—this man; adhvagam—comparable to a street beggar.",
+    "translation": "O unchaste girl, what is this that you have desired to do? You have cheated the most respectable husband, who is honored by everyone, for I see that because he was old, diseased and therefore unattractive, you have left his company to accept as your husband this young man, who appears to be a beggar from the street.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "This shows the values of Vedic culture. According to the circumstances, Sukanyä had been given a husband who was too old to be compatible with her. Because Cyavana Muni was diseased and very old, he was certainly unfit for the beautiful daughter of King Çaryäti. Nonetheless, her father expected her to be faithful to her husband. When he suddenly saw that his daughter had accepted someone else, even though the man was young and handsome, he immediately chastised her as asaté, unchaste, because he assumed that she had accepted another man in the presence of her husband. According to Vedic culture, even if a young woman is given an old husband, she must respectfully serve him. This is chastity. It is not that because she dislikes her husband she may give him up and accept another. This is against Vedic culture. According to Vedic culture, a woman must accept the husband given to her by her parents and remain chaste and faithful to him. Therefore King Çaryäti was surprised to see a young man by the side of Sukanyä."
+        }
+    ]
+}
+

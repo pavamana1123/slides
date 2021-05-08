@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/3/32/24",
+        "prevId": "sb/3/32/23",
+        "nextId": "sb/3/32/25"
+    },
+    "verses": [
+        {
+            "roman": "yadäsya cittam artheñu\nsameñv indriya-våttibhiù\nna vigåhëäti vaiñamyaà\npriyam apriyam ity uta\n"
+        }
+    ],
+    "synonyms": "yadä—when; asya—of the devotee; cittam—the mind; artheñu—in the sense objects; sameñu—same; indriya-våttibhiù—by the activities of the senses; na—not; vigåhëäti—does perceive; vaiñamyam—difference; priyam—agreeable; apriyam—not agreeable; iti—thus; uta—certainly.",
+    "translation": "The exalted devotee's mind becomes equipoised in sensory activities, and he is transcendental to that which is agreeable and not agreeable.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The significance of advancement in transcendental knowledge and detachment from material attraction is exhibited in the personality of a highly advanced devotee. For him there is nothing agreeable or disagreeable because he does not act in any way for his personal sense gratification. Whatever he does, whatever he thinks, is for the satisfaction of the Personality of Godhead. Either in the material world or in the spiritual world, his equipoised mind is completely manifested. He can understand that in the material world there is nothing good; everything is bad due to its being contaminated by material nature. The materialists' conclusions of good and bad, moral and immoral, etc., are simply mental concoction or sentiment. Actually there is nothing good in the material world. In the spiritual field everything is absolutely good. There is no inebriety in the spiritual varieties. Because a devotee accepts everything in spiritual vision, he is equipoised; that is the symptom of his being elevated to the transcendental position. He automatically attains detachment, vairägya, then jïäna, knowledge, and then actual transcendental knowledge. The conclusion is that an advanced devotee dovetails himself in the transcendental qualities of the Lord, and in that sense he becomes qualitatively one with the Supreme Personality of Godhead."
+        }
+    ]
+}
+

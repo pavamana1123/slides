@@ -1,0 +1,25 @@
+var text = {
+    "info": {
+        "id": "sb/11/22/44",
+        "prevId": "sb/11/22/43",
+        "nextId": "sb/11/22/45"
+    },
+    "verses": [
+        {
+            "roman": "yathärciñäà srotasäà ca\nphalänäà vä vanaspateù\ntathaiva sarva-bhütänäà\nvayo-'vasthädayaù kåtäù\n"
+        }
+    ],
+    "synonyms": "yathä—as; arciñäm—of the flames of a candle; srotasäm—of the currents of a river; ca—and; phalänäm—of fruits; vä—or; vanaspateù—of a tree; tathä—thus; eva—certainly; sarva-bhütänäm—of all material bodies; vayaù—of different ages; avasthä—situations; ädayaù—and so on; kåtäù—are created.",
+    "translation": "The different stages of transformation of all material bodies occur just like those of the flame of a candle, the current of a river, or the fruits of a tree.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The wavering flame of a candle sometimes waxes brightly and again becomes weak. Finally it vanishes altogether. The waves of a flowing river rise and fall, creating innumerable shapes and patterns. The fruits of a tree gradually take birth, grow, ripen, sweeten and eventually rot and die. Similarly, one can easily understand that one's own body is undergoing constant transformation, and that the body is certainly subject to old age, disease and death. At different times of life the body exhibits degrees of sexual potency, physical strength, desire, wisdom and so on. As the body grows old, physical strength diminishes, but one's knowledge may increase even as the body undergoes such transformation."
+        },
+        {
+            "type": "normal",
+            "content": "Material birth and death occur within the realm of segmented time. The birth, creation or production of a material object immediately connects it with a segmented sequence of subtle time within the material world. Thus its destruction or death is inevitable. The irresistible force of time moves so subtly that only the most intelligent can perceive it. Just as the candle flame gradually diminishes, as the flowing currents move within the river or as fruits gradually ripen on a tree, the material body is steadily moving toward inevitable death. The temporary body should therefore never be confused with the eternal, unchanging spirit soul."
+        }
+    ]
+}
+

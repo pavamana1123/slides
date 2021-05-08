@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/20/5",
+        "prevId": "sb/11/20/4",
+        "nextId": "sb/11/20/6"
+    },
+    "verses": [
+        {
+            "roman": "guëa-doña-bhidä-dåñöir\nnigamät te na hi svataù\nnigamenäpavädaç ca\nbhidäyä iti ha bhramaù\n"
+        }
+    ],
+    "synonyms": "guëa—piety; doña—sin; bhidä—the difference between; dåñöiù—seeing; nigamät—from Vedic knowledge; te—Your; na—not; hi—indeed; svataù—automatically; nigamena—by the Vedas; apavädaù—nullification; ca—also; bhidäyäù—of such distinction; iti—thus; ha—clearly; bhramaù—confusion.",
+    "translation": "My dear Lord, the distinction observed between piety and sin comes from Your own Vedic knowledge and does not arise by itself. If the same Vedic literature subsequently nullifies such distinction between piety and sin, there will certainly be confusion.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "In the Bhagavad-gétä  Lord Kåñëa states, vedaiç ca sarvair aham eva vedyaù: \"By all the Vedas I am to be known. Indeed, I am the compiler of Vedanta, and I know the Veda as it is.\" Vedic knowledge emanates from the breathing of the Personality of Godhead; therefore, whatever Lord Kåñëa speaks is Veda, or perfect knowledge. The Vedic literatures are full of descriptions of piety and sin, but Lord Kåñëa's statement that one should transcend piety and sin is also to be understood as Vedic knowledge. Çré Uddhava has understood this point and therefore requests Lord Kåñëa to clear up an apparent contradiction. Ultimately, the material world gives the living entities a chance to satisfy their perverted desires and at the same time gradually achieve the liberation of going back home, back to Godhead. Thus material piety must be considered a means and never an absolute end, since the material world itself is not absolute, being temporary and limited. The Personality of Godhead is Himself the reservoir of all virtue and goodness. Those persons and activities that please the Lord are to be considered virtuous, and those that displease Him are to be considered sinful. There cannot be any other permanent definition of these terms. If one becomes a mundane moralist, forgetting the Supreme Lord, one's position is certainly imperfect, and one will not achieve the ultimate goal of piety, going back home, back to Godhead. On the other hand, there is great fear among moralists that if the distinction between piety and sin is minimized, people will commit many atrocities in the name of God. In the modern world there is no clear understanding of spiritual authority, and moral men consider any appeal to transcend morality to be an invitation to fanaticism, anarchy, violence and corruption. Thus they regard material moral principles as more important than directly trying to please God. Because this point is controversial, Uddhava is anxiously requesting the Lord to give a clear explanation."
+        }
+    ]
+}
+

@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/5/10/6",
+        "prevId": "sb/5/10/5",
+        "nextId": "sb/5/10/7"
+    },
+    "verses": [
+        {
+            "roman": "aho kañöaà bhrätar vyaktam uru-pariçränto dérgham adhvänam\neka eva ühivän suciraà näti-pévä na saàhananäìgo jarasä copadruto bhavän\nsakhe no eväpara ete saìghaööina iti bahu-vipralabdho 'py avidyayä\nracita-dravya-guëa-karmäçaya-sva-carama-kalevare 'vastuni saàsthäna-viçeñe 'haà\nmamety anadhyäropita-mithyä-pratyayo brahma-bhütas tüñëéà çibikäà pürvavad uväha\n"
+        }
+    ],
+    "synonyms": "aho—alas; kañöam—how troublesome it is; bhrätaù—my dear brother; vyaktam—clearly; uru—very much; pariçräntaù—fatigued; dérgham—a long; adhvänam—path; ekaù—alone; eva—certainly; ühivän—you have carried; su-ciram—for a long time; na—not; ati-pévä—very strong and stout; na—nor; saàhanana-aìgaù—having a firm, tolerant body; jarasä—by old age; ca—also; upadrutaù—disturbed; bhavän—yourself; sakhe—my friend; no eva—not certainly; apare—the other; ete—all these; saìghaööinaù—co-workers; iti—thus; bahu—very much; vipralabdhaù—sarcastically criticized; api—although; avidyayä—by nescience; racita—manufactured; dravya-guëa-karma-äçaya—in a combination of material elements, material qualities, and the results of past activities and desires; sva-carama-kalevare—in the body, which is moved by the subtle elements (mind, intelligence and ego); avastuni—in such physical things; saàsthäna-viçeñe—having a particular disposition; aham mama—I and mine; iti—in this way; anadhyäropita—not interposed; mithyä—false; pratyayaù—belief; brahma-bhütaù—who was self-realized, standing on the Brahman platform; tüñëém—being silent; çibikäm—the palanquin; pürva-vat—as before; uväha—carried.",
+    "translation": "King Rahügaëa told Jaòa Bharata: How troublesome this is, my dear brother. You certainly appear very fatigued because you have carried this palanquin alone without assistance for a long time and for a long distance. Besides that, due to your old age you have become greatly troubled. My dear friend, I see that you are not very firm, nor very strong and stout. Aren't your fellow carriers cooperating with you?In this way the King criticized Jaòa Bharata with sarcastic words, yet despite being criticized in this way, Jaòa Bharata had no bodily conception of the situation. He knew that he was not the body, for he had attained his spiritual identity. He was neither fat, lean nor thin, nor had he anything to do with a lump of matter, a combination of the five gross and three subtle elements. He had nothing to do with the material body and its two hands and legs. In other words, he had completely realized his spiritual identity [ahaà brahmäsmi]. He was therefore unaffected by this sarcastic criticism from the King. Without saying anything, he continued carrying the palanquin as before.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Jaòa Bharata was completely liberated. He did not even care when the dacoits attempted to kill his body; he knew that he certainly was not the body. Even if the body were killed, he would not have cared, for he was thoroughly convinced of the proposition found in Bhagavad-gétä : na hanyate hanyamäne çarére. He knew that he could not be killed even if his body were killed. Although he did not protest, the Supreme Personality of Godhead in His agent could not tolerate the injustice of the dacoits; therefore he was saved by the mercy of Kåñëa, and the dacoits were killed. In this case, while carrying the palanquin, he also knew that he was not the body. This body was very strong and stout, in sound condition and quite competent to carry the palanquin. Due to his being freed from the bodily conception, the sarcastic words of the King did not at all affect him. The body is created according to one's karma, and material nature supplies the ingredients for the development of a certain type of body. The soul the body covers is different from the bodily construction; therefore anything favorable or mischievous done to the body does not affect the spirit soul. The Vedic injunction is asaìgo hy ayaà puruñaù: the spirit soul is always unaffected by material arrangements."
+        }
+    ]
+}
+

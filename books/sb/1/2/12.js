@@ -1,0 +1,29 @@
+var text = {
+    "info": {
+        "id": "sb/1/2/12",
+        "prevId": "sb/1/2/11",
+        "nextId": "sb/1/2/13"
+    },
+    "verses": [
+        {
+            "roman": "tac chraddadhänä munayo\njïäna-vairägya-yuktayä\npaçyanty ätmani cätmänaà\nbhaktyä çruta-gåhétayä\n"
+        }
+    ],
+    "synonyms": "tat—that; çraddadhänäù—seriously inquisitive; munayaù—sages; jïäna—knowledge; vairägya—detachment; yuktayä—well equipped with; paçyanti—see; ätmani—within himself; ca—and; ätmänam—the Paramätmä; bhaktyä—in devotional service; çruta—the Vedas; gåhétayä—well received.",
+    "translation": "The seriously inquisitive student or sage, well equipped with knowledge and detachment, realizes that Absolute Truth by rendering devotional service in terms of what he has heard from the Vedänta-çruti.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The Absolute Truth is realized in full by the process of devotional service to the Lord, Väsudeva, or the Personality of Godhead, who is the full-fledged Absolute Truth. Brahman is His transcendental bodily effulgence, and Paramätmä is His partial representation. As such, Brahman or Paramätmä realization of the Absolute Truth is but a partial realization. There are four different types of human beings—the karmés, the jïänés, the yogés and the devotees. The karmés are materialistic, whereas the other three are transcendental. The first-class transcendentalists are the devotees who have realized the Supreme Person. The second-class transcendentalists are those who have partially realized the plenary portion of the absolute person. And the third-class transcendentalists are those who have barely realized the spiritual focus of the absolute person. As stated in the Bhagavad-gétä and other Vedic literatures, the Supreme Person is realized by devotional service, which is backed by full knowledge and detachment from material association. We have already discussed the point that devotional service is followed by knowledge and detachment from material association. As Brahman and Paramätmä realization are imperfect realizations of the Absolute Truth, so the means of realizing Brahman and Paramätmä, i.e., the paths of jïäna and yoga, are also imperfect means of realizing the Absolute Truth. Devotional service, which is based on the foreground of full knowledge combined with detachment from material association and which is fixed by the aural reception of the Vedänta-çruti, is the only perfect method by which the seriously inquisitive student can realize the Absolute Truth. Devotional service is not, therefore, meant for the less intelligent class of transcendentalist. There are three classes of devotees, namely first, second, and third class. The third-class devotees, or the neophytes, who have no knowledge and are not detached from material association, but who are simply attracted by the preliminary process of worshiping the Deity in the temple, are called material devotees. Material devotees are more attached to material benefit than transcendental profit. Therefore, one has to make definite progress from the position of material devotional service to the second-class devotional position. In the second-class position, the devotee can see four principles in the devotional line, namely the Personality of Godhead, His devotees, the ignorant and the envious. One has to raise himself at least to the stage of a second-class devotee and thus become eligible to know the Absolute Truth."
+        },
+        {
+            "type": "normal",
+            "content": "A third-class devotee, therefore, has to receive the instructions of devotional service from the authoritative sources of Bhägavata. The number one Bhägavata is the established personality of devotee, and the other Bhägavatam is the message of Godhead. The third-class devotee therefore has to go to the personality of devotee in order to learn the instructions of devotional service. Such a personality of devotee is not a professional man who earns his livelihood by the business of Bhägavatam. Such a devotee must be a representative of Çukadeva Gosvämé, like Süta Gosvämé, and must preach the cult of devotional service for the all-around benefit of all people. A neophyte devotee has very little taste for hearing from the authorities. Such a neophyte devotee makes a show of hearing from the professional man to satisfy his senses. This sort of hearing and chanting has spoiled the whole thing, so one should be very careful about the faulty process. The holy messages of Godhead, as inculcated in the Bhagavad-gétä or in the Çrémad-Bhägavatam, are undoubtedly transcendental subjects, but even though they are so, such transcendental matters are not to be received from the professional man, who spoils them as the serpent spoils milk simply by the touch of his tongue."
+        },
+        {
+            "type": "normal",
+            "content": "A sincere devotee must, therefore, be prepared to hear the Vedic literature like the Upaniñads, Vedänta and other literatures left by the previous authorities or Gosvämés, for the benefit of his progress. Without hearing such literatures, one cannot make actual progress. And without hearing and following the instructions, the show of devotional service becomes worthless and therefore a sort of disturbance in the path of devotional service. Unless, therefore, devotional service is established on the principles of çruti, småti, puräëa or païcarätra authorities, the make-show of devotional service should at once be rejected. An unauthorized devotee should never be recognized as a pure devotee. By assimilation of such messages from the Vedic literatures, one can see the all-pervading localized aspect of the Personality of Godhead within his own self constantly. This is called samädhi."
+        }
+    ]
+}
+

@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/8/5/32",
+        "prevId": "sb/8/5/31",
+        "nextId": "sb/8/5/33"
+    },
+    "verses": [
+        {
+            "roman": "pädau mahéyaà sva-kåtaiva yasya\ncatur-vidho yatra hi bhüta-sargaù\nsa vai mahä-püruña ätma-tantraù\nprasédatäà brahma mahä-vibhütiù\n"
+        }
+    ],
+    "synonyms": "pädau—His lotus feet; mahé—the earth; iyam—this; sva-kåta—created by Himself; eva—indeed; yasya—of whom; catuù-vidhaù—of four kinds of living entities; yatra—wherein; hi—indeed; bhüta-sargaù—material creation; saù—He; vai—indeed; mahä-püruñaù—the Supreme Person; ätma-tantraù—self-sufficient; prasédatäm—may He be merciful to us; brahma—the greatest; mahä-vibhütiù—with unlimited potency.",
+    "translation": "On this earth there are four kinds of living entities, who are all created by Him. The material creation rests on His lotus feet. He is the great Supreme Person, full of opulence and power. May He be pleased with us.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The word mahé refers to the five material elements—earth, water, air, fire and sky—which rest upon the lotus feet of the Supreme Personality of Godhead. Mahat-padaà puëya-yaço muräreù. The mahat-tattva, the total material energy, rests on His lotus feet, for the cosmic manifestation is but another opulence of the Lord. In this cosmic manifestation there are four kinds of living entities—jaräyu ja (those born from embryos), aëòa ja (those born from eggs), sveda ja (those born from perspiration), and udbhijja (those born from seeds). Everything is generated from the Lord, as confirmed in the Vedänta-sütra (janmädy asya yataù ). No one is independent, but the Supreme Soul is completely independent. Janmädy asya yato 'nvayäd itarataç cärtheñv abhijïaù sva-räö. The word sva-räö means \"independent.\" We are dependent, whereas the Supreme Lord is completely independent. Therefore the Supreme Lord is the greatest of all. Even Lord Brahmä, who created the cosmic manifestation, is but another opulence of the Supreme Personality of Godhead. The material creation is activated by the Lord, and therefore the Lord is not a part of the material creation. The Lord exists in His original, spiritual position. The universal form of the Lord, vairäja-mürti, is another feature of the Supreme Personality of Godhead."
+        }
+    ]
+}
+

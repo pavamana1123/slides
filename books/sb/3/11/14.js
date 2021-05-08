@@ -1,0 +1,41 @@
+var text = {
+    "info": {
+        "id": "sb/3/11/14",
+        "prevId": "sb/3/11/13",
+        "nextId": "sb/3/11/15"
+    },
+    "verses": [
+        {
+            "roman": "saàvatsaraù parivatsara\niòä-vatsara eva ca\nanuvatsaro vatsaraç ca\nviduraivaà prabhäñyate\n"
+        }
+    ],
+    "synonyms": "saàvatsaraù—orbit of the sun; parivatsaraù—circumambulation of Båhaspati; iòä-vatsaraù—orbit of the stars; eva—as they are; ca—also; anuvatsaraù—orbit of the moon; vatsaraù—one calendar year; ca—also; vidura—O Vidura; evam—thus; prabhäñyate—they are so told.",
+    "translation": "There are five different names for the orbits of the sun, moon, stars and luminaries in the firmament, and they each have their own saàvatsara.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The subject matters of physics, chemistry, mathematics, astronomy, time and space dealt with in the above verses of Çrémad-Bhägavatam are certainly very interesting to students of the particular subject, but as far as we are concerned, we cannot explain them very thoroughly in terms of technical knowledge. The subject is summarized by the statement that above all the different branches of knowledge is the supreme control of käla, the plenary representation of the Supreme Personality of Godhead. Nothing exists without Him, and therefore everything, however wonderful it may appear to our meager knowledge, is but the work of the magical wand of the Supreme Lord. As far as time is concerned, we beg to subjoin herewith a table of timings in terms of the modern clock."
+        },
+        {
+            "type": "normal",
+            "content": "<br/>"
+        },
+        {
+            "type": "normal",
+            "content": "<table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n<tbody><tr>\n<td>One truöi</td>\n<td>-</td>\n<td>8/13,500</td>\n<td>second\n</td></tr>\n<tr>\n<td>One vedha</td>\n<td>-</td>\n<td>8/135</td>\n<td>second\n</td></tr>\n<tr>\n<td>One lava</td>\n<td>-</td>\n<td>8/45</td>\n<td>second\n</td></tr>\n<tr>\n<td>One nimeña</td>\n<td>-</td>\n<td>8/15</td>\n<td>second\n</td></tr>\n<tr>\n<td>One kñaëa</td>\n<td>-</td>\n<td>8/5</td>\n<td>second\n</td></tr>\n<tr>\n<td>One käñöhä</td>\n<td>-</td>\n<td>8</td>\n<td>seconds\n</td></tr>\n<tr>\n<td>One laghu</td>\n<td>-</td>\n<td>2</td>\n<td>minutes\n</td></tr>\n<tr>\n<td>One daëòa</td>\n<td>-</td>\n<td>30</td>\n<td>minutes\n</td></tr>\n<tr>\n<td>One prahara</td>\n<td>-</td>\n<td>3</td>\n<td>hours\n</td></tr>\n<tr>\n<td>One day</td>\n<td>-</td>\n<td>12</td>\n<td>hours\n</td></tr>\n<tr>\n<td>One night</td>\n<td>-</td>\n<td>12</td>\n<td>hours\n</td></tr>\n<tr>\n<td>One pakña</td>\n<td>-</td>\n<td>15</td>\n<td>days\n</td></tr></tbody></table>\n<br/>\nTwo pakñas comprise one month, and twelve months comprise one calendar year, or one full orbit of the sun. A human being is expected to live up to one hundred years. That is the way of the controlling measure of eternal time."
+        },
+        {
+            "type": "normal",
+            "content": "The Brahma-saàhitä (BS 5.38) affirms this control in this way:"
+        },
+        {
+            "type": "verse",
+            "content": "yac-cakñur eña savitä sakala-grahäëäàräjä samasta-sura-mürtir açeña-tejäù\nyasyäjïayä bhramati saàbhåta-käla-cakrogovindam ädi-puruñaà tam ahaà bhajämi"
+        },
+        {
+            "type": "normal",
+            "content": "\"I worship Govinda, the primeval Lord, the Supreme Personality of Godhead, under whose control even the sun, which is considered to be the eye of the Lord, rotates within the fixed orbit of eternal time. The sun is the king of all planetary systems and has unlimited potency in heat and light.\""
+        }
+    ]
+}
+

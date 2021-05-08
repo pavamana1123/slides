@@ -1,0 +1,24 @@
+var text = {
+    "info": {
+        "id": "sb/11/9/17-18",
+        "prevId": "sb/11/9/16",
+        "nextId": "sb/11/9/19"
+    },
+    "verses": [
+        {
+            "roman": "kälenätmänubhävena\nsämyaà nétäsu çaktiñu\nsattvädiñv ädi-puruñaù\npradhäna-puruñeçvaraù\n"
+        },
+        {
+            "roman": "parävaräëäà parama\näste kaivalya-saàjïitaù\nkevalänubhavänanda-\nsandoho nirupädhikaù\n"
+        }
+    ],
+    "synonyms": "kälena—by the time factor; ätma-anubhävena—which is the Lord's own potency; sämyam—to equilibrium; nétäsu—being brought; çaktiñu—the material potencies; sattva-ädiñu—the mode of goodness, etc.; ädi-puruñaù—the eternal Supreme Personality of Godhead; pradhäna-puruña-éçvaraù—the supreme controller of the neutral state of nature (pradhäna) and of the living entities; para—of the liberated living entities or the demigods; avaräëäm—of ordinary conditioned souls; paramaù—the supreme worshipable object; äste—exists; kaivalya—liberated existence; saàjïitaù—that which is indicated by the term; kevala—pure without material tinge; anubhava—experience of revelation; änanda—bliss; sandohaù—the totality; nirupädhikaù—devoid of materially designated relationships.",
+    "translation": "When the Supreme Personality of Godhead displays His own potency in the form of time and guides His material potencies, such as the mode of goodness, into a neutral condition of equilibrium, He remains as the supreme controller of that neutral state, called pradhäna, as well as of the living entities. He is also the supreme worshipable object for all beings, including liberated souls, demigods and ordinary conditioned souls. The Lord is eternally free from any material designation, and He constitutes the totality of spiritual bliss, which one experiences by seeing the Lord's spiritual form. The Lord thus exhibits the fullest meaning of the word \"liberation.\"",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "One who fixes his mind in the Absolute Truth, the Personality of Godhead, gets immediate relief from the waves of material anxiety because the Lord's transcendental form is completely free of any material contamination or designation. Less intelligent persons accept the illogical doctrine that the Lord is transformed into His creation and maintains no separate, individual existence. They falsely imagine that they can merge their individuality into the universal oneness and become exactly equal to the Supreme Personality of Godhead. However, in the opinion of Çrémad-Bhägavatam the Personality of Godhead is not impersonal but is instead full of all transcendental qualities. The three modes of material nature constitute His inferior energy, and the omnipotent time factor, upon which the modes rest, is the personal expansion of the Lord. Thus, the Lord creates, maintains and annihilates the material manifestation and yet remains completely apart from it. The conditioned souls who desire to exploit the Lord's inferior creation are impelled by the Personality of Godhead to do so, and thus they become imitation enjoyers in the temporary world of matter. But when one gains practical experience that the gross and subtle material bodies are simply coverings of the eternal soul, one gives up the foolishness of material attachment and becomes attached to the Supreme Personality of Godhead. He realizes that his constitutional position is neither to enjoy matter nor merge into the Lord's existence. His real nature is that he is a servant of God. Service rendered to the Lord is eternal, full of bliss and knowledge, and by the potency of such service one becomes liberated and his activities become glorious. Such service is eternal and gradually promotes one to the platform of kevalänubhavänanda-sandoha, or merging into the ocean of bliss by seeing the transcendental personal form of the Lord."
+        }
+    ]
+}
+

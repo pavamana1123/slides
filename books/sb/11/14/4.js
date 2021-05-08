@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/14/4",
+        "prevId": "sb/11/14/3",
+        "nextId": "sb/11/14/5-7"
+    },
+    "verses": [
+        {
+            "roman": "tena proktä sva-puträya\nmanave pürva-jäya sä\ntato bhågv-ädayo 'gåhëan\nsapta brahma-maharñayaù\n"
+        }
+    ],
+    "synonyms": "tena—by Brahmä; proktä—spoken; sva-puträya—to his son; manave—to Manu; pürva-jäya—the oldest; sä—that Vedic knowledge; tataù—from Manu; bhågu-ädayaù—those headed by Bhågu Muni; agåhëan—accepted; sapta—seven; brahma—in Vedic literature; mahä-åñayaù—most learned sages.",
+    "translation": "Lord Brahmä spoke this Vedic knowledge to his eldest son, Manu, and the seven great sages headed by Bhågu Muni then accepted the same knowledge from Manu.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Everyone engages in a certain way of life based on one's own nature and propensities. Bhakti-yoga is the natural activity of one whose nature is completely purified by association with the Supreme Lord. Other processes are meant for those whose nature is still affected by the material modes, and thus such processes, along with their results, are themselves also materially contaminated. Devotional service to the Lord, however, is a pure spiritual process, and by executing it with a pure consciousness one comes directly in touch with the Personality of Godhead, who describes Himself in Bhagavad-gétä  as pavitram idam uttamam, the supreme pure. The system of paramparä, or disciplic succession, is illustrated in this and the previous verse. The spiritual masters in Caitanya Mahäprabhu's movement are part of such a disciplic succession, and through them the same Vedic knowledge spoken by Brahmä to Manu is still available."
+        }
+    ]
+}
+

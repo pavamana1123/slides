@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/3/4",
+        "prevId": "sb/1/3/3",
+        "nextId": "sb/1/3/5"
+    },
+    "verses": [
+        {
+            "roman": "paçyanty ado rüpam adabhra-cakñuñä\nsahasra-pädoru-bhujänanädbhutam\nsahasra-mürdha-çravaëäkñi-näsikaà\nsahasra-mauly-ambara-kuëòalollasat\n"
+        }
+    ],
+    "synonyms": "paçyanti—see; adaù—the form of the puruña; rüpam—form; adabhra—perfect; cakñuñä—by the eyes; sahasra-päda—thousands of legs; üru—thighs; bhuja-änana—hands and faces; adbhutam—wonderful; sahasra—thousands of; mürdha—heads; çravaëa—ears; akñi—eyes; näsikam—noses; sahasra—thousands; mauli—garlands; ambara—dresses; kuëòala—earrings; ullasat—all glowing.",
+    "translation": "The devotees, with their perfect eyes, see the transcendental form of the puruña who has thousands of legs, thighs, arms and faces-all extraordinary. In that body there are thousands of heads, ears, eyes and noses. They are decorated with thousands of helmets and glowing earrings and are adorned with garlands.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "With our present materialized senses we cannot perceive anything of the transcendental Lord. Our present senses are to be rectified by the process of devotional service, and then the Lord Himself becomes revealed to us. In the Bhagavad-gétä it is confirmed that the transcendental Lord can be perceived only by pure devotional service. So it is confirmed in the Vedas that only devotional service can lead one to the side of the Lord and that only devotional service can reveal Him. In the Brahma-saàhitä also it is said that the Lord is always visible to the devotees whose eyes have been anointed with the tinge of devotional service. So we have to take information of the transcendental form of the Lord from persons who have actually seen Him with perfect eyes smeared with devotional service. In the material world also we do not always see things with our own eyes; we sometimes see through the experience of those who have actually seen or done things. If that is the process for experiencing a mundane object, it is more perfectly applicable in matters transcendental. So only with patience and perseverance can we realize the transcendental subject matter regarding the Absolute Truth and His different forms. He is formless to the neophytes, but He is in transcendental form to the expert servitor."
+        }
+    ]
+}
+

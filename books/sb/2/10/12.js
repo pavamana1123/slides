@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/2/10/12",
+        "prevId": "sb/2/10/11",
+        "nextId": "sb/2/10/13"
+    },
+    "verses": [
+        {
+            "roman": "dravyaà karma ca kälaç ca\nsvabhävo jéva eva ca\nyad-anugrahataù santi\nna santi yad-upekñayä\n"
+        }
+    ],
+    "synonyms": "dravyam—physical elements; karma—action; ca—and; kälaù—time; ca—also; sva-bhävaù jévaù—the living entities; eva—certainly; ca—also; yat—whose; anugrahataù—by the mercy of; santi—exist; na—does not; santi—exist; yat-upekñayä—by negligence.",
+    "translation": "One should definitely know that all material ingredients, activities, time and modes, and the living entities who are meant to enjoy them all, exist by His mercy only, and as soon as He does not care for them, everything becomes nonexistent.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The living entities are the enjoyers of the material ingredients, time, modes, etc., because they want to lord it over the material nature. The Lord is the supreme enjoyer, and the living entities are meant to assist the Lord in His enjoyment and thus participate in the transcendental enjoyment of everyone. The enjoyer and the enjoyed both participate in enjoyment, but, deluded by the illusory energy, the living entities want to become the enjoyer like the Lord, although they are not meant for such enjoyment. The jévas, the living entities, are mentioned in the Bhagavad-gétä as the Lord's superior nature, or parä prakåti, and so also it is mentioned in the Viñëu Puräëa. Therefore the living entities are never the puruñas, or the factual enjoyers. As such, the spirit of enjoyment by the living entity in the material world is false. In the spiritual world the living entities are pure in nature, and therefore they are associates in the enjoyment of the Supreme Lord. In the material world the spirit of enjoyment of the living entities by dint of their own actions (karma) gradually fades by the laws of nature, and thus the illusory energy dictates in the ears of the conditioned souls that they should become one with the Lord. This is the last snare of the illusory energy. When the last illusion is also cleared off by the mercy of the Lord, the living entity again becomes reinstated in his original position and thus becomes actually liberated. For this attainment of liberation from the material clutches, the Lord creates the material world, maintains it for some time (one thousand years of His measurement, as stated in the previous verse), and then again annihilates it by His will. The living entities are therefore completely dependent on the mercy of the Lord, and all their so-called enjoyments by scientific improvement are crushed into dust when the Lord desires."
+        }
+    ]
+}
+

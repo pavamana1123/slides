@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/4/7/10",
+        "prevId": "sb/4/7/9",
+        "nextId": "sb/4/7/11"
+    },
+    "verses": [
+        {
+            "roman": "tadä våñadhvaja-dveña-\nkalilätmä prajäpatiù\nçivävalokäd abhavac\ncharad-dhrada ivämalaù\n"
+        }
+    ],
+    "synonyms": "tadä—at that time; våña-dhvaja—Lord Çiva, who rides on a bull; dveña—envy; kalila-ätmä—polluted heart; prajäpatiù—King Dakña; çiva—Lord Çiva; avalokät—by seeing him; abhavat—became; çarat—in the autumn; hradaù—lake; iva—like; amalaù—cleansed.",
+    "translation": "At that time, when Dakña saw Lord Çiva, who rides upon a bull, his heart, which was polluted by envy of Lord Çiva, was immediately cleansed, just as the water in a lake is cleansed by autumn rains.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Here is an example of why Lord Çiva is called auspicious. lf anyone sees Lord Çiva with devotion and reverence, his heart is immediately cleansed. King Dakña was polluted by envy of Lord Çiva, and yet by seeing him with a little love and devotion, his heart immediately became cleansed. In the rainy season, the reservoirs of water become dirty and muddy, but as soon as the autumn rain comes, all the water immediately becomes clear and transparent. Similarly, although Dakña's heart was impure because of his having slandered Lord Çiva, for which he was severely punished, Dakña now came to consciousness, and just by seeing Lord Çiva with veneration and respect, he became immediately purified."
+        }
+    ]
+}
+

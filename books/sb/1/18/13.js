@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/18/13",
+        "prevId": "sb/1/18/12",
+        "nextId": "sb/1/18/14"
+    },
+    "verses": [
+        {
+            "roman": "tulayäma lavenäpi\nna svargaà näpunar-bhavam\nbhagavat-saìgi-saìgasya\nmartyänäà kim utäçiñaù\n"
+        }
+    ],
+    "synonyms": "tulayäma—to be balanced with; lavena—by a moment; api—even; na—never; svargam—heavenly planets; na—nor; apunaù-bhavam—liberation from matter; bhagavat-saìgi—devotee of the Lord; saìgasya—of the association; martyänäm—those who are meant for death; kim—what is there; uta—to speak of; äçiñaù—worldly benediction.",
+    "translation": "The value of a moment's association with the devotee of the Lord cannot even be compared to the attainment of heavenly planets or liberation from matter, and what to speak of worldly benedictions in the form of material prosperity, which are for those who are meant for death.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "When there are some similar points, it is possible to compare one thing to another. One cannot compare the association of a pure devotee to anything material. Men who are addicted to material happiness aspire to reach the heavenly planets like the moon, Venus and Indraloka, and those who are advanced in material philosophical speculations aspire after liberation from all material bondage. When one becomes frustrated with all kinds of material advancement, one desires the opposite type of liberation, which is called apunar-bhava, or no rebirth. But the pure devotees of the Lord do not aspire after the happiness obtained in the heavenly kingdom, nor do they aspire after liberation from material bondage. In other words, for the pure devotees of the Lord the material pleasures obtainable in the heavenly planets are like phantasmagoria, and because they are already liberated from all material conceptions of pleasure and distress, they are factually liberated even in the material world. This means that the pure devotees of the Lord are engaged in a transcendental existence, namely in the loving service of the Lord, both in the material world and in the spiritual world. As a government servant is always the same, either in the office or at home or at any place, so a devotee has nothing to do with anything material, for he is exclusively engaged in the transcendental service of the Lord. Since he has nothing to do with anything material, what pleasure can he derive from material benedictions like kingship or other overlordships, which are finished quickly with the end of the body? Devotional service is eternal; it has no end, because it is spiritual. Therefore, since the assets of a pure devotee are completely different from material assets, there is no comparison between the two. Süta Gosvämé was a pure devotee of the Lord, and therefore his association with the åñis in Naimiñäraëya is unique. In the material world, association with gross materialists is veritably condemned. The materialist is called yoñit-saìgé, or one who is much attached to material entanglement (women and other paraphernalia). Such attachment is conditioned because it drives away the benedictions of life and prosperity. And just the opposite is bhägavata-saìgé, or one who is always in the association with the Lord's name, form, qualities, etc. Such association is always desirable; it is worshipable, it is praiseworthy, and one may accept it as the highest goal of life."
+        }
+    ]
+}
+

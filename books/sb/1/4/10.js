@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/4/10",
+        "prevId": "sb/1/4/9",
+        "nextId": "sb/1/4/11"
+    },
+    "verses": [
+        {
+            "roman": "sa samräö kasya vä hetoù\npäëòünäà mäna-vardhanaù\npräyopaviñöo gaìgäyäm\nanädåtyädhiräö-çriyam\n"
+        }
+    ],
+    "synonyms": "saù—he; samräö—the Emperor; kasya—for what; vä—or; hetoù—reason; päëòünäm—of the sons of Päëòu; mäna-vardhanaù—one who enriches the family; präya-upaviñöaù—sitting and fasting; gaìgäyäm—on the bank of the Ganges; anädåtya—neglecting; adhiräö—acquired kingdom; çriyam—opulences.",
+    "translation": "He was a great emperor and possessed all the opulences of his acquired kingdom. He was so exalted that he was increasing the prestige of the Päëòu dynasty. Why did he give up everything to sit down on the bank of the Ganges and fast until death?",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Mahäräja Parékñit was the Emperor of the world and all the seas and oceans, and he did not have to take the trouble to acquire such a kingdom by his own effort. He inherited it from his grandfathers Mahäräja Yudhiñöhira and brothers. Besides that, he was doing well in the administration and was worthy of the good names of his forefathers. Consequently there was nothing undesirable in his opulence and administration. Then why should he give up all these favorable circumstances and sit down on the bank of the Ganges, fasting till death? This is astonishing, and therefore all were eager to know the cause."
+        }
+    ]
+}
+

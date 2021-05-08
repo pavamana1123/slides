@@ -41,7 +41,7 @@ function loadText(id,main,sub){
     document.getElementById("text") && document.getElementById("text").remove()
     var s = document.createElement("script")
     s.setAttribute("id","text")
-    s.setAttribute("src","./books/js/"+ id + ".js")
+    s.setAttribute("src","./books/"+ id + ".js")
     s.setAttribute("type","text/javascript")
     document.head.appendChild(s)
     s.addEventListener('load',render.bind(null, main, sub));

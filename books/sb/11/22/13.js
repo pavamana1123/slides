@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/22/13",
+        "prevId": "sb/11/22/12",
+        "nextId": "sb/11/22/14"
+    },
+    "verses": [
+        {
+            "roman": "sattvaà jïänaà rajaù karma\ntamo 'jïänam ihocyate\nguëa-vyatikaraù kälaù\nsvabhävaù sütram eva ca\n"
+        }
+    ],
+    "synonyms": "sattvam—the mode of goodness; jïänam—knowledge; rajaù—the mode of passion; karma—fruitive work; tamaù—the mode of ignorance; ajïänam—foolishness; iha—in this world; ucyate—is called; guëa—of the modes; vyatikaraù—the agitated transformation; kälaù—time; svabhävaù—innate tendency, nature; sütram—the mahat-tattva; eva—indeed; ca—also.",
+    "translation": "In this world the mode of goodness is recognized as knowledge, the mode of passion as fruitive work, and the mode of darkness as ignorance. Time is perceived as the agitated interaction of the material modes, and the totality of functional propensity is embodied by the primeval sütra, or mahat-tattva.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The impetus for the interaction of the material elements is the forward movement of time. Because time is passing, the embryo grows within the womb, gradually comes out, grows up, produces by-products, dwindles and dies. All of this is due to the pushing of time. In the absence of the time factor, the material elements do not interact but remain inert in the form of pradhäna. Lord Kåñëa is establishing the basic categories of the material world so that human beings can conceive of the Lord's creation. Were the categories not condensed, analysis and conceptualization would be impossible, since the Lord's potencies are infinite. Although there are numerous divisions of material elements within the basic divisions, the spirit soul is always to be understood as a distinct transcendental element, meant for residence in the kingdom of God."
+        }
+    ]
+}
+

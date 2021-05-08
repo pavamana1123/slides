@@ -1,0 +1,25 @@
+var text = {
+    "info": {
+        "id": "sb/11/7/43",
+        "prevId": "sb/11/7/42",
+        "nextId": "sb/11/7/44"
+    },
+    "verses": [
+        {
+            "roman": "tejo-'b-anna-mayair bhävair\nmeghädyair väyuneritaiù\nna spåçyate nabhas tadvat\nkäla-såñöair guëaiù pumän\n"
+        }
+    ],
+    "synonyms": "tejaù—fire; ap—water; anna—and earth; mayaiù—consisting of; bhävaiù—by objects; megha-ädyaiù—clouds and so on; väyunä—by the wind; éritaiù—which are blown; na spåçyate—is not touched; nabhaù—the ethereal sky; tat-vat—in the same way; käla-såñöaiù—which have been sent forth by time; guëaiù—by the modes of nature; pumän—a person.",
+    "translation": "Although the mighty wind blows clouds and storms across the sky, the sky is never implicated or affected by these activities. Similarly, the spirit soul is not actually changed or affected by contact with the material nature. Although the living entity enters within a body made of earth, water and fire, and although he is impelled by the three modes of nature created by eternal time, his eternal spiritual nature is never actually affected.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Although the sky appears to be affected by the mighty movements of wind, rain, hurricanes, lightning and thunder, etc., the sky, being very subtle, is actually not affected, but is rather the background for such visible activities. Similarly, although the material body and mind undergo innumerable changes, such as birth and death, happiness and distress, love and hate, the eternal living entity is merely the background for such activities. The spirit soul, being most subtle, is not actually affected; only due to misidentification with the superficial activities of the body and mind does the soul undergo terrible distress within the material world."
+        },
+        {
+            "type": "normal",
+            "content": "In this regard, Çréla Madhväcärya has pointed out that the individual living entity must struggle to revive his divine spiritual qualities. The living entity is part and parcel of the supreme entity, called Kåñëa, and as such the individual soul is also a reservoir of godly qualities. The Personality of Godhead, however, automatically manifests these qualities without any hindrance, whereas the conditioned soul must struggle to revive such qualities. Thus, although both the Personality of Godhead and the personality of the living entity are eternal and transcendental, the Personality of Godhead is always supreme. By realizing all this with clear intelligence, the conditioned soul can rise to the spiritual platform."
+        }
+    ]
+}
+

@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/4/16",
+        "prevId": "sb/1/4/15",
+        "nextId": "sb/1/4/17-18"
+    },
+    "verses": [
+        {
+            "roman": "parävara-jïaù sa åñiù\nkälenävyakta-raàhasä\nyuga-dharma-vyatikaraà\npräptaà bhuvi yuge yuge\n"
+        }
+    ],
+    "synonyms": "para-avara—past and future; jïaù—one who knows; saù—he; åñiù—Vyäsadeva; kälena—in the course of time; avyakta—unmanifested; raàhasä—by great force; yuga-dharma—acts in terms of the millennium; vyatikaram—anomalies; präptam—having accrued; bhuvi—on the earth; yuge yuge—different ages.",
+    "translation": "The great sage Vyäsadeva saw anomalies in the duties of the millennium. This happens on the earth in different ages, due to unseen forces in the course of time.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The great sages like Vyäsadeva are liberated souls, and therefore they can see clearly past and future. Thus he could see the future anomalies in the Kali age, and accordingly he made arrangement for the people in general so that they can execute a progressive life in this age, which is full of darkness. The people in general in this age of Kali are too much interested in matter, which is temporary. Because of ignorance they are unable to evaluate the assets of life and be enlightened in spiritual knowledge."
+        }
+    ]
+}
+

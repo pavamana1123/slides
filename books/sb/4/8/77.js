@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/4/8/77",
+        "prevId": "sb/4/8/76",
+        "nextId": "sb/4/8/78"
+    },
+    "verses": [
+        {
+            "roman": "sarvato mana äkåñya\nhådi bhütendriyäçayam\ndhyäyan bhagavato rüpaà\nnädräkñét kiïcanäparam\n"
+        }
+    ],
+    "synonyms": "sarvataù—in all respects; manaù—mind; äkåñya—concentrating; hådi—in the heart; bhüta-indriya-äçayam—resting place of the senses and the objects of the senses; dhyäyan—meditating; bhagavataù—of the Supreme Personality of Godhead; rüpam—form; na adräkñét—did not see; kiïcana—anything; aparam—else.",
+    "translation": "He completely controlled his senses and their objects, and in this way he fixed his mind, without diversion to anything else, upon the form of the Supreme Personality of Godhead.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The yogic principles of meditation are clearly explained here. One has to fix one's mind upon the form of the Supreme Personality of Godhead without diversion to any other objective. It is not that one can meditate or concentrate on an impersonal objective. To try to do so is simply a waste of time, for it is unnecessarily troublesome, as explained in Bhagavad-gétä."
+        }
+    ]
+}
+

@@ -1,0 +1,25 @@
+var text = {
+    "info": {
+        "id": "sb/11/17/52",
+        "prevId": "sb/11/17/51",
+        "nextId": "sb/11/17/53"
+    },
+    "verses": [
+        {
+            "roman": "kuöumbeñu na sajjeta\nna pramädyet kuöumby api\nvipaçcin naçvaraà paçyed\nadåñöam api dåñöa-vat\n"
+        }
+    ],
+    "synonyms": "kuöumbeñu—to the family members; na—not; sajjeta—one should be attached; na—not; pramädyet—should become crazy; kuöumbé—having many dependent family members; api—although; vipaçcit—a wise person; naçvaram—temporary; paçyet—should see; adåñöam—future rewards such as residence in heaven; api—indeed; dåñöa-vat—just like that which is already experienced.",
+    "translation": "A householder taking care of many dependent family members should not become materially attached to them, nor should he become mentally unbalanced, considering himself to be the lord. An intelligent householder should see that all possible future happiness, just like that which he has already experienced, is temporary.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "A family man often acts like a lord, protecting his wife, ordering his children, maintaining servants, grandchildren, domestic animals, and so forth. The words na pramädyet kuöumby api indicate that although one acts like a little lord, surrounded by his family, servants and friends, one should not, through false pride, become mentally unbalanced, considering oneself to be the actual lord. The word vipaçcit indicates that one should remain sober and intelligent, never forgetting oneself to be the eternal servant of the Supreme Lord."
+        },
+        {
+            "type": "normal",
+            "content": "Householders of the upper, middle and lower classes become attached to different types of sense gratification. In any economic or social class, however, one should remember that all material enjoyment, either here or in the next life, is temporary and ultimately useless. A responsible householder should guide his family members and other dependents back home, back to Godhead, for an eternal life of bliss and knowledge. One should not become a false and puffed-up lord for a brief span of time, for then one will remain bound up, along with his family members, in the cycle of repeated birth and death."
+        }
+    ]
+}
+

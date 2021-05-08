@@ -1,0 +1,29 @@
+var text = {
+    "info": {
+        "id": "sb/3/29/14",
+        "prevId": "sb/3/29/13",
+        "nextId": "sb/3/29/15"
+    },
+    "verses": [
+        {
+            "roman": "sa eva bhakti-yogäkhya\nätyantika udähåtaù\nyenätivrajya tri-guëaà\nmad-bhäväyopapadyate\n"
+        }
+    ],
+    "synonyms": "saù—this; eva—indeed; bhakti-yoga—devotional service; äkhyaù—called; ätyantikaù—the highest platform; udähåtaù—explained; yena—by which; ativrajya—overcoming; tri-guëam—the three modes of material nature; mat-bhäväya—to My transcendental stage; upapadyate—one attains.",
+    "translation": "By attaining the highest platform of devotional service, as I have explained, one can overcome the influence of the three modes of material nature and be situated in the transcendental stage, as is the Lord.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Çrépäda Çaìkaräcärya, who is supposed to be the leader of the impersonalist school of philosophers, has admitted in the beginning of his comments on Bhagavad-gétä that Näräyaëa, the Supreme Personality of Godhead, is beyond the material creation; except for Him, everything is within the material creation. It is also confirmed in the Vedic literature that before the creation there was only Näräyaëa; neither Lord Brahmä nor Lord Çiva existed. Only Näräyaëa, or the Supreme Personality of Godhead, Viñëu, or Kåñëa, is always in the transcendental position, beyond the influence of material creation."
+        },
+        {
+            "type": "normal",
+            "content": "The material qualities of goodness, passion and ignorance cannot affect the position of the Supreme Personality of Godhead; therefore He is called nirguëa (free from all tinges of material qualities). Here the same fact is confirmed by Lord Kapila: one who is situated in pure devotional service is transcendentally situated, as is the Lord. Just as the Lord is unaffected by the influence of the material modes, so too are His pure devotees. One who is not affected by the three modes of material nature is called a liberated soul, or brahma-bhüta soul  is the stage of liberation. Ahaà brahmäsmi: \"I am not this body.\" This is applicable only to the person who constantly engages in the devotional service of Kåñëa and is thus in the transcendental stage; he is above the influence of the three modes of material nature."
+        },
+        {
+            "type": "normal",
+            "content": "It is the misconception of the impersonalists that one can worship any imaginary form of the Lord, or Brahman, and at the end merge in the Brahman effulgence. Of course, to merge into the bodily effulgence (Brahman) of the Supreme Lord is also liberation, as explained in the previous verse. Ekatva is also liberation, but that sort of liberation is never accepted by any devotee, for qualitative oneness is immediately attained as soon as one is situated in devotional service. For a devotee, that qualitative equality, which is the result of impersonal liberation, is already attained; he does not have to try for it separately. It is clearly stated here that simply by pure devotional service one becomes qualitatively as good as the Lord Himself."
+        }
+    ]
+}
+

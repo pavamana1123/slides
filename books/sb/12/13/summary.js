@@ -1,0 +1,25 @@
+var text = {
+    "info": {
+        "id": "sb/12/13/summary",
+        "prevId": "sb/12/12/69",
+        "nextId": "sb/12/13/1"
+    },
+    "verses": null,
+    "synonyms": null,
+    "translation": null,
+    "purport": [
+        {
+            "type": "normal",
+            "content": "In this final chapter Çré Süta Gosvämé describes the length of each of the Puräëas, along with the subject matter of Çrémad-Bhägavatam, its purpose, how to give it as a gift, the glories of such gift-giving and the glories of chanting and hearing it."
+        },
+        {
+            "type": "normal",
+            "content": "The total corpus of the Puräëas includes four hundred thousand verses, eighteen thousand of which constitute Çrémad-Bhägavatam. The Supreme Personality of Godhead, Näräyaëa, instructed Brahmä in this Çrémad-Bhägavatam, whose narrations produce detachment from matter and which contains the essence of all the Vedänta. One who gives the Çrémad-Bhägavata Puräëa as a gift will attain the highest destination. Among all the Puräëas, Çrémad-Bhägavatam is the best, and it is the most dear thing to the Vaiñëavas. It reveals that spotless, supreme knowledge accessible to the paramahaàsas, and it also reveals the process by which one can become free from the reactions of material work-a process enriched with knowledge, renunciation and devotion."
+        },
+        {
+            "type": "normal",
+            "content": "Having thus glorified the Bhägavatam, Süta Gosvämé meditates upon Lord Çré Näräyaëa as the original Absolute Truth, who is perfectly pure, free from all contamination, devoid of sorrow and immortal. Then he offers obeisances to the greatest yogé, Çré Çukadeva, who is nondifferent from the Absolute Truth. Finally, praying with true devotion, Süta Gosvämé offers respects to the Supreme Personality of Godhead, Lord Çré Hari, who takes away all misery."
+        }
+    ]
+}
+

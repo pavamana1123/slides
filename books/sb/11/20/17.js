@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/20/17",
+        "prevId": "sb/11/20/16",
+        "nextId": "sb/11/20/18"
+    },
+    "verses": [
+        {
+            "roman": "nå-deham ädyaà su-labhaà su-durlabhaà\nplavaà su-kalpaà guru-karëadhäram\nmayänukülena nabhasvateritaà\npumän bhaväbdhià na taret sa ätma-hä\n"
+        }
+    ],
+    "synonyms": "nr—human; deham—body; ädyam—the source of all favorable results; su-labham—effortlessly obtained; su-durlabham—although impossible to obtain even with great endeavor; plavam—a boat; su-kalpam—extremely well suited for its purpose; guru—having the spiritual master; karëa-dhäram—as the captain of the boat; mayä—by Me; anukülena—with favorable; nabhasvatä—winds; éritam—impelled; pumän—a person; bhava—of material existence; abdhim—the ocean; na—does not; taret—cross over; saù—he; ätma-hä—the killer of his own soul.",
+    "translation": "The human body, which can award all benefit in life, is automatically obtained by the laws of nature, although it is a very rare achievement. This human body can be compared to a perfectly constructed boat having the spiritual master as the captain and the instructions of the Personality of Godhead as favorable winds impelling it on its course. Considering all these advantages, a human being who does not utilize his human life to cross the ocean of material existence must be considered the killer of his own soul.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The human body, which is obtained after passing through many inferior forms, is created in such a way that it can award the highest perfection of life. A human being is supposed to serve the Supreme Personality of Godhead, and the bona fide spiritual master is the appropriate guide for such service. The causeless mercy of Lord Kåñëa is compared to favorable winds that help the boat of the body to ply smoothly on the course back home, back to Godhead. Lord Kåñëa gives His personal instructions in Vedic literature, speaks through the bona fide spiritual master, and encourages, warns and protects His sincere devotee from within the devotee's heart. Such merciful guidance of the Lord moves a sincere soul quickly on the path back to Godhead. But one who cannot understand that the human body is a suitable boat for crossing the ocean of material existence will see no need to accept a captain in the form of the spiritual master and will not at all appreciate the favorable winds of the Lord's mercy. He has no chance of achieving the goal of human life. Acting against his own self-interest, he gradually becomes the killer of his own soul."
+        }
+    ]
+}
+

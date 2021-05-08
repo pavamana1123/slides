@@ -1,0 +1,29 @@
+var text = {
+    "info": {
+        "id": "sb/11/16/41",
+        "prevId": "sb/11/16/40",
+        "nextId": "sb/11/16/42"
+    },
+    "verses": [
+        {
+            "roman": "etäs te kértitäù sarväù\nsaìkñepeëa vibhütayaù\nmano-vikärä evaite\nyathä väcäbhidhéyate\n"
+        }
+    ],
+    "synonyms": "etäù—these; te—to you; kértitäù—described; sarväù—all; saìkñepeëa—briefly; vibhütayaù—spiritual opulences; manaù—of the mind; vikäräù—transformations; eva—indeed; ete—these; yathä—accordingly; väcä—by words; abhidhéyate—each is described.",
+    "translation": "I have briefly described to you all My spiritual opulences and also the extraordinary material features of My creation, which are perceived by the mind and defined in different ways according to circumstances.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "According to Sanskrit grammar, and as confirmed by Çréla Çrédhara Svämé, the words etäù and ete describe two distinct sets of the Lord's opulences. The Lord has described His opulent plenary expansions, such as Väsudeva, Näräyaëa, the Supersoul, etc., and further the Lord has described the outstanding features of the material creation, which are also included among the glories of the Personality of Godhead. The plenary manifestations of the Lord, such as Väsudeva, Näräyaëa, etc., are all eternal, unchanging transcendental features of the Lord and are indicated by the term etäù. The extraordinary aspects of material creation, however, are circumstantial and dependent on individual perception, and they are therefore described here by the words mano-vikärä evaite yathä väcäbhidhéyate. Çréla Jéva Gosvämé explains that by consistent logical application of synonyms, etäù refers to the Lord's eternal spiritual manifestations, beyond the perception of the material senses, whereas ete refers to those opulences that can be perceived by conditioned souls. He gives the example that the paraphernalia and intimate associates of a king are all considered to be part and parcel of the king and are therefore granted royal status. Similarly, the opulent features of material creation are reflected expansions of the Lord's personal opulences and thus may be considered nondifferent from Him. One should not, however, wrongly assume that such insignificant material opulences occupy the same status as the Lord's plenary features as the Personality of Godhead, which are qualitatively and quantitatively equal to the Lord."
+        },
+        {
+            "type": "normal",
+            "content": "Çréla Viçvanätha Cakravarté Öhäkura comments as follows on this verse. \"The Lord's external opulences are called mano-vikäräù, or 'related to mental transformation,' because ordinary people perceive extraordinary features of the material world according to their personal state of mind. Thus the word väcäbhidhéyate indicates that conditioned souls describe the Lord's material creation according to specific material circumstances. Because of the circumstantial relative definitions of material opulence, such opulence is never to be considered a direct plenary manifestation of the Lord's personal form. When one's state of mind is transformed into a favorable or affectionate state, one defines a manifestation of the Lord's energy as 'my son,' 'my father,' 'my husband,' 'my uncle,' 'the son of my brother,' 'my friend,' and so on. One forgets that every living entity is actually part and parcel of the Supreme Personality of Godhead and that whatever opulences, talents or outstanding features one may exhibit are actually the potencies of the Lord. Similarly, when the mind is transformed into a negative or inimical state, one thinks, 'This person will be the ruin of me,' 'This person must be finished by me,' 'He is my enemy' or 'I am his enemy,' 'He is a killer, or 'He should be killed.' The negative state of mind is also expressed when one is attracted to the extraordinary material aspects of particular persons or objects but forgets that they are manifestations of the potency of the Personality of Godhead. Even the demigod Indra, who is quite obviously a manifestation of the Lord's material opulences, is misunderstood by others. For example, Indra's wife, Çacé, thinks that Indra is 'my husband,' whereas Aditi thinks that he is 'my son.' Jayanta thinks that he is 'my father,' Båhaspati thinks that he is 'my disciple,' whereas the demons feel that Indra is their personal enemy. Thus different personalities define him according to their mental state. The Lord's material opulences, being relatively perceived, are therefore called mano-vikära, which means they are dependent on mental states. This relative perception is material because it does not recognize the Supreme Personality of Godhead as the actual source of the particular opulence. If one sees Lord Kåñëa as the source of all opulences and gives up all desires to enjoy or possess the Lord's opulences, then one can see the spiritual nature of these opulences. At that time, even though one may continue to perceive the variety and distinctions of the material world, one will become perfect in Kåñëa consciousness. One should not conclude, as do the voidist philosophers, that the Lord's spiritual manifestations in the viñëu-tattva and liberated jéva categories are also products of relative perception and mental states. This useless idea is contrary to the entire body of the Supreme Personality of Godhead's teachings to Çré Uddhava.\""
+        },
+        {
+            "type": "normal",
+            "content": "According to Çréla Jéva Gosvämé, the word väcä also indicates the various Vedic literatures that describe the particular processes by which the Lord manifests His spiritual and material opulences, and in this context yathä indicates the specific procedures of manifestation and creation."
+        }
+    ]
+}
+

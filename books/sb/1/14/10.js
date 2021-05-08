@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/14/10",
+        "prevId": "sb/1/14/9",
+        "nextId": "sb/1/14/11"
+    },
+    "verses": [
+        {
+            "roman": "paçyotpätän nara-vyäghra\ndivyän bhaumän sadaihikän\ndäruëän çaàsato 'düräd\nbhayaà no buddhi-mohanam\n"
+        }
+    ],
+    "synonyms": "paçya—just see; utpätän—disturbances; nara-vyäghra—O man of tigerlike strength; divyän—happenings in the sky or by planetary influence; bhaumän—happenings on the earth; sa-daihikän—happenings of the body and the mind; däruëän—awfully dangerous; çaàsataù—indicating; adürät—in the near future; bhayam—danger; naù—our; buddhi—intelligence; mohanam—deluding.",
+    "translation": "Just see, O man with a tiger's strength, how many miseries due to celestial influences, earthly reactions and bodily pains-all very dangerous in themselves-are foreboding danger in the near future by deluding our intelligence.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Material advancement of civilization means advancement of the reactions of the threefold miseries due to celestial influence, earthly reactions and bodily or mental pains. By the celestial influence of the stars there are many calamities like excessive heat, cold, rains or no rains, and the aftereffects are famine, disease and epidemic. The aggregate result is agony of the body and the mind. Man-made material science cannot do anything to counteract these threefold miseries. They are all punishments from the superior energy of mäyä under the direction of the Supreme Lord. Therefore our constant touch with the Lord by devotional service can give us relief without our being disturbed in the discharge of our human duties. The asuras, however, who do not believe in the existence of God, make their own plans to counteract all these threefold miseries, and so they meet with failures every time. The Bhagavad-gétä  clearly states that the reaction of material energy is never to be conquered, because of the binding effects of the three modes. They can simply be overcome by one who surrenders fully in devotion under the lotus feet of the Lord."
+        }
+    ]
+}
+

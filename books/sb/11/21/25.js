@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/21/25",
+        "prevId": "sb/11/21/24",
+        "nextId": "sb/11/21/26"
+    },
+    "verses": [
+        {
+            "roman": "natän aviduñaù svärthaà\nbhrämyato våjinädhvani\nkathaà yuïjyät punas teñu\ntäàs tamo viçato budhaù\n"
+        }
+    ],
+    "synonyms": "natän—submissive; aviduñaù—ignorant; sva-artham—of their own interest; bhrämyataù—wandering; våjina—of danger; adhvani—upon the path; katham—for what purpose; yuïjyät—would cause to engage; punaù—further; teñu—in those (modes of sense gratification); tän—them; tamaù—darkness; viçataù—who are entering; budhaù—the intelligent (Vedic authority).",
+    "translation": "Those ignorant of their real self-interest are wandering on the path of material existence, gradually heading toward darkness. Why would the Vedas further encourage them in sense gratification if they, although foolish, submissively pay heed to Vedic injunctions?",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Materialistic persons are not prepared to renounce society, friendship and love, which are all based on sex indulgence, to instead take to a life of renunciation and self-realization. In order to bring such foolish persons under the canopy of Vedic injunctions, the Vedas promise innumerable material rewards, even promotion to heavenly planets, to those who faithfully execute the Vedic injunctions. As explained by the Lord, such rewards are like the candy offered to a child, who then faithfully takes his medicine. Material enjoyment is certainly the cause of suffering, since all enjoyable objects are subject to destruction along with the so-called enjoyer. Material life is simply painful and full of anxiety, frustration and lamentation. We become agitated by seeing a so-called enjoyable object, such as the naked body of a woman, a beautiful residence, a sumptuous tray of food or the expansion of our own prestige, but actually such imagined happiness is simply the intense expectation of a satisfaction that never comes. One remains perpetually frustrated in material existence, and the more one tries to enjoy, the more one's frustration increases. Therefore, the Vedic knowledge, which aims at ultimate peace and happiness on the spiritual platform, cannot possibly authorize the materialistic way of life. Material rewards are employed by the Vedas merely as inducements for the conditioned soul to take the medicine, submission to the Supreme Lord, Viñëu, through various types of sacrifice. Those who are veda-väda-rata claim that religious scriptures are meant to facilitate sense gratification in the ignorance of conditioned life. The true goal of religion, however, is spiritual liberation, in which material sense gratification ceases to exist. The darkness of bodily attachment cannot exist in the effulgent light of spiritual knowledge. In the ocean of spiritual bliss, the anxiety-ridden apparent pleasure of this world vanishes completely. The true meaning of veda, or perfect knowledge, is to surrender to the Supreme Lord in full Kåñëa consciousness for an eternal life of bliss and knowledge as the Lord's faithful servant."
+        }
+    ]
+}
+

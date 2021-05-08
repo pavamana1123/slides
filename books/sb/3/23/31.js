@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/3/23/31",
+        "prevId": "sb/3/23/30",
+        "nextId": "sb/3/23/32"
+    },
+    "verses": [
+        {
+            "roman": "snätaà kåta-çiraù-snänaà\nsarväbharaëa-bhüñitam\nniñka-grévaà valayinaà\nküjat-käïcana-nüpuram\n"
+        }
+    ],
+    "synonyms": "snätam—bathed; kåta-çiraù—including the head; snänam—bathing; sarva—all over; äbharaëa—with ornaments; bhüñitam—decorated; niñka—a gold necklace with a locket; grévam—on the neck; valayinam—with bangles; küjat—tinkling; käïcana—made of gold; nüpuram—ankle bells.",
+    "translation": "Her entire body, including her head, was completely bathed, and she was decorated all over with ornaments. She wore a special necklace with a locket. There were bangles on her wrists and tinkling anklets of gold about her ankles.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The word kåta-çiraù-snänam appears here. According to the småti-çästra's directions for daily duties, ladies are allowed to bathe daily up to the neck. The hair on the head does not necessarily have to be washed daily because the mass of wet hair may cause a cold. For ladies, therefore, taking a bath up to the neck is ordinarily prescribed, and they take a full bath only on certain occasions. On this occasion Devahüti took a full bath and washed her hair very nicely. When a lady takes an ordinary bath it is called mala-snäna, and when she takes a full bath, including the head, it is called çiraù-snäna. At this time she needs sufficient oil to smear on her head. That is the direction of the commentators of småti-çästra."
+        }
+    ]
+}
+

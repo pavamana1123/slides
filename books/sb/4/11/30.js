@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/4/11/30",
+        "prevId": "sb/4/11/29",
+        "nextId": "sb/4/11/31"
+    },
+    "verses": [
+        {
+            "roman": "tvaà pratyag-ätmani tadä bhagavaty ananta\nänanda-mätra upapanna-samasta-çaktau\nbhaktià vidhäya paramäà çanakair avidyä-\ngranthià vibhetsyasi mamäham iti prarüòham\n"
+        }
+    ],
+    "synonyms": "tvam—you; pratyak-ätmani—unto the Supersoul; tadä—at that time; bhagavati—unto the Supreme Personality of Godhead; anante—who is unlimited; änanda-mätre—the reservoir of all pleasure; upapanna—possessed of; samasta—all; çaktau—potencies; bhaktim—devotional service; vidhäya—by rendering; paramäm—supreme; çanakaiù—very soon; avidyä—of illusion; granthim—the knot; vibhetsyasi—you will undo; mama—my; aham—I; iti—thus; prarüòham—firmly fixed.",
+    "translation": "Thus regaining your natural position and rendering service unto the Supreme Lord, who is the all-powerful reservoir of all pleasure and who lives in all living entities as the Supersoul, you will very soon forget the illusory understanding of \"I\" and \"my.\"",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Dhruva Mahäräja was already a liberated person because at the age of five years he had seen the Supreme Personality of Godhead. But even though liberated, he was, for the time being, afflicted by the illusion of mäyä, thinking himself the brother of Uttama in the bodily concept of life. The whole material world is working on the basis of \"I\" and \"mine.\" This is the root of attraction to the material world. If one is attracted by this root of illusory conceptions—\"I\" and \"mine\"—he will have to remain within this material world in different exalted or nasty positions. By the grace of Lord Kåñëa, the sages and Lord Manu reminded Dhruva Mahäräja that he should not continue this material conception of \"I\" and \"mine.\" Simply by devotional service unto the Lord his illusion could be eradicated without difficulty."
+        }
+    ]
+}
+

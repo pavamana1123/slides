@@ -1,0 +1,29 @@
+var text = {
+    "info": {
+        "id": "sb/7/7/53",
+        "prevId": "sb/7/7/51-52",
+        "nextId": "sb/7/7/54"
+    },
+    "verses": [
+        {
+            "roman": "tato harau bhagavati\nbhaktià kuruta dänaväù\nätmaupamyena sarvatra\nsarva-bhütätmanéçvare\n"
+        }
+    ],
+    "synonyms": "tataù—therefore; harau—unto Lord Hari; bhagavati—the Supreme Personality of Godhead; bhaktim—devotional service; kuruta—execute; dänaväù—O my dear friends, O sons of demons; ätma-aupamyena—just as one's own self; sarvatra—everywhere; sarva-bhüta-ätmani—who is situated as the soul and Supersoul of all living entities; éçvare—unto the Supreme Lord, the controller.",
+    "translation": "My dear friends, O sons of the demons, in the same favorable way that one sees himself and takes care of himself, take to devotional service to satisfy the Supreme Personality of Godhead, who is present everywhere as the Supersoul of all living entities.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The word ätmaupamyena refers to thinking others to be like oneself. One can very intelligently conclude that without devotional service, without becoming Kåñëa conscious, one cannot be happy. Therefore the duty of all devotees is to preach Kåñëa consciousness everywhere all over the world, because all living entities without Kåñëa consciousness are suffering the pangs of material existence. To preach Kåñëa consciousness is the best welfare activity. Indeed, it is described by Çré Caitanya Mahäprabhu as para-upakära, work for the true benefit of others. The activities of para-upakära have been especially entrusted to those who have taken birth in India as human beings."
+        },
+        {
+            "type": "verse",
+            "content": "bhärata-bhümite haila manuñya-janma yärajanma särthaka kari' kara para-upakära"
+        },
+        {
+            "type": "normal",
+            "content": "The entire world is suffering for want of Kåñëa consciousness. Therefore Çré Caitanya Mahäprabhu advised all human beings born in India to make their lives perfect by Kåñëa consciousness and then preach the gospel of Kåñëa consciousness all over the world so that others may become happy by executing the principles of Kåñëa consciousness."
+        }
+    ]
+}
+

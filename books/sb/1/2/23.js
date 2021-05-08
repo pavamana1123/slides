@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/2/23",
+        "prevId": "sb/1/2/22",
+        "nextId": "sb/1/2/24"
+    },
+    "verses": [
+        {
+            "roman": "sattvaà rajas tama iti prakåter guëäs tair\nyuktaù paraù puruña eka ihäsya dhatte\nsthity-ädaye hari-viriïci-hareti saàjïäù\nçreyäàsi tatra khalu sattva-tanor nåëäà syuù\n"
+        }
+    ],
+    "synonyms": "sattvam—goodness; rajaù—passion; tamaù—the darkness of ignorance; iti—thus; prakåteù—of the material nature; guëäù—qualities; taiù—by them; yuktaù—associated with; paraù—transcendental; puruñaù—the personality; ekaù—one; iha asya—of this material world; dhatte—accepts; sthiti-ädaye—for the matter of creation, maintenance and destruction, etc.; hari—Viñëu, the Personality of Godhead; viriïci—Brahmä; hara—Lord Çiva; iti—thus; saàjïäù—different features; çreyäàsi—ultimate benefit; tatra—therein; khalu—of course; sattva—goodness; tanoù—form; nåëäm—of the human being; syuù—derived.",
+    "translation": "The transcendental Personality of Godhead is indirectly associated with the three modes of material nature, namely passion, goodness and ignorance, and just for the material world's creation, maintenance and destruction He accepts the three qualitative forms of Brahmä, Viñëu and Çiva. Of these three, all human beings can derive ultimate benefit from Viñëu, the form of the quality of goodness.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "That Lord Çré Kåñëa, by His plenary parts, should be rendered devotional service, as explained above, is confirmed by this statement. Lord Çré Kåñëa and all His plenary parts are viñëu-tattva, or the Lordship of Godhead. From Çré Kåñëa, the next manifestation is Baladeva. From Baladeva is Saìkarñaëa, from Saìkarñaëa is Näräyaëa, from Näräyaëa there is the second Saìkarñaëa, and from this Saìkarñaëa the Viñëu puruña-avatäras. The Viñëu or the Deity of the quality of goodness in the material world is the puruña-avatära known as Kñérodakaçäyé Viñëu or Paramätmä. Brahmä is the deity of rajas (passion), and Çiva of ignorance. They are the three departmental heads of the three qualities of this material world. Creation is made possible by the goodness of Viñëu, and when it requires to be destroyed, Lord Çiva does it by the täëòavanåtya. The materialists and the foolish human beings worship Brahmä and Çiva respectively. But the pure transcendentalists worship the form of goodness, Viñëu, in His various forms. Viñëu is manifested by His millions and billions of integrated forms and separated forms. The integrated forms are called Godhead, and the separated forms are called the living entities or the jévas. Both the jévas and Godhead have their original spiritual forms. Jévas are sometimes subjected to the control of material energy, but the Viñëu forms are always controllers of this energy. When Viñëu, the Personality of Godhead, appears in the material world, He comes to deliver the conditioned living beings who are under the material energy. Such living beings appear in the material world with intentions of being lords, and thus they become entrapped by the three modes of nature. As such, the living entities have to change their material coverings for undergoing different terms of imprisonment. The prison house of the material world is created by Brahmä under instruction of the Personality of Godhead, and at the conclusion of a kalpa the whole thing is destroyed by Çiva. But as far as maintenance of the prison house is concerned, it is done by Viñëu, as much as the state prison house is maintained by the state. Anyone, therefore, who wishes to get out of this prison house of material existence, which is full of miseries like repetition of birth, death, disease and old age, must please Lord Viñëu for such liberation. Lord Viñëu is worshiped by devotional service only, and if anyone has to continue prison life in the material world, he may ask for relative facilities for temporary relief from the different demigods like Çiva, Brahmä, Indra and Varuëa. No demigod, however, can release the imprisoned living being from the conditioned life of material existence. This can be done only by Viñëu. Therefore, the ultimate benefit may be derived from Viñëu, the Personality of Godhead."
+        }
+    ]
+}
+

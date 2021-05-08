@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/12/4/summary",
+        "prevId": "sb/12/3/52",
+        "nextId": "sb/12/4/1"
+    },
+    "verses": null,
+    "synonyms": null,
+    "translation": null,
+    "purport": [
+        {
+            "type": "normal",
+            "content": "This chapter discusses the four kinds of annihilation (constant, occasional, material and final) and the chanting of the holy name of Lord Hari, which is the only means of stopping the cycle of material life."
+        },
+        {
+            "type": "normal",
+            "content": "One thousand cycles of four ages constitute one day of Brahmä, and each day of Brahmä, called a kalpa, contains within it the lifetimes of fourteen Manus. The duration of Brahmä's night is the same as that of his day. During his night Brahmä sleeps, and the three planetary systems meet destruction; this is the naimittika, or occasional, annihilation. When Brahmä's life span of one hundred years is finished, there occurs the präkåtika, or total material, annihilation. At that time the seven elements of material nature, beginning with the mahat, and the entire universal egg composed of them are destroyed. When a person achieves knowledge of the Absolute, he understands factual reality. He perceives the entire created universe as separate from the Absolute and therefore unreal. That is called the ätyantika, or final, annihilation (liberation). At every moment time invisibly transforms the bodies of all created beings and all other manifestations of matter. This process of transformation causes the living entity to undergo the constant annihilation of birth and death. Those possessed of subtle vision state that all creatures, including Brahmä himself, are always subject to generation and annihilation. Material life means subjugation to birth and death, or generation and annihilation. The only boat suitable for crossing the ocean of material existence, which is otherwise impossible to cross, is the boat of submissive hearing of the nectarean pastimes of the Supreme Personality of Godhead."
+        }
+    ]
+}
+

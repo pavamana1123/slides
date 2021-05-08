@@ -1,0 +1,29 @@
+var text = {
+    "info": {
+        "id": "sb/3/31/19",
+        "prevId": "sb/3/31/18",
+        "nextId": "sb/3/31/20"
+    },
+    "verses": [
+        {
+            "roman": "paçyaty ayaà dhiñaëayä nanu sapta-vadhriù\nçärérake dama-çaréry aparaù sva-dehe\nyat-såñöayäsaà tam ahaà puruñaà puräëaà\npaçye bahir hådi ca caityam iva pratétam\n"
+        }
+    ],
+    "synonyms": "paçyati—sees; ayam—this living entity; dhiñaëayä—with intelligence; nanu—only; sapta-vadhriù—bound by the seven layers of material coverings; çärérake—agreeable and disagreeable sense perceptions; dama-çaréré—having a body for self-control; aparaù—another; sva-dehe—in his body; yat—by the Supreme Lord; såñöayä—endowed; äsam—was; tam—Him; aham—I; puruñam—person; puräëam—oldest; paçye—see; bahiù—outside; hådi—in the heart; ca—and; caityam—the source of the ego; iva—indeed; pratétam—recognized.",
+    "translation": "The living entity in another type of body sees only by instinct; he knows only the agreeable and disagreeable sense perceptions of that particular body. But I have a body in which I can control my senses and can understand my destination; therefore, I offer my respectful obeisances to the Supreme Personality of Godhead, by whom I have been blessed with this body and by whose grace I can see Him within and without.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The evolutionary process of different types of bodies is something like that of a fructifying flower. Just as there are different stages in the growth of a flower—the bud stage, the blooming stage and the full—fledged, grown-up stage of aroma and beauty—similarly, there are 8,400,000 species of bodies in gradual evolution, and there is systematic progress from the lower species of life to the higher. The human form of life is supposed to be the highest, for it offers consciousness for getting out of the clutches of birth and death. The fortunate child in the womb of his mother realizes his superior position and is thereby distinguished from other bodies. Animals in bodies lower than that of the human being are conscious only as far as their bodily distress and happiness are concerned; they cannot think of more than their bodily necessities of life-eating, sleeping, mating and defending. But in the human form of life, by the grace of God, the consciousness is so developed that a man can evaluate his exceptional position and thus realize the self and the Supreme Lord."
+        },
+        {
+            "type": "normal",
+            "content": "The word dama-çaréré means that we have a body in which we can control the senses and the mind. The complication of materialistic life is due to an uncontrolled mind and uncontrolled senses. One should feel grateful to the Supreme Personality of Godhead for having obtained such a nice human form of body, and one should properly utilize it. The distinction between an animal and a man is that the animal cannot control himself and has no sense of decency, whereas the human being has the sense of decency and can control himself. If this controlling power is not exhibited by the human being, then he is no better than an animal. By controlling the senses, or by the process of yoga regulation, one can understand the position of his self, the Supersoul, the world and their interrelation; everything is possible by controlling the senses. Otherwise, we are no better than animals."
+        },
+        {
+            "type": "normal",
+            "content": "Real self-realization by means of controlling the senses is explained herein. One should try to see the Supreme Personality of Godhead and one's own self also. To think oneself the same as the Supreme is not self-realization. Here it is clearly explained that the Supreme Lord is anädi, or puräëa, and He has no other cause. The living entity is born of the Supreme Godhead as part and parcel. It is confirmed in the Brahma-saàhitä, anädir ädir govindaù: (BS 5.1) Govinda, the Supreme person, has no cause. He is unborn. But the living entity is born of Him. As confirmed in Bhagavad-gétä, mamaiväàçaù: both the living entity and the Supreme Lord are unborn, but it has to be understood that the supreme cause of the part and parcel is the Supreme Personality of Godhead. Brahma-saàhitä therefore says that everything has come from the Supreme Personality of Godhead (sarva-käraëa-käraëam (BS 5.1)). The Vedänta-sütra confirms this also. Janmädy asya yataù:  \"I am the source of birth of everything, including Brahmä and Lord Çiva and the living entities.\" This is self-realization. One should know that he is under the control of the Supreme Lord and not think that he is fully independent. Otherwise, why should he be put into conditional life?"
+        }
+    ]
+}
+

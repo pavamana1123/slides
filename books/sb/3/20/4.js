@@ -1,0 +1,29 @@
+var text = {
+    "info": {
+        "id": "sb/3/20/4",
+        "prevId": "sb/3/20/3",
+        "nextId": "sb/3/20/5"
+    },
+    "verses": [
+        {
+            "roman": "kim anvapåcchan maitreyaà\nvirajäs tértha-sevayä\nupagamya kuçävarta\näsénaà tattva-vittamam\n"
+        }
+    ],
+    "synonyms": "kim—what; anvapåcchat—inquired; maitreyam—from the sage Maitreya; virajäù—Vidura, who was without material contamination; tértha-sevayä—by visiting sacred places; upagamya—having met; kuçävarte—at Kuçävarta (Haridvära, or Hardwar); äsénam—who was abiding; tattva-vit-tamam—the foremost knower of the science of spiritual life.",
+    "translation": "Vidura was purified of all passion by wandering in sacred places, and at last he reached Hardwar, where he met the great sage who knew the science of spiritual life, and he inquired from him. Çaunaka Åñi therefore asked: What more did Vidura inquire from Maitreya?",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Here the words virajäs tértha-sevayä refer to Vidura, who was completely cleansed of all contamination by traveling to places of pilgrimage. In India there are hundreds of sacred places of pilgrimage, of which Prayäga, Hardwar, Våndävana and Rämeçvaram are considered principal. After leaving his home, which was full of politics and diplomacy, Vidura wanted to purify himself by traveling to all the sacred places, which are so situated that anyone who goes there automatically becomes purified. This is especially true in Våndävana; any person may go there, and even if he is sinful he will at once contact an atmosphere of spiritual life and will automatically chant the names of Kåñëa and Rädhä. That we have actually seen and experienced. It is recommended in the çästras that after retiring from active life and accepting the vänaprastha (retired) order, one should travel everywhere to places of pilgrimage in order to purify himself. Vidura completely discharged this duty, and at last he reached Kuçävarta, or Hardwar, where the sage Maitreya was sitting."
+        },
+        {
+            "type": "normal",
+            "content": "Another significant point is that one must go to sacred places not only to take bath there but to search out great sages like Maitreya and take instructions from them. If one does not do so, his traveling to places of pilgrimage is simply a waste of time. Narottama däsa Öhäkura, a great äcärya of the Vaiñëava sect, has, for the present, forbidden us to go to such places of pilgrimage because in this age, the times having so changed, a sincere person may have a different impression on seeing the behavior of the present residents of the pilgrimage sites. He has recommended that instead of taking the trouble to travel to such places, one should concentrate his mind on Govinda, and that will help him. Of course, to concentrate one's mind on Govinda in any place is a path meant for those who are the most spiritually advanced; it is not for ordinary persons. Ordinary persons may still derive benefit from traveling to holy places like Prayäga, Mathurä, Våndävana and Hardwar."
+        },
+        {
+            "type": "normal",
+            "content": "It is recommended in this verse that one find a person who knows the science of God, or a tattva-vit. Tattva-vit means \"one who knows the Absolute Truth.\" There are many pseudotranscendentalists, even at places of pilgrimage. Such men are always present, and one has to be intelligent enough to find the actual person to be consulted; then one's attempt to progress by traveling to different holy places will be successful. One has to be freed from all contamination, and at the same time he has to find a person who knows the science of Kåñëa. Kåñëa helps a sincere person; as stated in the Caitanya-caritämåta, guru-kåñëa-prasäde: by the mercy of the spiritual master and Kåñëa, one attains the path of salvation, devotional service. If one sincerely searches for spiritual salvation, then Kåñëa, being situated in everyone's heart, gives him the intelligence to find a suitable spiritual master. By the grace of a spiritual master like Maitreya, one gets the proper instruction and advances in his spiritual life."
+        }
+    ]
+}
+

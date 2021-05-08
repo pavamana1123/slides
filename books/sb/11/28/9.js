@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/28/9",
+        "prevId": "sb/11/28/8",
+        "nextId": "sb/11/28/10"
+    },
+    "verses": [
+        {
+            "roman": "pratyakñeëänumänena\nnigamenätma-saàvidä\nädy-antavad asaj jïätvä\nniùsaìgo vicared iha\n"
+        }
+    ],
+    "synonyms": "pratyakñeëa—by direct perception; anumänena—by logical deduction; nigamena—by the statements of scripture; ätma-saàvidä—and by one's own realization; ädi-anta-vat—having a beginning and an end; asat—unreal; jïätvä—knowing; niùsaìgaù—free from attachment; vicaret—one should move about; iha—in this world.",
+    "translation": "By direct perception, logical deduction, scriptural testimony and personal realization, one should know that this world has a beginning and an end and so is not the ultimate reality. Thus one should live in this world without attachment.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "According to Çréla Jéva Gosvämé, there are two main material dualities. The first duality is that one sees material good and bad, beautiful and ugly, rich and poor, and so on. The second is that one sees the entire material world as separate from or independent of the Supreme Personality of Godhead. The first duality, that of opposites, is subject to dissolution by the influence of time, and the second duality, that of separateness, is merely a hallucination. One who is firmly convinced of the temporary, illusory nature of this world moves about freely, without attachment. Although engaging in all types of devotional service for the Lord, such a person is never entangled and remains cheerful and satisfied in spiritual consciousness."
+        }
+    ]
+}
+

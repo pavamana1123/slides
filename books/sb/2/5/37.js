@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/2/5/37",
+        "prevId": "sb/2/5/36",
+        "nextId": "sb/2/5/38"
+    },
+    "verses": [
+        {
+            "roman": "puruñasya mukhaà brahma\nkñatram etasya bähavaù\nürvor vaiçyo bhagavataù\npadbhyäà çüdro vyajäyata\n"
+        }
+    ],
+    "synonyms": "puruñasya—of the Supreme Personality of Godhead; mukham—mouth; brahma—is the brähmaëas; kñatram—the royal order; etasya—of Him; bähavaù—the arms; ürvoù—the thighs; vaiçyaù—are the mercantile men; bhagavataù—of the Personality of Godhead; padbhyäm—from His legs; çüdraù—the laborer class; vyajäyata—became manifested.",
+    "translation": "The brähmaëas represent His mouth, the kñatriyas His arms, the vaiçyas His thighs, and the çüdras are born of His legs.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "All living beings are stated to be the parts and parcels of the Supreme Lord, and how they are so is explained in this verse. The four divisions of human society, namely the intelligent class (the brähmaëas), the administrative class (the kñatriyas), the mercantile class (the vaiçyas), and the laborer class (the çüdras), are all in different parts of the body of the Lord. As such, no one is different from the Lord. The mouth of the body and the legs of the body are nondifferent constitutionally, but the mouth or the head of the body is qualitatively more important than the legs. At the same time, the mouth, the legs, the arms and the thighs are all component parts of the body. These limbs of the body of the Lord are meant to serve the complete whole. The mouth is meant for speaking and eating, the arms are meant for the protection of the body, the legs are meant for carrying the body, and the waist of the body is meant for maintaining the body. The intelligent class in society, therefore, must speak on behalf of the body, as well as accept foodstuff to satisfy the hunger of the body. The hunger of the Lord is to accept the fruits of sacrifice. The brähmaëas, or the intelligent class, must be very expert in performing such sacrifices, and the subordinate classes must join in such sacrifices. To speak for the Supreme Lord means to glorify the Lord by means of propagating the knowledge of the Lord as it is, broadcasting the factual nature of the Lord and the factual position of all other parts of the whole body. The brähmaëas, therefore, are required to know the Vedas, or the ultimate source of knowledge. Veda means knowledge, and anta means the end of it. According to Bhagavad-gétä, the Lord is the source of everything (ahaà sarvasya prabhavaù ), and thus the end of all knowledge (Vedänta) is to know the Lord, to know our relationship with Him and to act according to that relationship only. The parts of the body are related to the body; similarly, the living being must know his relationship with the Lord. The human life is especially meant for this purpose, namely to know the factual relationship of every living being with the Supreme Lord. Without knowing this relationship, the human life is spoiled. The intelligent class of men, the brähmaëas, are therefore especially responsible for broadcasting this knowledge of our relationship with the Lord and leading the general mass of people to the right path. The administrative class is meant for protecting the living beings so that they can serve this purpose; the mercantile class is meant for producing food grains and distributing them to the complete human society so that the whole population is given a chance to live comfortably and discharge the duties of human life. The mercantile class is also required to give protection to the cows in order to get sufficient milk and milk products, which alone can give the proper health and intelligence to maintain a civilization perfectly meant for knowledge of the ultimate truth. And the laborer class, who are neither intelligent nor powerful, can help by physical services to the other higher classes and thus be benefited by their cooperation. Therefore the universe is a complete unit in relationship with the Lord, and without this relationship with the Lord the whole human society is disturbed and is without any peace and prosperity. This is confirmed in the Vedas: brähmaëo 'sya mukham äséd, bähü räjanyaù kåtaù."
+        }
+    ]
+}
+

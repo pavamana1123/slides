@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/13/34",
+        "prevId": "sb/10/13/33",
+        "nextId": "sb/10/13/35"
+    },
+    "verses": [
+        {
+            "roman": "tataù pravayaso gopäs\ntokäçleña-sunirvåtäù\nkåcchräc chanair apagatäs\ntad-anusmåty-udaçravaù\n"
+        }
+    ],
+    "synonyms": "tataù—thereafter; pravayasaù—elderly; gopäù—cowherd men; toka-äçleña-sunirvåtäù—became overjoyed by embracing their sons; kåcchrät—with difficulty; çanaiù—gradually; apagatäù—ceased from that embracing and returned to the forest; tat-anusmåti-uda-çravaù—as they remembered their sons, tears began to roll down from their eyes.",
+    "translation": "Thereafter the elderly cowherd men, having obtained great feeling from embracing their sons, gradually and with great difficulty and reluctance ceased embracing them and returned to the forest. But as the men remembered their sons, tears began to roll down from their eyes.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "In the beginning the cowherd men were angry that the cows were being attracted by the calves, but when the men came down from the hill, they themselves were attracted by their sons, and therefore the men embraced them. To embrace one's son and smell his head are symptoms of affection."
+        }
+    ]
+}
+

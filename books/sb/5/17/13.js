@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/5/17/13",
+        "prevId": "sb/5/17/12",
+        "nextId": "sb/5/17/14"
+    },
+    "verses": [
+        {
+            "roman": "yatra ha deva-patayaù svaiù svair gaëa-näyakair vihita-mahärhaëäù\nsarvartu-kusuma-stabaka-phala-kisalaya-çriyänamyamäna-viöapa-latä-viöapibhir\nupaçumbhamäna-rucira-känanäçramäyatana-varña-giri-droëéñu tathä cämala-jaläçayeñu\nvikaca-vividha-nava-vanaruhämoda-mudita-räja-haàsa-jala-kukkuöa-käraëòava-särasa-cakraväkädibhir\nmadhukara-nikaräkåtibhir upaküjiteñu jala-kréòädibhir vicitra-vinodaiù sulalita-sura-sundaréëäà\nkäma-kalila-viläsa-häsa-lélävalokäkåñöa-mano-dåñöayaù svairaà viharanti\n"
+        }
+    ],
+    "synonyms": "yatra ha—in those eight tracts of land; deva-patayaù—the lords of the demigods, such as Lord Indra; svaiù svaiù—by their own respective; gaëa-näyakaiù—leaders of the servants; vihita—furnished with; mahä-arhaëäù—valuable gifts, such as sandalwood pulp and garlands; sarva-åtu—in all seasons; kusuma-stabaka—of bunches of flowers; phala—of fruits; kisalaya-çriyä—by the opulences of shoots; änamyamäna—being bent down; viöapa—whose branches; latä—and creepers; viöapibhiù—by many trees; upaçumbhamäna—being fully decorated; rucira—beautiful; känana—gardens; äçrama-äyatana—and many hermitages; varña-giri-droëéñu—the valleys between the mountains designating the borders of the tracts of land; tathä—as well as; ca—also; amala-jala-äçayeñu—in lakes with clear water; vikaca—just fructified; vividha—varieties; nava-vanaruha-ämoda—by the fragrance of lotus flowers; mudita—enthused; räja-haàsa—great swans; jala-kukkuöa—water fowl; käraëòava—aquatic birds called käraëòavas; särasa—cranes; cakraväka-ädibhiù—by birds known as cakraväkas and so on; madhukara-nikara-äkåtibhiù—by the bumblebees; upaküjiteñu—which were made to resound; jala-kréòä-ädibhiù—such as water sports; vicitra—various; vinodaiù—by pastimes; su-lalita—attractive; sura-sundaréëäm—of the women of the demigods; käma—from lust; kalila—born; viläsa—pastimes; häsa—smiling; lélä-avaloka—by playful glances; äkåñöa-manaù—whose minds are attracted; dåñöayaù—and whose vision is attracted; svairam—very freely; viharanti—engage in sportive enjoyment.",
+    "translation": "In each of those tracts of land, there are many gardens filled with flowers and fruits according to the season, and there are beautifully decorated hermitages as well. Between the great mountains demarcating the borders of those lands lie enormous lakes of clear water filled with newly grown lotus flowers. Aquatic birds such as swans, ducks, water chickens, and cranes become greatly excited by the fragrance of lotus flowers, and the charming sound of bumblebees fills the air. The inhabitants of those lands are important leaders among the demigods. Always attended by their respective servants, they enjoy life in gardens alongside the lakes. In this pleasing situation, the wives of the demigods smile playfully at their husbands and look upon them with lusty desires. All the demigods and their wives are constantly supplied with sandalwood pulp and flower garlands by their servants. In this way, all the residents of the eight heavenly varñas enjoy, attracted by the activities of the opposite sex.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Here is a description of the lower heavenly planets. The inhabitants of those planets enjoy life in a pleasing atmosphere of clear lakes filled with newly grown lotus flowers and gardens filled with fruits, flowers, various kinds of birds and humming bees. In that atmosphere they enjoy life with their very beautiful wives, who are always sexually stimulated. Nonetheless, they are all devotees of the Supreme Personality of Godhead, as will be explained in subsequent verses. The inhabitants of this earth also desire such heavenly enjoyment, but when they somehow or other achieve imitation pleasures like sex and intoxication, they completely forget the service of the Supreme Lord. In the heavenly planets, however, although the residents enjoy superior sense gratification, they never forget their positions as eternal servants of the Supreme Being."
+        }
+    ]
+}
+

@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/2/3/9",
+        "prevId": "sb/2/3/8",
+        "nextId": "sb/2/3/10"
+    },
+    "verses": [
+        {
+            "roman": "räjya-kämo manün devän\nniråtià tv abhicaran yajet\nkäma-kämo yajet somam\nakämaù puruñaà param\n"
+        }
+    ],
+    "synonyms": "räjya-kämaù—anyone desiring an empire or kingdom; manün—the Manus, semi-incarnations of God; devän—demigods; niråtim—demons; tu—but; abhicaran—desiring victory over the enemy; yajet—should worship; käma-kämaù—one who desires sense gratification; yajet—should worship; somam—the demigod named Candra; akämaù—one who has no material desires to be fulfilled; puruñam—the Supreme Personality of Godhead; param—the Supreme.",
+    "translation": "One who desires domination over a kingdom or an empire should worship the Manus. One who desires victory over an enemy should worship the demons, and one who desires sense gratification should worship the moon. But one who desires nothing of material enjoyment should worship the Supreme Personality of Godhead.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "For a liberated person, all the enjoyments listed above are considered to be absolutely useless. Only those who are conditioned by the material modes of external energy are captivated by different types of material enjoyment. In other words, the transcendentalist has no material desires to be fulfilled, whereas the materialist has all types of desires to be fulfilled. The Lord has proclaimed that the materialists, who desire material enjoyment and thus seek the favor of different demigods, as above mentioned, are not in control of their senses and so give themselves to nonsense. One should therefore not desire any sort of material enjoyment, being sensible enough to worship the Supreme Personality of Godhead. The leaders of nonsensical persons are still more nonsensical because they preach openly and foolishly that one can worship any form of demigod and get the same result. This sort of preaching is not only against the teachings of the Bhagavad-gétä, or those of the Çrémad-Bhägavatam, but is also foolish, just as it is foolish to claim that with the purchase of any travel ticket one may reach the same destination. No one can reach Bombay from Delhi by purchasing a ticket for Baroda. It is clearly defined herein that persons impregnated with different desires have different modes of worship, but one who has no desire for material enjoyment should worship the Supreme Lord, Çré Kåñëa, the Personality of Godhead. And this worshiping process is called devotional service. Pure devotional service means service to the Lord without any tinge of material desires, including desire for fruitive activity and empiric speculation. For fulfillment of material desires one may worship the Supreme Lord, but the result of such worship is different, as will be explained in the next verse. Generally the Lord does not fulfill anyone's material desires for sense enjoyment, but He awards such benedictions to worshipers of the Lord, for they ultimately come to the point of not desiring material enjoyment. The conclusion is that one must minimize the desires for material enjoyment, and for this one should worship the Supreme Personality of Godhead, who is described here as param, or beyond anything material. Çrépäda Çaìkaräcärya has also stated, näräyaëaù paro 'vyaktät: the Supreme Lord is beyond the material encirclement."
+        }
+    ]
+}
+

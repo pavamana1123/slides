@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/8/10/summary",
+        "prevId": "sb/8/9/29",
+        "nextId": "sb/8/10/1"
+    },
+    "verses": null,
+    "synonyms": null,
+    "translation": null,
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The summary of Chapter Ten is as follows. Because of envy, the fight between the demons and the demigods continued. When the demigods were almost defeated by demoniac maneuvers and became morose, Lord Viñëu appeared among them."
+        },
+        {
+            "type": "normal",
+            "content": "Both the demigods and the demons are expert in activities involving the material energy, but the demigods are devotees of the Lord, whereas the demons are just the opposite. The demigods and demons churned the ocean of milk to get nectar from it, but the demons, not being devotees of the Lord, could derive no profit. After feeding nectar to the demigods, Lord Viñëu returned to His abode on the back of Garuòa, but the demons, being most aggrieved, again declared war against the demigods. Bali Mahäräja, the son of Virocana, became the commander in chief of the demons. In the beginning of the battle, the demigods prepared to defeat the demons. Indra, King of heaven, fought with Bali, and other demigods, like Väyu, Agni and Varuëa, fought against other leaders of the demons. In this fight the demons were defeated, and to save themselves from death they began to manifest many illusions through material maneuvers, killing many soldiers on the side of the demigods. The demigods, finding no other recourse, surrendered again to the Supreme Personality of Godhead, Viñëu, who then appeared and counteracted all the illusions presented by the jugglery of the demons. Heroes among the demons such as Kälanemi, Mälé, Sumälé and Mälyavän fought the Supreme Personality of Godhead and were all killed by the Lord. The demigods were thus freed from all dangers."
+        }
+    ]
+}
+

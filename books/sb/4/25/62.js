@@ -1,0 +1,49 @@
+var text = {
+    "info": {
+        "id": "sb/4/25/62",
+        "prevId": "sb/4/25/57-61",
+        "nextId": "sb/4/26/1-3"
+    },
+    "verses": [
+        {
+            "roman": "vipralabdho mahiñyaivaà\nsarva-prakåti-vaïcitaù\nnecchann anukaroty ajïaù\nklaibyät kréòä-mågo yathä\n"
+        }
+    ],
+    "synonyms": "vipralabdhaù—captivated; mahiñyä—by the Queen; evam—thus; sarva—all; prakåti—existence; vaïcitaù—being cheated; na icchan—without desiring; anukaroti—used to follow and imitate; ajïaù—the foolish King; klaibyät—by force; kréòä-mågaù—a pet animal; yathä—just like.",
+    "translation": "In this way, King Puraïjana was captivated by his nice wife and was thus cheated. Indeed, he became cheated in his whole existence in the material world. Even against that poor foolish King's desire, he remained under the control of his wife, just like a pet animal that dances according to the order of its master.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The word vipralabdhaù is very significant in this verse. Vi means \"specifically,\" and pralabdha means \"obtained.\" Just to satisfy his desires, the King got the Queen, and thus he became cheated by material existence. Although he was not willing to do so, he remained a pet animal under the control of material intelligence. Just as a pet monkey dances according to the desires of its master, the King danced according to the desires of the Queen. In Çrémad-Bhägavatam  it is said, mahat-seväà dväram ähur vimukteù: if one associates with a saintly person, a devotee, one's path of liberation becomes clear. But if one associates with a woman or with a person who is too much addicted to a woman, his path of bondage becomes completely clear."
+        },
+        {
+            "type": "normal",
+            "content": "On the whole, for spiritual advancement, one must give up the company of women. This is what is meant by the order of sannyäsa, the renounced order. Before taking sannyäsa, or completely renouncing the material world, one has to practice avoiding illicit sex. Sex life, licit or illicit, is practically the same, but through illicit sex one becomes more and more captivated. By regulating one's sex life there is a chance that one may eventually be able to renounce sex or renounce the association of women. If this can be done, advancement in spiritual life comes very easily."
+        },
+        {
+            "type": "normal",
+            "content": "How one becomes captivated by the association of one's dear wife is explained in this chapter by Närada Muni. Attraction for one's wife means attraction for the material qualities. One who is attracted by the material quality of darkness is in the lowest stage of life, whereas one who is attracted by the material quality of goodness is in a better position. Sometimes we see that when a person is on the platform of material goodness, he is attracted more or less by the cultivation of knowledge. This is, of course, a better position, for knowledge gives one the preference to accept devotional service. Unless one comes to the platform of knowledge, the brahma-bhüta :"
+        },
+        {
+            "type": "verse",
+            "content": "brahma-bhütaù prasannätmäna çocati na käìkñati\nsamaù sarveñu bhüteñumad-bhaktià labhate paräm"
+        },
+        {
+            "type": "normal",
+            "content": "\"One who is thus transcendentally situated at once realizes the Supreme Brahman and becomes fully joyful. He never laments nor desires to have anything; he is equally disposed to every living entity. In that state he attains pure devotional service unto Me.\""
+        },
+        {
+            "type": "normal",
+            "content": "The platform of knowledge is advantageous because it is a means by which one may come to the stage of devotional service. However, if one takes to devotional service directly, knowledge is revealed without separate endeavor. This is confirmed in Çrémad-Bhägavatam :"
+        },
+        {
+            "type": "verse",
+            "content": "väsudeve bhagavatibhakti-yogaù prayojitaù\njanayaty äçu vairägyaàjïänaà ca yad ahaitukam"
+        },
+        {
+            "type": "normal",
+            "content": "Devotional service automatically reveals actual knowledge of our material existence. One who is sufficiently intelligent immediately attains the stage of renunciation of so-called society, family and love as well as other things. As long as we are attached to society, family and love of the material world, there is no question of knowledge. Nor is there a question of devotional service. By directly taking to devotional service, however, one becomes filled with knowledge and renunciation. In this way one's life becomes successful."
+        }
+    ]
+}
+

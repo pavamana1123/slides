@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/8/9",
+        "prevId": "sb/1/8/8",
+        "nextId": "sb/1/8/10"
+    },
+    "verses": [
+        {
+            "roman": "uttaroväca\npähi pähi mahä-yogin\ndeva-deva jagat-pate\nnänyaà tvad abhayaà paçye\nyatra måtyuù parasparam\n"
+        }
+    ],
+    "synonyms": "uttarä uväca—Uttarä said; pähi pähi—protect, protect; mahä-yogin—the greatest mystic; deva-deva—the worshipable of the worshiped; jagat-pate—O Lord of the universe; na—not; anyam—anyone else; tvat—than You; abhayam—fearlessness; paçye—do I see; yatra—where there is; måtyuù—death; parasparam—in the world of duality.",
+    "translation": "Uttarä said: O Lord of lords, Lord of the universe! You are the greatest of mystics. Please protect me, for there is no one else who can save me from the clutches of death in this world of duality.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "This material world is the world of duality, in contrast with the oneness of the absolute realm. The world of duality is composed of matter and spirit, whereas the absolute world is complete spirit without any tinge of the material qualities. In the dual world everyone is falsely trying to become the master of the world, whereas in the absolute world the Lord is the absolute Lord, and all others are His absolute servitors. In the world of duality everyone is envious of all others, and death is inevitable due to the dual existence of matter and spirit. The Lord is the only shelter of fearlessness for the surrendered soul. One cannot save himself from the cruel hands of death in the material world without having surrendered himself at the lotus feet of the Lord."
+        }
+    ]
+}
+

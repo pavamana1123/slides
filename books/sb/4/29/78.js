@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/4/29/78",
+        "prevId": "sb/4/29/76-77",
+        "nextId": "sb/4/29/79"
+    },
+    "verses": [
+        {
+            "roman": "yadäkñaiç caritän dhyäyan\nkarmäëy äcinute 'sakåt\nsati karmaëy avidyäyäà\nbandhaù karmaëy anätmanaù\n"
+        }
+    ],
+    "synonyms": "yadä—when; akñaiù—by the senses; caritän—pleasures enjoyed; dhyäyan—thinking of; karmäëi—activities; äcinute—performs; asakåt—always; sati karmaëi—when material affairs continue; avidyäyäm—under illusion; bandhaù—bondage; karmaëi—in activity; anätmanaù—of the material body.",
+    "translation": "As long as we desire to enjoy sense gratification, we create material activities. When the living entity acts in the material field, he enjoys the senses, and while enjoying the senses, he creates another series of material activities. In this way the living entity becomes entrapped as a conditioned soul.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "While in the subtle body, we create many plans to enjoy sense gratification. These plans are recorded in the spool of one's mind as béja, the root of fruitive activities. In conditional life the living entity creates a series of bodies one after another, and this is called karma-bandhana. As explained in Bhagavad-gétä , yajïärthät karmaëo 'nyatra loko 'yam-karma-bandhanaù: if we act only for the satisfaction of Viñëu, there is no bondage due to material activity, but if we act otherwise, we become entrapped by one material activity after another. Under these circumstances, it is to be supposed that by thinking, feeling and willing, we are creating a series of future material bodies. In the words of Bhaktivinoda Öhäkura, anädi karama-phale, padi' bhavärëava jale. The living entity falls into the ocean of karma-bandhana as a result of past material activities. Instead of plunging oneself into the ocean of material activity, one should accept material activity only to maintain body and soul together. The rest of one's time should be devoted to engaging in the transcendental loving service of the Lord. In this way one can attain relief from the reactions of material activity."
+        }
+    ]
+}
+

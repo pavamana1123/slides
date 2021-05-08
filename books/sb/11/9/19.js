@@ -1,0 +1,25 @@
+var text = {
+    "info": {
+        "id": "sb/11/9/19",
+        "prevId": "sb/11/9/17-18",
+        "nextId": "sb/11/9/20"
+    },
+    "verses": [
+        {
+            "roman": "kevalätmänubhävena\nsva-mäyäà tri-guëätmikäm\nsaìkñobhayan såjaty ädau\ntayä sütram arindama\n"
+        }
+    ],
+    "synonyms": "kevala—pure; ätma—of His own Self; anubhävena—by the potency; sva-mäyäm—His own energy; tri—three; guëa—modes; ätmikäm—composed of; saìkñobhayan—agitating; såjati—He manifests; ädau—at the time of creation; tayä—with that energy; sütram—the mahat-tattva distinguished by the power of action; arindama—O subduer of the enemies.",
+    "translation": "O subduer of the enemies, at the time of creation the Personality of Godhead expands His own transcendental potency in the form of time, and agitating His material energy, mäyä, composed of the three modes of material nature, He creates the mahat-tattva.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The word kevala means \"pure\" and indicates that the Lord's kälaçakti, or time potency, is a transcendental energy nondifferent from His personal body. The brähmaëa addresses King Yadu here as arindama, subduer of the enemies. This indicates that although the topic of mäyä, or illusory creation, is being discussed, the King need not worry, because as a staunch devotee of the Lord, he is able to subdue the real enemies of life, namely lust, anger and greed, which make one a prisoner in mäyä's kingdom. The word sütram indicates the mahat-tattva, on which many material creations rest, just like jewels rest on a thread. In the state of pradhäna, or material equilibrium, the modes of nature do not interact. In the Third Canto of Çrémad-Bhägavatam, Lord Kapila explains in His Säìkhya teachings that the Supreme Personality of Godhead agitates the neutral state of nature and thus creation takes place. The created manifest form of nature in which fruitive activities are stimulated is called mahat-tattva, as indicated in this verse."
+        },
+        {
+            "type": "normal",
+            "content": "If one tries to renounce the illusory creation of the Lord by taking shelter of impersonal Vedänta philosophy, thus artificially equating the infinite consciousness of the Lord and the infinitesimal consciousness of the conditioned soul, one's analysis will fall far short of reality. The word sva-mäyäm in this verse indicates that the illusory potency that covers the conditioned souls is always subordinate to the Lord, whose consciousness is infallible and infinite and who is always a person."
+        }
+    ]
+}
+

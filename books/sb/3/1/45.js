@@ -1,0 +1,33 @@
+var text = {
+    "info": {
+        "id": "sb/3/1/45",
+        "prevId": "sb/3/1/44",
+        "nextId": "sb/3/2/1"
+    },
+    "verses": [
+        {
+            "roman": "tasya prapannäkhila-lokapänäm\navasthitänäm anuçäsane sve\narthäya jätasya yaduñv ajasya\nvärtäà sakhe kértaya tértha-kérteù\n"
+        }
+    ],
+    "synonyms": "tasya—His; prapanna—surrendered; akhila-loka-pänäm—all rulers of the entire universe; avasthitänäm—situated in; anuçäsane—under the control of; sve—own self; arthäya—for the interest of; jätasya—of the born; yaduñu—in the family of the Yadus; ajasya—of the unborn; värtäm—topics; sakhe—O my friend; kértaya—please narrate; tértha-kérteù—of the Lord, whose glories are chanted in the places of pilgrimage.",
+    "translation": "O my friend, please, therefore, chant the glories of the Lord, who is meant to be glorified in the places of pilgrimage. He is unborn, and yet He appears by His causeless mercy upon the surrendered rulers of all parts of the universe. Only for their interest did He appear in the family of His unalloyed devotees the Yadus.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "There are innumerable rulers all over the universe in different varieties of planets: the sun-god in the sun planet, the moon-god in the moon planet, Indra in the heavenly planet, Väyu, Varuëa, and those in the Brahmaloka planet, where Lord Brahmä is living. All are obedient servants of the Lord. Whenever there is any trouble in the administration of the innumerable planets in different universes, the rulers pray for an appearance, and the Lord appears. The Bhägavatam  has already confirmed this in the following verse:"
+        },
+        {
+            "type": "verse",
+            "content": "ete cäàça-kaläù puàsaùkåñëas tu bhagavän svayam\nindräri-vyäkulaà lokaàmåòayanti yuge yuge"
+        },
+        {
+            "type": "normal",
+            "content": "In every millennium, whenever there is any trouble for the obedient rulers, the Lord appears. He also appears for the sake of His pure unalloyed devotees. The surrendered rulers and the pure devotees are always strictly under the control of the Lord, and they are never disobedient to the desires of the Lord. The Lord is therefore always attentive to them."
+        },
+        {
+            "type": "normal",
+            "content": "The purpose of pilgrimages is to remember the Lord constantly, and therefore the Lord is known as tértha-kérti. The purpose of going to a place of pilgrimage is to get the chance to glorify the Lord. Even today, although times have changed, there are still pilgrimage sites in India. For example, in Mathurä and Våndävana, where we had a chance to stay, people are awake from early in the morning at 4 A.M. up until nighttime and are constantly engaged, some way or other, in chanting the holy glories of the Lord. The beauty of such a pilgrimage site is that automatically one remembers the holy glories of the Lord. His name, fame, quality, form, pastimes and entourage are all identical to the Lord, and therefore chanting the glories of the Lord invokes the personal presence of the Lord. Any time or anywhere pure devotees meet and chant the glories of the Lord, the Lord is present without any doubt. It is said by the Lord Himself that He always stays where His pure devotees chant His glories."
+        }
+    ]
+}
+

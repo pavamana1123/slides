@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/3/15/26",
+        "prevId": "sb/3/15/25",
+        "nextId": "sb/3/15/27"
+    },
+    "verses": [
+        {
+            "roman": "tad viçva-gurv-adhikåtaà bhuvanaika-vandyaà\ndivyaà vicitra-vibudhägrya-vimäna-çociù\näpuù paräà mudam apürvam upetya yoga-\nmäyä-balena munayas tad atho vikuëöham\n"
+        }
+    ],
+    "synonyms": "tat—then; viçva-guru—by the teacher of the universe, the Supreme Personality of Godhead; adhikåtam—predominated; bhuvana—of the planets; eka—alone; vandyam—worthy to be worshiped; divyam—spiritual; vicitra—highly decorated; vibudha-agrya—of the devotees (who are the best of the learned); vimäna—of the airplanes; çociù—illuminated; äpuù—attained; paräm—the highest; mudam—happiness; apürvam—unprecedented; upetya—having attained; yoga-mäyä—by spiritual potency; balena—by the influence; munayaù—the sages; tat—Vaikuëöha; atho—that; vikuëöham—Viñëu.",
+    "translation": "Thus the great sages, Sanaka, Sanätana, Sanandana and Sanat-kumära, upon reaching the above-mentioned Vaikuëöha in the spiritual world by dint of their mystic yoga performance, perceived unprecedented happiness. They found that the spiritual sky was illuminated by highly decorated airplanes piloted by the best devotees of Vaikuëöha and was predominated by the Supreme Personality of Godhead.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The Supreme Personality of Godhead is one without a second. He is above everyone. No one is equal to Him, nor is anyone greater than Him. Therefore He is described here as viçva-guru. He is the prime living entity of the entire material and spiritual creation and is bhuvanaika-vandyam, the only worshipable personality in the three worlds. The airplanes in the spiritual sky are self-illuminated and are piloted by great devotees of the Lord. In other words, in the Vaikuëöha planets there is no scarcity of the things which are available in the material world; they are available, but they are more valuable because they are spiritual and therefore eternal and blissful. The sages felt an unprecedented happiness because Vaikuëöha was not predominated by an ordinary man. The Vaikuëöha planets are predominated by expansions of Kåñëa, who are differently named as Madhusüdana, Mädhava, Näräyaëa, Pradyumna, etc. These transcendental planets are worshipable because the Personality of Godhead personally rules them. It is said here that the sages reached the transcendental spiritual sky by dint of their mystic power. That is the perfection of the yoga system. The breathing exercises and disciplines to keep health in proper order are not the ultimate goals of yoga perfection. The yoga system as generally understood is añöäìga-yoga, or siddhi, eightfold perfection in yoga. By dint of perfection in yoga one can become lighter than the lightest and heavier than the heaviest; one can go wherever he likes and can achieve opulences as he likes. There are eight such perfections. The åñis, the four Kumäras, reached Vaikuëöha by becoming lighter than the lightest and thus passing over the space of the material world. Modern mechanical space vehicles are unsuccessful because they cannot go to the highest region of this material creation, and they certainly cannot enter the spiritual sky. But by perfection of the yoga system one not only can travel through material space, but can surpass material space and enter the spiritual sky. We learn this fact also from an incident concerning Durväsä Muni and Mahäräja Ambaréña. It is understood that in one year Durväsä Muni traveled everywhere and went into the spiritual sky to meet the Supreme Personality of Godhead, Näräyaëa. By present standards, scientists calculate that if one could travel at the speed of light, it would take forty thousand years to reach the highest planet of this material world. But the yoga system can carry one without limitation or difficulty. The word yoga-mäyä is used in this verse. Yoga-mäyä-balena vikuëöham. The transcendental happiness exhibited in the spiritual world and all other spiritual manifestations there are made possible by the influence of yoga-mäyä, the internal potency of the Supreme Personality of Godhead."
+        }
+    ]
+}
+

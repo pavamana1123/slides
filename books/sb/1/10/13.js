@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/10/13",
+        "prevId": "sb/1/10/11-12",
+        "nextId": "sb/1/10/14"
+    },
+    "verses": [
+        {
+            "roman": "sarve te 'nimiñair akñais\ntam anu druta-cetasaù\nvékñantaù sneha-sambaddhä\nvicelus tatra tatra ha\n"
+        }
+    ],
+    "synonyms": "sarve—all; te—they; animiñaiù—without twinkling of the eyes; akñaiù—by the eye; tam anu—after Him; druta-cetasaù—melted heart; vékñantaù—looking upon Him; sneha-sambaddhäù—bound by pure affection; viceluù—began to move; tatra tatra—here and there; ha—so they did.",
+    "translation": "All their hearts were melting for Him on the pot of attraction. They looked at Him without blinking their eyes, and they moved hither and thither in perplexity.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Kåñëa is naturally attractive for all living beings because He is the chief eternal amongst all eternals. He alone is the maintainer of the many eternals. This is stated in the Kaöha Upaniñad, and thus one can obtain permanent peace and prosperity by revival of one's eternal relation with Him, now forgotten under the spell of mäyä, the illusory energy of the Lord. Once this relation is slightly revived, the conditioned soul at once becomes freed from the illusion of material energy and becomes mad after the association of the Lord. This association is made possible not only by personal contact with the Lord, but also by association with His name, fame, form and quality. Çrémad-Bhägavatam trains the conditioned soul to this stage of perfection by submissive hearing from the pure devotee."
+        }
+    ]
+}
+

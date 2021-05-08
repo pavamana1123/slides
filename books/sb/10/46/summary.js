@@ -1,0 +1,41 @@
+var text = {
+    "info": {
+        "id": "sb/10/46/summary",
+        "prevId": "sb/10/45/50",
+        "nextId": "sb/10/46/1"
+    },
+    "verses": null,
+    "synonyms": null,
+    "translation": null,
+    "purport": [
+        {
+            "type": "normal",
+            "content": "This chapter describes how Çré Kåñëa sent Uddhava to Vraja to relieve the distress of Nanda, Yaçodä and the young gopés."
+        },
+        {
+            "type": "normal",
+            "content": "One day Lord Kåñëa asked His intimate friend Uddhava to take news of Him to Vraja and thus relieve His parents and the gopés of their misery caused by their separation from Him. Riding on a chariot, Uddhava reached Vraja at sunset. He saw the cows returning home to the cowherd village and the calves jumping here and there as their mothers followed slowly behind, weighed down by their heavy milk bags. The cowherd men and women were chanting the glories of Kåñëa and Balaräma, and the village was attractively decorated with burning incense and rows of lamps. All this presented a scene of exceptional transcendental beauty."
+        },
+        {
+            "type": "normal",
+            "content": "Nanda Mahäräja welcomed Uddhava warmly into his home. The cowherd King then worshiped him as nondifferent from Lord Väsudeva, fed him nicely, seated him comfortably upon a bed and then inquired from him about the welfare of Vasudeva and his sons, Kåñëa and Balaräma. Nanda asked, \"Does Kåñëa still remember His friends, the village of Gokula and Govardhana Hill? He protected us from a forest fire, wind and rain, and many other disasters. By remembering His pastimes again and again, we are relieved of all karmic entanglement, and when we see the places marked by His lotus feet, our minds become fully absorbed in thought of Him. Garga Muni told me that Kåñëa and Balaräma have both descended directly from the spiritual world. Just see how They have so easily dispatched Kaàsa, the wrestlers, the elephant Kuvalayäpéòa and many other demons!\" As Nanda remembered Kåñëa's pastimes, his throat choked up with tears and he could speak no further. Meanwhile, as mother Yaçodä heard her husband speak of Kåñëa, the intense love she felt for her son caused a flood of milk to pour from her breasts and a torrent of tears from her eyes."
+        },
+        {
+            "type": "normal",
+            "content": "Seeing the superexcellent affection Nanda and Yaçodä had for Çré Kåñëa, Uddhava commented, \"You two are indeed most glorious. One who has attained pure love for the Supreme Absolute Truth in His humanlike form has nothing further to accomplish. Kåñëa and Balaräma are present in the hearts of all living beings, just as fire lies dormant within wood. These two Lords see all equally, having no particular friends or enemies. Free from egoism and possessiveness, They have no father, mother, wife or children, are never subject to birth, and have no material body. Only to enjoy spiritual happiness and deliver Their saintly devotees do They appear by Their own sweet will among various species of life, both high and low."
+        },
+        {
+            "type": "normal",
+            "content": "\"Lord Kåñëa is not merely the son of you, O Nanda and Yaçodä, but the son of all persons, as well as their mother and father. In fact, He is everyone's dearest relation inasmuch as nothing that is seen or heard in the past, present or future, among the moving or nonmoving, is independent of Him.\""
+        },
+        {
+            "type": "normal",
+            "content": "Nanda Mahäräja and Uddhava passed the night talking about Kåñëa in this way. Then the cowherd women performed their morning worship and began churning butter, singing the glories of Çré Kåñëa as they busily pulled the churning ropes. The sounds of churning and singing reverberated into the sky, cleansing the world of all inauspiciousness."
+        },
+        {
+            "type": "normal",
+            "content": "When the sun rose, the gopés saw Uddhava's chariot at the edge of the cowherd village, and they thought that Akrüra might have returned. But just then Uddhava finished his morning duties and presented himself before them."
+        }
+    ]
+}
+

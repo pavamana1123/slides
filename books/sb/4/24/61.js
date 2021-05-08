@@ -1,0 +1,33 @@
+var text = {
+    "info": {
+        "id": "sb/4/24/61",
+        "prevId": "sb/4/24/60",
+        "nextId": "sb/4/24/62"
+    },
+    "verses": [
+        {
+            "roman": "yo mäyayedaà puru-rüpayäsåjad\nbibharti bhüyaù kñapayaty avikriyaù\nyad-bheda-buddhiù sad ivätma-duùsthayä\ntvam ätma-tantraà bhagavan pratémahi\n"
+        }
+    ],
+    "synonyms": "yaù—one who; mäyayä—by His energy; idam—this; puru—manifold; rüpayä—manifestation; asåjat—created; bibharti—maintains; bhüyaù—again; kñapayati—annihilates; avikriyaù—without being altered; yat—that; bheda-buddhiù—sense of differentiation; sat—eternal; iva—like; ätma-duùsthayä—giving trouble to oneself; tvam—unto You; ätma-tantram—fully self-independent; bhagavan—O Lord, Supreme Personality of Godhead; pratémahi—I can understand.",
+    "translation": "My dear Lord, You have manifold energies, and these energies are manifested in manifold forms. With such energies You have also created this cosmic manifestation, and although You maintain it as if it were permanent, You ultimately annihilate it. Although You are never disturbed by such changes and alterations, the living entities are disturbed by them, and therefore they find the cosmic manifestation to be different or separated from You. My Lord, You are always independent, and I can clearly see this fact.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "It is clearly explained that Lord Kåñëa has multienergies, which can be grouped into three: namely the external energy, the internal energy and the marginal energy. There are also different cosmic manifestations—namely the spiritual world and the material world—as well as different types of living entities. Some living entities are conditioned, and others are eternally free. The eternally free living entities are called nitya-mukta, for they never come in contact with the material energy. However, some living entities are conditioned in this material world, and thus they think themselves separated from the Supreme Lord. Due to their contact with the material energy, their existence is always troublesome. Being always in distress, the conditioned soul considers the material energy to be very much disturbing. This fact is explained by a Vaiñëava kavi, or poet:"
+        },
+        {
+            "type": "verse",
+            "content": "kåñëa bhuli' sei jéva anädi-bahirmukhaataeva mäyä täre deya saàsära-duùkha"
+        },
+        {
+            "type": "normal",
+            "content": "When the living entity forgets the Supreme Lord and wants to enjoy himself independently, imitating the Supreme Lord, he is captured by the false notion that he is the enjoyer and is separated from the Supreme Lord. This material energy is therefore very much troublesome to the spiritual energy, the living entity, but the material energy is never troublesome to the Supreme Lord. Indeed, for the Supreme Lord, both material and spiritual energy are the same. In this verse Lord Çiva explains that the material energy is never troublesome to the Supreme Lord. The Supreme Lord is always independent, but because the living entities are not independent—due to their false idea of becoming independently happy—the material energy is troublesome. Consequently the material energy creates differentiation."
+        },
+        {
+            "type": "normal",
+            "content": "Because the Mäyävädé philosophers cannot understand this, they want to be relieved from the material energy. However, because a Vaiñëava philosopher is in full knowledge of the Supreme Personality of Godhead, he finds no disturbance even in the material energy. This is because he knows how to utilize the material energy for the service of the Lord. In the government, the criminal department and civil department may appear different in the eyes of the citizens, but in the eyes of the government both departments are one and the same. The criminal department is troublesome for the criminal but not for the obedient citizen. Similarly, this material energy is troublesome for the conditioned soul, but it has nothing to do with the liberated souls who are engaged in the service of the Lord. Through the puruña-avatära Mahä-Viñëu, the Supreme Personality of Godhead created the whole cosmic manifestation. Simply by breathing out all the universes, the Lord creates and maintains the cosmic manifestation as Lord Viñëu. Then as Saìkarñaëa, He annihilates the cosmic manifestation. Yet despite the creation, maintenance and destruction of the cosmos, the Lord is not affected. The various activities of the Lord must be very disturbing to the tiny living entities, but since the Lord is supremely great, He is never affected. Lord Çiva or any other pure devotee can see this clearly without being blinded by bheda-buddhi, or differentiation. For a devotee, the Lord is the supreme spirit soul. Since He is supremely powerful, His various powers are also spiritual. For a devotee, there is nothing material, for material existence only means forgetfulness of the Supreme Personality of Godhead."
+        }
+    ]
+}
+

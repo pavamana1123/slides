@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/23/32",
+        "prevId": "sb/11/23/31",
+        "nextId": "sb/11/23/33"
+    },
+    "verses": [
+        {
+            "roman": "sa cacära mahém etäà\nsaàyatätmendriyänilaù\nbhikñärthaà nagara-grämän\nasaìgo 'lakñito 'viçat\n"
+        }
+    ],
+    "synonyms": "saù—he; cacära—wandered; mahém—the earth; etäm—this; saàyata—controlled; ätma—his consciousness; indriya—senses; anilaù—and vital air; bhikñä-artham—for the purpose of taking charity; nagara—the cities; grämän—and villages; asaìgaù—without any association; alakñitaù—not making himself prominent, thus unrecognized; aviçat—he entered.",
+    "translation": "He wandered about the earth, keeping his intelligence, senses and life air under control. To beg charity he traveled alone to various cities and villages. He did not advertise his advanced spiritual position and thus was not recognized by others.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "According to Çréla Bhaktisiddhänta Sarasvaté Öhäkura, the acceptance of the tridaëòi-sannyäsa order of life is the chief indication that one has actually taken shelter of the Supreme Personality of Godhead. The three rods of the daëòa, or staff, of the Vaiñëava sannyäsé indicate control of the body, mind and words by engaging them only in the loving service of the Lord. This procedure helps one to become more tolerant than a tree, as recommended by Çré Caitanya Mahäprabhu. By strict control of one's body, mind and speech, the quality of tolerance becomes strengthened, and thus one manifests the further qualities of forgiving others, never wasting one's time, detachment from sense gratification, lack of false pride in one's work and not hankering for liberation. One in this way gives up the mentality of materialistic persons, who establish so-called affectionate relationships of mutual flattery and exploit each other for sense gratification. One who adopts the strict path of Kåñëa consciousness, following in the footsteps of great souls, can achieve the shelter of the Lord."
+        }
+    ]
+}
+

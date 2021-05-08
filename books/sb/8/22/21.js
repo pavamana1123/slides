@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/8/22/21",
+        "prevId": "sb/8/22/20",
+        "nextId": "sb/8/22/22"
+    },
+    "verses": [
+        {
+            "roman": "çré-brahmoväca\nbhüta-bhävana bhüteça\ndeva-deva jaganmaya\nmuïcainaà håta-sarvasvaà\nnäyam arhati nigraham\n"
+        }
+    ],
+    "synonyms": "çré-brahmä uväca—Lord Brahmä said; bhüta-bhävana—O Supreme Being, well-wisher of everyone, who can cause one to flourish; bhüta-éça—O master of everyone; deva-deva—O worshipable Deity of the demigods; jagat-maya—O all-pervading one; muïca—please release; enam—this poor Bali Mahäräja; håta-sarvasvam—now bereft of everything; na—not; ayam—such a poor man; arhati—deserves; nigraham—punishment.",
+    "translation": "Lord Brahmä said: O well-wisher and master of all living entities, O worshipable Deity of all the demigods, O all-pervading Personality of Godhead, now this man has been sufficiently punished, for You have taken everything. Now You can release him. He does not deserve to be punished more.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "When Lord Brahmä saw that Prahläda Mahäräja and Vindhyävali had already approached the Lord to ask mercy for Bali Mahäräja, he joined them and recommended Bali Mahäräja's release on the grounds of worldly calculations."
+        }
+    ]
+}
+

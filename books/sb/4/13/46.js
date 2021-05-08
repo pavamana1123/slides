@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/4/13/46",
+        "prevId": "sb/4/13/45",
+        "nextId": "sb/4/13/47"
+    },
+    "verses": [
+        {
+            "roman": "kad-apatyaà varaà manye\nsad-apatyäc chucäà padät\nnirvidyeta gåhän martyo\nyat-kleça-nivahä gåhäù\n"
+        }
+    ],
+    "synonyms": "kad-apatyam—bad son; varam—better; manye—I think; sat-apatyät—than a good son; çucäm—of grief; padät—the source; nirvidyeta—becomes detached; gåhät—from home; martyaù—a mortal man; yat—because of whom; kleça-nivahäù—hellish; gåhäù—home.",
+    "translation": "Then the King thought: A bad son is better than a good son because a good son creates an attachment for home, whereas a bad son does not. A bad son creates a hellish home from which an intelligent man naturally becomes very easily detached.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The King began to think in terms of attachment and detachment from one's material home. According to Prahläda Mahäräja, the material home is compared to a blind well. If a man falls down into a blind well, it is very difficult to get out of it and begin life again. Prahläda Mahäräja has advised that one give up this blind well of home life as soon as possible and go to the forest to take shelter of the Supreme Personality of Godhead. According to Vedic civilization, this giving up of home by vänaprastha and sannyäsa is compulsory. But people are so attached to their homes that even up to the point of death they do not like to retire from home life. King Aìga, therefore, thinking in terms of detachment, accepted his bad son as a good impetus for detachment from home life. He therefore considered his bad son his friend since he was helping him become detached from his home. Ultimately one has to learn how to detach oneself from attachment to material life; therefore, if a bad son, by his bad behavior, helps a householder to go away from home, it is a boon."
+        }
+    ]
+}
+

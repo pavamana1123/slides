@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/10/34",
+        "prevId": "sb/11/10/33",
+        "nextId": "sb/11/10/35"
+    },
+    "verses": [
+        {
+            "roman": "käla ätmägamo lokaù\nsvabhävo dharma eva ca\niti mäà bahudhä prähur\nguëa-vyatikare sati\n"
+        }
+    ],
+    "synonyms": "kälaù—time; ätmä—the self; ägamaù—Vedic knowledge; lokaù—the universe; svabhävaù—different natures of different living entities; dharmaù—religious principles; eva—certainly; ca—also; iti—thus; mäm—Me; bahudhä—in many ways; prähuù—they call; guëa—of the modes of nature; vyatikare—agitation; sati—when there is.",
+    "translation": "When there is agitation and interaction of the material modes of nature, the living entities then describe Me in various ways such as all-powerful time, the Self, Vedic knowledge, the universe, one's own nature, religious ceremonies and so on.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "One can experience the potency of the Personality of Godhead by observing how different species of life—demigods, human beings, animals, fish, birds, insects, plants, etc.—gradually evolve their natures and activities. Each species of life executes a particular process of sense gratification, and this function is called the dharma of the species. Lacking knowledge of the Personality of Godhead, ordinary persons catch a glimpse of the Lord's potencies in the above-mentioned manifestations. Çréla Madhväcärya has cited the following information from the Tantra-bhägavata. The Lord is called käla, or time, because He is the mover and controller of all material qualities. Because He is complete and perfect, He is called ätmä, or the Self; and He is the personification of all knowledge. The word svabhäva indicates that the Lord fully controls His own destiny; and as the maintainer of everyone He is called dharma. One on the liberated platform can achieve unlimited bliss by worshiping the Personality of Godhead, whereas those who are ignorant of the Lord try to find meaning by concocting other objects of worship. If one stubbornly imagines that anything is independent of the Lord, one will remain in the grip of the illusory network of the Lord's potency. Seeing the inevitability of the destruction of material things, one is constantly fearful and perpetually laments in the darkness of ignorance. In such darkness there is no question of happiness. Therefore, one should never think that anything is independent of the Personality of Godhead. As soon as one considers anything to be independent of the Lord, one is immediately gripped by the Lord's illusory network, called mäyä. One should always remain humble and obedient to the Personality of Godhead, even when one is liberated, and thus one will achieve the supreme spiritual happiness."
+        }
+    ]
+}
+

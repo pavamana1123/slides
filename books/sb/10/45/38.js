@@ -1,0 +1,33 @@
+var text = {
+    "info": {
+        "id": "sb/10/45/38",
+        "prevId": "sb/10/45/37",
+        "nextId": "sb/10/45/39"
+    },
+    "verses": [
+        {
+            "roman": "tethety athäruhya mahä-rathau rathaà\nprabhäsam äsädya duranta-vikramau\nveläm upavrajya niñédatuù kñanaà\nsindhur viditvärhanam äharat tayoù\n"
+        }
+    ],
+    "synonyms": "tathä—so be it; iti—saying this; atha—then; äruhya—mounting; mahä-rathau—the two great chariot warriors; ratham—a chariot; prabhäsam—Prabhäsa-tértha; äsädya—reaching; duranta—limitless; vikramau—whose prowess; veläm—up to the shore; upavrajya—walking; niñédatuù—They sat down; kñaëam—for a moment; sindhuù—the (presiding demigod of the) ocean; viditvä—recognizing; arhaëam—respectful offering; äharat—brought; tayoù—for Them.",
+    "translation": "\"So be it,\" replied those two great chariot warriors of limitless might, and They at once mounted Their chariot and set off for Prabhäsa. When They reached that place, They walked up to the shore and sat down. In a moment the deity of the ocean, recognizing Them to be the Supreme Lords, approached Them with offerings of tribute.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Western scholars sometimes think that references in ancient books of wisdom to the deity of the ocean, the deity of the sun and so on reveal a primitive, mythical way of thinking. They sometimes say that primitive men think that the ocean is a god or that the sun and moon are gods. In fact, references such as the word sindhu in this verse, meaning \"the ocean,\" indicate the person who governs that aspect of physical nature."
+        },
+        {
+            "type": "normal",
+            "content": "We can give several modern examples. In the United Nations we may say, \"The United States votes 'Yes,' the Soviet Union votes 'No.' \" We hardly mean that the physical countries or the buildings in them have voted. We mean that a particular person, representing that political and geographical entity, has voted. Yet the newspapers will simply say, \"The United States voted, decided, etc.\" and everyone knows what that means."
+        },
+        {
+            "type": "normal",
+            "content": "Similarly, in business we may say, \"A large conglomerate has swallowed up a smaller firm.\" We hardly mean that the buildings, office equipment and the like have physically swallowed another building full of workers and office equipment. We mean that the empowered authorities have engaged in a particular act on behalf of their respective corporate entities."
+        },
+        {
+            "type": "normal",
+            "content": "Unfortunately, modern scholars are eager to confirm their pet theories that ancient spiritual wisdom is primitive, mythic and largely supplanted by more modern ways of thinking, exemplified by their own eloquent remarks. However, much in modern scholarship must be rethought in the light of Kåñëa consciousness."
+        }
+    ]
+}
+

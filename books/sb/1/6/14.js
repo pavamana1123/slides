@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/6/14",
+        "prevId": "sb/1/6/13",
+        "nextId": "sb/1/6/15"
+    },
+    "verses": [
+        {
+            "roman": "pariçräntendriyätmähaà\ntåö-paréto bubhukñitaù\nsnätvä pétvä hrade nadyä\nupaspåñöo gata-çramaù\n"
+        }
+    ],
+    "synonyms": "pariçränta—being tired; indriya—bodily; ätmä—mentally; aham—I; tåö-parétaù—being thirsty; bubhukñitaù—and hungry; snätvä—taking a bath; pétvä—and drinking water also; hrade—in the lake; nadyäù—of a river; upaspåñöaù—being in contact with; gata—got relief from; çramaù—tiredness.",
+    "translation": "Thus traveling, I felt tired, both bodily and mentally, and I was both thirsty and hungry. So I took a bath in a river lake and also drank water. By contacting water, I got relief from my exhaustion.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "A traveling mendicant can meet the needs of body, namely thirst and hunger, by the gifts of nature without being a beggar at the doors of the householders. The mendicant therefore does not go to the house of a householder to beg but to enlighten him spiritually."
+        }
+    ]
+}
+

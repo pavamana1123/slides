@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/5/3/8",
+        "prevId": "sb/5/3/7",
+        "nextId": "sb/5/3/9"
+    },
+    "verses": [
+        {
+            "roman": "ätmana evänusavanam aïjasävyatirekeëa\nbobhüyamänäçeña-puruñärtha-svarüpasya\nkintu näthäçiña äçäsänänäm etad\nabhisaàrädhana-mätraà bhavitum arhati\n"
+        }
+    ],
+    "synonyms": "ätmanaù—self-sufficiently; eva—certainly; anusavanam—at every moment; aïjasä—directly; avyatirekeëa—without stopping; bobhüyamäna—increasing; açeña—unlimitedly; puruña-artha—the goals of life; sva-rüpasya—Your actual identity; kintu—but; nätha—O Lord; äçiñaù—benedictions for material enjoyment; äçäsänänäm—of us, who are always desiring; etat—this; abhisaàrädhana—for getting Your mercy; mätram—only; bhavitum arhati—can be.",
+    "translation": "All of life's goals and opulences are directly, self-sufficiently, unceasingly and unlimitedly increasing in You at every moment. Indeed, You are unlimited enjoyment and blissful existence itself. As far as we are concerned, O Lord, we are always after material enjoyment. You do not need all these sacrificial arrangements, but they are meant for us so that we may be benedicted by Your Lordship. All these sacrifices are performed for our fruitive results, and they are not actually needed by You.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Being self-sufficient, the Supreme Lord does not need huge sacrifices. Fruitive activity for a more opulent life is for those who desire such material opulence for their interest. Yajïärthät karmaëo 'nyatra loko 'yaà karma-bandhanaù: ) if we do not act to satisfy the Supreme Lord. we engage in mäyä's activities. We may construct a gorgeous temple and spend thousands of dollars, but such a temple is not required by the Lord. The Lord has many millions of temples for His residence. and He does not need our attempt. He does not require opulent activity at all. Such engagement is meant for our benefit. If we engage our money in constructing a gorgeous temple, we are freed from the reactions of our endeavors. This is for our benefit. In addition, if we attempt to do something nice for the Supreme Lord, He is pleased with us and gives us His benediction. In conclusion, the gorgeous arrangements are not for the Lord's sake but for our own. If we somehow or other receive blessings and benedictions from the Lord, our consciousness can be purified and we can become eligible to return home, back to Godhead."
+        }
+    ]
+}
+

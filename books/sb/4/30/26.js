@@ -1,0 +1,33 @@
+var text = {
+    "info": {
+        "id": "sb/4/30/26",
+        "prevId": "sb/4/30/25",
+        "nextId": "sb/4/30/27"
+    },
+    "verses": [
+        {
+            "roman": "namaù kamala-kiïjalka-\npiçaìgämala-väsase\nsarva-bhüta-niväsäya\nnamo 'yuìkñmahi säkñiëe\n"
+        }
+    ],
+    "synonyms": "namaù—obeisances; kamala-kiïjalka—like the saffron in a lotus flower; piçaìga—yellowish; amala—spotless; väsase—unto Him whose garment; sarva-bhüta—of all living entities; niväsäya—the shelter; namaù—obeisances; ayuìkñmahi—let us offer; säkñiëe—unto the supreme witness.",
+    "translation": "Dear Lord, the garment You have put on is yellowish in color, like the saffron of a lotus flower, but it is not made of anything material. Since You live in everyone's heart, You are the direct witness of all the activities of all living entities. We offer our respectful obeisances unto You again and again.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "In this verse the dress of the Supreme Personality of Godhead and His all-pervasive nature are described. The Lord puts on a dress that is yellow, but such a garment is never to be considered material. The garments of the Lord are also the Lord. They are nondifferent from the Lord because they are spiritual in nature."
+        },
+        {
+            "type": "normal",
+            "content": "The word sarva-bhüta-niväsäya further clarifies how Lord Viñëu lives in everyone's heart and acts as the direct witness of all the activities of the conditioned soul. Within this material world the conditioned soul has desires and acts in accordance with these desires. All these acts are observed by the Supreme Personality of Godhead. This is also confirmed in Bhagavad-gétä :"
+        },
+        {
+            "type": "verse",
+            "content": "sarvasya cähaà hådi sanniviñöomattaù småtir jïänam apohanaà ca"
+        },
+        {
+            "type": "normal",
+            "content": "\"I am seated in everyone's heart, and from Me come remembrance, knowledge and forgetfulness.\" The Lord is present in everyone's heart, and He gives the living entity intelligence. According to the desires of the living entity, the Lord makes him remember or forget. If the living entity is demoniac and wants to forget the Supreme Personality of Godhead, the Lord gives him the intelligence to be able to forget the Supreme Lord forever. Similarly, when a devotee wants to serve the Supreme Lord, the Lord, as Paramätmä, gives the devotee the intelligence to make progress in devotional service. The Lord directly witnesses our activities and experiences our desires. The Supreme Lord gives us the facilities to act in the way we wish."
+        }
+    ]
+}
+

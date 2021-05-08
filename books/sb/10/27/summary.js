@@ -1,0 +1,29 @@
+var text = {
+    "info": {
+        "id": "sb/10/27/summary",
+        "prevId": "sb/10/26/25",
+        "nextId": "sb/10/27/1"
+    },
+    "verses": null,
+    "synonyms": null,
+    "translation": null,
+    "purport": [
+        {
+            "type": "normal",
+            "content": "This chapter describes how the Surabhi cow and Indra, having seen the amazing power of Lord Kåñëa, performed a bathing ceremony for Him."
+        },
+        {
+            "type": "normal",
+            "content": "Ashamed of having attacked Våndävana with a violent storm, Indra secretly came before Lord Kåñëa, offered obeisances and praised Him. Indra stated that although Çré Kåñëa is never caught in the current of material illusion, which is born of ignorance, He nevertheless accepts a humanlike body and performs various activities to establish religious principles and chastise the wicked. By this means He crushes the false prestige of those who presume themselves great controllers. Indra went on to declare that Kåñëa is the father, guru and Lord of all living entities, and that in the form of time He is the agent of their punishment."
+        },
+        {
+            "type": "normal",
+            "content": "Satisfied with Indra's prayers, Çré Kåñëa told him that He had stopped the indra-yajïa so that Indra, puffed up as he was with false pride, would remember the Lord. Persons intoxicated by material opulence never see Him standing before them with the rod of punishment in His hand. Therefore if Lord Kåñëa desires the actual good fortune of some person, He brings him down from his position of opulence."
+        },
+        {
+            "type": "normal",
+            "content": "Lord Kåñëa ordered Indra to return to his proper position in heaven and to serve there without egotism. Indra, along with the cow Surabhi, then performed a bathing ceremony for Kåñëa, using the water of the heavenly Ganges and the milk of mother Surabhi. Indra and the cow took this opportunity to bestow upon the Lord the name Govinda, and the demigods showered flowers and recited various prayers."
+        }
+    ]
+}
+

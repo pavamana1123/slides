@@ -1,0 +1,45 @@
+var text = {
+    "info": {
+        "id": "sb/11/5/5",
+        "prevId": "sb/11/5/4",
+        "nextId": "sb/11/5/6"
+    },
+    "verses": [
+        {
+            "roman": "vipro räjanya-vaiçyau vä\nhareù präptäù padäntikam\nçrautena janmanäthäpi\nmuhyanty ämnäya-vädinaù\n"
+        }
+    ],
+    "synonyms": "vipraù—the brähmaëas; räjanya-vaiçyau—of the royal order and the vaiçyas; vä—or; hareù—of the Supreme Lord, Hari; präptäù—after being allowed to approach; pada-antikam—near the lotus feet; çrautena janmanä—by having received the second birth of Vedic initiation; atha—then; api—even; muhyanti—bewildered; ämnäya-vädinaù—adopting various materialistic philosophies.",
+    "translation": "On the other hand, brähmaëas, members of the royal order and vaiçyas, even after being allowed to approach the lotus feet of the Supreme Lord, Hari, by receiving the second birth of Vedic initiation, can become bewildered and adopt various materialistic philosophies.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "It is said that a little knowledge can be very dangerous. Those who are falsely proud of material social status and who thus neglect to perfect their worship of the Personality of Godhead are condemned in this verse. Muhyanty ämnäya-vädinaù: becoming attracted by the sense gratification of high status within the varëäçrama social system, such persons become more attracted to illusory material philosophy than to the Absolute Truth, which is not material. Within the Vedic system, brähmaëas, kñatriyas and vaiçyas, as mentioned in this verse, are all offered initiation into the Gäyatré mantra and are considered twice-born, or highly civilized men. By studying Vedic literature, chanting Vedic mantras, executing ritualistic ceremonies and worshiping the spiritual master and the Personality of Godhead such persons gradually come near to the lotus feet of the Supreme Lord. If one in such an exalted position becomes proud of his status or fascinated by the heavenly material enjoyment that is undoubtedly available to the followers of the varëäçrama system, then one so bewildered returns to the illusory material platform of birth and death. Even the highly posted demigods become victims of mäyä's enticement, as described in the first verse of Çrémad-Bhägavatam: muhyanti yat sürayaù."
+        },
+        {
+            "type": "normal",
+            "content": "In order to justify their illusory desire to enjoy dead matter, such foolish persons condemn themselves by minimizing the necessity of worshiping the Personality of Godhead (avajänanti) and falsely try to give equal importance to the karma-käëòa section of the Vedas, which awards heavenly sense gratification in exchange for the performance of prescribed ritualistic ceremonies. Such bogus rationalizers are described in Bhagavad-gétä :"
+        },
+        {
+            "type": "verse",
+            "content": "yäm imäà puñpitäà väcaàpravadanty avipaçcitaù\nveda-väda-ratäù pärthanänyad astéti vädinaù"
+        },
+        {
+            "type": "normal",
+            "content": "\"Men of small knowledge are very much attached to the flowery words of the Vedas, which recommend various fruitive activities for elevation to the heavenly planets, resultant good birth, power and so on. Being desirous of sense gratification and opulent life, they say that there is nothing more than this.\""
+        },
+        {
+            "type": "normal",
+            "content": "Çréla Prabhupäda's purport to this verse of Bhagavad-gétä gives a clear picture of the offensive class of men described therein. \"People in general are not very intelligent, and due to their ignorance they are most attached to the fruitive activities recommended in the karma-käëòa portions of the Vedas. They do not want anything more than sense gratificatory proposals for enjoying life in heaven, where wine and women are available and material opulence is very common. In the Vedas many sacrifices are recommended for elevation to the heavenly planets, especially the jyotiñöoma sacrifices. In fact, it is stated that anyone desiring elevation to heavenly planets must perform these sacrifices, and men with a poor fund of knowledge think that this is the whole purpose of Vedic wisdom. It is very difficult for such inexperienced persons to be situated in the determined action of Kåñëa consciousness. As fools are attached to the flowers of poisonous trees without knowing the results of such attractions, similarly, unenlightened men are attracted by such heavenly opulence and the sense enjoyment thereof."
+        },
+        {
+            "type": "normal",
+            "content": "\"In the karma-käëòa sections of the Vedas it is said that those who perform the four monthly penances become eligible to drink the soma-rasa beverage to become immortal and happy forever. Even on this earth some are very eager to have soma-rasa to become strong and fit to enjoy sense gratification. Such persons have no faith in liberation from material bondage, and they are very much attached to the pompous ceremonies of Vedic sacrifices. They are generally sensual, and they do not want anything other than the heavenly pleasures of life. It is understood that there are gardens called Nandana-känana, in which there is good opportunity for association with angelic, beautiful women and having a profuse supply of soma-rasa wine. Such bodily happiness is certainly sensual; therefore there are those who are purely attached to material, temporary happiness, as lords of the material world.\""
+        },
+        {
+            "type": "normal",
+            "content": "The significant point in this verse is that such bewildered materialists who have become attracted to the materialistic portions of the Vedas (muhyanty ämnäya-vädinaù) desire to ignore the supreme proprietorship of the Personality of Godhead, who is the supreme enjoyer (bhoktäraà yajïa-tapasäm , sthänäd bhrañöäù patanty adhaù: such persons inevitably fall from their position into a degraded condition of life. As confirmed in this verse by the word muhyanti, they fall into the darkness of ignorance. Sometimes such pompous persons even present themselves as gurus. However, Bhaktisiddhänta Sarasvaté Öhäkura has pointed out that they are actually laghu, or flimsy, rather than guru, or heavy with Vedic knowledge. It is one's ultimate duty to oneself (svärtha-gati) and to the Personality of Godhead to give up all materialistic activities characterized by karma and jïäna and surrender fully at the lotus feet of the Lord. Only the most unfortunate person will consider that there is a higher pleasure than ecstatic surrender at the lotus feet of Gokulänanda, the Personality of Godhead."
+        }
+    ]
+}
+

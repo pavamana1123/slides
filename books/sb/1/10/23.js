@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/10/23",
+        "prevId": "sb/1/10/22",
+        "nextId": "sb/1/10/24"
+    },
+    "verses": [
+        {
+            "roman": "sa vä ayaà yat padam atra sürayo\njitendriyä nirjita-mätariçvanaù\npaçyanti bhakty-utkalitämalätmanä\nnanv eña sattvaà parimärñöum arhati\n"
+        }
+    ],
+    "synonyms": "saù—He; vai—by providence; ayam—this; yat—that which; padam atra—here is the same Personality of Godhead, Çré Kåñëa; sürayaù—great devotees; jita-indriyäù—who have overcome the influence of the senses; nirjita—thoroughly controlled; mätariçvanaù—life; paçyanti—can see; bhakti—by dint of devotional service; utkalita—developed; amala-ätmanä—those whose minds are thoroughly cleansed; nanu eñaù—certainly by this only; sattvam—existence; parimärñöum—for purifying the mind completely; arhati—deserve.",
+    "translation": "Here is the same Supreme Personality of Godhead whose transcendental form is experienced by the great devotees who are completely cleansed of material consciousness by dint of rigid devotional service and full control of life and the senses. And that is the only way to purify existence.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "As it is stated in Bhagavad-gétä, the Lord can be known in His real nature by dint of pure devotional service only. So it is stated here that only the great devotees of the Lord who are able to clear the mind of all material dust by rigid devotional service can experience the Lord as He is. Jitendriya means one who has full control over the senses. The senses are active parts of the body, and their activities cannot be stopped. The artificial means of the yogic processes to make the senses inactive has proved to be abject failure, even in the case of great yogés like Viçvämitra Muni. Viçvämitra Muni controlled the senses by yogic trance, but when he happened to meet Menakä (a heavenly society woman), he became a victim of sex, and the artificial way of controlling the senses failed. But in the case of a pure devotee, the senses are not at all artificially stopped from doing anything, but they are given different good engagements. When the senses are engaged in more attractive activities, there is no chance of their being attracted by any inferior engagements. In the Bhagavad-gétä it is said that the senses can be controlled only by better engagements. Devotional service necessitates purifying the senses or engaging them in the activities of devotional service. Devotional service is not inaction. Anything done in the service of the Lord becomes at once purified of its material nature. The material conception is due to ignorance only. There is nothing beyond Väsudeva. The Väsudeva conception gradually develops in the heart of the learned after a prolonged acceleration of the receptive organs. But the process ends in the knowledge of accepting Väsudeva as all in all. In the case of devotional service, this very same method is accepted from the very beginning, and by the grace of the Lord all factual knowledge becomes revealed in the heart of a devotee due to dictation by the Lord from within. Therefore controlling the senses by devotional service is the only and easiest means."
+        }
+    ]
+}
+

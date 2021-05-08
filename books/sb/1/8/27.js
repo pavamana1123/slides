@@ -1,0 +1,37 @@
+var text = {
+    "info": {
+        "id": "sb/1/8/27",
+        "prevId": "sb/1/8/26",
+        "nextId": "sb/1/8/28"
+    },
+    "verses": [
+        {
+            "roman": "namo 'kiïcana-vittäya\nnivåtta-guëa-våttaye\nätmärämäya çäntäya\nkaivalya-pataye namaù\n"
+        }
+    ],
+    "synonyms": "namaù—all obeisances unto You; akiïcana-vittäya—unto the property of the materially impoverished; nivåtta—completely transcendental to the actions of the material modes; guëa—material modes; våttaye—affection; ätma-ärämäya—one who is self-satisfied; çäntäya—the most gentle; kaivalya-pataye—unto the master of the monists; namaù—bowing down.",
+    "translation": "My obeisances are unto You, who are the property of the materially impoverished. You have nothing to do with the actions and reactions of the material modes of nature. You are self-satisfied, and therefore You are the most gentle and are master of the monists.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "A living being is finished as soon as there is nothing to possess. Therefore a living being cannot be, in the real sense of the term, a renouncer. A living being renounces something for gaining something more valuable. A student sacrifices his childish proclivities to gain better education. A servant gives up his job for a better job. Similarly, a devotee renounces the material world not for nothing but for something tangible in spiritual value. Çréla Rüpa Gosvämé, Sanätana Gosvämé and Çréla Raghunätha däsa Gosvämé and others gave up their worldly pomp and prosperity for the sake of the service of the Lord. They were big men in the worldly sense. The Gosvämés were ministers in the government service of Bengal, and Çréla Raghunätha däsa Gosvämé was the son of a big zamindar of his time. But they left everything to gain something superior to what they previously possessed. The devotees are generally without material prosperity, but they have a very secret treasure-house in the lotus feet of the Lord. There is a nice story about Çréla Sanätana Gosvämé. He had a touchstone with him, and this stone was left in a pile of refuse. A needy man took it, but later on wondered why the valuable stone was kept in such a neglected place. He therefore asked him for the most valuable thing, and then he was given the holy name of the Lord. Akiïcana means one who has nothing to give materially. A factual devotee, or mahätmä, does not give anything material to anyone because he has already left all material assets. He can, however, deliver the supreme asset, namely the Personality of Godhead, because He is the only property of a factual devotee. The touchstone of Sanätana Gosvämé, which was thrown in the rubbish, was not the property of the Gosvämé, otherwise it would not have been kept in such a place. This specific example is given for the neophyte devotees just to convince them that material hankerings and spiritual advancement go ill together. Unless one is able to see everything as spiritual in relation with the Supreme Lord, one must always distinguish between spirit and matter. A spiritual master like Çréla Sanätana Gosvämé, although personally able to see everything as spiritual, set this example for us only because we have no such spiritual vision."
+        },
+        {
+            "type": "normal",
+            "content": "Advancement of material vision or material civilization is a great stumbling block for spiritual advancement. Such material advancement entangles the living being in the bondage of a material body followed by all sorts of material miseries. Such material advancement is called anartha, or things not wanted. Actually this is so. In the present context of material advancement one uses lipstick at a cost of fifty cents, and there are so many unwanted things which are all products of the material conception of life. By diverting attention to so many unwanted things, human energy is spoiled without achievement of spiritual realization, the prime necessity of human life. The attempt to reach the moon is another example of spoiling energy because even if the moon is reached, the problems of life will not be solved. The devotees of the Lord are called akiïcanas because they have practically no material assets. Such material assets are all products of the three modes of material nature. They foil spiritual energy, and thus the less we possess such products of material nature, the more we have a good chance for spiritual progress."
+        },
+        {
+            "type": "normal",
+            "content": "The Supreme Personality of Godhead has no direct connection with material activities. All His acts and deeds, which are exhibited even in this material world, are spiritual and without affection for the modes of material nature. In the Bhagavad-gétä the Lord says that all His acts, even His appearance and disappearance in and out of the material world, are transcendental, and one who knows this perfectly shall not take his birth again in this material world, but will go back to Godhead."
+        },
+        {
+            "type": "normal",
+            "content": "The material disease is due to hankering after and lording it over material nature. This hankering is due to an interaction of the three modes of nature, and neither the Lord nor the devotees have attachment for such false enjoyment. Therefore, the Lord and the devotees are called nivåtta-guëa-våtti. The perfect nivåtta-guëa-våtti is the Supreme Lord because He never becomes attracted by the modes of material nature, whereas the living beings have such a tendency. Some of them are entrapped by the illusory attraction of material nature."
+        },
+        {
+            "type": "normal",
+            "content": "Because the Lord is the property of the devotees, and the devotees are the property of the Lord reciprocally, the devotees are certainly transcendental to the modes of material nature. That is a natural conclusion. Such unalloyed devotees are distinct from the mixed devotees who approach the Lord for mitigation of miseries and poverty or because of inquisitiveness and speculation. The unalloyed devotees and the Lord are transcendentally attached to one another. For others, the Lord has nothing to reciprocate, and therefore He is called ätmäräma, self-satisfied. Self-satisfied as He is, He is the master of all monists who seek to merge into the existence of the Lord. Such monists merge within the personal effulgence of the Lord called the brahmajyoti, but the devotees enter into the transcendental pastimes of the Lord, which are never to be misunderstood as material."
+        }
+    ]
+}
+

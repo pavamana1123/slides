@@ -1,0 +1,29 @@
+var text = {
+    "info": {
+        "id": "sb/3/26/72",
+        "prevId": "sb/3/26/71",
+        "nextId": "sb/3/27/1"
+    },
+    "verses": [
+        {
+            "roman": "tam asmin pratyag-ätmänaà\ndhiyä yoga-pravåttayä\nbhaktyä viraktyä jïänena\nvivicyätmani cintayet\n"
+        }
+    ],
+    "synonyms": "tam—upon Him; asmin—in this; pratyak-ätmänam—the Supersoul; dhiyä—with the mind; yoga-pravåttayä—engaged in devotional service; bhaktyä—through devotion; viraktyä—through detachment; jïänena—through spiritual knowledge; vivicya—considering carefully; ätmani—in the body; cintayet—one should contemplate.",
+    "translation": "Therefore, through devotion, detachment and advancement in spiritual knowledge acquired through concentrated devotional service, one should contemplate that Supersoul as present in this very body although simultaneously apart from it.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "One can realize the Supersoul within oneself. He is within one's body but apart from the body, or transcendental to the body. Although sitting in the same body as the individual soul, the Supersoul has no affection for the body, whereas the individual soul does. One has to detach himself, therefore, from this material body, by discharging devotional service. It is clearly mentioned here (bhaktyä) that one has to execute devotional service to the Supreme. As it is stated in the First Canto, Second Chapter, of Çrémad-Bhägavatam , väsudeve bhagavati bhakti-yogaù prayojitaù. When Väsudeva, the all-pervading Viñëu, the Supreme Personality of Godhead, is served in completely pure devotion, detachment from the material world immediately begins. The purpose of Säìkhya is to detach oneself from material contamination. This can be achieved simply by devotional service to the Supreme Personality of Godhead."
+        },
+        {
+            "type": "normal",
+            "content": "When one is detached from the attraction of material prosperity, one can actually concentrate his mind upon the Supersoul. As long as the mind is distracted towards the material, there is no possibility of concentrating one's mind and intelligence upon the Supreme Personality of Godhead or His partial representation, Supersoul. In other words, one cannot concentrate one's mind and energy upon the Supreme unless one is detached from the material world. Following detachment from the material world, one can actually attain transcendental knowledge of the Absolute Truth. As long as one is entangled in sense enjoyment, or material enjoyment, it is not possible to understand the Absolute Truth. This is also confirmed in Bhagavad-gétä . One who is freed from material contamination is joyful and can enter into devotional service, and by devotional service he can be liberated."
+        },
+        {
+            "type": "normal",
+            "content": "In the Çrémad-Bhägavatam, First Canto, it is stated that one becomes joyful by discharging devotional service. In that joyful attitude, one can understand the science of God, or Kåñëa consciousness; otherwise it is not possible. The analytical study of the elements of material nature and the concentration of the mind upon the Supersoul are the sum and substance of the Säìkhya philosophical system. The perfection of this säìkhya-yoga culminates in devotional service unto the Absolute Truth."
+        }
+    ]
+}
+

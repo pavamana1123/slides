@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/3/21/20",
+        "prevId": "sb/3/21/19",
+        "nextId": "sb/3/21/21"
+    },
+    "verses": [
+        {
+            "roman": "naitad batädhéça padaà tavepsitaà\nyan mäyayä nas tanuñe bhüta-sükñmam\nanugrahäyästv api yarhi mäyayä\nlasat-tulasyä bhagavän vilakñitaù\n"
+        }
+    ],
+    "synonyms": "na—not; etat—this; bata—indeed; adhéça—O Lord; padam—material world; tava—Your; épsitam—desire; yat—which; mäyayä—by Your external energy; naù—for us; tanuñe—You manifest; bhüta-sükñmam—the elements, gross and subtle; anugrahäya—for bestowing mercy; astu—let it be; api—also; yarhi—when; mäyayä—through Your causeless mercy; lasat—splendid; tulasyä—with a wreath of tulasé leaves; bhagavän—the Supreme Personality of Godhead; vilakñitaù—is perceived.",
+    "translation": "My dear Lord, although it is not Your desire, You manifest this creation of gross and subtle elements just for our sensual satisfaction. Let Your causeless mercy be upon us, for You have appeared before us in Your eternal form, adorned with a splendid wreath of tulasé leaves.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "It is clearly stated here that the material world is not created by the personal will of the Supreme Lord; it is created by His external energy because the living entities want to enjoy it. This material world is not created for those who do not want to enjoy sense gratification, who constantly remain in transcendental loving service and who are eternally Kåñëa conscious. For them, the spiritual world is eternally existing, and they enjoy there. Elsewhere in the Çrémad-Bhägavatam it is stated that for those who have taken shelter of the lotus feet of the Supreme Personality of Godhead, this material world is useless; because this material world is full of danger at every step, it is not meant for the devotees but for living entities who want to lord it over the material energy at their own risk. Kåñëa is so kind that He allows the sense-enjoying living entities a separate world created by Him to enjoy as they like, yet at the same time He appears in His personal form. The Lord unwillingly creates this material world, but He descends in His personal form or sends one of His reliable sons or a servant or a reliable author like Vyäsadeva to give instruction. He Himself also instructs in His speeches of Bhagavad-gétä. This propaganda work goes on side by side with the creation to convince the misguided living entities who are rotting in this material world to come back to Him and surrender unto Him. Therefore the last instruction of Bhagavad-gétä is this: \"Give up all your manufactured engagements in the material world and just surrender unto Me. I shall protect you from all sinful reactions.\""
+        }
+    ]
+}
+

@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/22/46",
+        "prevId": "sb/11/22/45",
+        "nextId": "sb/11/22/47"
+    },
+    "verses": [
+        {
+            "roman": "mä svasya karma-béjena\njäyate so 'py ayaà pumän\nmriyate vämaro bhräntyä\nyathägnir däru-saàyutaù\n"
+        }
+    ],
+    "synonyms": "mä—does not; svasya—of the self; karma-béjena—by the seed of his activities; jäyate—take birth; saù—he; api—indeed; ayam—this; pumän—personality; mriyate—dies; vä—or; amaraù—immortal; bhräntyä—because of illusion; yathä—as; agniù—fire; däru—with wood; saàyutaù—joined.",
+    "translation": "A person does not actually take birth out of the seed of past activities, nor, being immortal, does he die. By illusion the living being appears to be born and to die, just as fire in connection with firewood appears to begin and then cease to exist.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The element fire exists perpetually within the material creation, but in connection with a particular piece of wood fire apparently comes into existence and ceases to exist. Similarly, the living entity is eternal, but in connection with a particular body apparently takes birth and dies. The reactions of karma thus impose an illusory suffering or enjoyment upon the living entity, but they do not cause the entity himself to change his eternal nature. In other words, karma represents a cycle of illusion in which each illusory activity produces another. Kåñëa consciousness stops this cycle of karma by engaging the living being in spiritual activities in the loving service of the Lord. By such Kåñëa consciousness one can escape the illusory chain of fruitive reactions."
+        }
+    ]
+}
+

@@ -1,0 +1,41 @@
+var text = {
+    "info": {
+        "id": "sb/4/28/63",
+        "prevId": "sb/4/28/62",
+        "nextId": "sb/4/28/64"
+    },
+    "verses": [
+        {
+            "roman": "yathä puruña ätmänam\nekam ädarça-cakñuñoù\ndvidhäbhütam avekñeta\ntathaiväntaram ävayoù\n"
+        }
+    ],
+    "synonyms": "yathä—as; puruñaù—the living entity; ätmänam—his body; ekam—one; ädarça—in a mirror; cakñuñoù—by the eyes; dvidhä-äbhütam—existing as two; avekñeta—sees; tathä—similarly; eva—certainly; antaram—difference; ävayoù—between ourselves.",
+    "translation": "As a person sees the reflection of his body in a mirror to be one with himself and not different, whereas others actually see two bodies, so in our material condition, in which the living being is affected and yet not affected, there is a difference between God and the living entity.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Being affected by the conditioning of matter, Mäyävädé philosophers cannot see the difference between the Supreme Lord and the living entity. When the sun is reflected in a pot of water, the sun knows that there is no difference between himself and the reflected sun in the water. Those in ignorance, however, perceive that there are many small suns reflected in each and every pot. As far as the brilliance is concerned, there is brilliance both in the original sun and in the reflections, but the reflections are small, whereas the original sun is very large. Vaiñëava philosophers conclude that the living entity is simply a small sample of the original Supreme Personality of Godhead. Qualitatively, God and the living entities are one, but quantitatively the living entities are small fragments of the Supreme Personality of Godhead. The Supreme Lord is full, powerful and opulent. In the previous verse, the Lord says, \"My dear friend, you and I are not different.\" This nondifference refers to qualitative oneness, for it was not necessary for the Paramätmä, the Supreme Personality, to remind the conditioned soul that he is not one in quantity. The self-realized soul never thinks that he and the Supreme Personality of Godhead are one in every respect. Although he and the Supreme Personality of Godhead are one in quality, the living entity is prone to forget his spiritual identity, whereas the Supreme Personality never forgets. This is the difference between lipta and alipta. The Supreme Personality of Godhead is eternally alipta, uncontaminated by the external energy. The conditioned soul, however, being in contact with material nature, forgets his real identity; therefore when he sees himself in the conditioned state, he identifies himself with the body. For the Supreme Personality of Godhead, however, there is no difference between the body and the soul. He is completely soul; He has no material body. Although the Supersoul, Paramätmä, and the individual soul are both within the body, the Supersoul is devoid of designation, whereas the conditioned soul is designated by his particular type of body. The Supersoul is called antaryämé, and He is extensive. This is confirmed in Bhagavad-gétä . Kñetra-jïaà cäpi mäà viddhi sarva-kñetreñu bhärata: \"O scion of Bharata, you should understand that I am also the knower in all bodies.\""
+        },
+        {
+            "type": "normal",
+            "content": "The Supersoul is present in everyone's body, whereas the individual soul is conditioned in one particular type of body. The individual soul cannot understand what is taking place in another's body, but the Supersoul knows very well what is happening in all bodies. In other words, the Supersoul is always present in His full spiritual position, whereas the individual soul is prone to forget himself. Nor is the individual soul present everywhere. Generally in his conditioned state the individual soul cannot understand his relationship with the Supersoul, but sometimes, when he is free from all conditional existence, he can see the real difference between the Supersoul and himself. When the Supersoul tells the conditioned soul, \"You and I are one and the same,\" it is to remind the conditioned soul of his spiritual identity as being qualitatively one. In the Third Canto of Çrémad-Bhägavatam , it is said:"
+        },
+        {
+            "type": "verse",
+            "content": "yatholmukäd visphuliìgäddhümäd väpi sva-sambhavät\napy ätmatvenäbhimatädyathägniù påthag ulmukät"
+        },
+        {
+            "type": "normal",
+            "content": "Fire has different features. There is flame, the sparks and the smoke. Although these are one in quality, there is still a difference between the fire, the flame, the spark and the smoke. The living entity becomes conditioned, but the Supreme Personality of Godhead is different because He does not become conditioned at any point. In the Vedas it is stated: ätmä tathä påthag drañöä bhagavän brahma-saàjïitaù. Ätmä is the individual soul as well as the Supreme Personality of Godhead, who is the seer of everything. Although both are spirit, there is always a difference. In the småti it is also said: yathägneù kñudrä visphuliìgä vyuccaranti. Just as sparks manifest in a large fire, similarly the small individual souls are present in the big spiritual flame. In Bhagavad-gétä  Lord Kåñëa says, mat-sthäni sarva-bhütäni na cähaà teñv avasthitaù: \"All beings are in Me, but I am not in them.\" Although all living beings are resting in Him, as small fiery sparks rest on a large flame, both are differently situated. Similarly, in the Viñëu Puräëa it is said:"
+        },
+        {
+            "type": "verse",
+            "content": "eka-deça-sthitasyägnerjyotsnä vistäriëé yathä\nparasya brahmaëaù çaktistathedam akhilaà jagat"
+        },
+        {
+            "type": "normal",
+            "content": "\"Fire is situated in one place, but it distributes heat and light. Similarly, the Supreme Personality of Godhead is distributing His energies in different ways.\" The living entity is but one of these energies (marginal energy). The energy and the energetic are one in one sense, but they are differently situated as energy and the energetic. Similarly, the sac-cid-änanda form confirmed in Brahma-saàhitä (éçvaraù paramaù kåñëaù sac-cid-änanda-vigrahaù (BS 5.1)) is different from that of the living entity in both his conditioned and liberated states. Only atheists consider the living entity and the Personality of Godhead equal in all respects. Caitanya Mahäprabhu therefore says, mäyävädi-bhäñya çunile haya sarva-näça: \"If one follows the instructions of Mäyävädé philosophers and believes that the Supreme Personality of Godhead and the individual soul are one, his understanding of real philosophy is forever doomed.\""
+        }
+    ]
+}
+

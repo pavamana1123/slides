@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/1/48",
+        "prevId": "sb/10/1/47",
+        "nextId": "sb/10/1/49-50"
+    },
+    "verses": [
+        {
+            "roman": "måtyur buddhimatäpohyo\nyävad buddhi-balodayam\nyady asau na nivarteta\nnäparädho 'sti dehinaù\n"
+        }
+    ],
+    "synonyms": "måtyuù—death; buddhi-matä—by an intelligent person; apohyaù—should be avoided; yävat—as long as; buddhi-bala-udayam—intelligence and bodily strength are present; yadi—if; asau—that (death); na nivarteta—cannot be checked; na—not; aparädhaù—offense; asti—there is; dehinaù—of the person in danger of death.",
+    "translation": "As long as he has intelligence and bodily strength, an intelligent person must try to avoid death. This is the duty of every embodied person. But if death cannot be avoided in spite of one's endeavors, a person facing death commits no offense.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "It is natural for a person facing untimely death to try his best to save himself. This is one's duty. Although death is sure, everyone should try to avoid it and not meet death without opposition because every living soul is by nature eternal. Because death is a punishment imposed in the condemned life of material existence, the Vedic culture is based on avoiding death (tyaktvä dehaà punar janma naiti ). Everyone should try to avoid death and rebirth by cultivating spiritual life and should not submit to death without struggling to survive. One who is not trying to stop death is not an intelligent human being. Because Devaké was face to face with imminent death, it was Vasudeva's duty to save her, as he was trying his best to do. He therefore considered another way to approach Kaàsa so that Devaké would be saved."
+        }
+    ]
+}
+

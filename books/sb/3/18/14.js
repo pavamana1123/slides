@@ -1,0 +1,16 @@
+var text = {
+    "info": {
+        "id": "sb/3/18/14",
+        "prevId": "sb/3/18/13",
+        "nextId": "sb/3/18/15"
+    },
+    "verses": [
+        {
+            "roman": "såjann amarñitaù çväsän\nmanyu-pracalitendriyaù\näsädya tarasä daityo\ngadayä nyahanad dharim\n"
+        }
+    ],
+    "synonyms": "såjan—giving out; amarñitaù—being angry; çväsän—breaths; manyu—by wrath; pracalita—agitated; indriyaù—whose senses; äsädya—attacking; tarasä—quickly; daityaù—the demon; gadayä—with his mace; nyahanat—struck; harim—Lord Hari.",
+    "translation": "Hissing indignantly, all his senses shaken by wrath, the demon quickly sprang upon the Lord and dealt Him a blow with his powerful mace.",
+    "purport": null
+}
+

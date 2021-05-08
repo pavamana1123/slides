@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/11/9/27",
+        "prevId": "sb/11/9/26",
+        "nextId": "sb/11/9/28"
+    },
+    "verses": [
+        {
+            "roman": "jihvaikato 'mum apakarñati karhi tarñä\nçiçno 'nyatas tvag udaraà çravaëaà kutaçcit\nghräëo 'nyataç capala-dåk kva ca karma-çaktir\nbahvyaù sapatnya iva geha-patià lunanti\n"
+        }
+    ],
+    "synonyms": "jihvä—the tongue; ekataù—on one side; amum—the body or the conditioned soul who identifies with the body; apakarñati—drags away; karhi—sometimes; tarñä—thirst; çiçnaù—the genitals; anyataù—on another side; tvak—the sense of touch; udaram—the belly; çravaëam—the ears; kutaçcit—from somewhere else; ghräëaù—the sense of smell; anyataù—from another side; capala-dåk—the fickle eyes; kva ca—somewhere else; karma-çaktiù—the other active organs and limbs of the body; bahvyaù—many; sa-patnyaù—co-wives; iva—like; geha-patim—the head of the household; lunanti—pull in many directions.",
+    "translation": "A man who has many wives is constantly harassed by them. He is responsible for their maintenance, and thus all the ladies constantly pull him in different directions, each struggling for her self-interest. Similarly, the material senses harass the conditioned soul, pulling him in many different directions at once. On one side the tongue is pulling him to arrange tasty food; then thirst drags him to get a suitable drink. Simultaneously the sex organs clamor for satisfaction, and the sense of touch demands soft, sensuous objects. The belly harasses him until it is filled, the ears demand to hear pleasing sounds, the sense of smell hankers for pleasant aromas, and the fickle eyes clamor for pleasing sights. Thus the senses, organs and limbs, all desiring satisfaction, pull the living entity in many directions.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Çréla Viçvanätha Cakravarté Öhäkura mentions that after understanding this verse one should merely offer, without attachment, the bare necessities to the guru of one's body. One should keep one's body fit and working in the simplest possible way, and that is the sum and substance of service to this so-called guru. If one desires to faithfully serve the body, one should consider that the body pulls the consciousness of the conditioned soul in many ways at once, and thus for the servant of the body there is no possibility of understanding God or even of becoming peaceful."
+        }
+    ]
+}
+

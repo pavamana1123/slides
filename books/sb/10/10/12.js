@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/10/10/12",
+        "prevId": "sb/10/10/11",
+        "nextId": "sb/10/10/13"
+    },
+    "verses": [
+        {
+            "roman": "evaà sädhäraëaà deham\navyakta-prabhaväpyayam\nko vidvän ätmasät kåtvä\nhanti jantün åte 'sataù\n"
+        }
+    ],
+    "synonyms": "evam—in this way; sädhäraëam—common property; deham—the body; avyakta—from unmanifested nature; prabhava—manifested in that way; apyayam—and again merged with the unmanifested (\"for dust thou art, and unto dust shalt thou return\"); kaù—who is that person; vidvän—one who is actually in knowledge; ätmasät kåtvä—claiming as his own; hanti—kills; jantün—poor animals; åte—except; asataù—rascals who have no knowledge, no clear understanding.",
+    "translation": "This body, after all, is produced by the unmanifested nature and again annihilated and merged in the natural elements. Therefore, it is the common property of everyone. Under the circumstances, who but a rascal claims this property as his own and while maintaining it commits such sinful activities as killing animals just to satisfy his whims? Unless one is a rascal, one cannot commit such sinful activities.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Atheists do not believe in the existence of the soul. Nonetheless, unless one is very cruel, why should one kill animals unnecessarily? The body is a manifestation of a combination of matter. In the beginning it was nothing, but by a combination of matter it has come into existence. Then again, when the combination is dismantled, the body will no longer exist. In the beginning it was nothing, and in the end it will be nothing. Why then should one commit sinful activities when it is manifested? It is not possible for anyone to do this unless he is rascal number one."
+        }
+    ]
+}
+

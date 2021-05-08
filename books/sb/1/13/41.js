@@ -1,0 +1,25 @@
+var text = {
+    "info": {
+        "id": "sb/1/13/41",
+        "prevId": "sb/1/13/40",
+        "nextId": "sb/1/13/42"
+    },
+    "verses": [
+        {
+            "roman": "närada uväca\nmä kaïcana çuco räjan\nyad éçvara-vaçaà jagat\nlokäù sapälä yasyeme\nvahanti balim éçituù\nsa saàyunakti bhütäni\nsa eva viyunakti ca\n"
+        }
+    ],
+    "synonyms": "näradaù uväca—Närada said; mä—never; kaïcana—by all means; çucaù—do you lament; räjan—O King; yat—because; éçvara-vaçam—under the control of the Supreme Lord; jagat—world; lokäù—all living beings; sa-päläù—including their leaders; yasya—whose; ime—all these; vahanti—do bear; balim—means of worship; éçituù—for being protected; saù—He; saàyunakti—gets together; bhütäni—all living beings; saù—He; eva—also; viyunakti—disperses; ca—and.",
+    "translation": "Çré Närada said: O pious King, do not lament for anyone, for everyone is under the control of the Supreme Lord. Therefore all living beings and their leaders carry on worship to be well protected. It is He only who brings them together and disperses them.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Every living being, either in this material world or in the spiritual world, is under the control of the Supreme Lord, the Personality of Godhead. Beginning from Brahmäjé, the leader of this universe, down to the insignificant ant, all are abiding by the order of the Supreme Lord. Thus the constitutional position of the living being is subordination under the control of the Lord. The foolish living being, especially man, artificially rebels against the law of the Supreme and thus becomes chastised as an asura, or lawbreaker. A living being is placed in a particular position by the order of the Supreme Lord, and he is again shifted from that place by the order of the Supreme Lord or His authorized agents. Brahmä, Çiva, Indra, Candra, Mahäräja Yudhiñöhira or, in modern history, Napoleon, Akbar, Alexander, Gandhi, Shubhash and Nehru all are servants of the Lord, and they are placed in and removed from their respective positions by the supreme will of the Lord. None of them is independent. Even though such men or leaders rebel so as not to recognize the supremacy of the Lord, they are put under still more rigorous laws of the material world by different miseries. Only the foolish man, therefore, says that there is no God. Mahäräja Yudhiñöhira was being convinced of this naked truth because he was greatly overwhelmed by the sudden departure of his old uncles and aunt. Mahäräja Dhåtaräñöra was placed in that position according to his past deeds; he had already suffered or enjoyed the benefits accrued to him in the past, but due to his good luck, somehow or other he had a good younger brother, Vidura, and by his instruction he left to achieve salvation by closing all accounts in the material world."
+        },
+        {
+            "type": "normal",
+            "content": "Ordinarily one cannot change the course of one's due happiness and distress by plan. Everyone has to accept them as they come under the subtle arrangement of käla, or invincible time. There is no use trying to counteract them. The best thing is, therefore, that one should endeavor to achieve salvation, and this prerogative is given only to man because of his developed condition of mental activities and intelligence. Only for man are there different Vedic instructions for attainment of salvation during the human form of existence. One who misuses this opportunity of advanced intelligence is verily condemned and put into different types of miseries, either in this present life or in the future. That is the way the Supreme controls everyone."
+        }
+    ]
+}
+

@@ -1,0 +1,25 @@
+var text = {
+    "info": {
+        "id": "sb/4/8/46",
+        "prevId": "sb/4/8/45",
+        "nextId": "sb/4/8/47"
+    },
+    "verses": [
+        {
+            "roman": "taruëaà ramaëéyäìgam\naruëoñöhekñaëädharam\npraëatäçrayaëaà nåmëaà\nçaraëyaà karuëärëavam\n"
+        }
+    ],
+    "synonyms": "taruëam—youthful; ramaëéya—attractive; aìgam—all parts of the body; aruëa-oñöha—lips pinkish like the rising sun; ékñaëa-adharam—eyes of the same nature; praëata—one who is surrendered; äçrayaëam—shelter of the surrendered; nåmëam—transcendentally pleasing in all respects; çaraëyam—the person unto whom it is just worthy to surrender; karuëä—merciful like; arëavam—the ocean.",
+    "translation": "Närada Muni continued: The Lord's form is always youthful. Every limb and every part of His body is properly formed, free from defect. His eyes and lips are pinkish like the rising sun. He is always prepared to give shelter to the surrendered soul, and anyone so fortunate as to look upon Him feels all satisfaction. The Lord is always worthy to be the master of the surrendered soul, for He is the ocean of mercy.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Everyone has to surrender to someone superior. That is always the nature of our living condition. At the present moment we are trying to surrender to someone—either to society or to our nation, family, state or government. The surrendering process already exists, but it is never perfect because the person or institution unto whom we surrender is imperfect, and our surrender, having so many ulterior motives, is also imperfect. As such, in the material world no one is worthy to accept anyone's surrender, nor does anyone fully surrender to anyone else unless obliged to do so. But here the surrendering process is voluntary, and the Lord is worthy to accept the surrender. This surrender by the living entity occurs automatically as soon as he sees the beautiful youthful nature of the Lord."
+        },
+        {
+            "type": "normal",
+            "content": "The description given by Närada Muni is not imaginary. The form of the Lord is understood by the paramparä system. Mäyävädé philosophers say that we have to imagine the form of the Lord, but here Närada Muni does not say that. Rather, he gives the description of the Lord from authoritative sources. He is himself an authority, and he is able to go to Vaikuëöhaloka and see the Lord personally; therefore his description of the bodily features of the Lord is not imagination. Sometimes we give instructions to our students about the bodily features of the Lord, and they paint Him. Their paintings are not imaginary. The description is given through disciplic succession, just like that given by Närada Muni, who sees the Lord and describes His bodily features. Therefore, such descriptions should be accepted, and if they are painted, that is not imaginative painting."
+        }
+    ]
+}
+

@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/2/2/2",
+        "prevId": "sb/2/2/1",
+        "nextId": "sb/2/2/3"
+    },
+    "verses": [
+        {
+            "roman": "çäbdasya hi brahmaëa eña panthä\nyan nämabhir dhyäyati dhér apärthaiù\nparibhramaàs tatra na vindate 'rthän\nmäyämaye väsanayä çayänaù\n"
+        }
+    ],
+    "synonyms": "çäbdasya—of the Vedic sound; hi—certainly; brahmaëaù—of the Vedas; eñaù—these; panthäù—the way; yat—what is; nämabhiù—by different names; dhyäyati—ponders; dhéù—intelligence; apärthaiù—by meaningless ideas; paribhraman—wandering; tatra—there; na—never; vindate—enjoys; arthän—realities; mäyä-maye—in illusory things; väsanayä—by different desires; çayänaù—as if dreaming in sleep.",
+    "translation": "The way of presentation of the Vedic sounds is so bewildering that it directs the intelligence of the people to meaningless things like the heavenly kingdoms. The conditioned souls hover in dreams of such heavenly illusory pleasures, but actually they do not relish any tangible happiness in such places.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The conditioned soul is always engaged in laying out plans for happiness within the material world, even up to the end of the universal limit. He is not even satisfied with available amenities on this planet earth, where he has exploited the resources of nature to the best of his ability. He wants to go to the moon or the planet Venus to exploit resources there. But the Lord has warned us in the Bhagavad-gétä  about the worthlessness of all the innumerable planets of this universe, as well as those planets within other systems. There are innumerable universes and also innumerable planets in each of them. But none of them is immune to the chief miseries of material existence, namely the pangs of birth, the pangs of death, the pangs of old age and the pangs of disease. The Lord says that even the topmost planet, known as the Brahmaloka or Satyaloka, (and what to speak of other planets, like the heavenly planets) is not a happy land for residential purposes, due to the presence of material pangs, as above mentioned. Conditioned souls are strictly under the laws of fruitive activities, and as such they sometimes go up to Brahmaloka and again come down to Pätälaloka, as if they were unintelligent children on a merry-go-round. The real happiness is in the kingdom of God, where no one has to undergo the pangs of material existence. Therefore, the Vedic ways of fruitive activities for the living entities are misleading. One thinks of a superior way of life in this country or that, or on this planet or another, but nowhere in the material world can he fulfill his real desire of life, namely eternal life, full intelligence and complete bliss. Indirectly, Çréla Çukadeva Gosvämé affirms that Mahäräja Parékñit, in the last stage of life, should not desire to transfer himself to the so-called heavenly planets, but should prepare himself for going back home, back to Godhead. None of the material planets, nor the amenities available there for living conditions, is everlasting; therefore one must have a factual reluctance to enjoy such temporary happiness as they afford."
+        }
+    ]
+}
+

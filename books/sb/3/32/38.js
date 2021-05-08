@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/3/32/38",
+        "prevId": "sb/3/32/37",
+        "nextId": "sb/3/32/39"
+    },
+    "verses": [
+        {
+            "roman": "jévasya saàsåtér bahvér\navidyä-karma-nirmitäù\nyäsv aìga praviçann ätmä\nna veda gatim ätmanaù\n"
+        }
+    ],
+    "synonyms": "jévasya—of the living entity; saàsåtéù—courses of material existence; bahvéù—many; avidyä—in ignorance; karma—by work; nirmitäù—produced; yäsu—into which; aìga—My dear mother; praviçan—entering; ätmä—the living entity; na—not; veda—understands; gatim—the movement; ätmanaù—of himself.",
+    "translation": "There are varieties of material existence for the living entity according to the work he performs in ignorance or forgetfulness of his real identity. My dear mother, if anyone enters into that forgetfulness, he is unable to understand where his movements will end.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Once one enters into the continuation of material existence, it is very difficult to get out. Therefore the Supreme Personality of Godhead comes Himself or sends His bona fide representative, and He leaves behind scriptures like Bhagavad-gétä and Çrémad-Bhägavatam, so that the living entities hovering in the darkness of nescience may take advantage of the instructions, the saintly persons and the spiritual masters and thus be freed. Unless the living entity receives the mercy of the saintly persons, the spiritual master or Kåñëa, it is not possible for him to get out of the darkness of material existence; by his own endeavor it is not possible."
+        }
+    ]
+}
+

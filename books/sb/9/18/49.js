@@ -1,0 +1,29 @@
+var text = {
+    "info": {
+        "id": "sb/9/18/49",
+        "prevId": "sb/9/18/48",
+        "nextId": "sb/9/18/50"
+    },
+    "verses": [
+        {
+            "roman": "yasminn idaà viracitaà\nvyomnéva jaladävaliù\nnäneva bhäti näbhäti\nsvapna-mäyä-manorathaù\n"
+        }
+    ],
+    "synonyms": "yasmin—in whom; idam—this entire cosmic manifestation; viracitam—created; vyomni—in the sky; iva—just like; jalada-ävaliù—clouds; nänä iva—as if in different varieties; bhäti—is manifested; na äbhäti—is unmanifested; svapna-mäyä—illusion, like a dream; manaù-rathaù—created to be traversed by the chariot of the mind.",
+    "translation": "The Supreme Lord, Väsudeva, who created the cosmic manifestation, exhibits Himself as all-pervading, like the sky that holds clouds. And when the creation is annihilated, everything enters into the Supreme Lord, Viñëu, and varieties are no longer manifested.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "As stated by the Lord Himself in Bhagavad-gétä :"
+        },
+        {
+            "type": "verse",
+            "content": "bahünäà janmanäm antejïänavän mäà prapadyate\nväsudevaù sarvam itisa mahätmä sudurlabhaù"
+        },
+        {
+            "type": "normal",
+            "content": "\"After many births and deaths, he who is actually in knowledge surrenders unto Me, knowing Me to be the cause of all causes and all that is. Such a great soul is very rare.\" The Supreme Personality of Godhead, Väsudeva, is one with the Supreme Brahman, the Supreme Absolute Truth. Everything is in Him in the beginning, and at the end all manifestations enter into Him. He is situated in everyone's heart (sarvasya cähaà hådi sanniviñöaù ). All material manifestations, however, are temporary. The word svapna means \"dreams,\" mäyä means \"illusion,\" and manoratha means \"mental creations.\" Dreams, illusions and mental creations are temporary. Similarly, all material creation is temporary, but Väsudeva, the Supreme Personality of Godhead, is the eternal Absolute Truth."
+        }
+    ]
+}
+

@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/3/2/16",
+        "prevId": "sb/3/2/15",
+        "nextId": "sb/3/2/17"
+    },
+    "verses": [
+        {
+            "roman": "mäà khedayaty etad ajasya janma-\nviòambanaà yad vasudeva-gehe\nvraje ca väso 'ri-bhayäd iva svayaà\npuräd vyavätséd yad-ananta-véryaù\n"
+        }
+    ],
+    "synonyms": "mäm—to me; khedayati—gives me distress; etat—this; ajasya—of the unborn; janma—birth; viòambanam—bewildering; yat—that; vasudeva-gehe—in the home of Vasudeva; vraje—in Våndävana; ca—also; väsaù—inhabitation; ari—enemy; bhayät—because of fear; iva—as if; svayam—Himself; purät—from Mathurä Puré; vyavätsét—fled; yat—one who is; ananta-véryaù—unlimitedly powerful.",
+    "translation": "When I think of Lord Kåñëa—how He was born in the prison house of Vasudeva although He is unborn, how He went away from His father's protection to Vraja and lived there incognito out of fear of the enemy, and how, although unlimitedly powerful, He fled from Mathurä in fear—all these bewildering incidents give me distress.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Because Lord Çré Kåñëa is the original person from whom everything and everyone has emanated—ahaà sarvasya prabhavaù  (Vedänta-sütra 1.1.2)—nothing can be equal to or greater than Him. The Lord is supremely perfect, and whenever He enacts His transcendental pastimes as a son, a rival or an object of enmity, He plays the part so perfectly that even pure devotees like Uddhava are bewildered. For example, Uddhava knew perfectly well that Lord Çré Kåñëa is eternally existent and can neither die nor disappear for good, yet he lamented for Lord Kåñëa. All these events are perfect arrangements to give perfection to His supreme glories. It is for enjoyment's sake. When a father plays with his little son and the father lies down on the floor as if defeated by the son, it is just to give the little son pleasure, and nothing more. Because the Lord is all-powerful, it is possible for Him to adjust opposites such as birth and no birth, power and defeat, fear and fearlessness. A pure devotee knows very well how it is possible for the Lord to adjust opposite things, but he laments for the nondevotees who, not knowing the supreme glories of the Lord, think of Him as imaginary simply because there are so many apparently contradictory statements in the scriptures. Factually there is nothing contradictory; everything is possible when we understand the Lord as the Lord and not as one of us, with all our imperfection."
+        }
+    ]
+}
+

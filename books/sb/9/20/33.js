@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/9/20/33",
+        "prevId": "sb/9/20/32",
+        "nextId": "sb/9/20/34"
+    },
+    "verses": [
+        {
+            "roman": "sa saàräò loka-päläkhyam\naiçvaryam adhiräö çriyam\ncakraà cäskhalitaà präëän\nmåñety upararäma ha\n"
+        }
+    ],
+    "synonyms": "saù—he (Mahäräja Bharata); saàräö—the emperor; loka-päla-äkhyam—known as the ruler of all the lokas, or planets; aiçvaryam—such opulences; adhiräö—thoroughly in power; çriyam—kingdom; cakram—soldiers or orders; ca—and; askhalitam—without failure; präëän—life or sons and family; måñä—all false; iti—thus; upararäma—ceased to enjoy; ha—in the past.",
+    "translation": "As the ruler of the entire universe, Emperor Bharata had the opulences of a great kingdom and unconquerable soldiers. His sons and family had seemed to him to be his entire life. But finally he thought of all this as an impediment to spiritual advancement, and therefore he ceased from enjoying it.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "Mahäräja Bharata had incomparable opulence in sovereignty, soldiers, sons, daughters and everything for material enjoyment, but when he realized that all such material opulences were useless for spiritual advancement, he retired from material enjoyment. The Vedic civilization enjoins that after a certain age, following in the footsteps of Mahäräja Bharata, one should cease to enjoy material opulences and should take the order of vänaprastha."
+        }
+    ]
+}
+

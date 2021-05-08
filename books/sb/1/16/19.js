@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/16/19",
+        "prevId": "sb/1/16/18",
+        "nextId": "sb/1/16/20"
+    },
+    "verses": [
+        {
+            "roman": "dharma uväca\nkaccid bhadre 'nämayam ätmanas te\nvicchäyäsi mläyateñan mukhena\nälakñaye bhavatém antar-ädhià\ndüre bandhuà çocasi kaïcanämba\n"
+        }
+    ],
+    "synonyms": "dharmaù uväca—Dharma inquired; kaccit—whether; bhadre—madam; anämayam—quite hale and hearty; ätmanaù—self; te—unto you; vicchäyä asi—appear to be covered with the shadow of grief; mläyatä—which darkens; éñat—slightly; mukhena—by the face; älakñaye—you look; bhavatém—unto yourself; antarädhim—some disease within; düre—long distant; bandhum—friend; çocasi—thinking of; kaïcana—someone; amba—O mother.",
+    "translation": "Dharma [in the form of a bull] asked: Madam, are you not hale and hearty? Why are you covered with the shadow of grief? It appears by your face that you have become black. Are you suffering from some internal disease, or are you thinking of some relative who is away in a distant place?",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The people of the world in this age of Kali are always full of anxieties. Everyone is diseased with some kind of ailment. From the very faces of the people of this age, one can find out the index of the mind. Everyone feels the absence of his relative who is away from home. The particular symptom of the age of Kali is that no family is now blessed to live together. To earn a livelihood, the father lives at a place far away from the son, or the wife lives far away from the husband and so on. There are sufferings from internal diseases, separation from those near and dear, and anxieties for maintaining the status quo. These are but some important factors which make the people of this age always unhappy."
+        }
+    ]
+}
+

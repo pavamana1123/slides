@@ -1,0 +1,25 @@
+var text = {
+    "info": {
+        "id": "sb/2/5/2",
+        "prevId": "sb/2/5/1",
+        "nextId": "sb/2/5/3"
+    },
+    "verses": [
+        {
+            "roman": "yad rüpaà yad adhiñöhänaà\nyataù såñöam idaà prabho\nyat saàsthaà yat paraà yac ca\ntat tattvaà vada tattvataù\n"
+        }
+    ],
+    "synonyms": "yat—what; rüpam—the symptoms of manifestation; yat—what; adhiñöhänam—background; yataù—from where; såñöam—created; idam—this world; prabho—O my father; yat—in which; saàstham—conserved; yat—what; param—under control; yat—what are; ca—and; tat—of this; tattvam—the symptoms; vada—please describe; tattvataù—factually.",
+    "translation": "My dear father, please describe factually the symptoms of this manifest world. What is its background? How is it created? How is it conserved? And under whose control is all this being done?",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The inquiries by Närada Muni on the basis of factual cause and effect appear very reasonable. The atheists, however, put forward many self-made theories without any touch of cause and effect. The manifested world, as well as the spirit soul, is still unexplained by the godless atheists through the medium of experimental knowledge, although they have put forward many theories manufactured by their fertile brains. Contrary to such mental speculative theories of creation, however, Närada Muni wanted to know all the facts of creation in truth, and not by theories."
+        },
+        {
+            "type": "normal",
+            "content": "Transcendental knowledge regarding the soul and the Supersoul includes knowledge of the phenomenal world and the basis of its creation. In the phenomenal world three things are factually observed by any intelligent man: the living beings, the manifest world, and the ultimate control over them. The intelligent man can see that neither the living entity nor the phenomenal world are creations of chance. The symmetry of creation and its regulative actions and reactions suggests the plan of an intelligent brain behind them, and by genuine inquiry one may find out the ultimate cause with the help of one who knows them factually."
+        }
+    ]
+}
+

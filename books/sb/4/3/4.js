@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/4/3/4",
+        "prevId": "sb/4/3/3",
+        "nextId": "sb/4/3/5-7"
+    },
+    "verses": [
+        {
+            "roman": "tasmin brahmarñayaù sarve\ndevarñi-pitå-devatäù\näsan kåta-svastyayanäs\ntat-patnyaç ca sa-bhartåkäù\n"
+        }
+    ],
+    "synonyms": "tasmin—in that (sacrifice); brahma-åñayaù—the brahmarñis; sarve—all; devarñi—the devarñis; pitå—ancestors; devatäù—demigods; äsan—were; kåta-svasti-ayanäù—were very nicely decorated with ornaments; tat-patnyaù—their wives; ca—and; sa-bhartåkäù—along with their husbands.",
+    "translation": "While the sacrifice was being performed, many brahmarñis, great sages, ancestral demigods and other demigods, their wives all very nicely decorated with ornaments, attended from different parts of the universe.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "In any auspicious ceremony, such as a marriage ceremony, sacrificial ceremony or püjä ceremony, it is auspicious for married women to decorate themselves very nicely with ornaments, fine clothing and cosmetics. These are auspicious signs. Many heavenly women assembled with their husbands, the devarñis, demigods and räjarñis, in that great sacrifice named båhaspati-sava. It is specifically mentioned in this verse that they approached with their husbands, for when a woman is decorated nicely, her husband becomes more cheerful. The nice decorations, ornaments and dress of the wives of the demigods and sages and the cheerfulness of the demigods and sages themselves were all auspicious signs for the ceremony."
+        }
+    ]
+}
+

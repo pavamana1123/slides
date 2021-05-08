@@ -1,0 +1,21 @@
+var text = {
+    "info": {
+        "id": "sb/1/5/35",
+        "prevId": "sb/1/5/34",
+        "nextId": "sb/1/5/36"
+    },
+    "verses": [
+        {
+            "roman": "yad atra kriyate karma\nbhagavat-paritoñaëam\njïänaà yat tad adhénaà hi\nbhakti-yoga-samanvitam\n"
+        }
+    ],
+    "synonyms": "yat—whatever; atra—in this life or world; kriyate—does perform; karma—work; bhagavat—unto the Personality of Godhead; paritoñaëam—satisfaction of; jïänam—knowledge; yat tat—what is so called; adhénam—dependent; hi—certainly; bhakti-yoga—devotional; samanvitam—dovetailed with bhakti-yoga.",
+    "translation": "Whatever work is done here in this life for the satisfaction of the mission of the Lord is called bhakti-yoga, or transcendental loving service to the Lord, and what is called knowledge becomes a concomitant factor.",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "The general and popular notion is that by discharging fruitive work in terms of the direction of the scriptures one becomes perfectly able to acquire transcendental knowledge for spiritual realization. Bhakti-yoga is considered by some to be another form of karma. But factually bhakti-yoga is above both karma and jïäna. Bhakti-yoga is independent of jïäna or karma; on the other hand, jïäna and karma are dependent on bhakti-yoga. This kriyä-yoga or karma-yoga, as recommended by Çré Närada to Vyäsa, is specifically recommended because the principle is to satisfy the Lord. The Lord does not want His sons, the living beings, to suffer the threefold miseries of life. He desires that all of them come to Him and live with Him, but going back to Godhead means that one must purify himself from material infections. When work is performed, therefore, to satisfy the Lord, the performer becomes gradually purified from the material affection. This purification means attainment of spiritual knowledge. Therefore knowledge is dependent on karma, or work, done on behalf of the Lord. Other knowledge, being devoid of bhakti-yoga or satisfaction of the Lord, cannot lead one back to the kingdom of God, which means that it cannot even offer salvation, as already explained in connection with the stanza naiñkarmyam apy acyuta-bhäva-varjitam . The conclusion is that a devotee engaged in the unalloyed service of the Lord, specifically in hearing and chanting of His transcendental glories, becomes simultaneously spiritually enlightened by the divine grace, as confirmed in the Bhagavad-gétä."
+        }
+    ]
+}
+
