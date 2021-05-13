@@ -7,7 +7,6 @@
     background-color: black;
     color: yellow;
     font-weight: 700;
-    font-size: 70px;
     font-family: balaram;
 }
 
@@ -21,22 +20,32 @@
 }
 
 #slideEnclosure{
-    white-space: pre-line;
+    position: absolute;
     display: flex;
-    text-align: center;
     margin: auto;
-    width: 90%;
-    height: 70%;
-    max-height: 70%;
-    overflow-y: scroll;
-    padding: 2%;
+    text-align: center;
+    border: 2px solid #a0a0a0;
     border-radius: 15px;
     justify-content: center;
     align-items: center;
-    border: 3px solid white;
+    width: 95%;
+    height: 80%;
+    align-self: center;
+    top: 12.5%;
+    left: 0;
+    right: 0;
+    white-space: pre-line;
 }
 
-#slideEnclosure::-webkit-scrollbar {
+#slide{
+    position: relative;
+    font-size: 80px;
+    max-height: 100%;
+    overflow-y: scroll;
+    margin: 2%;
+}
+
+#slide::-webkit-scrollbar {
     display: none;
   }
 
@@ -49,4 +58,5 @@
     -webkit-transform: translateX(-50%);
     padding-top: 1%;
     width: 100%;
+    font-size: 70px;
 }
