@@ -24,30 +24,18 @@ function fit(txt){
 }
 
 function isOverflow(txt){
-    slideEl.textContent = txt
-    return slideEl.scrollHeight > slideEnclosureEl.getBoundingClientRect().height
+    ui.setSlide(txt)
+    return slideEl.scrollHeight > ui.slideElement.parent.getBoundingClientRect().height
 }
 
 function render(main,sub){
-    prepareSlides()
+    new Text(text).toSlides()
     setSlide(main,sub)
 }
 
 function setSlide(main,sub){
-
-
     slideEl.textContent = slides[main].content[sub]
     headingEl.textContent = slides[main].heading
     slideEl.setAttribute("main",main)
     slideEl.setAttribute("sub",sub)
 }
-
-function getHeading(){
-    var id = text.info.id
-    id = id.replace("sb/","Śrīmad-Bhāgavatam ")
-    id = id.replace("bg/","Bhagavad-gītā ")
-    id = id.replace("cc/","Sri Caitanya-caritamrta ")
-    id = id.replaceAll("/", ".")
-    return id
-}
-

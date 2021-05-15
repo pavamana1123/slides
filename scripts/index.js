@@ -1,8 +1,4 @@
-var slides
-var slideIndex=-1
-var slideEl = document.getElementById("slide")
-var slideEnclosureEl = document.getElementById("slideEnclosure")
-var headingEl = document.getElementById("heading")
+var ui = new UI(document.getElementById("slide"),document.getElementById("heading"))
 
 loadText(localStorage.id)
 
