@@ -1,4 +1,4 @@
-var slides=[]
+var slides
 var slideIndex=-1
 var slideEl = document.getElementById("slide")
 var slideEnclosureEl = document.getElementById("slideEnclosure")
