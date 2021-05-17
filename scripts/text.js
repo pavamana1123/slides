@@ -3,7 +3,7 @@ class Text {
         this.text = text
     }
 
-    toSlides(){
+    toSlides(ui){
         // prepare verse slides
         var s = [
             {
@@ -19,7 +19,7 @@ class Text {
         s.push(
             {
                 heading: "SYNONYMS",
-                content: !!this.text.synonyms ? fit(this.text.synonyms) : null
+                content: !!this.text.synonyms ? ui.fit(this.text.synonyms) : null
             }
         )
 
@@ -27,7 +27,7 @@ class Text {
         s.push(
             {
                 heading: "TRANSLATION",
-                content: !!this.text.translation ? fit(this.text.translation) : null
+                content: !!this.text.translation ? ui.fit(this.text.translation) : null
             }
         )
 
@@ -35,7 +35,7 @@ class Text {
         s.push(
             {
                 heading: "PURPORT",
-                content: !!this.text.purport ? fit(this.text.purport.map((p)=>{return p.content}).join("\n")) : null
+                content: !!this.text.purport ? ui.fit(this.text.purport.map((p)=>{return p.content}).join("\n")) : null
             }
         )
 
