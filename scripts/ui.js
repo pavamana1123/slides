@@ -1,15 +1,12 @@
 class UI {
     constructor(slideElement, headerElement){
         this.slideElement = slideElement
-        this.headingElement = headerElement
+        this.headerElement = headerElement
     }
 
     setSlideContent(content){
-        this.slideElement.textContent = content
-    }
-
-    setHeader(content){
-        this.headingElement.textContent = content
+        this.slideElement.textContent = content.slide
+        this.headerElement.textContent = content.heading
     }
 
     setSlides(slides){

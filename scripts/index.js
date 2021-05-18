@@ -4,6 +4,6 @@ var ui = new UI(document.getElementById("slide"),document.getElementById("headin
 loadText(localStorage.id)
 
 // handle key events
-document.addEventListener('keydown',handleKey)
+// document.addEventListener('keydown',handleKey)
 
 

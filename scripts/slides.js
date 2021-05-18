@@ -11,7 +11,10 @@ class Slides {
     }
 
     get() {
-      return this.slides[this.main][this.sub]
+      return {
+          slide : this.slides[this.main].content[this.sub],
+          heading : this.slides[this.main].heading
+        }
     }
 
     set(main, sub) {
@@ -24,6 +27,24 @@ class Slides {
 
         if(this.sub==-1){
             this.sub=this.slides[this.main].content.length-1
+        }
+
+        if(!this.slides[main]){
+            for(var i=VERSE; i<=PURPORT; i++){
+                if(this.slides[i]){
+                    this.main = i
+                    break
+                }
+            }
+        }
+
+        if(!this.slides[this.main].content[sub]){
+            if(this.slides[this.main].content){
+                this.sub = this.slides[this.main].content.length-1
+            }else{
+                this.main=0
+                this.sub=0
+            }
         }
     }
 

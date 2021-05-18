@@ -9,6 +9,6 @@ function loadText(id,main,sub){
     s.setAttribute("src","./books/"+ id + ".js")
     s.setAttribute("type","text/javascript")
     document.head.appendChild(s)
-    s.addEventListener('load',ui.render.bind(null, main, sub));
+    s.addEventListener('load',ui.render.bind(ui, main, sub));
     localStorage.id=id
 }

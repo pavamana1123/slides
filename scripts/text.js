@@ -44,9 +44,9 @@ class Text {
 
     getVerseHeading(){
         var id = this.text.info.id
-        id = id.replace("sb/","Śrīmad-Bhāgavatam ")
-        id = id.replace("bg/","Bhagavad-gītā ")
-        id = id.replace("cc/","Sri Caitanya-caritamrta ")
+        id = id.replace("sb/","Çrémad-Bhägavatam ")
+        id = id.replace("bg/","Bhagavad-Gétä ")
+        id = id.replace("cc/","Çré Caitanya-caritämåta ")
         id = id.replaceAll("/", ".")
         return id
     }
